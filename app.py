@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 from pathlib import Path
 
 # ---------------------------------------------------------
@@ -28,49 +29,68 @@ def load_data():
 df = load_data()
 
 # ---------------------------------------------------------
-# Sidebar: Rich Filters to Explore & Get Ideas
+# Sidebar: Filter Controls
 # ---------------------------------------------------------
-st.sidebar.header("🎯 Filters & Controls")
-st.sidebar.caption("Change filters to discover new ideas & patterns")
+st.sidebar.header("🎯 Filter Controls")
+
+# Reset Button
+if st.sidebar.button("🔄 Reset All Filters", use_container_width=True):
+    for key in ["f_years", "f_continent", "f_period", "f_season"]:
+        if key in st.session_state:
+            del st.session_state[key]
+    st.rerun()
 
 # 1. Year Range Filter
 all_years = sorted(df["Year"].unique().tolist())
 selected_years = st.sidebar.slider(
-    "1. Select Year Range",
+    "1. Year Range",
     min_value=min(all_years),
     max_value=max(all_years),
-    value=(min(all_years), max(all_years))
+    value=(min(all_years), max(all_years)),
+    key="f_years"
 )
 
-# 2. Continent Filter
+# 2. Continent / Region Filter
 continents = ["All Continents"] + sorted([c for c in df["Continent"].dropna().unique().tolist() if c not in ["Other", "Antarctica"]])
-selected_continent = st.sidebar.selectbox("2. Select Continent / Region", continents)
+selected_continent = st.sidebar.selectbox(
+    "2. Continent / Region",
+    continents,
+    key="f_continent"
+)
 
-# 3. Macroeconomic Period Filter
+# 3. Economic Phase Filter
 periods = ["All Periods", "Pre-Crisis (2018-2019)", "Crisis (2020-2021)", "Post-Crisis (2022-2025)"]
-selected_period = st.sidebar.selectbox("3. Select Economic Phase", periods)
+selected_period = st.sidebar.selectbox(
+    "3. Economic Phase",
+    periods,
+    key="f_period"
+)
 
-# 4. Season Filter
+# 4. Tourism Season Filter
 seasons = ["All Seasons", "Peak Season (Nov–Apr & Jul–Aug)", "Off-Peak Season (May–Jun & Sep–Oct)"]
-selected_season = st.sidebar.selectbox("4. Select Tourism Season", seasons)
+selected_season = st.sidebar.selectbox(
+    "4. Tourism Season",
+    seasons,
+    key="f_season"
+)
 
 # ---------------------------------------------------------
 # Apply Filters
 # ---------------------------------------------------------
 filtered = df.copy()
 
-# Year filter
+# 1. Year Filter
 filtered = filtered[(filtered["Year"] >= selected_years[0]) & (filtered["Year"] <= selected_years[1])]
 
-# Continent filter
+# 2. Continent Filter
 if selected_continent != "All Continents":
     filtered = filtered[filtered["Continent"] == selected_continent]
 
-# Period filter
+# 3. Economic Phase Filter
 if selected_period != "All Periods":
     filtered = filtered[filtered["Period"] == selected_period]
 
-# Season filter
+# 4. Season Filter
 if selected_season == "Peak Season (Nov–Apr & Jul–Aug)":
     filtered = filtered[filtered["Season"] == "Peak"]
 elif selected_season == "Off-Peak Season (May–Jun & Sep–Oct)":
@@ -78,95 +98,109 @@ elif selected_season == "Off-Peak Season (May–Jun & Sep–Oct)":
 
 # Fallback if no records match
 if len(filtered) == 0:
-    st.warning("⚠️ No tourist arrivals found for the selected combination of filters. Please adjust your filters.")
+    st.warning("⚠️ No tourist arrivals match this combination of filters. Please adjust your filters or click 'Reset All Filters'.")
     st.stop()
 
 # ---------------------------------------------------------
-# Header & 4 Key Numbers
+# Title & 4 Core Executive Metrics
 # ---------------------------------------------------------
-st.title("🌴 Sri Lanka Tourism Intelligence Dashboard")
+st.title("🌴 Sri Lanka Tourism Analytics")
+st.caption("Official Sri Lanka Tourism Development Authority (SLTDA) Records &bull; 2018–2025")
 
 total_arrivals = filtered["Tourist_Arrivals"].sum()
-yearly_totals = filtered.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
-
-# Peak year in filter
-peak_year_row = yearly_totals.loc[yearly_totals["Tourist_Arrivals"].idxmax()]
-
-# Top country in filter
-top_countries_series = filtered.groupby("Country")["Tourist_Arrivals"].sum()
-top_country_name = top_countries_series.idxmax()
-top_country_val = top_countries_series.max()
+top_country = filtered.groupby("Country")["Tourist_Arrivals"].sum().idxmax()
+top_country_val = filtered.groupby("Country")["Tourist_Arrivals"].sum().max()
 top_country_pct = (top_country_val / max(1, total_arrivals)) * 100
+peak_month = filtered.groupby("Month")["Tourist_Arrivals"].sum().idxmax()
 
-# Peak month in filter
-monthly_totals = filtered.groupby("Month")["Tourist_Arrivals"].sum()
-peak_month_name = monthly_totals.idxmax()
-
-# 4 KPI Cards
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Tourist Arrivals", f"{total_arrivals/1e6:.2f}M" if total_arrivals >= 1e6 else f"{total_arrivals:,.0f}")
-col2.metric("Highest Year in Filter", f"{int(peak_year_row['Year'])}", f"{peak_year_row['Tourist_Arrivals']:,.0f} arrivals")
-col3.metric("Top Source Market", top_country_name, f"{top_country_pct:.1f}% share")
-col4.metric("Busiest Month", peak_month_name, f"{monthly_totals.max():,.0f} arrivals")
-
-st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
-
-# ---------------------------------------------------------
-# 💡 Dynamic "Instant Idea from Selected Filters" Box
-# ---------------------------------------------------------
-idea_text = []
-
-# Idea based on continent
-if selected_continent == "Europe":
-    idea_text.append("✈️ **European Market Insight:** European tourists heavily concentrate in **December, January, and February** to escape the European winter, with the UK and Germany leading demand.")
-elif selected_continent == "Asia":
-    idea_text.append("✈️ **Asian Market Insight:** Asian travel is heavily driven by **India and China**, showing strong year-round arrivals and an additional peak during the **August Kandy Esala Perahera festival**.")
-elif selected_continent == "America":
-    idea_text.append("✈️ **American Market Insight:** The US and Canada represent high-spending, long-haul travelers with steady arrivals peaking from December through March.")
-
-# Idea based on period
-if selected_period == "Crisis (2020-2021)":
-    idea_text.append("📉 **Crisis Insight:** Arrivals plummeted to just **194k in 2021**. India and Russia were the first markets to restart flights via regional air bubbles.")
-elif selected_period == "Post-Crisis (2022-2025)":
-    idea_text.append("🚀 **Recovery Insight:** Post-crisis growth skyrocketed, surging from **720k in 2022 to an all-time record 2.36 Million in 2025** (+227% expansion).")
-
-# Idea based on season
-if selected_season == "Peak Season (Nov–Apr & Jul–Aug)":
-    idea_text.append("☀️ **Seasonality Insight:** Peak season accounts for the vast majority of hospitality foreign exchange earnings. Hotels should maximize room rates (ADR).")
-elif selected_season == "Off-Peak Season (May–Jun & Sep–Oct)":
-    idea_text.append("🌧️ **Off-Peak Insight:** May and June are the quietest monsoon months. Resorts offer domestic staycation rates and MICE (conventions) to sustain revenue.")
-
-# Default general idea if no specific filter
-if len(idea_text) == 0:
-    idea_text.append(f"💡 **Key Market Idea:** In this view, **{top_country_name}** is the #1 source market generating **{top_country_pct:.1f}%** of total arrivals. The single busiest month is **{peak_month_name}**.")
-
-# Display Key Idea box
-st.info("\n\n".join(idea_text))
+col2.metric("Top Source Country", top_country, f"{top_country_pct:.1f}% share")
+col3.metric("Busiest Month", peak_month)
+col4.metric("Active Countries", f"{filtered['Country'].nunique()}")
 
 st.markdown("---")
 
 # ---------------------------------------------------------
-# Visualizations: 3 Clear, Direct Charts
+# Row 1: Macro Trend & Recovery Dynamics (2 Columns)
 # ---------------------------------------------------------
-c_left, c_right = st.columns([6, 4])
+st.markdown("### 📈 1. Macro Trend & Growth Dynamics")
+col_trend, col_yoy = st.columns(2)
 
-with c_left:
-    st.subheader("1. Annual Trend (Filtered View)")
-    fig_annual = px.area(
+yearly_totals = filtered.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
+
+with col_trend:
+    st.subheader("Annual Tourist Arrivals")
+    fig_annual = px.line(
         yearly_totals,
         x="Year",
         y="Tourist_Arrivals",
         markers=True,
-        labels={"Tourist_Arrivals": "Tourist Arrivals", "Year": "Year"},
-        color_discrete_sequence=["#0284c7"]
+        labels={"Tourist_Arrivals": "Arrivals", "Year": "Year"}
     )
-    fig_annual.update_layout(yaxis_tickformat=",.0f", hovermode="x unified", margin=dict(l=10, r=10, t=10, b=10))
+    fig_annual.update_traces(
+        line_color="#0284c7",
+        line_width=3,
+        marker=dict(size=8, color="#0369a1")
+    )
+    fig_annual.update_layout(
+        yaxis_tickformat=",.0f",
+        hovermode="x unified",
+        margin=dict(l=10, r=10, t=10, b=10)
+    )
     st.plotly_chart(fig_annual, use_container_width=True)
 
-with c_right:
-    st.subheader("2. Top Source Countries")
-    top_n = min(8, filtered["Country"].nunique())
-    top_chart_data = (
+with col_yoy:
+    if len(yearly_totals) > 1:
+        st.subheader("Year-over-Year (YoY) Growth Rate (%)")
+        yearly_totals["YoY_Growth"] = yearly_totals["Tourist_Arrivals"].pct_change() * 100
+        yoy_data = yearly_totals.dropna(subset=["YoY_Growth"]).copy()
+        yoy_data["Color"] = yoy_data["YoY_Growth"].apply(lambda x: "#10b981" if x >= 0 else "#ef4444")
+        
+        fig_yoy = go.Figure(go.Bar(
+            x=yoy_data["Year"],
+            y=yoy_data["YoY_Growth"],
+            marker_color=yoy_data["Color"],
+            text=yoy_data["YoY_Growth"].apply(lambda x: f"{x:+.1f}%"),
+            textposition="outside"
+        ))
+        fig_yoy.update_layout(
+            yaxis_ticksuffix="%",
+            hovermode="x unified",
+            margin=dict(l=10, r=10, t=25, b=10)
+        )
+        st.plotly_chart(fig_yoy, use_container_width=True)
+    else:
+        st.subheader(f"Quarterly Performance ({selected_years[0]})")
+        q_order = ["Q1", "Q2", "Q3", "Q4"]
+        q_totals = filtered.groupby("Quarter")["Tourist_Arrivals"].sum().reindex(q_order).fillna(0).reset_index()
+        fig_quarter = px.bar(
+            q_totals,
+            x="Quarter",
+            y="Tourist_Arrivals",
+            text=q_totals["Tourist_Arrivals"].apply(lambda x: f"{x:,.0f}"),
+            color_discrete_sequence=["#0284c7"],
+            labels={"Tourist_Arrivals": "Arrivals", "Quarter": "Quarter"}
+        )
+        fig_quarter.update_traces(textposition="outside")
+        fig_quarter.update_layout(
+            yaxis_tickformat=",.0f",
+            margin=dict(l=10, r=10, t=25, b=10)
+        )
+        st.plotly_chart(fig_quarter, use_container_width=True)
+
+st.markdown("---")
+
+# ---------------------------------------------------------
+# Row 2: Geographic & Market Structure (2 Columns)
+# ---------------------------------------------------------
+st.markdown("### 🌍 2. Geographic & Market Structure")
+col_markets, col_share = st.columns([6, 4])
+
+with col_markets:
+    top_n = min(10, filtered["Country"].nunique())
+    st.subheader(f"Top {top_n} Source Countries")
+    top10 = (
         filtered.groupby("Country")["Tourist_Arrivals"]
         .sum()
         .sort_values(ascending=False)
@@ -174,7 +208,7 @@ with c_right:
         .reset_index()
     )
     fig_top = px.bar(
-        top_chart_data,
+        top10,
         x="Tourist_Arrivals",
         y="Country",
         orientation="h",
@@ -185,44 +219,105 @@ with c_right:
     fig_top.update_layout(
         yaxis=dict(autorange="reversed"),
         xaxis_tickformat=",.0f",
-        margin=dict(l=10, r=10, t=10, b=10)
+        margin=dict(l=10, r=10, t=10, b=10),
+        showlegend=False
     )
     st.plotly_chart(fig_top, use_container_width=True)
 
+with col_share:
+    if selected_continent == "All Continents":
+        st.subheader("Market Share by Continent")
+        cont_data = (
+            filtered.groupby("Continent")["Tourist_Arrivals"]
+            .sum()
+            .reset_index()
+            .sort_values("Tourist_Arrivals", ascending=False)
+        )
+        fig_share = px.pie(
+            cont_data,
+            names="Continent",
+            values="Tourist_Arrivals",
+            hole=0.55,
+            color_discrete_sequence=px.colors.qualitative.Safe
+        )
+    else:
+        st.subheader(f"Top Markets in {selected_continent}")
+        top_cont_countries = (
+            filtered.groupby("Country")["Tourist_Arrivals"]
+            .sum()
+            .sort_values(ascending=False)
+            .head(5)
+            .reset_index()
+        )
+        fig_share = px.pie(
+            top_cont_countries,
+            names="Country",
+            values="Tourist_Arrivals",
+            hole=0.55,
+            color_discrete_sequence=px.colors.qualitative.Pastel
+        )
+    fig_share.update_traces(textposition="inside", textinfo="percent+label")
+    fig_share.update_layout(
+        margin=dict(l=10, r=10, t=10, b=10),
+        showlegend=False
+    )
+    st.plotly_chart(fig_share, use_container_width=True)
+
 st.markdown("---")
 
-# Row 2: Monthly Seasonality Curve
-st.subheader("3. Monthly Seasonality (When Do They Visit?)")
+# ---------------------------------------------------------
+# Row 3: Seasonal Demand Dynamics (Full Width)
+# ---------------------------------------------------------
+st.markdown("### 🗓️ 3. Seasonal Demand Dynamics")
+st.subheader("Monthly Seasonality (Peak vs. Off-Peak Cycle)")
+
 month_order = [
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"
 ]
-monthly_chart_data = (
-    filtered.groupby(["Month_Number", "Month"])["Tourist_Arrivals"]
+monthly_data = (
+    filtered.groupby(["Month_Number", "Month", "Season"])["Tourist_Arrivals"]
     .sum()
     .reset_index()
     .sort_values("Month_Number")
 )
-
 fig_monthly = px.bar(
-    monthly_chart_data,
+    monthly_data,
     x="Month",
     y="Tourist_Arrivals",
-    text=monthly_chart_data["Tourist_Arrivals"].apply(lambda x: f"{x/1e3:,.0f}k" if x >= 1000 else f"{x:.0f}"),
-    color="Tourist_Arrivals",
-    color_continuous_scale="Teal",
-    labels={"Tourist_Arrivals": "Total Arrivals", "Month": "Month"}
+    color="Season",
+    color_discrete_map={"Peak": "#0284c7", "Off-Peak": "#94a3b8"},
+    text=monthly_data["Tourist_Arrivals"].apply(lambda x: f"{x/1e3:,.0f}k" if x >= 1000 else f"{x:.0f}"),
+    labels={"Tourist_Arrivals": "Arrivals", "Month": "Month", "Season": "Season"}
 )
 fig_monthly.update_traces(textposition="outside")
 fig_monthly.update_layout(
     xaxis=dict(categoryorder="array", categoryarray=month_order),
     yaxis_tickformat=",.0f",
-    margin=dict(l=10, r=10, t=10, b=10)
+    margin=dict(l=10, r=10, t=10, b=10),
+    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
 )
 st.plotly_chart(fig_monthly, use_container_width=True)
 
 # ---------------------------------------------------------
-# Footer
+# Optional Clean Data Inspection & Export
+# ---------------------------------------------------------
+with st.expander("📋 View Filtered Data Table & Export", expanded=False):
+    st.dataframe(
+        filtered[["Year", "Month", "Country", "Continent", "Quarter", "Season", "Period", "Tourist_Arrivals"]],
+        use_container_width=True,
+        hide_index=True
+    )
+    csv_data = filtered.to_csv(index=False).encode("utf-8")
+    st.download_button(
+        label="📥 Download Filtered Data as CSV",
+        data=csv_data,
+        file_name="sri_lanka_tourism_filtered.csv",
+        mime="text/csv"
+    )
+
+# ---------------------------------------------------------
+# Clean Footer
 # ---------------------------------------------------------
 st.markdown("---")
-st.caption(f"Showing **{filtered['Country'].nunique()} countries** across **{filtered['Date'].nunique()} months** &bull; Data Source: Official SLTDA Records &bull; Sri Lanka Tourism Analytics")
+st.caption(f"Showing **{filtered['Country'].nunique()} countries** across **{filtered['Date'].nunique()} monthly data points** &bull; Official SLTDA Records (2018–2025)")
