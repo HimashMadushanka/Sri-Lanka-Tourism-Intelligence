@@ -1,0 +1,6877 @@
+Country,Month,Tourist_Arrivals
+A,April,0.0
+A,August,0.0
+A,December,0.0
+A,February,0.0
+A,January,0.0
+A,July,0.0
+A,June,0.0
+A,March,0.0
+A,May,0.0
+A,November,0.0
+A,October,0.0
+A,September,0.0
+AFGHANISTAN,April,39.0
+AFGHANISTAN,August,55.0
+AFGHANISTAN,December,43.0
+AFGHANISTAN,February,111.0
+AFGHANISTAN,January,114.0
+AFGHANISTAN,July,47.0
+AFGHANISTAN,June,13.0
+AFGHANISTAN,March,77.0
+AFGHANISTAN,May,3.0
+AFGHANISTAN,November,56.0
+AFGHANISTAN,October,22.0
+AFGHANISTAN,September,54.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",April,40.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",August,78.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",December,72.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",February,150.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",January,83.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",July,47.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",June,44.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",March,112.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",May,108.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",November,52.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",October,41.0
+"AFGHANISTAN, ISLAMIC REPUBLIC OF",September,34.0
+ALBANIA,April,43.0
+ALBANIA,August,15.0
+ALBANIA,December,30.0
+ALBANIA,February,71.0
+ALBANIA,January,81.0
+ALBANIA,July,17.0
+ALBANIA,June,31.0
+ALBANIA,March,80.0
+ALBANIA,May,40.0
+ALBANIA,November,27.0
+ALBANIA,October,23.0
+ALBANIA,September,11.0
+"ALBANIA, REPUBLIC OF",April,16.0
+"ALBANIA, REPUBLIC OF",August,19.0
+"ALBANIA, REPUBLIC OF",December,31.0
+"ALBANIA, REPUBLIC OF",February,15.0
+"ALBANIA, REPUBLIC OF",January,14.0
+"ALBANIA, REPUBLIC OF",July,11.0
+"ALBANIA, REPUBLIC OF",June,15.0
+"ALBANIA, REPUBLIC OF",March,5.0
+"ALBANIA, REPUBLIC OF",May,12.0
+"ALBANIA, REPUBLIC OF",November,12.0
+"ALBANIA, REPUBLIC OF",October,13.0
+"ALBANIA, REPUBLIC OF",September,14.0
+ALGERIA,April,32.0
+ALGERIA,August,17.0
+ALGERIA,December,70.0
+ALGERIA,February,73.0
+ALGERIA,January,68.0
+ALGERIA,July,3.0
+ALGERIA,June,8.0
+ALGERIA,March,44.0
+ALGERIA,May,3.0
+ALGERIA,November,21.0
+ALGERIA,October,16.0
+ALGERIA,September,30.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",April,24.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",August,71.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",December,43.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",February,35.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",January,38.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",July,24.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",June,19.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",March,28.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",May,12.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",November,27.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",October,20.0
+"ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF",September,27.0
+ANDORRA,April,9.0
+ANDORRA,August,7.0
+ANDORRA,December,6.0
+ANDORRA,February,4.0
+ANDORRA,January,4.0
+ANDORRA,July,7.0
+ANDORRA,June,0.0
+ANDORRA,March,6.0
+ANDORRA,May,4.0
+ANDORRA,November,5.0
+ANDORRA,October,7.0
+ANDORRA,September,2.0
+"ANDORRA, PRINCIPALITY OF",April,3.0
+"ANDORRA, PRINCIPALITY OF",August,16.0
+"ANDORRA, PRINCIPALITY OF",December,4.0
+"ANDORRA, PRINCIPALITY OF",February,6.0
+"ANDORRA, PRINCIPALITY OF",January,4.0
+"ANDORRA, PRINCIPALITY OF",July,5.0
+"ANDORRA, PRINCIPALITY OF",June,0.0
+"ANDORRA, PRINCIPALITY OF",March,2.0
+"ANDORRA, PRINCIPALITY OF",May,6.0
+"ANDORRA, PRINCIPALITY OF",November,1.0
+"ANDORRA, PRINCIPALITY OF",October,3.0
+"ANDORRA, PRINCIPALITY OF",September,3.0
+ANGOLA,April,0.0
+ANGOLA,August,0.0
+ANGOLA,December,1.0
+ANGOLA,February,3.0
+ANGOLA,January,5.0
+ANGOLA,July,0.0
+ANGOLA,June,0.0
+ANGOLA,March,1.0
+ANGOLA,May,0.0
+ANGOLA,November,3.0
+ANGOLA,October,6.0
+ANGOLA,September,3.0
+"ANGOLA, REPUBLIC OF",April,1.0
+"ANGOLA, REPUBLIC OF",August,0.0
+"ANGOLA, REPUBLIC OF",December,1.0
+"ANGOLA, REPUBLIC OF",February,1.0
+"ANGOLA, REPUBLIC OF",January,0.0
+"ANGOLA, REPUBLIC OF",July,0.0
+"ANGOLA, REPUBLIC OF",June,0.0
+"ANGOLA, REPUBLIC OF",March,2.0
+"ANGOLA, REPUBLIC OF",May,0.0
+"ANGOLA, REPUBLIC OF",November,1.0
+"ANGOLA, REPUBLIC OF",October,1.0
+"ANGOLA, REPUBLIC OF",September,2.0
+ANTIGUA & BARBUDA,April,2.0
+ANTIGUA & BARBUDA,August,1.0
+ANTIGUA & BARBUDA,December,3.0
+ANTIGUA & BARBUDA,February,5.0
+ANTIGUA & BARBUDA,January,1.0
+ANTIGUA & BARBUDA,July,2.0
+ANTIGUA & BARBUDA,June,1.0
+ANTIGUA & BARBUDA,March,2.0
+ANTIGUA & BARBUDA,May,1.0
+ANTIGUA & BARBUDA,November,0.0
+ANTIGUA & BARBUDA,October,1.0
+ANTIGUA & BARBUDA,September,1.0
+ANTIGUA AND BARBUDA,April,2.0
+ANTIGUA AND BARBUDA,August,2.0
+ANTIGUA AND BARBUDA,December,1.0
+ANTIGUA AND BARBUDA,February,9.0
+ANTIGUA AND BARBUDA,January,5.0
+ANTIGUA AND BARBUDA,July,0.0
+ANTIGUA AND BARBUDA,June,0.0
+ANTIGUA AND BARBUDA,March,11.0
+ANTIGUA AND BARBUDA,May,0.0
+ANTIGUA AND BARBUDA,November,7.0
+ANTIGUA AND BARBUDA,October,0.0
+ANTIGUA AND BARBUDA,September,0.0
+ARGENTINA,April,572.0
+ARGENTINA,August,97.0
+ARGENTINA,December,321.0
+ARGENTINA,February,552.0
+ARGENTINA,January,652.0
+ARGENTINA,July,119.0
+ARGENTINA,June,83.0
+ARGENTINA,March,513.0
+ARGENTINA,May,165.0
+ARGENTINA,November,323.0
+ARGENTINA,October,142.0
+ARGENTINA,September,139.0
+ARMENIA,April,70.0
+ARMENIA,August,85.0
+ARMENIA,December,235.0
+ARMENIA,February,175.0
+ARMENIA,January,314.0
+ARMENIA,July,41.0
+ARMENIA,June,16.0
+ARMENIA,March,126.0
+ARMENIA,May,13.0
+ARMENIA,November,84.0
+ARMENIA,October,96.0
+ARMENIA,September,110.0
+"ARMENIA, REPUBLIC OF",April,66.0
+"ARMENIA, REPUBLIC OF",August,102.0
+"ARMENIA, REPUBLIC OF",December,165.0
+"ARMENIA, REPUBLIC OF",February,87.0
+"ARMENIA, REPUBLIC OF",January,180.0
+"ARMENIA, REPUBLIC OF",July,105.0
+"ARMENIA, REPUBLIC OF",June,87.0
+"ARMENIA, REPUBLIC OF",March,75.0
+"ARMENIA, REPUBLIC OF",May,53.0
+"ARMENIA, REPUBLIC OF",November,79.0
+"ARMENIA, REPUBLIC OF",October,88.0
+"ARMENIA, REPUBLIC OF",September,123.0
+AUSTRALIA,April,23648.0
+AUSTRALIA,August,14250.0
+AUSTRALIA,December,32557.0
+AUSTRALIA,February,24105.0
+AUSTRALIA,January,27938.0
+AUSTRALIA,July,14435.0
+AUSTRALIA,June,14420.0
+AUSTRALIA,March,22992.0
+AUSTRALIA,May,7392.0
+AUSTRALIA,November,18306.0
+AUSTRALIA,October,12595.0
+AUSTRALIA,September,15668.0
+AUSTRIA,April,2791.0
+AUSTRIA,August,1938.0
+AUSTRIA,December,4665.0
+AUSTRIA,February,7908.0
+AUSTRIA,January,6800.0
+AUSTRIA,July,2537.0
+AUSTRIA,June,802.0
+AUSTRIA,March,5145.0
+AUSTRIA,May,790.0
+AUSTRIA,November,3308.0
+AUSTRIA,October,1730.0
+AUSTRIA,September,1421.0
+AZERBAIJAN,April,19.0
+AZERBAIJAN,August,24.0
+AZERBAIJAN,December,134.0
+AZERBAIJAN,February,116.0
+AZERBAIJAN,January,109.0
+AZERBAIJAN,July,39.0
+AZERBAIJAN,June,9.0
+AZERBAIJAN,March,172.0
+AZERBAIJAN,May,15.0
+AZERBAIJAN,November,51.0
+AZERBAIJAN,October,15.0
+AZERBAIJAN,September,21.0
+"AZERBAIJAN, REPUBLIC OF",April,19.0
+"AZERBAIJAN, REPUBLIC OF",August,30.0
+"AZERBAIJAN, REPUBLIC OF",December,108.0
+"AZERBAIJAN, REPUBLIC OF",February,30.0
+"AZERBAIJAN, REPUBLIC OF",January,78.0
+"AZERBAIJAN, REPUBLIC OF",July,30.0
+"AZERBAIJAN, REPUBLIC OF",June,13.0
+"AZERBAIJAN, REPUBLIC OF",March,109.0
+"AZERBAIJAN, REPUBLIC OF",May,16.0
+"AZERBAIJAN, REPUBLIC OF",November,19.0
+"AZERBAIJAN, REPUBLIC OF",October,36.0
+"AZERBAIJAN, REPUBLIC OF",September,24.0
+Afghanistan,April,22.0
+Afghanistan,August,62.0
+Afghanistan,December,95.0
+Afghanistan,February,40.0
+Afghanistan,January,41.0
+Afghanistan,July,48.0
+Afghanistan,June,10.0
+Afghanistan,March,37.0
+Afghanistan,May,55.0
+Afghanistan,November,40.0
+Afghanistan,October,16.0
+Afghanistan,September,31.0
+Albania,April,36.0
+Albania,August,54.0
+Albania,December,49.0
+Albania,February,54.0
+Albania,January,51.0
+Albania,July,35.0
+Albania,June,27.0
+Albania,March,37.0
+Albania,May,38.0
+Albania,November,32.0
+Albania,October,25.0
+Albania,September,25.0
+Algeria,April,99.0
+Algeria,August,148.0
+Algeria,December,269.0
+Algeria,February,121.0
+Algeria,January,71.0
+Algeria,July,116.0
+Algeria,June,119.0
+Algeria,March,75.0
+Algeria,May,96.0
+Algeria,November,114.0
+Algeria,October,95.0
+Algeria,September,138.0
+Andorra,April,37.0
+Andorra,August,75.0
+Andorra,December,28.0
+Andorra,February,15.0
+Andorra,January,17.0
+Andorra,July,46.0
+Andorra,June,18.0
+Andorra,March,20.0
+Andorra,May,17.0
+Andorra,November,10.0
+Andorra,October,21.0
+Andorra,September,31.0
+Angola,April,6.0
+Angola,August,6.0
+Angola,December,7.0
+Angola,February,5.0
+Angola,January,10.0
+Angola,July,6.0
+Angola,June,0.0
+Angola,March,7.0
+Angola,May,5.0
+Angola,November,6.0
+Angola,October,2.0
+Angola,September,4.0
+Antarctica,April,0.0
+Antarctica,August,0.0
+Antarctica,December,1.0
+Antarctica,February,0.0
+Antarctica,January,0.0
+Antarctica,July,0.0
+Antarctica,June,0.0
+Antarctica,March,0.0
+Antarctica,May,0.0
+Antarctica,November,0.0
+Antarctica,October,0.0
+Antarctica,September,0.0
+Antigua & Barbuda,April,1.0
+Antigua & Barbuda,August,2.0
+Antigua & Barbuda,December,1.0
+Antigua & Barbuda,February,0.0
+Antigua & Barbuda,January,2.0
+Antigua & Barbuda,July,1.0
+Antigua & Barbuda,June,1.0
+Antigua & Barbuda,March,3.0
+Antigua & Barbuda,May,2.0
+Antigua & Barbuda,November,2.0
+Antigua & Barbuda,October,1.0
+Antigua & Barbuda,September,0.0
+Antigua and Barbuda,April,9.0
+Antigua and Barbuda,August,8.0
+Antigua and Barbuda,December,17.0
+Antigua and Barbuda,February,10.0
+Antigua and Barbuda,January,10.0
+Antigua and Barbuda,July,11.0
+Antigua and Barbuda,June,1.0
+Antigua and Barbuda,March,7.0
+Antigua and Barbuda,May,5.0
+Antigua and Barbuda,November,7.0
+Antigua and Barbuda,October,11.0
+Antigua and Barbuda,September,5.0
+Argentina,April,262.0
+Argentina,August,153.0
+Argentina,December,323.0
+Argentina,February,226.0
+Argentina,January,410.0
+Argentina,July,137.0
+Argentina,June,151.0
+Argentina,March,353.0
+Argentina,May,184.0
+Argentina,November,272.0
+Argentina,October,227.0
+Argentina,September,174.0
+Armenia,April,466.0
+Armenia,August,418.0
+Armenia,December,1598.0
+Armenia,February,693.0
+Armenia,January,1085.0
+Armenia,July,437.0
+Armenia,June,241.0
+Armenia,March,748.0
+Armenia,May,234.0
+Armenia,November,959.0
+Armenia,October,1105.0
+Armenia,September,383.0
+Aruba,April,0.0
+Aruba,August,0.0
+Aruba,December,1.0
+Aruba,February,0.0
+Aruba,January,0.0
+Aruba,July,0.0
+Aruba,June,0.0
+Aruba,March,0.0
+Aruba,May,1.0
+Aruba,November,0.0
+Aruba,October,0.0
+Aruba,September,0.0
+Australia,April,26450.0
+Australia,August,21940.0
+Australia,December,43934.0
+Australia,February,19844.0
+Australia,January,22690.0
+Australia,July,23785.0
+Australia,June,22322.0
+Australia,March,24948.0
+Australia,May,17255.0
+Australia,November,28160.0
+Australia,October,21509.0
+Australia,September,24583.0
+Austria,April,3403.0
+Austria,August,3647.0
+Austria,December,7523.0
+Austria,February,7000.0
+Austria,January,6621.0
+Austria,July,4846.0
+Austria,June,1279.0
+Austria,March,5189.0
+Austria,May,1656.0
+Austria,November,5107.0
+Austria,October,2812.0
+Austria,September,2343.0
+Azerbaijan,April,314.0
+Azerbaijan,August,423.0
+Azerbaijan,December,544.0
+Azerbaijan,February,382.0
+Azerbaijan,January,492.0
+Azerbaijan,July,443.0
+Azerbaijan,June,241.0
+Azerbaijan,March,1445.0
+Azerbaijan,May,168.0
+Azerbaijan,November,888.0
+Azerbaijan,October,286.0
+Azerbaijan,September,242.0
+B,April,0.0
+B,August,0.0
+B,December,0.0
+B,February,0.0
+B,January,0.0
+B,July,0.0
+B,June,0.0
+B,March,0.0
+B,May,0.0
+B,November,0.0
+B,October,0.0
+B,September,0.0
+BAHAMAS,April,4.0
+BAHAMAS,August,0.0
+BAHAMAS,December,2.0
+BAHAMAS,February,6.0
+BAHAMAS,January,2.0
+BAHAMAS,July,0.0
+BAHAMAS,June,0.0
+BAHAMAS,March,3.0
+BAHAMAS,May,0.0
+BAHAMAS,November,2.0
+BAHAMAS,October,2.0
+BAHAMAS,September,2.0
+"BAHAMAS, COMMONWEALTH OF THE",April,24.0
+"BAHAMAS, COMMONWEALTH OF THE",August,5.0
+"BAHAMAS, COMMONWEALTH OF THE",December,0.0
+"BAHAMAS, COMMONWEALTH OF THE",February,4.0
+"BAHAMAS, COMMONWEALTH OF THE",January,1.0
+"BAHAMAS, COMMONWEALTH OF THE",July,0.0
+"BAHAMAS, COMMONWEALTH OF THE",June,1.0
+"BAHAMAS, COMMONWEALTH OF THE",March,4.0
+"BAHAMAS, COMMONWEALTH OF THE",May,6.0
+"BAHAMAS, COMMONWEALTH OF THE",November,0.0
+"BAHAMAS, COMMONWEALTH OF THE",October,0.0
+"BAHAMAS, COMMONWEALTH OF THE",September,3.0
+BAHRAIN,April,143.0
+BAHRAIN,August,323.0
+BAHRAIN,December,338.0
+BAHRAIN,February,293.0
+BAHRAIN,January,798.0
+BAHRAIN,July,286.0
+BAHRAIN,June,121.0
+BAHRAIN,March,172.0
+BAHRAIN,May,30.0
+BAHRAIN,November,204.0
+BAHRAIN,October,114.0
+BAHRAIN,September,140.0
+"BAHRAIN, KINGDOM OF",April,151.0
+"BAHRAIN, KINGDOM OF",August,432.0
+"BAHRAIN, KINGDOM OF",December,308.0
+"BAHRAIN, KINGDOM OF",February,147.0
+"BAHRAIN, KINGDOM OF",January,588.0
+"BAHRAIN, KINGDOM OF",July,392.0
+"BAHRAIN, KINGDOM OF",June,245.0
+"BAHRAIN, KINGDOM OF",March,195.0
+"BAHRAIN, KINGDOM OF",May,108.0
+"BAHRAIN, KINGDOM OF",November,103.0
+"BAHRAIN, KINGDOM OF",October,90.0
+"BAHRAIN, KINGDOM OF",September,99.0
+BANGLADESH,April,598.0
+BANGLADESH,August,823.0
+BANGLADESH,December,1573.0
+BANGLADESH,February,1497.0
+BANGLADESH,January,1960.0
+BANGLADESH,July,662.0
+BANGLADESH,June,511.0
+BANGLADESH,March,1063.0
+BANGLADESH,May,192.0
+BANGLADESH,November,998.0
+BANGLADESH,October,938.0
+BANGLADESH,September,928.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",April,672.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",August,1060.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",December,1019.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",February,741.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",January,982.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",July,857.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",June,1030.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",March,996.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",May,729.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",November,736.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",October,894.0
+"BANGLADESH, PEOPLE'S REPUBLIC OF",September,771.0
+BARBADOS,April,3.0
+BARBADOS,August,1.0
+BARBADOS,December,1.0
+BARBADOS,February,9.0
+BARBADOS,January,10.0
+BARBADOS,July,1.0
+BARBADOS,June,0.0
+BARBADOS,March,7.0
+BARBADOS,May,4.0
+BARBADOS,November,10.0
+BARBADOS,October,3.0
+BARBADOS,September,3.0
+BELARUS,April,156.0
+BELARUS,August,95.0
+BELARUS,December,1021.0
+BELARUS,February,2075.0
+BELARUS,January,2126.0
+BELARUS,July,46.0
+BELARUS,June,24.0
+BELARUS,March,1375.0
+BELARUS,May,31.0
+BELARUS,November,782.0
+BELARUS,October,261.0
+BELARUS,September,88.0
+"BELARUS, REPUBLIC OF",April,286.0
+"BELARUS, REPUBLIC OF",August,96.0
+"BELARUS, REPUBLIC OF",December,578.0
+"BELARUS, REPUBLIC OF",February,942.0
+"BELARUS, REPUBLIC OF",January,802.0
+"BELARUS, REPUBLIC OF",July,71.0
+"BELARUS, REPUBLIC OF",June,122.0
+"BELARUS, REPUBLIC OF",March,666.0
+"BELARUS, REPUBLIC OF",May,128.0
+"BELARUS, REPUBLIC OF",November,500.0
+"BELARUS, REPUBLIC OF",October,256.0
+"BELARUS, REPUBLIC OF",September,174.0
+BELGIUM,April,2859.0
+BELGIUM,August,3556.0
+BELGIUM,December,3674.0
+BELGIUM,February,4637.0
+BELGIUM,January,3796.0
+BELGIUM,July,6301.0
+BELGIUM,June,1349.0
+BELGIUM,March,3949.0
+BELGIUM,May,648.0
+BELGIUM,November,2296.0
+BELGIUM,October,1529.0
+BELGIUM,September,2527.0
+BELIZE,April,4.0
+BELIZE,August,4.0
+BELIZE,December,4.0
+BELIZE,February,6.0
+BELIZE,January,8.0
+BELIZE,July,3.0
+BELIZE,June,0.0
+BELIZE,March,4.0
+BELIZE,May,0.0
+BELIZE,November,5.0
+BELIZE,October,7.0
+BELIZE,September,1.0
+BENIN,April,1.0
+BENIN,August,1.0
+BENIN,December,4.0
+BENIN,February,2.0
+BENIN,January,1.0
+BENIN,July,2.0
+BENIN,June,1.0
+BENIN,March,1.0
+BENIN,May,0.0
+BENIN,November,3.0
+BENIN,October,2.0
+BENIN,September,3.0
+BHUTAN,April,9.0
+BHUTAN,August,13.0
+BHUTAN,December,36.0
+BHUTAN,February,143.0
+BHUTAN,January,174.0
+BHUTAN,July,23.0
+BHUTAN,June,12.0
+BHUTAN,March,28.0
+BHUTAN,May,12.0
+BHUTAN,November,40.0
+BHUTAN,October,43.0
+BHUTAN,September,23.0
+"BHUTAN, KINGDOM OF",April,42.0
+"BHUTAN, KINGDOM OF",August,48.0
+"BHUTAN, KINGDOM OF",December,136.0
+"BHUTAN, KINGDOM OF",February,72.0
+"BHUTAN, KINGDOM OF",January,110.0
+"BHUTAN, KINGDOM OF",July,49.0
+"BHUTAN, KINGDOM OF",June,41.0
+"BHUTAN, KINGDOM OF",March,37.0
+"BHUTAN, KINGDOM OF",May,30.0
+"BHUTAN, KINGDOM OF",November,47.0
+"BHUTAN, KINGDOM OF",October,29.0
+"BHUTAN, KINGDOM OF",September,38.0
+BOLIVIA,April,12.0
+BOLIVIA,August,11.0
+BOLIVIA,December,13.0
+BOLIVIA,February,10.0
+BOLIVIA,January,22.0
+BOLIVIA,July,6.0
+BOLIVIA,June,8.0
+BOLIVIA,March,26.0
+BOLIVIA,May,2.0
+BOLIVIA,November,22.0
+BOLIVIA,October,6.0
+BOLIVIA,September,9.0
+BOSNIA,April,0.0
+BOSNIA,August,1.0
+BOSNIA,December,9.0
+BOSNIA,February,1.0
+BOSNIA,January,0.0
+BOSNIA,July,0.0
+BOSNIA,June,0.0
+BOSNIA,March,0.0
+BOSNIA,May,0.0
+BOSNIA,November,6.0
+BOSNIA,October,2.0
+BOSNIA,September,0.0
+BOSNIA & HERZEGOVINA,April,18.0
+BOSNIA & HERZEGOVINA,August,9.0
+BOSNIA & HERZEGOVINA,December,43.0
+BOSNIA & HERZEGOVINA,February,45.0
+BOSNIA & HERZEGOVINA,January,20.0
+BOSNIA & HERZEGOVINA,July,15.0
+BOSNIA & HERZEGOVINA,June,16.0
+BOSNIA & HERZEGOVINA,March,25.0
+BOSNIA & HERZEGOVINA,May,8.0
+BOSNIA & HERZEGOVINA,November,30.0
+BOSNIA & HERZEGOVINA,October,19.0
+BOSNIA & HERZEGOVINA,September,13.0
+BOSNIA AND HERZEGOVINA,April,14.0
+BOSNIA AND HERZEGOVINA,August,15.0
+BOSNIA AND HERZEGOVINA,December,34.0
+BOSNIA AND HERZEGOVINA,February,54.0
+BOSNIA AND HERZEGOVINA,January,62.0
+BOSNIA AND HERZEGOVINA,July,5.0
+BOSNIA AND HERZEGOVINA,June,9.0
+BOSNIA AND HERZEGOVINA,March,46.0
+BOSNIA AND HERZEGOVINA,May,8.0
+BOSNIA AND HERZEGOVINA,November,13.0
+BOSNIA AND HERZEGOVINA,October,10.0
+BOSNIA AND HERZEGOVINA,September,14.0
+BOTSWANA,April,3.0
+BOTSWANA,August,2.0
+BOTSWANA,December,9.0
+BOTSWANA,February,6.0
+BOTSWANA,January,18.0
+BOTSWANA,July,2.0
+BOTSWANA,June,2.0
+BOTSWANA,March,4.0
+BOTSWANA,May,2.0
+BOTSWANA,November,3.0
+BOTSWANA,October,2.0
+BOTSWANA,September,0.0
+"BOTSWANA, REPUBLIC OF",April,4.0
+"BOTSWANA, REPUBLIC OF",August,5.0
+"BOTSWANA, REPUBLIC OF",December,13.0
+"BOTSWANA, REPUBLIC OF",February,4.0
+"BOTSWANA, REPUBLIC OF",January,9.0
+"BOTSWANA, REPUBLIC OF",July,4.0
+"BOTSWANA, REPUBLIC OF",June,3.0
+"BOTSWANA, REPUBLIC OF",March,4.0
+"BOTSWANA, REPUBLIC OF",May,0.0
+"BOTSWANA, REPUBLIC OF",November,1.0
+"BOTSWANA, REPUBLIC OF",October,0.0
+"BOTSWANA, REPUBLIC OF",September,1.0
+BRAZIL,April,643.0
+BRAZIL,August,79.0
+BRAZIL,December,696.0
+BRAZIL,February,573.0
+BRAZIL,January,797.0
+BRAZIL,July,122.0
+BRAZIL,June,75.0
+BRAZIL,March,384.0
+BRAZIL,May,48.0
+BRAZIL,November,348.0
+BRAZIL,October,112.0
+BRAZIL,September,121.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",April,786.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",August,98.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",December,269.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",February,156.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",January,226.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",July,117.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",June,116.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",March,357.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",May,124.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",November,298.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",October,125.0
+"BRAZIL, FEDERATIVE REPUBLIC OF",September,102.0
+BRUNEI,April,0.0
+BRUNEI,August,0.0
+BRUNEI,December,0.0
+BRUNEI,February,0.0
+BRUNEI,January,0.0
+BRUNEI,July,0.0
+BRUNEI,June,0.0
+BRUNEI,March,0.0
+BRUNEI,May,0.0
+BRUNEI,November,0.0
+BRUNEI,October,0.0
+BRUNEI,September,0.0
+BRUNEI DARUSSALAM,April,2.0
+BRUNEI DARUSSALAM,August,2.0
+BRUNEI DARUSSALAM,December,1.0
+BRUNEI DARUSSALAM,February,16.0
+BRUNEI DARUSSALAM,January,8.0
+BRUNEI DARUSSALAM,July,0.0
+BRUNEI DARUSSALAM,June,5.0
+BRUNEI DARUSSALAM,March,9.0
+BRUNEI DARUSSALAM,May,0.0
+BRUNEI DARUSSALAM,November,2.0
+BRUNEI DARUSSALAM,October,2.0
+BRUNEI DARUSSALAM,September,5.0
+"BRUNEI, NATION OF",April,6.0
+"BRUNEI, NATION OF",August,10.0
+"BRUNEI, NATION OF",December,11.0
+"BRUNEI, NATION OF",February,3.0
+"BRUNEI, NATION OF",January,4.0
+"BRUNEI, NATION OF",July,13.0
+"BRUNEI, NATION OF",June,5.0
+"BRUNEI, NATION OF",March,17.0
+"BRUNEI, NATION OF",May,6.0
+"BRUNEI, NATION OF",November,5.0
+"BRUNEI, NATION OF",October,7.0
+"BRUNEI, NATION OF",September,4.0
+BULGARIA,April,479.0
+BULGARIA,August,175.0
+BULGARIA,December,1120.0
+BULGARIA,February,1162.0
+BULGARIA,January,923.0
+BULGARIA,July,177.0
+BULGARIA,June,281.0
+BULGARIA,March,808.0
+BULGARIA,May,140.0
+BULGARIA,November,549.0
+BULGARIA,October,261.0
+BULGARIA,September,161.0
+BURKINA,April,0.0
+BURKINA,August,0.0
+BURKINA,December,0.0
+BURKINA,February,0.0
+BURKINA,January,0.0
+BURKINA,July,0.0
+BURKINA,June,0.0
+BURKINA,March,0.0
+BURKINA,May,0.0
+BURKINA,November,0.0
+BURKINA,October,2.0
+BURKINA,September,0.0
+BURKINA FASO,April,4.0
+BURKINA FASO,August,2.0
+BURKINA FASO,December,6.0
+BURKINA FASO,February,3.0
+BURKINA FASO,January,2.0
+BURKINA FASO,July,2.0
+BURKINA FASO,June,0.0
+BURKINA FASO,March,4.0
+BURKINA FASO,May,1.0
+BURKINA FASO,November,0.0
+BURKINA FASO,October,3.0
+BURKINA FASO,September,5.0
+BURUNDI,April,0.0
+BURUNDI,August,1.0
+BURUNDI,December,3.0
+BURUNDI,February,2.0
+BURUNDI,January,2.0
+BURUNDI,July,1.0
+BURUNDI,June,0.0
+BURUNDI,March,0.0
+BURUNDI,May,0.0
+BURUNDI,November,2.0
+BURUNDI,October,11.0
+BURUNDI,September,1.0
+Bahamas,April,4.0
+Bahamas,August,5.0
+Bahamas,December,11.0
+Bahamas,February,6.0
+Bahamas,January,0.0
+Bahamas,July,7.0
+Bahamas,June,7.0
+Bahamas,March,9.0
+Bahamas,May,1.0
+Bahamas,November,5.0
+Bahamas,October,17.0
+Bahamas,September,9.0
+Bahrain,April,270.0
+Bahrain,August,472.0
+Bahrain,December,354.0
+Bahrain,February,214.0
+Bahrain,January,474.0
+Bahrain,July,634.0
+Bahrain,June,640.0
+Bahrain,March,217.0
+Bahrain,May,251.0
+Bahrain,November,292.0
+Bahrain,October,207.0
+Bahrain,September,196.0
+Bangladesh,April,8897.0
+Bangladesh,August,9652.0
+Bangladesh,December,12454.0
+Bangladesh,February,8441.0
+Bangladesh,January,7974.0
+Bangladesh,July,9577.0
+Bangladesh,June,11401.0
+Bangladesh,March,7084.0
+Bangladesh,May,11554.0
+Bangladesh,November,10711.0
+Bangladesh,October,12126.0
+Bangladesh,September,10910.0
+Barbados,April,3.0
+Barbados,August,10.0
+Barbados,December,16.0
+Barbados,February,6.0
+Barbados,January,3.0
+Barbados,July,5.0
+Barbados,June,8.0
+Barbados,March,20.0
+Barbados,May,3.0
+Barbados,November,7.0
+Barbados,October,8.0
+Barbados,September,6.0
+Belarus,April,1944.0
+Belarus,August,923.0
+Belarus,December,5590.0
+Belarus,February,5406.0
+Belarus,January,6332.0
+Belarus,July,828.0
+Belarus,June,736.0
+Belarus,March,4836.0
+Belarus,May,839.0
+Belarus,November,5213.0
+Belarus,October,2190.0
+Belarus,September,1217.0
+Belgium,April,4019.0
+Belgium,August,5603.0
+Belgium,December,4397.0
+Belgium,February,4916.0
+Belgium,January,4193.0
+Belgium,July,11320.0
+Belgium,June,2704.0
+Belgium,March,4657.0
+Belgium,May,1845.0
+Belgium,November,4010.0
+Belgium,October,2664.0
+Belgium,September,4778.0
+Belize,April,6.0
+Belize,August,5.0
+Belize,December,5.0
+Belize,February,2.0
+Belize,January,3.0
+Belize,July,8.0
+Belize,June,3.0
+Belize,March,9.0
+Belize,May,3.0
+Belize,November,2.0
+Belize,October,6.0
+Belize,September,3.0
+Benin,April,6.0
+Benin,August,7.0
+Benin,December,7.0
+Benin,February,0.0
+Benin,January,1.0
+Benin,July,1.0
+Benin,June,2.0
+Benin,March,4.0
+Benin,May,3.0
+Benin,November,5.0
+Benin,October,7.0
+Benin,September,9.0
+Bhutan,April,123.0
+Bhutan,August,185.0
+Bhutan,December,183.0
+Bhutan,February,136.0
+Bhutan,January,289.0
+Bhutan,July,117.0
+Bhutan,June,124.0
+Bhutan,March,120.0
+Bhutan,May,129.0
+Bhutan,November,202.0
+Bhutan,October,136.0
+Bhutan,September,155.0
+Bolivia,April,19.0
+Bolivia,August,12.0
+Bolivia,December,14.0
+Bolivia,February,12.0
+Bolivia,January,14.0
+Bolivia,July,9.0
+Bolivia,June,11.0
+Bolivia,March,13.0
+Bolivia,May,14.0
+Bolivia,November,16.0
+Bolivia,October,18.0
+Bolivia,September,12.0
+Bosnia & Herzegovina,April,11.0
+Bosnia & Herzegovina,August,4.0
+Bosnia & Herzegovina,December,6.0
+Bosnia & Herzegovina,February,27.0
+Bosnia & Herzegovina,January,15.0
+Bosnia & Herzegovina,July,0.0
+Bosnia & Herzegovina,June,1.0
+Bosnia & Herzegovina,March,28.0
+Bosnia & Herzegovina,May,5.0
+Bosnia & Herzegovina,November,5.0
+Bosnia & Herzegovina,October,2.0
+Bosnia & Herzegovina,September,0.0
+Bosnia and Herzegovina,April,101.0
+Bosnia and Herzegovina,August,48.0
+Bosnia and Herzegovina,December,144.0
+Bosnia and Herzegovina,February,119.0
+Bosnia and Herzegovina,January,84.0
+Bosnia and Herzegovina,July,38.0
+Bosnia and Herzegovina,June,33.0
+Bosnia and Herzegovina,March,66.0
+Bosnia and Herzegovina,May,53.0
+Bosnia and Herzegovina,November,54.0
+Bosnia and Herzegovina,October,43.0
+Bosnia and Herzegovina,September,48.0
+Botswana,April,10.0
+Botswana,August,11.0
+Botswana,December,56.0
+Botswana,February,4.0
+Botswana,January,19.0
+Botswana,July,19.0
+Botswana,June,11.0
+Botswana,March,6.0
+Botswana,May,18.0
+Botswana,November,5.0
+Botswana,October,7.0
+Botswana,September,8.0
+Brazil,April,760.0
+Brazil,August,372.0
+Brazil,December,800.0
+Brazil,February,520.0
+Brazil,January,620.0
+Brazil,July,361.0
+Brazil,June,341.0
+Brazil,March,571.0
+Brazil,May,354.0
+Brazil,November,611.0
+Brazil,October,402.0
+Brazil,September,345.0
+Brunei Darussalam,April,12.0
+Brunei Darussalam,August,20.0
+Brunei Darussalam,December,24.0
+Brunei Darussalam,February,18.0
+Brunei Darussalam,January,13.0
+Brunei Darussalam,July,29.0
+Brunei Darussalam,June,19.0
+Brunei Darussalam,March,12.0
+Brunei Darussalam,May,21.0
+Brunei Darussalam,November,12.0
+Brunei Darussalam,October,5.0
+Brunei Darussalam,September,8.0
+Bulgaria,April,897.0
+Bulgaria,August,171.0
+Bulgaria,December,2013.0
+Bulgaria,February,2334.0
+Bulgaria,January,1729.0
+Bulgaria,July,144.0
+Bulgaria,June,106.0
+Bulgaria,March,1885.0
+Bulgaria,May,192.0
+Bulgaria,November,1309.0
+Bulgaria,October,573.0
+Bulgaria,September,211.0
+Burkina Faso,April,2.0
+Burkina Faso,August,1.0
+Burkina Faso,December,1.0
+Burkina Faso,February,2.0
+Burkina Faso,January,3.0
+Burkina Faso,July,2.0
+Burkina Faso,June,2.0
+Burkina Faso,March,1.0
+Burkina Faso,May,8.0
+Burkina Faso,November,1.0
+Burkina Faso,October,4.0
+Burkina Faso,September,4.0
+Burundi,April,0.0
+Burundi,August,3.0
+Burundi,December,2.0
+Burundi,February,2.0
+Burundi,January,2.0
+Burundi,July,1.0
+Burundi,June,2.0
+Burundi,March,1.0
+Burundi,May,1.0
+Burundi,November,4.0
+Burundi,October,2.0
+Burundi,September,8.0
+C,April,0.0
+C,August,0.0
+C,December,0.0
+C,February,0.0
+C,January,0.0
+C,July,0.0
+C,June,0.0
+C,March,0.0
+C,May,0.0
+C,November,0.0
+C,October,0.0
+C,September,0.0
+CAMBODIA,April,20.0
+CAMBODIA,August,22.0
+CAMBODIA,December,73.0
+CAMBODIA,February,897.0
+CAMBODIA,January,274.0
+CAMBODIA,July,41.0
+CAMBODIA,June,27.0
+CAMBODIA,March,1667.0
+CAMBODIA,May,48.0
+CAMBODIA,November,98.0
+CAMBODIA,October,24.0
+CAMBODIA,September,36.0
+"CAMBODIA, KINGDOM OF",April,142.0
+"CAMBODIA, KINGDOM OF",August,35.0
+"CAMBODIA, KINGDOM OF",December,19.0
+"CAMBODIA, KINGDOM OF",February,85.0
+"CAMBODIA, KINGDOM OF",January,85.0
+"CAMBODIA, KINGDOM OF",July,51.0
+"CAMBODIA, KINGDOM OF",June,38.0
+"CAMBODIA, KINGDOM OF",March,103.0
+"CAMBODIA, KINGDOM OF",May,84.0
+"CAMBODIA, KINGDOM OF",November,64.0
+"CAMBODIA, KINGDOM OF",October,28.0
+"CAMBODIA, KINGDOM OF",September,37.0
+CAMEROON,April,2.0
+CAMEROON,August,4.0
+CAMEROON,December,4.0
+CAMEROON,February,3.0
+CAMEROON,January,5.0
+CAMEROON,July,3.0
+CAMEROON,June,5.0
+CAMEROON,March,3.0
+CAMEROON,May,0.0
+CAMEROON,November,4.0
+CAMEROON,October,8.0
+CAMEROON,September,5.0
+CANADA,April,8857.0
+CANADA,August,10086.0
+CANADA,December,12897.0
+CANADA,February,16021.0
+CANADA,January,17049.0
+CANADA,July,10021.0
+CANADA,June,7570.0
+CANADA,March,12688.0
+CANADA,May,4941.0
+CANADA,November,7710.0
+CANADA,October,5479.0
+CANADA,September,5606.0
+CAPE VERDE,April,0.0
+CAPE VERDE,August,1.0
+CAPE VERDE,December,1.0
+CAPE VERDE,February,1.0
+CAPE VERDE,January,2.0
+CAPE VERDE,July,2.0
+CAPE VERDE,June,0.0
+CAPE VERDE,March,1.0
+CAPE VERDE,May,0.0
+CAPE VERDE,November,2.0
+CAPE VERDE,October,2.0
+CAPE VERDE,September,2.0
+CENTRAL AFRICAN,April,0.0
+CENTRAL AFRICAN,August,0.0
+CENTRAL AFRICAN,December,0.0
+CENTRAL AFRICAN,February,0.0
+CENTRAL AFRICAN,January,0.0
+CENTRAL AFRICAN,July,0.0
+CENTRAL AFRICAN,June,0.0
+CENTRAL AFRICAN,March,0.0
+CENTRAL AFRICAN,May,0.0
+CENTRAL AFRICAN,November,0.0
+CENTRAL AFRICAN,October,0.0
+CENTRAL AFRICAN,September,0.0
+CENTRAL AFRICAN REPUBLIC,April,0.0
+CENTRAL AFRICAN REPUBLIC,August,0.0
+CENTRAL AFRICAN REPUBLIC,December,0.0
+CENTRAL AFRICAN REPUBLIC,February,0.0
+CENTRAL AFRICAN REPUBLIC,January,0.0
+CENTRAL AFRICAN REPUBLIC,July,1.0
+CENTRAL AFRICAN REPUBLIC,June,1.0
+CENTRAL AFRICAN REPUBLIC,March,0.0
+CENTRAL AFRICAN REPUBLIC,May,0.0
+CENTRAL AFRICAN REPUBLIC,November,0.0
+CENTRAL AFRICAN REPUBLIC,October,0.0
+CENTRAL AFRICAN REPUBLIC,September,0.0
+CHAD,April,0.0
+CHAD,August,1.0
+CHAD,December,0.0
+CHAD,February,0.0
+CHAD,January,0.0
+CHAD,July,2.0
+CHAD,June,1.0
+CHAD,March,5.0
+CHAD,May,0.0
+CHAD,November,2.0
+CHAD,October,0.0
+CHAD,September,0.0
+CHILE,April,100.0
+CHILE,August,29.0
+CHILE,December,145.0
+CHILE,February,322.0
+CHILE,January,260.0
+CHILE,July,36.0
+CHILE,June,24.0
+CHILE,March,111.0
+CHILE,May,33.0
+CHILE,November,69.0
+CHILE,October,44.0
+CHILE,September,59.0
+"CHILE, REPUBLIC OF",April,147.0
+"CHILE, REPUBLIC OF",August,59.0
+"CHILE, REPUBLIC OF",December,89.0
+"CHILE, REPUBLIC OF",February,104.0
+"CHILE, REPUBLIC OF",January,99.0
+"CHILE, REPUBLIC OF",July,64.0
+"CHILE, REPUBLIC OF",June,43.0
+"CHILE, REPUBLIC OF",March,109.0
+"CHILE, REPUBLIC OF",May,55.0
+"CHILE, REPUBLIC OF",November,119.0
+"CHILE, REPUBLIC OF",October,59.0
+"CHILE, REPUBLIC OF",September,55.0
+CHINA,April,14738.0
+CHINA,August,9681.0
+CHINA,December,16906.0
+CHINA,February,30252.0
+CHINA,January,48804.0
+CHINA,July,7093.0
+CHINA,June,3672.0
+CHINA,March,25670.0
+CHINA,May,1826.0
+CHINA,November,16513.0
+CHINA,October,11865.0
+CHINA,September,9407.0
+"CHINA, PEOPLE'S REPUBLIC OF",April,17462.0
+"CHINA, PEOPLE'S REPUBLIC OF",August,26558.0
+"CHINA, PEOPLE'S REPUBLIC OF",December,18283.0
+"CHINA, PEOPLE'S REPUBLIC OF",February,35929.0
+"CHINA, PEOPLE'S REPUBLIC OF",January,24275.0
+"CHINA, PEOPLE'S REPUBLIC OF",July,27460.0
+"CHINA, PEOPLE'S REPUBLIC OF",June,20424.0
+"CHINA, PEOPLE'S REPUBLIC OF",March,21101.0
+"CHINA, PEOPLE'S REPUBLIC OF",May,17103.0
+"CHINA, PEOPLE'S REPUBLIC OF",November,18888.0
+"CHINA, PEOPLE'S REPUBLIC OF",October,18882.0
+"CHINA, PEOPLE'S REPUBLIC OF",September,19600.0
+COLOMBIA,April,76.0
+COLOMBIA,August,37.0
+COLOMBIA,December,147.0
+COLOMBIA,February,142.0
+COLOMBIA,January,176.0
+COLOMBIA,July,34.0
+COLOMBIA,June,45.0
+COLOMBIA,March,111.0
+COLOMBIA,May,36.0
+COLOMBIA,November,77.0
+COLOMBIA,October,50.0
+COLOMBIA,September,59.0
+"COLOMBIA, REPUBLIC OF",April,88.0
+"COLOMBIA, REPUBLIC OF",August,52.0
+"COLOMBIA, REPUBLIC OF",December,113.0
+"COLOMBIA, REPUBLIC OF",February,59.0
+"COLOMBIA, REPUBLIC OF",January,52.0
+"COLOMBIA, REPUBLIC OF",July,53.0
+"COLOMBIA, REPUBLIC OF",June,32.0
+"COLOMBIA, REPUBLIC OF",March,72.0
+"COLOMBIA, REPUBLIC OF",May,33.0
+"COLOMBIA, REPUBLIC OF",November,53.0
+"COLOMBIA, REPUBLIC OF",October,52.0
+"COLOMBIA, REPUBLIC OF",September,43.0
+COMOROS,April,21.0
+COMOROS,August,49.0
+COMOROS,December,8.0
+COMOROS,February,19.0
+COMOROS,January,34.0
+COMOROS,July,69.0
+COMOROS,June,16.0
+COMOROS,March,38.0
+COMOROS,May,9.0
+COMOROS,November,27.0
+COMOROS,October,21.0
+COMOROS,September,26.0
+CONGO THE DEM REPOF THE,April,2.0
+CONGO THE DEM REPOF THE,August,0.0
+CONGO THE DEM REPOF THE,December,3.0
+CONGO THE DEM REPOF THE,February,42.0
+CONGO THE DEM REPOF THE,January,9.0
+CONGO THE DEM REPOF THE,July,1.0
+CONGO THE DEM REPOF THE,June,1.0
+CONGO THE DEM REPOF THE,March,3.0
+CONGO THE DEM REPOF THE,May,1.0
+CONGO THE DEM REPOF THE,November,6.0
+CONGO THE DEM REPOF THE,October,2.0
+CONGO THE DEM REPOF THE,September,1.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",April,4.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",August,3.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",December,4.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",February,2.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",January,1.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",July,1.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",June,4.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",March,5.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",May,3.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",November,0.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",October,3.0
+"CONGO, DEMOCRATIC REPUBLIC OF THE",September,3.0
+"CONGO, REPUBLIC OF THE",April,0.0
+"CONGO, REPUBLIC OF THE",August,1.0
+"CONGO, REPUBLIC OF THE",December,0.0
+"CONGO, REPUBLIC OF THE",February,1.0
+"CONGO, REPUBLIC OF THE",January,0.0
+"CONGO, REPUBLIC OF THE",July,1.0
+"CONGO, REPUBLIC OF THE",June,0.0
+"CONGO, REPUBLIC OF THE",March,0.0
+"CONGO, REPUBLIC OF THE",May,0.0
+"CONGO, REPUBLIC OF THE",November,2.0
+"CONGO, REPUBLIC OF THE",October,0.0
+"CONGO, REPUBLIC OF THE",September,2.0
+"CONGO, REPUBLIC OF.",April,0.0
+"CONGO, REPUBLIC OF.",August,0.0
+"CONGO, REPUBLIC OF.",December,1.0
+"CONGO, REPUBLIC OF.",February,0.0
+"CONGO, REPUBLIC OF.",January,1.0
+"CONGO, REPUBLIC OF.",July,0.0
+"CONGO, REPUBLIC OF.",June,0.0
+"CONGO, REPUBLIC OF.",March,0.0
+"CONGO, REPUBLIC OF.",May,1.0
+"CONGO, REPUBLIC OF.",November,0.0
+"CONGO, REPUBLIC OF.",October,0.0
+"CONGO, REPUBLIC OF.",September,0.0
+COSTA RICA,April,13.0
+COSTA RICA,August,9.0
+COSTA RICA,December,42.0
+COSTA RICA,February,45.0
+COSTA RICA,January,30.0
+COSTA RICA,July,5.0
+COSTA RICA,June,1.0
+COSTA RICA,March,13.0
+COSTA RICA,May,2.0
+COSTA RICA,November,7.0
+COSTA RICA,October,10.0
+COSTA RICA,September,8.0
+"COSTA RICA, REPUBLIC OF",April,13.0
+"COSTA RICA, REPUBLIC OF",August,15.0
+"COSTA RICA, REPUBLIC OF",December,20.0
+"COSTA RICA, REPUBLIC OF",February,20.0
+"COSTA RICA, REPUBLIC OF",January,9.0
+"COSTA RICA, REPUBLIC OF",July,0.0
+"COSTA RICA, REPUBLIC OF",June,3.0
+"COSTA RICA, REPUBLIC OF",March,14.0
+"COSTA RICA, REPUBLIC OF",May,3.0
+"COSTA RICA, REPUBLIC OF",November,3.0
+"COSTA RICA, REPUBLIC OF",October,6.0
+"COSTA RICA, REPUBLIC OF",September,26.0
+"COTE D'IVOIRE, REPUBLIC OF",April,1.0
+"COTE D'IVOIRE, REPUBLIC OF",August,2.0
+"COTE D'IVOIRE, REPUBLIC OF",December,1.0
+"COTE D'IVOIRE, REPUBLIC OF",February,3.0
+"COTE D'IVOIRE, REPUBLIC OF",January,1.0
+"COTE D'IVOIRE, REPUBLIC OF",July,3.0
+"COTE D'IVOIRE, REPUBLIC OF",June,2.0
+"COTE D'IVOIRE, REPUBLIC OF",March,1.0
+"COTE D'IVOIRE, REPUBLIC OF",May,2.0
+"COTE D'IVOIRE, REPUBLIC OF",November,2.0
+"COTE D'IVOIRE, REPUBLIC OF",October,1.0
+"COTE D'IVOIRE, REPUBLIC OF",September,1.0
+COTE DIVOIRE,April,8.0
+COTE DIVOIRE,August,2.0
+COTE DIVOIRE,December,8.0
+COTE DIVOIRE,February,5.0
+COTE DIVOIRE,January,1.0
+COTE DIVOIRE,July,3.0
+COTE DIVOIRE,June,1.0
+COTE DIVOIRE,March,1.0
+COTE DIVOIRE,May,2.0
+COTE DIVOIRE,November,3.0
+COTE DIVOIRE,October,0.0
+COTE DIVOIRE,September,4.0
+CROATIA,April,350.0
+CROATIA,August,219.0
+CROATIA,December,612.0
+CROATIA,February,815.0
+CROATIA,January,1264.0
+CROATIA,July,194.0
+CROATIA,June,108.0
+CROATIA,March,509.0
+CROATIA,May,123.0
+CROATIA,November,327.0
+CROATIA,October,195.0
+CROATIA,September,151.0
+CUBA,April,3.0
+CUBA,August,1.0
+CUBA,December,16.0
+CUBA,February,3.0
+CUBA,January,2.0
+CUBA,July,5.0
+CUBA,June,2.0
+CUBA,March,8.0
+CUBA,May,0.0
+CUBA,November,3.0
+CUBA,October,4.0
+CUBA,September,2.0
+"CUBA, REPUBLIC OF",April,6.0
+"CUBA, REPUBLIC OF",August,1.0
+"CUBA, REPUBLIC OF",December,8.0
+"CUBA, REPUBLIC OF",February,2.0
+"CUBA, REPUBLIC OF",January,3.0
+"CUBA, REPUBLIC OF",July,2.0
+"CUBA, REPUBLIC OF",June,3.0
+"CUBA, REPUBLIC OF",March,5.0
+"CUBA, REPUBLIC OF",May,3.0
+"CUBA, REPUBLIC OF",November,12.0
+"CUBA, REPUBLIC OF",October,3.0
+"CUBA, REPUBLIC OF",September,4.0
+CYPRUS,April,69.0
+CYPRUS,August,123.0
+CYPRUS,December,145.0
+CYPRUS,February,119.0
+CYPRUS,January,167.0
+CYPRUS,July,56.0
+CYPRUS,June,27.0
+CYPRUS,March,105.0
+CYPRUS,May,20.0
+CYPRUS,November,56.0
+CYPRUS,October,30.0
+CYPRUS,September,36.0
+"CYPRUS, REPUBLIC OF",April,45.0
+"CYPRUS, REPUBLIC OF",August,98.0
+"CYPRUS, REPUBLIC OF",December,72.0
+"CYPRUS, REPUBLIC OF",February,53.0
+"CYPRUS, REPUBLIC OF",January,55.0
+"CYPRUS, REPUBLIC OF",July,91.0
+"CYPRUS, REPUBLIC OF",June,44.0
+"CYPRUS, REPUBLIC OF",March,51.0
+"CYPRUS, REPUBLIC OF",May,43.0
+"CYPRUS, REPUBLIC OF",November,51.0
+"CYPRUS, REPUBLIC OF",October,32.0
+"CYPRUS, REPUBLIC OF",September,37.0
+CZECH REPUBLIC,April,2726.0
+CZECH REPUBLIC,August,1252.0
+CZECH REPUBLIC,December,5749.0
+CZECH REPUBLIC,February,11194.0
+CZECH REPUBLIC,January,7717.0
+CZECH REPUBLIC,July,2064.0
+CZECH REPUBLIC,June,955.0
+CZECH REPUBLIC,March,7047.0
+CZECH REPUBLIC,May,494.0
+CZECH REPUBLIC,November,3958.0
+CZECH REPUBLIC,October,1520.0
+CZECH REPUBLIC,September,1591.0
+Cambodia,April,729.0
+Cambodia,August,74.0
+Cambodia,December,167.0
+Cambodia,February,252.0
+Cambodia,January,120.0
+Cambodia,July,131.0
+Cambodia,June,190.0
+Cambodia,March,705.0
+Cambodia,May,191.0
+Cambodia,November,197.0
+Cambodia,October,170.0
+Cambodia,September,114.0
+Cameroon,April,2.0
+Cameroon,August,5.0
+Cameroon,December,6.0
+Cameroon,February,9.0
+Cameroon,January,12.0
+Cameroon,July,5.0
+Cameroon,June,3.0
+Cameroon,March,8.0
+Cameroon,May,4.0
+Cameroon,November,5.0
+Cameroon,October,9.0
+Cameroon,September,5.0
+Canada,April,12225.0
+Canada,August,15517.0
+Canada,December,13977.0
+Canada,February,13527.0
+Canada,January,13931.0
+Canada,July,19478.0
+Canada,June,14319.0
+Canada,March,15308.0
+Canada,May,12472.0
+Canada,November,11084.0
+Canada,October,8710.0
+Canada,September,8586.0
+Cape Verde,April,2.0
+Cape Verde,August,3.0
+Cape Verde,December,0.0
+Cape Verde,February,2.0
+Cape Verde,January,2.0
+Cape Verde,July,2.0
+Cape Verde,June,2.0
+Cape Verde,March,4.0
+Cape Verde,May,1.0
+Cape Verde,November,0.0
+Cape Verde,October,2.0
+Cape Verde,September,1.0
+Central African Republic,April,0.0
+Central African Republic,August,1.0
+Central African Republic,December,3.0
+Central African Republic,February,0.0
+Central African Republic,January,0.0
+Central African Republic,July,1.0
+Central African Republic,June,0.0
+Central African Republic,March,31.0
+Central African Republic,May,0.0
+Central African Republic,November,1.0
+Central African Republic,October,0.0
+Central African Republic,September,2.0
+Chad,April,0.0
+Chad,August,2.0
+Chad,December,4.0
+Chad,February,2.0
+Chad,January,0.0
+Chad,July,1.0
+Chad,June,7.0
+Chad,March,1.0
+Chad,May,3.0
+Chad,November,0.0
+Chad,October,2.0
+Chad,September,2.0
+Chile,April,171.0
+Chile,August,113.0
+Chile,December,187.0
+Chile,February,197.0
+Chile,January,156.0
+Chile,July,149.0
+Chile,June,102.0
+Chile,March,220.0
+Chile,May,132.0
+Chile,November,158.0
+Chile,October,136.0
+Chile,September,96.0
+China,April,23015.0
+China,August,34178.0
+China,December,29197.0
+China,February,29770.0
+China,January,30298.0
+China,July,36995.0
+China,June,23362.0
+China,March,28404.0
+China,May,21148.0
+China,November,24852.0
+China,October,26707.0
+China,September,29294.0
+Colombia,April,267.0
+Colombia,August,183.0
+Colombia,December,243.0
+Colombia,February,180.0
+Colombia,January,155.0
+Colombia,July,150.0
+Colombia,June,141.0
+Colombia,March,239.0
+Colombia,May,166.0
+Colombia,November,198.0
+Colombia,October,182.0
+Colombia,September,144.0
+Comoros,April,10.0
+Comoros,August,35.0
+Comoros,December,14.0
+Comoros,February,11.0
+Comoros,January,14.0
+Comoros,July,48.0
+Comoros,June,35.0
+Comoros,March,10.0
+Comoros,May,23.0
+Comoros,November,24.0
+Comoros,October,26.0
+Comoros,September,24.0
+Congo,April,0.0
+Congo,August,3.0
+Congo,December,12.0
+Congo,February,5.0
+Congo,January,2.0
+Congo,July,2.0
+Congo,June,3.0
+Congo,March,0.0
+Congo,May,2.0
+Congo,November,4.0
+Congo,October,0.0
+Congo,September,0.0
+"Congo, Republic Of.",April,1.0
+"Congo, Republic Of.",August,0.0
+"Congo, Republic Of.",December,0.0
+"Congo, Republic Of.",February,1.0
+"Congo, Republic Of.",January,3.0
+"Congo, Republic Of.",July,2.0
+"Congo, Republic Of.",June,0.0
+"Congo, Republic Of.",March,3.0
+"Congo, Republic Of.",May,0.0
+"Congo, Republic Of.",November,2.0
+"Congo, Republic Of.",October,1.0
+"Congo, Republic Of.",September,1.0
+"Congo, The Democratic Republic",April,2.0
+"Congo, The Democratic Republic",August,2.0
+"Congo, The Democratic Republic",December,1.0
+"Congo, The Democratic Republic",February,3.0
+"Congo, The Democratic Republic",January,0.0
+"Congo, The Democratic Republic",July,2.0
+"Congo, The Democratic Republic",June,3.0
+"Congo, The Democratic Republic",March,1.0
+"Congo, The Democratic Republic",May,2.0
+"Congo, The Democratic Republic",November,0.0
+"Congo, The Democratic Republic",October,3.0
+"Congo, The Democratic Republic",September,2.0
+Costa Rica,April,25.0
+Costa Rica,August,12.0
+Costa Rica,December,37.0
+Costa Rica,February,42.0
+Costa Rica,January,39.0
+Costa Rica,July,14.0
+Costa Rica,June,17.0
+Costa Rica,March,41.0
+Costa Rica,May,23.0
+Costa Rica,November,25.0
+Costa Rica,October,24.0
+Costa Rica,September,12.0
+Cote Divoire,April,0.0
+Cote Divoire,August,2.0
+Cote Divoire,December,0.0
+Cote Divoire,February,3.0
+Cote Divoire,January,2.0
+Cote Divoire,July,1.0
+Cote Divoire,June,1.0
+Cote Divoire,March,2.0
+Cote Divoire,May,0.0
+Cote Divoire,November,6.0
+Cote Divoire,October,5.0
+Cote Divoire,September,0.0
+Cote d'lvoire,April,0.0
+Cote d'lvoire,August,2.0
+Cote d'lvoire,December,2.0
+Cote d'lvoire,February,0.0
+Cote d'lvoire,January,1.0
+Cote d'lvoire,July,1.0
+Cote d'lvoire,June,0.0
+Cote d'lvoire,March,3.0
+Cote d'lvoire,May,3.0
+Cote d'lvoire,November,1.0
+Cote d'lvoire,October,1.0
+Cote d'lvoire,September,1.0
+Country,April,0.0
+Country,August,0.0
+Country,December,0.0
+Country,February,0.0
+Country,January,0.0
+Country,July,0.0
+Country,June,0.0
+Country,March,0.0
+Country,May,0.0
+Country,November,0.0
+Country,October,0.0
+Country,September,0.0
+Croatia,April,300.0
+Croatia,August,371.0
+Croatia,December,966.0
+Croatia,February,760.0
+Croatia,January,741.0
+Croatia,July,242.0
+Croatia,June,82.0
+Croatia,March,556.0
+Croatia,May,99.0
+Croatia,November,628.0
+Croatia,October,326.0
+Croatia,September,182.0
+Cuba,April,12.0
+Cuba,August,14.0
+Cuba,December,19.0
+Cuba,February,7.0
+Cuba,January,15.0
+Cuba,July,10.0
+Cuba,June,16.0
+Cuba,March,31.0
+Cuba,May,10.0
+Cuba,November,12.0
+Cuba,October,11.0
+Cuba,September,14.0
+Cyprus,April,357.0
+Cyprus,August,974.0
+Cyprus,December,397.0
+Cyprus,February,208.0
+Cyprus,January,268.0
+Cyprus,July,472.0
+Cyprus,June,161.0
+Cyprus,March,287.0
+Cyprus,May,121.0
+Cyprus,November,237.0
+Cyprus,October,205.0
+Cyprus,September,115.0
+Czech Republic,April,4012.0
+Czech Republic,August,2316.0
+Czech Republic,December,8009.0
+Czech Republic,February,10483.0
+Czech Republic,January,8372.0
+Czech Republic,July,3506.0
+Czech Republic,June,1579.0
+Czech Republic,March,8343.0
+Czech Republic,May,1010.0
+Czech Republic,November,6099.0
+Czech Republic,October,2435.0
+Czech Republic,September,1603.0
+D,April,0.0
+D,August,0.0
+D,December,0.0
+D,February,0.0
+D,January,0.0
+D,July,0.0
+D,June,0.0
+D,March,0.0
+D,May,0.0
+D,November,0.0
+D,October,0.0
+D,September,0.0
+DENMARK,April,1897.0
+DENMARK,August,524.0
+DENMARK,December,2101.0
+DENMARK,February,6214.0
+DENMARK,January,5235.0
+DENMARK,July,1775.0
+DENMARK,June,482.0
+DENMARK,March,2372.0
+DENMARK,May,124.0
+DENMARK,November,1079.0
+DENMARK,October,795.0
+DENMARK,September,478.0
+"DENMARK, KINGDOM OF",April,943.0
+"DENMARK, KINGDOM OF",August,925.0
+"DENMARK, KINGDOM OF",December,2008.0
+"DENMARK, KINGDOM OF",February,3228.0
+"DENMARK, KINGDOM OF",January,3013.0
+"DENMARK, KINGDOM OF",July,2951.0
+"DENMARK, KINGDOM OF",June,959.0
+"DENMARK, KINGDOM OF",March,2227.0
+"DENMARK, KINGDOM OF",May,456.0
+"DENMARK, KINGDOM OF",November,943.0
+"DENMARK, KINGDOM OF",October,994.0
+"DENMARK, KINGDOM OF",September,576.0
+DJIBOUTI,April,0.0
+DJIBOUTI,August,4.0
+DJIBOUTI,December,1.0
+DJIBOUTI,February,2.0
+DJIBOUTI,January,2.0
+DJIBOUTI,July,1.0
+DJIBOUTI,June,0.0
+DJIBOUTI,March,0.0
+DJIBOUTI,May,0.0
+DJIBOUTI,November,1.0
+DJIBOUTI,October,1.0
+DJIBOUTI,September,0.0
+"DJIBOUTI, REPUBLIC OF",April,1.0
+"DJIBOUTI, REPUBLIC OF",August,0.0
+"DJIBOUTI, REPUBLIC OF",December,1.0
+"DJIBOUTI, REPUBLIC OF",February,1.0
+"DJIBOUTI, REPUBLIC OF",January,1.0
+"DJIBOUTI, REPUBLIC OF",July,0.0
+"DJIBOUTI, REPUBLIC OF",June,0.0
+"DJIBOUTI, REPUBLIC OF",March,4.0
+"DJIBOUTI, REPUBLIC OF",May,0.0
+"DJIBOUTI, REPUBLIC OF",November,0.0
+"DJIBOUTI, REPUBLIC OF",October,1.0
+"DJIBOUTI, REPUBLIC OF",September,0.0
+DOMINICA,April,7.0
+DOMINICA,August,5.0
+DOMINICA,December,11.0
+DOMINICA,February,8.0
+DOMINICA,January,12.0
+DOMINICA,July,4.0
+DOMINICA,June,7.0
+DOMINICA,March,8.0
+DOMINICA,May,0.0
+DOMINICA,November,9.0
+DOMINICA,October,5.0
+DOMINICA,September,4.0
+"DOMINICA, COMMONWEALTH OF",April,3.0
+"DOMINICA, COMMONWEALTH OF",August,3.0
+"DOMINICA, COMMONWEALTH OF",December,10.0
+"DOMINICA, COMMONWEALTH OF",February,9.0
+"DOMINICA, COMMONWEALTH OF",January,4.0
+"DOMINICA, COMMONWEALTH OF",July,4.0
+"DOMINICA, COMMONWEALTH OF",June,3.0
+"DOMINICA, COMMONWEALTH OF",March,3.0
+"DOMINICA, COMMONWEALTH OF",May,1.0
+"DOMINICA, COMMONWEALTH OF",November,7.0
+"DOMINICA, COMMONWEALTH OF",October,1.0
+"DOMINICA, COMMONWEALTH OF",September,1.0
+DOMINICAN,April,0.0
+DOMINICAN,August,0.0
+DOMINICAN,December,0.0
+DOMINICAN,February,0.0
+DOMINICAN,January,3.0
+DOMINICAN,July,0.0
+DOMINICAN,June,0.0
+DOMINICAN,March,0.0
+DOMINICAN,May,0.0
+DOMINICAN,November,0.0
+DOMINICAN,October,0.0
+DOMINICAN,September,0.0
+DOMINICAN REPUBLIC,April,5.0
+DOMINICAN REPUBLIC,August,10.0
+DOMINICAN REPUBLIC,December,27.0
+DOMINICAN REPUBLIC,February,4.0
+DOMINICAN REPUBLIC,January,9.0
+DOMINICAN REPUBLIC,July,9.0
+DOMINICAN REPUBLIC,June,10.0
+DOMINICAN REPUBLIC,March,12.0
+DOMINICAN REPUBLIC,May,6.0
+DOMINICAN REPUBLIC,November,50.0
+DOMINICAN REPUBLIC,October,8.0
+DOMINICAN REPUBLIC,September,8.0
+Democratic Republic of Congo,April,1.0
+Democratic Republic of Congo,August,5.0
+Democratic Republic of Congo,December,4.0
+Democratic Republic of Congo,February,2.0
+Democratic Republic of Congo,January,0.0
+Democratic Republic of Congo,July,1.0
+Democratic Republic of Congo,June,4.0
+Democratic Republic of Congo,March,5.0
+Democratic Republic of Congo,May,3.0
+Democratic Republic of Congo,November,2.0
+Democratic Republic of Congo,October,2.0
+Democratic Republic of Congo,September,5.0
+Denmark,April,4172.0
+Denmark,August,2132.0
+Denmark,December,5652.0
+Denmark,February,7200.0
+Denmark,January,7458.0
+Denmark,July,6834.0
+Denmark,June,2485.0
+Denmark,March,4878.0
+Denmark,May,1553.0
+Denmark,November,3258.0
+Denmark,October,2529.0
+Denmark,September,1803.0
+Djibouti,April,2.0
+Djibouti,August,2.0
+Djibouti,December,1.0
+Djibouti,February,9.0
+Djibouti,January,3.0
+Djibouti,July,6.0
+Djibouti,June,2.0
+Djibouti,March,6.0
+Djibouti,May,6.0
+Djibouti,November,4.0
+Djibouti,October,4.0
+Djibouti,September,3.0
+Dominica,April,28.0
+Dominica,August,25.0
+Dominica,December,52.0
+Dominica,February,25.0
+Dominica,January,25.0
+Dominica,July,32.0
+Dominica,June,44.0
+Dominica,March,55.0
+Dominica,May,25.0
+Dominica,November,45.0
+Dominica,October,34.0
+Dominica,September,22.0
+Dominican Republic,April,10.0
+Dominican Republic,August,5.0
+Dominican Republic,December,11.0
+Dominican Republic,February,2.0
+Dominican Republic,January,15.0
+Dominican Republic,July,4.0
+Dominican Republic,June,8.0
+Dominican Republic,March,5.0
+Dominican Republic,May,13.0
+Dominican Republic,November,14.0
+Dominican Republic,October,16.0
+Dominican Republic,September,8.0
+E,April,0.0
+E,August,0.0
+E,December,0.0
+E,February,0.0
+E,January,0.0
+E,July,0.0
+E,June,0.0
+E,March,0.0
+E,May,0.0
+E,November,0.0
+E,October,0.0
+E,September,0.0
+ECUADOR,April,10.0
+ECUADOR,August,11.0
+ECUADOR,December,33.0
+ECUADOR,February,18.0
+ECUADOR,January,33.0
+ECUADOR,July,3.0
+ECUADOR,June,3.0
+ECUADOR,March,16.0
+ECUADOR,May,2.0
+ECUADOR,November,11.0
+ECUADOR,October,4.0
+ECUADOR,September,8.0
+"ECUADOR, REPUBLIC OF",April,43.0
+"ECUADOR, REPUBLIC OF",August,12.0
+"ECUADOR, REPUBLIC OF",December,16.0
+"ECUADOR, REPUBLIC OF",February,15.0
+"ECUADOR, REPUBLIC OF",January,7.0
+"ECUADOR, REPUBLIC OF",July,2.0
+"ECUADOR, REPUBLIC OF",June,5.0
+"ECUADOR, REPUBLIC OF",March,10.0
+"ECUADOR, REPUBLIC OF",May,0.0
+"ECUADOR, REPUBLIC OF",November,5.0
+"ECUADOR, REPUBLIC OF",October,13.0
+"ECUADOR, REPUBLIC OF",September,8.0
+EGYPT,April,495.0
+EGYPT,August,301.0
+EGYPT,December,753.0
+EGYPT,February,707.0
+EGYPT,January,724.0
+EGYPT,July,224.0
+EGYPT,June,168.0
+EGYPT,March,525.0
+EGYPT,May,88.0
+EGYPT,November,503.0
+EGYPT,October,303.0
+EGYPT,September,273.0
+"EGYPT, ARAB REPUBLIC OF",April,254.0
+"EGYPT, ARAB REPUBLIC OF",August,391.0
+"EGYPT, ARAB REPUBLIC OF",December,518.0
+"EGYPT, ARAB REPUBLIC OF",February,281.0
+"EGYPT, ARAB REPUBLIC OF",January,433.0
+"EGYPT, ARAB REPUBLIC OF",July,466.0
+"EGYPT, ARAB REPUBLIC OF",June,278.0
+"EGYPT, ARAB REPUBLIC OF",March,278.0
+"EGYPT, ARAB REPUBLIC OF",May,161.0
+"EGYPT, ARAB REPUBLIC OF",November,339.0
+"EGYPT, ARAB REPUBLIC OF",October,225.0
+"EGYPT, ARAB REPUBLIC OF",September,230.0
+EL SALVADOR,April,4.0
+EL SALVADOR,August,3.0
+EL SALVADOR,December,3.0
+EL SALVADOR,February,9.0
+EL SALVADOR,January,1.0
+EL SALVADOR,July,4.0
+EL SALVADOR,June,3.0
+EL SALVADOR,March,6.0
+EL SALVADOR,May,1.0
+EL SALVADOR,November,7.0
+EL SALVADOR,October,6.0
+EL SALVADOR,September,5.0
+"EL SALVADOR, REPUBLIC OF",April,6.0
+"EL SALVADOR, REPUBLIC OF",August,2.0
+"EL SALVADOR, REPUBLIC OF",December,5.0
+"EL SALVADOR, REPUBLIC OF",February,3.0
+"EL SALVADOR, REPUBLIC OF",January,7.0
+"EL SALVADOR, REPUBLIC OF",July,12.0
+"EL SALVADOR, REPUBLIC OF",June,5.0
+"EL SALVADOR, REPUBLIC OF",March,2.0
+"EL SALVADOR, REPUBLIC OF",May,0.0
+"EL SALVADOR, REPUBLIC OF",November,1.0
+"EL SALVADOR, REPUBLIC OF",October,3.0
+"EL SALVADOR, REPUBLIC OF",September,1.0
+EQUATORIAL,April,0.0
+EQUATORIAL,August,0.0
+EQUATORIAL,December,0.0
+EQUATORIAL,February,0.0
+EQUATORIAL,January,0.0
+EQUATORIAL,July,0.0
+EQUATORIAL,June,0.0
+EQUATORIAL,March,0.0
+EQUATORIAL,May,0.0
+EQUATORIAL,November,0.0
+EQUATORIAL,October,0.0
+EQUATORIAL,September,0.0
+EQUATORIAL GUINEA,April,0.0
+EQUATORIAL GUINEA,August,0.0
+EQUATORIAL GUINEA,December,0.0
+EQUATORIAL GUINEA,February,0.0
+EQUATORIAL GUINEA,January,0.0
+EQUATORIAL GUINEA,July,0.0
+EQUATORIAL GUINEA,June,0.0
+EQUATORIAL GUINEA,March,0.0
+EQUATORIAL GUINEA,May,0.0
+EQUATORIAL GUINEA,November,0.0
+EQUATORIAL GUINEA,October,0.0
+EQUATORIAL GUINEA,September,0.0
+ERITREA,April,3.0
+ERITREA,August,2.0
+ERITREA,December,6.0
+ERITREA,February,8.0
+ERITREA,January,5.0
+ERITREA,July,4.0
+ERITREA,June,4.0
+ERITREA,March,8.0
+ERITREA,May,1.0
+ERITREA,November,7.0
+ERITREA,October,8.0
+ERITREA,September,2.0
+"ERITREA, STATE OF",April,3.0
+"ERITREA, STATE OF",August,2.0
+"ERITREA, STATE OF",December,12.0
+"ERITREA, STATE OF",February,12.0
+"ERITREA, STATE OF",January,8.0
+"ERITREA, STATE OF",July,3.0
+"ERITREA, STATE OF",June,5.0
+"ERITREA, STATE OF",March,10.0
+"ERITREA, STATE OF",May,4.0
+"ERITREA, STATE OF",November,3.0
+"ERITREA, STATE OF",October,2.0
+"ERITREA, STATE OF",September,7.0
+ESTONIA,April,309.0
+ESTONIA,August,76.0
+ESTONIA,December,1507.0
+ESTONIA,February,1799.0
+ESTONIA,January,1330.0
+ESTONIA,July,67.0
+ESTONIA,June,46.0
+ESTONIA,March,775.0
+ESTONIA,May,49.0
+ESTONIA,November,411.0
+ESTONIA,October,395.0
+ESTONIA,September,57.0
+ETHIOPIA,April,19.0
+ETHIOPIA,August,15.0
+ETHIOPIA,December,19.0
+ETHIOPIA,February,32.0
+ETHIOPIA,January,18.0
+ETHIOPIA,July,9.0
+ETHIOPIA,June,11.0
+ETHIOPIA,March,25.0
+ETHIOPIA,May,3.0
+ETHIOPIA,November,21.0
+ETHIOPIA,October,13.0
+ETHIOPIA,September,9.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",April,12.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",August,17.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",December,14.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",February,19.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",January,18.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",July,22.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",June,9.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",March,24.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",May,28.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",November,21.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",October,13.0
+"ETHIOPIA, FEDERAL DEMOCRATIC REPUBLIC OF",September,10.0
+EUROPEAN UNION,April,0.0
+EUROPEAN UNION,August,0.0
+EUROPEAN UNION,December,0.0
+EUROPEAN UNION,February,0.0
+EUROPEAN UNION,January,0.0
+EUROPEAN UNION,July,0.0
+EUROPEAN UNION,June,0.0
+EUROPEAN UNION,March,0.0
+EUROPEAN UNION,May,0.0
+EUROPEAN UNION,November,0.0
+EUROPEAN UNION,October,1.0
+EUROPEAN UNION,September,0.0
+Ecuador,April,34.0
+Ecuador,August,19.0
+Ecuador,December,62.0
+Ecuador,February,35.0
+Ecuador,January,27.0
+Ecuador,July,30.0
+Ecuador,June,40.0
+Ecuador,March,30.0
+Ecuador,May,32.0
+Ecuador,November,40.0
+Ecuador,October,36.0
+Ecuador,September,37.0
+Egypt,April,1371.0
+Egypt,August,819.0
+Egypt,December,1668.0
+Egypt,February,1639.0
+Egypt,January,1097.0
+Egypt,July,1082.0
+Egypt,June,1134.0
+Egypt,March,1005.0
+Egypt,May,896.0
+Egypt,November,1387.0
+Egypt,October,1029.0
+Egypt,September,735.0
+El Salvador,April,12.0
+El Salvador,August,12.0
+El Salvador,December,12.0
+El Salvador,February,12.0
+El Salvador,January,6.0
+El Salvador,July,11.0
+El Salvador,June,11.0
+El Salvador,March,9.0
+El Salvador,May,8.0
+El Salvador,November,11.0
+El Salvador,October,6.0
+El Salvador,September,11.0
+Equatorial Guinea,April,6.0
+Equatorial Guinea,August,0.0
+Equatorial Guinea,December,0.0
+Equatorial Guinea,February,0.0
+Equatorial Guinea,January,0.0
+Equatorial Guinea,July,0.0
+Equatorial Guinea,June,1.0
+Equatorial Guinea,March,0.0
+Equatorial Guinea,May,3.0
+Equatorial Guinea,November,0.0
+Equatorial Guinea,October,0.0
+Equatorial Guinea,September,2.0
+Eritrea,April,5.0
+Eritrea,August,6.0
+Eritrea,December,8.0
+Eritrea,February,4.0
+Eritrea,January,7.0
+Eritrea,July,2.0
+Eritrea,June,10.0
+Eritrea,March,6.0
+Eritrea,May,10.0
+Eritrea,November,7.0
+Eritrea,October,4.0
+Eritrea,September,2.0
+Estonia,April,468.0
+Estonia,August,59.0
+Estonia,December,2257.0
+Estonia,February,2310.0
+Estonia,January,2192.0
+Estonia,July,68.0
+Estonia,June,73.0
+Estonia,March,1854.0
+Estonia,May,86.0
+Estonia,November,923.0
+Estonia,October,464.0
+Estonia,September,141.0
+Ethiopia,April,42.0
+Ethiopia,August,47.0
+Ethiopia,December,72.0
+Ethiopia,February,33.0
+Ethiopia,January,32.0
+Ethiopia,July,56.0
+Ethiopia,June,46.0
+Ethiopia,March,43.0
+Ethiopia,May,33.0
+Ethiopia,November,31.0
+Ethiopia,October,43.0
+Ethiopia,September,52.0
+F,April,0.0
+F,August,0.0
+F,December,0.0
+F,February,0.0
+F,January,0.0
+F,July,0.0
+F,June,0.0
+F,March,0.0
+F,May,0.0
+F,November,0.0
+F,October,0.0
+F,September,0.0
+FIJI,April,13.0
+FIJI,August,5.0
+FIJI,December,17.0
+FIJI,February,66.0
+FIJI,January,57.0
+FIJI,July,10.0
+FIJI,June,10.0
+FIJI,March,20.0
+FIJI,May,5.0
+FIJI,November,19.0
+FIJI,October,10.0
+FIJI,September,10.0
+"FIJI, REPUBLIC OF",April,6.0
+"FIJI, REPUBLIC OF",August,17.0
+"FIJI, REPUBLIC OF",December,16.0
+"FIJI, REPUBLIC OF",February,5.0
+"FIJI, REPUBLIC OF",January,19.0
+"FIJI, REPUBLIC OF",July,16.0
+"FIJI, REPUBLIC OF",June,10.0
+"FIJI, REPUBLIC OF",March,18.0
+"FIJI, REPUBLIC OF",May,10.0
+"FIJI, REPUBLIC OF",November,13.0
+"FIJI, REPUBLIC OF",October,12.0
+"FIJI, REPUBLIC OF",September,17.0
+FINLAND,April,745.0
+FINLAND,August,327.0
+FINLAND,December,3199.0
+FINLAND,February,4206.0
+FINLAND,January,4429.0
+FINLAND,July,396.0
+FINLAND,June,465.0
+FINLAND,March,2325.0
+FINLAND,May,293.0
+FINLAND,November,1199.0
+FINLAND,October,616.0
+FINLAND,September,355.0
+FRANCE,April,9232.0
+FRANCE,August,7335.0
+FRANCE,December,9845.0
+FRANCE,February,28765.0
+FRANCE,January,21248.0
+FRANCE,July,7289.0
+FRANCE,June,2643.0
+FRANCE,March,18085.0
+FRANCE,May,1147.0
+FRANCE,November,6304.0
+FRANCE,October,4007.0
+FRANCE,September,3110.0
+FRANCE (FRENCH REPUBLIC),April,7411.0
+FRANCE (FRENCH REPUBLIC),August,11016.0
+FRANCE (FRENCH REPUBLIC),December,9475.0
+FRANCE (FRENCH REPUBLIC),February,16871.0
+FRANCE (FRENCH REPUBLIC),January,12221.0
+FRANCE (FRENCH REPUBLIC),July,11303.0
+FRANCE (FRENCH REPUBLIC),June,3688.0
+FRANCE (FRENCH REPUBLIC),March,14818.0
+FRANCE (FRENCH REPUBLIC),May,3721.0
+FRANCE (FRENCH REPUBLIC),November,6825.0
+FRANCE (FRENCH REPUBLIC),October,4784.0
+FRANCE (FRENCH REPUBLIC),September,4316.0
+Fiji,April,50.0
+Fiji,August,43.0
+Fiji,December,117.0
+Fiji,February,37.0
+Fiji,January,51.0
+Fiji,July,49.0
+Fiji,June,30.0
+Fiji,March,44.0
+Fiji,May,28.0
+Fiji,November,67.0
+Fiji,October,55.0
+Fiji,September,42.0
+Finland,April,766.0
+Finland,August,314.0
+Finland,December,2444.0
+Finland,February,1958.0
+Finland,January,2073.0
+Finland,July,409.0
+Finland,June,486.0
+Finland,March,1270.0
+Finland,May,505.0
+Finland,November,1667.0
+Finland,October,940.0
+Finland,September,518.0
+France,April,26638.0
+France,August,28098.0
+France,December,21776.0
+France,February,39789.0
+France,January,30994.0
+France,July,31463.0
+France,June,12059.0
+France,March,37765.0
+France,May,13024.0
+France,November,20847.0
+France,October,14341.0
+France,September,12755.0
+G,April,0.0
+G,August,0.0
+G,December,0.0
+G,February,0.0
+G,January,0.0
+G,July,0.0
+G,June,0.0
+G,March,0.0
+G,May,0.0
+G,November,0.0
+G,October,0.0
+G,September,0.0
+GABON,April,0.0
+GABON,August,2.0
+GABON,December,3.0
+GABON,February,2.0
+GABON,January,2.0
+GABON,July,1.0
+GABON,June,1.0
+GABON,March,0.0
+GABON,May,0.0
+GABON,November,0.0
+GABON,October,0.0
+GABON,September,1.0
+"GAMBIA, THE",April,0.0
+"GAMBIA, THE",August,2.0
+"GAMBIA, THE",December,1.0
+"GAMBIA, THE",February,2.0
+"GAMBIA, THE",January,2.0
+"GAMBIA, THE",July,1.0
+"GAMBIA, THE",June,1.0
+"GAMBIA, THE",March,2.0
+"GAMBIA, THE",May,2.0
+"GAMBIA, THE",November,1.0
+"GAMBIA, THE",October,2.0
+"GAMBIA, THE",September,1.0
+GEORGIA,April,117.0
+GEORGIA,August,73.0
+GEORGIA,December,176.0
+GEORGIA,February,254.0
+GEORGIA,January,289.0
+GEORGIA,July,76.0
+GEORGIA,June,49.0
+GEORGIA,March,143.0
+GEORGIA,May,62.0
+GEORGIA,November,145.0
+GEORGIA,October,120.0
+GEORGIA,September,107.0
+GERMANY,April,28116.0
+GERMANY,August,18991.0
+GERMANY,December,34848.0
+GERMANY,February,50984.0
+GERMANY,January,40838.0
+GERMANY,July,19425.0
+GERMANY,June,9241.0
+GERMANY,March,49667.0
+GERMANY,May,8895.0
+GERMANY,November,42265.0
+GERMANY,October,18936.0
+GERMANY,September,16530.0
+GHANA,April,29.0
+GHANA,August,8.0
+GHANA,December,9.0
+GHANA,February,11.0
+GHANA,January,11.0
+GHANA,July,3.0
+GHANA,June,1.0
+GHANA,March,14.0
+GHANA,May,5.0
+GHANA,November,14.0
+GHANA,October,5.0
+GHANA,September,11.0
+"GHANA, REPUBLIC OF",April,10.0
+"GHANA, REPUBLIC OF",August,6.0
+"GHANA, REPUBLIC OF",December,7.0
+"GHANA, REPUBLIC OF",February,6.0
+"GHANA, REPUBLIC OF",January,9.0
+"GHANA, REPUBLIC OF",July,8.0
+"GHANA, REPUBLIC OF",June,9.0
+"GHANA, REPUBLIC OF",March,13.0
+"GHANA, REPUBLIC OF",May,8.0
+"GHANA, REPUBLIC OF",November,15.0
+"GHANA, REPUBLIC OF",October,22.0
+"GHANA, REPUBLIC OF",September,14.0
+GREECE,April,1327.0
+GREECE,August,1281.0
+GREECE,December,1964.0
+GREECE,February,1886.0
+GREECE,January,2008.0
+GREECE,July,1048.0
+GREECE,June,876.0
+GREECE,March,1773.0
+GREECE,May,1041.0
+GREECE,November,1311.0
+GREECE,October,1045.0
+GREECE,September,1020.0
+GRENADA,April,3.0
+GRENADA,August,0.0
+GRENADA,December,2.0
+GRENADA,February,8.0
+GRENADA,January,4.0
+GRENADA,July,0.0
+GRENADA,June,3.0
+GRENADA,March,10.0
+GRENADA,May,2.0
+GRENADA,November,4.0
+GRENADA,October,1.0
+GRENADA,September,1.0
+GUATEMALA,April,6.0
+GUATEMALA,August,5.0
+GUATEMALA,December,6.0
+GUATEMALA,February,9.0
+GUATEMALA,January,13.0
+GUATEMALA,July,2.0
+GUATEMALA,June,4.0
+GUATEMALA,March,9.0
+GUATEMALA,May,0.0
+GUATEMALA,November,18.0
+GUATEMALA,October,4.0
+GUATEMALA,September,6.0
+"GUATEMALA, REPUBLIC OF",April,5.0
+"GUATEMALA, REPUBLIC OF",August,6.0
+"GUATEMALA, REPUBLIC OF",December,3.0
+"GUATEMALA, REPUBLIC OF",February,4.0
+"GUATEMALA, REPUBLIC OF",January,9.0
+"GUATEMALA, REPUBLIC OF",July,5.0
+"GUATEMALA, REPUBLIC OF",June,3.0
+"GUATEMALA, REPUBLIC OF",March,5.0
+"GUATEMALA, REPUBLIC OF",May,4.0
+"GUATEMALA, REPUBLIC OF",November,3.0
+"GUATEMALA, REPUBLIC OF",October,6.0
+"GUATEMALA, REPUBLIC OF",September,7.0
+GUINEA,April,2.0
+GUINEA,August,0.0
+GUINEA,December,0.0
+GUINEA,February,2.0
+GUINEA,January,1.0
+GUINEA,July,1.0
+GUINEA,June,0.0
+GUINEA,March,0.0
+GUINEA,May,0.0
+GUINEA,November,2.0
+GUINEA,October,2.0
+GUINEA,September,4.0
+GUINEA- BISSAU,April,0.0
+GUINEA- BISSAU,August,3.0
+GUINEA- BISSAU,December,4.0
+GUINEA- BISSAU,February,0.0
+GUINEA- BISSAU,January,1.0
+GUINEA- BISSAU,July,0.0
+GUINEA- BISSAU,June,0.0
+GUINEA- BISSAU,March,0.0
+GUINEA- BISSAU,May,0.0
+GUINEA- BISSAU,November,1.0
+GUINEA- BISSAU,October,1.0
+GUINEA- BISSAU,September,1.0
+GUINEA-BISSAU,April,0.0
+GUINEA-BISSAU,August,0.0
+GUINEA-BISSAU,December,0.0
+GUINEA-BISSAU,February,2.0
+GUINEA-BISSAU,January,0.0
+GUINEA-BISSAU,July,1.0
+GUINEA-BISSAU,June,0.0
+GUINEA-BISSAU,March,0.0
+GUINEA-BISSAU,May,0.0
+GUINEA-BISSAU,November,1.0
+GUINEA-BISSAU,October,0.0
+GUINEA-BISSAU,September,1.0
+GUYANA,April,1.0
+GUYANA,August,0.0
+GUYANA,December,2.0
+GUYANA,February,6.0
+GUYANA,January,6.0
+GUYANA,July,0.0
+GUYANA,June,0.0
+GUYANA,March,5.0
+GUYANA,May,0.0
+GUYANA,November,3.0
+GUYANA,October,2.0
+GUYANA,September,1.0
+"GUYANA, COOPERATIVE REPUBLIC OF",April,2.0
+"GUYANA, COOPERATIVE REPUBLIC OF",August,2.0
+"GUYANA, COOPERATIVE REPUBLIC OF",December,0.0
+"GUYANA, COOPERATIVE REPUBLIC OF",February,2.0
+"GUYANA, COOPERATIVE REPUBLIC OF",January,0.0
+"GUYANA, COOPERATIVE REPUBLIC OF",July,2.0
+"GUYANA, COOPERATIVE REPUBLIC OF",June,0.0
+"GUYANA, COOPERATIVE REPUBLIC OF",March,9.0
+"GUYANA, COOPERATIVE REPUBLIC OF",May,1.0
+"GUYANA, COOPERATIVE REPUBLIC OF",November,4.0
+"GUYANA, COOPERATIVE REPUBLIC OF",October,0.0
+"GUYANA, COOPERATIVE REPUBLIC OF",September,0.0
+Gabon,April,1.0
+Gabon,August,0.0
+Gabon,December,0.0
+Gabon,February,0.0
+Gabon,January,1.0
+Gabon,July,0.0
+Gabon,June,1.0
+Gabon,March,1.0
+Gabon,May,1.0
+Gabon,November,2.0
+Gabon,October,0.0
+Gabon,September,3.0
+Gambia,April,1.0
+Gambia,August,0.0
+Gambia,December,0.0
+Gambia,February,0.0
+Gambia,January,0.0
+Gambia,July,0.0
+Gambia,June,0.0
+Gambia,March,0.0
+Gambia,May,0.0
+Gambia,November,0.0
+Gambia,October,0.0
+Gambia,September,0.0
+"Gambia, The",April,3.0
+"Gambia, The",August,5.0
+"Gambia, The",December,10.0
+"Gambia, The",February,3.0
+"Gambia, The",January,0.0
+"Gambia, The",July,1.0
+"Gambia, The",June,2.0
+"Gambia, The",March,0.0
+"Gambia, The",May,4.0
+"Gambia, The",November,2.0
+"Gambia, The",October,4.0
+"Gambia, The",September,3.0
+Georgia,April,277.0
+Georgia,August,196.0
+Georgia,December,319.0
+Georgia,February,564.0
+Georgia,January,656.0
+Georgia,July,96.0
+Georgia,June,143.0
+Georgia,March,418.0
+Georgia,May,180.0
+Georgia,November,396.0
+Georgia,October,177.0
+Georgia,September,94.0
+Germany,April,34989.0
+Germany,August,34846.0
+Germany,December,50141.0
+Germany,February,49202.0
+Germany,January,42199.0
+Germany,July,32865.0
+Germany,June,17610.0
+Germany,March,55505.0
+Germany,May,23780.0
+Germany,November,44611.0
+Germany,October,29399.0
+Germany,September,26984.0
+Ghana,April,7.0
+Ghana,August,15.0
+Ghana,December,29.0
+Ghana,February,16.0
+Ghana,January,14.0
+Ghana,July,10.0
+Ghana,June,19.0
+Ghana,March,15.0
+Ghana,May,10.0
+Ghana,November,38.0
+Ghana,October,18.0
+Ghana,September,50.0
+Greece,April,1022.0
+Greece,August,1539.0
+Greece,December,1908.0
+Greece,February,972.0
+Greece,January,908.0
+Greece,July,422.0
+Greece,June,242.0
+Greece,March,880.0
+Greece,May,346.0
+Greece,November,997.0
+Greece,October,598.0
+Greece,September,404.0
+Grenada,April,3.0
+Grenada,August,11.0
+Grenada,December,11.0
+Grenada,February,4.0
+Grenada,January,1.0
+Grenada,July,13.0
+Grenada,June,14.0
+Grenada,March,9.0
+Grenada,May,2.0
+Grenada,November,17.0
+Grenada,October,9.0
+Grenada,September,10.0
+Guam,April,0.0
+Guam,August,0.0
+Guam,December,0.0
+Guam,February,2.0
+Guam,January,0.0
+Guam,July,0.0
+Guam,June,0.0
+Guam,March,0.0
+Guam,May,0.0
+Guam,November,0.0
+Guam,October,0.0
+Guam,September,0.0
+Guatemala,April,22.0
+Guatemala,August,10.0
+Guatemala,December,30.0
+Guatemala,February,20.0
+Guatemala,January,9.0
+Guatemala,July,10.0
+Guatemala,June,11.0
+Guatemala,March,17.0
+Guatemala,May,17.0
+Guatemala,November,25.0
+Guatemala,October,18.0
+Guatemala,September,19.0
+Guinea,April,4.0
+Guinea,August,3.0
+Guinea,December,4.0
+Guinea,February,2.0
+Guinea,January,3.0
+Guinea,July,3.0
+Guinea,June,6.0
+Guinea,March,2.0
+Guinea,May,3.0
+Guinea,November,1.0
+Guinea,October,2.0
+Guinea,September,2.0
+Guinea-Bissau,April,0.0
+Guinea-Bissau,August,0.0
+Guinea-Bissau,December,1.0
+Guinea-Bissau,February,0.0
+Guinea-Bissau,January,3.0
+Guinea-Bissau,July,1.0
+Guinea-Bissau,June,0.0
+Guinea-Bissau,March,1.0
+Guinea-Bissau,May,0.0
+Guinea-Bissau,November,0.0
+Guinea-Bissau,October,1.0
+Guinea-Bissau,September,2.0
+Guyana,April,4.0
+Guyana,August,6.0
+Guyana,December,4.0
+Guyana,February,6.0
+Guyana,January,5.0
+Guyana,July,6.0
+Guyana,June,4.0
+Guyana,March,16.0
+Guyana,May,4.0
+Guyana,November,8.0
+Guyana,October,12.0
+Guyana,September,4.0
+H,April,0.0
+H,August,0.0
+H,December,0.0
+H,February,0.0
+H,January,0.0
+H,July,0.0
+H,June,0.0
+H,March,0.0
+H,May,0.0
+H,November,0.0
+H,October,0.0
+H,September,0.0
+HAITI,April,3.0
+HAITI,August,0.0
+HAITI,December,2.0
+HAITI,February,1.0
+HAITI,January,3.0
+HAITI,July,1.0
+HAITI,June,0.0
+HAITI,March,1.0
+HAITI,May,0.0
+HAITI,November,1.0
+HAITI,October,0.0
+HAITI,September,0.0
+"HAITI, REPUBLIC OF",April,0.0
+"HAITI, REPUBLIC OF",August,1.0
+"HAITI, REPUBLIC OF",December,0.0
+"HAITI, REPUBLIC OF",February,1.0
+"HAITI, REPUBLIC OF",January,1.0
+"HAITI, REPUBLIC OF",July,1.0
+"HAITI, REPUBLIC OF",June,1.0
+"HAITI, REPUBLIC OF",March,2.0
+"HAITI, REPUBLIC OF",May,0.0
+"HAITI, REPUBLIC OF",November,1.0
+"HAITI, REPUBLIC OF",October,0.0
+"HAITI, REPUBLIC OF",September,2.0
+HONDURAS,April,5.0
+HONDURAS,August,5.0
+HONDURAS,December,10.0
+HONDURAS,February,14.0
+HONDURAS,January,23.0
+HONDURAS,July,2.0
+HONDURAS,June,4.0
+HONDURAS,March,5.0
+HONDURAS,May,9.0
+HONDURAS,November,11.0
+HONDURAS,October,1.0
+HONDURAS,September,2.0
+"HONDURAS, REPUBLIC OF",April,0.0
+"HONDURAS, REPUBLIC OF",August,3.0
+"HONDURAS, REPUBLIC OF",December,5.0
+"HONDURAS, REPUBLIC OF",February,3.0
+"HONDURAS, REPUBLIC OF",January,9.0
+"HONDURAS, REPUBLIC OF",July,3.0
+"HONDURAS, REPUBLIC OF",June,2.0
+"HONDURAS, REPUBLIC OF",March,5.0
+"HONDURAS, REPUBLIC OF",May,5.0
+"HONDURAS, REPUBLIC OF",November,2.0
+"HONDURAS, REPUBLIC OF",October,8.0
+"HONDURAS, REPUBLIC OF",September,4.0
+HONG KONG,April,7.0
+HONG KONG,August,4.0
+HONG KONG,December,1.0
+HONG KONG,February,6.0
+HONG KONG,January,10.0
+HONG KONG,July,3.0
+HONG KONG,June,2.0
+HONG KONG,March,5.0
+HONG KONG,May,0.0
+HONG KONG,November,0.0
+HONG KONG,October,4.0
+HONG KONG,September,4.0
+HUNGARY,April,505.0
+HUNGARY,August,276.0
+HUNGARY,December,1551.0
+HUNGARY,February,2387.0
+HUNGARY,January,2497.0
+HUNGARY,July,267.0
+HUNGARY,June,191.0
+HUNGARY,March,1321.0
+HUNGARY,May,169.0
+HUNGARY,November,686.0
+HUNGARY,October,530.0
+HUNGARY,September,258.0
+Haiti,April,3.0
+Haiti,August,1.0
+Haiti,December,4.0
+Haiti,February,2.0
+Haiti,January,4.0
+Haiti,July,4.0
+Haiti,June,2.0
+Haiti,March,2.0
+Haiti,May,1.0
+Haiti,November,13.0
+Haiti,October,4.0
+Haiti,September,3.0
+Honduras,April,4.0
+Honduras,August,4.0
+Honduras,December,11.0
+Honduras,February,6.0
+Honduras,January,6.0
+Honduras,July,4.0
+Honduras,June,9.0
+Honduras,March,8.0
+Honduras,May,7.0
+Honduras,November,14.0
+Honduras,October,7.0
+Honduras,September,11.0
+Hong Kong,April,0.0
+Hong Kong,August,0.0
+Hong Kong,December,1.0
+Hong Kong,February,0.0
+Hong Kong,January,0.0
+Hong Kong,July,0.0
+Hong Kong,June,0.0
+Hong Kong,March,0.0
+Hong Kong,May,0.0
+Hong Kong,November,0.0
+Hong Kong,October,0.0
+Hong Kong,September,0.0
+Hungary,April,1064.0
+Hungary,August,683.0
+Hungary,December,3271.0
+Hungary,February,3307.0
+Hungary,January,3757.0
+Hungary,July,717.0
+Hungary,June,431.0
+Hungary,March,2191.0
+Hungary,May,316.0
+Hungary,November,1818.0
+Hungary,October,1142.0
+Hungary,September,401.0
+I,April,0.0
+I,August,0.0
+I,December,0.0
+I,February,0.0
+I,January,0.0
+I,July,0.0
+I,June,0.0
+I,March,0.0
+I,May,0.0
+I,November,0.0
+I,October,0.0
+I,September,0.0
+ICELAND,April,68.0
+ICELAND,August,40.0
+ICELAND,December,104.0
+ICELAND,February,213.0
+ICELAND,January,164.0
+ICELAND,July,63.0
+ICELAND,June,28.0
+ICELAND,March,130.0
+ICELAND,May,21.0
+ICELAND,November,101.0
+ICELAND,October,60.0
+ICELAND,September,36.0
+INDIA,April,24227.0
+INDIA,August,37973.0
+INDIA,December,72008.0
+INDIA,February,67674.0
+INDIA,January,81514.0
+INDIA,July,18317.0
+INDIA,June,15053.0
+INDIA,March,47595.0
+INDIA,May,11285.0
+INDIA,November,45913.0
+INDIA,October,41623.0
+INDIA,September,37445.0
+"INDIA, REPUBLIC OF",April,29860.0
+"INDIA, REPUBLIC OF",August,32115.0
+"INDIA, REPUBLIC OF",December,45797.0
+"INDIA, REPUBLIC OF",February,32914.0
+"INDIA, REPUBLIC OF",January,37936.0
+"INDIA, REPUBLIC OF",July,31032.0
+"INDIA, REPUBLIC OF",June,32971.0
+"INDIA, REPUBLIC OF",March,30583.0
+"INDIA, REPUBLIC OF",May,42073.0
+"INDIA, REPUBLIC OF",November,39137.0
+"INDIA, REPUBLIC OF",October,38169.0
+"INDIA, REPUBLIC OF",September,32300.0
+INDONESIA,April,262.0
+INDONESIA,August,575.0
+INDONESIA,December,731.0
+INDONESIA,February,1004.0
+INDONESIA,January,894.0
+INDONESIA,July,360.0
+INDONESIA,June,287.0
+INDONESIA,March,733.0
+INDONESIA,May,228.0
+INDONESIA,November,1124.0
+INDONESIA,October,927.0
+INDONESIA,September,764.0
+"INDONESIA, REPUBLIC OF",April,352.0
+"INDONESIA, REPUBLIC OF",August,471.0
+"INDONESIA, REPUBLIC OF",December,514.0
+"INDONESIA, REPUBLIC OF",February,350.0
+"INDONESIA, REPUBLIC OF",January,535.0
+"INDONESIA, REPUBLIC OF",July,468.0
+"INDONESIA, REPUBLIC OF",June,349.0
+"INDONESIA, REPUBLIC OF",March,589.0
+"INDONESIA, REPUBLIC OF",May,470.0
+"INDONESIA, REPUBLIC OF",November,414.0
+"INDONESIA, REPUBLIC OF",October,472.0
+"INDONESIA, REPUBLIC OF",September,381.0
+IRAN,April,209.0
+IRAN,August,124.0
+IRAN,December,458.0
+IRAN,February,619.0
+IRAN,January,534.0
+IRAN,July,110.0
+IRAN,June,75.0
+IRAN,March,1115.0
+IRAN,May,54.0
+IRAN,November,326.0
+IRAN,October,410.0
+IRAN,September,260.0
+"IRAN, ISLAMIC REPUBLIC OF",April,239.0
+"IRAN, ISLAMIC REPUBLIC OF",August,580.0
+"IRAN, ISLAMIC REPUBLIC OF",December,248.0
+"IRAN, ISLAMIC REPUBLIC OF",February,439.0
+"IRAN, ISLAMIC REPUBLIC OF",January,507.0
+"IRAN, ISLAMIC REPUBLIC OF",July,710.0
+"IRAN, ISLAMIC REPUBLIC OF",June,332.0
+"IRAN, ISLAMIC REPUBLIC OF",March,1716.0
+"IRAN, ISLAMIC REPUBLIC OF",May,268.0
+"IRAN, ISLAMIC REPUBLIC OF",November,196.0
+"IRAN, ISLAMIC REPUBLIC OF",October,255.0
+"IRAN, ISLAMIC REPUBLIC OF",September,230.0
+IRAQ,April,59.0
+IRAQ,August,133.0
+IRAQ,December,203.0
+IRAQ,February,106.0
+IRAQ,January,166.0
+IRAQ,July,72.0
+IRAQ,June,23.0
+IRAQ,March,131.0
+IRAQ,May,10.0
+IRAQ,November,183.0
+IRAQ,October,115.0
+IRAQ,September,51.0
+"IRAQ, REPUBLIC OF",April,40.0
+"IRAQ, REPUBLIC OF",August,124.0
+"IRAQ, REPUBLIC OF",December,94.0
+"IRAQ, REPUBLIC OF",February,157.0
+"IRAQ, REPUBLIC OF",January,81.0
+"IRAQ, REPUBLIC OF",July,78.0
+"IRAQ, REPUBLIC OF",June,134.0
+"IRAQ, REPUBLIC OF",March,41.0
+"IRAQ, REPUBLIC OF",May,38.0
+"IRAQ, REPUBLIC OF",November,70.0
+"IRAQ, REPUBLIC OF",October,38.0
+"IRAQ, REPUBLIC OF",September,126.0
+IRELAND,April,2044.0
+IRELAND,August,1304.0
+IRELAND,December,2716.0
+IRELAND,February,3051.0
+IRELAND,January,2990.0
+IRELAND,July,1528.0
+IRELAND,June,967.0
+IRELAND,March,2971.0
+IRELAND,May,503.0
+IRELAND,November,1603.0
+IRELAND,October,1168.0
+IRELAND,September,1092.0
+ISLE OF MAN,April,0.0
+ISLE OF MAN,August,0.0
+ISLE OF MAN,December,1.0
+ISLE OF MAN,February,0.0
+ISLE OF MAN,January,0.0
+ISLE OF MAN,July,0.0
+ISLE OF MAN,June,0.0
+ISLE OF MAN,March,0.0
+ISLE OF MAN,May,0.0
+ISLE OF MAN,November,0.0
+ISLE OF MAN,October,0.0
+ISLE OF MAN,September,0.0
+ISRAEL,April,1299.0
+ISRAEL,August,1863.0
+ISRAEL,December,2166.0
+ISRAEL,February,3072.0
+ISRAEL,January,3587.0
+ISRAEL,July,1267.0
+ISRAEL,June,432.0
+ISRAEL,March,1420.0
+ISRAEL,May,316.0
+ISRAEL,November,1384.0
+ISRAEL,October,1521.0
+ISRAEL,September,1723.0
+"ISRAEL, STATE OF",April,513.0
+"ISRAEL, STATE OF",August,1976.0
+"ISRAEL, STATE OF",December,1125.0
+"ISRAEL, STATE OF",February,1253.0
+"ISRAEL, STATE OF",January,1321.0
+"ISRAEL, STATE OF",July,1345.0
+"ISRAEL, STATE OF",June,699.0
+"ISRAEL, STATE OF",March,1255.0
+"ISRAEL, STATE OF",May,399.0
+"ISRAEL, STATE OF",November,703.0
+"ISRAEL, STATE OF",October,466.0
+"ISRAEL, STATE OF",September,2778.0
+ITALY,April,5612.0
+ITALY,August,9141.0
+ITALY,December,10693.0
+ITALY,February,13972.0
+ITALY,January,16237.0
+ITALY,July,4710.0
+ITALY,June,2058.0
+ITALY,March,8906.0
+ITALY,May,1539.0
+ITALY,November,6206.0
+ITALY,October,2647.0
+ITALY,September,2717.0
+Iceland,April,79.0
+Iceland,August,34.0
+Iceland,December,170.0
+Iceland,February,113.0
+Iceland,January,153.0
+Iceland,July,86.0
+Iceland,June,68.0
+Iceland,March,78.0
+Iceland,May,55.0
+Iceland,November,128.0
+Iceland,October,52.0
+Iceland,September,39.0
+India,April,94641.0
+India,August,115437.0
+India,December,170919.0
+India,February,92213.0
+India,January,103284.0
+India,July,107793.0
+India,June,100205.0
+India,March,113240.0
+India,May,107833.0
+India,November,133017.0
+India,October,121614.0
+India,September,114137.0
+Indonesia,April,923.0
+Indonesia,August,1022.0
+Indonesia,December,1247.0
+Indonesia,February,1091.0
+Indonesia,January,717.0
+Indonesia,July,915.0
+Indonesia,June,893.0
+Indonesia,March,815.0
+Indonesia,May,903.0
+Indonesia,November,1468.0
+Indonesia,October,979.0
+Indonesia,September,1064.0
+Iran,April,1305.0
+Iran,August,1735.0
+Iran,December,2699.0
+Iran,February,2628.0
+Iran,January,2269.0
+Iran,July,789.0
+Iran,June,923.0
+Iran,March,13257.0
+Iran,May,995.0
+Iran,November,2844.0
+Iran,October,1943.0
+Iran,September,3880.0
+Iraq,April,302.0
+Iraq,August,538.0
+Iraq,December,444.0
+Iraq,February,451.0
+Iraq,January,320.0
+Iraq,July,431.0
+Iraq,June,406.0
+Iraq,March,379.0
+Iraq,May,344.0
+Iraq,November,256.0
+Iraq,October,351.0
+Iraq,September,474.0
+Ireland,April,2892.0
+Ireland,August,1784.0
+Ireland,December,3454.0
+Ireland,February,2603.0
+Ireland,January,2244.0
+Ireland,July,2277.0
+Ireland,June,1933.0
+Ireland,March,3456.0
+Ireland,May,1165.0
+Ireland,November,2314.0
+Ireland,October,2086.0
+Ireland,September,1388.0
+Israel,April,7650.0
+Israel,August,9690.0
+Israel,December,7447.0
+Israel,February,8722.0
+Israel,January,6078.0
+Israel,July,7251.0
+Israel,June,3156.0
+Israel,March,7053.0
+Israel,May,3415.0
+Israel,November,3207.0
+Israel,October,4344.0
+Israel,September,10266.0
+Italy,April,7846.0
+Italy,August,27880.0
+Italy,December,16772.0
+Italy,February,9271.0
+Italy,January,10243.0
+Italy,July,11536.0
+Italy,June,5737.0
+Italy,March,8028.0
+Italy,May,3352.0
+Italy,November,7523.0
+Italy,October,4791.0
+Italy,September,5851.0
+J,April,0.0
+J,August,0.0
+J,December,0.0
+J,February,0.0
+J,January,0.0
+J,July,0.0
+J,June,0.0
+J,March,0.0
+J,May,0.0
+J,November,0.0
+J,October,0.0
+J,September,0.0
+JAMAICA,April,20.0
+JAMAICA,August,17.0
+JAMAICA,December,20.0
+JAMAICA,February,32.0
+JAMAICA,January,18.0
+JAMAICA,July,14.0
+JAMAICA,June,9.0
+JAMAICA,March,37.0
+JAMAICA,May,6.0
+JAMAICA,November,6.0
+JAMAICA,October,6.0
+JAMAICA,September,8.0
+JAPAN,April,5734.0
+JAPAN,August,8062.0
+JAPAN,December,8546.0
+JAPAN,February,13165.0
+JAPAN,January,11165.0
+JAPAN,July,5116.0
+JAPAN,June,3965.0
+JAPAN,March,9964.0
+JAPAN,May,4815.0
+JAPAN,November,4586.0
+JAPAN,October,4708.0
+JAPAN,September,6739.0
+JORDAN,April,356.0
+JORDAN,August,284.0
+JORDAN,December,840.0
+JORDAN,February,450.0
+JORDAN,January,731.0
+JORDAN,July,192.0
+JORDAN,June,178.0
+JORDAN,March,389.0
+JORDAN,May,35.0
+JORDAN,November,531.0
+JORDAN,October,254.0
+JORDAN,September,154.0
+"JORDAN, THE HASHEMITE KINGDOM OF",April,241.0
+"JORDAN, THE HASHEMITE KINGDOM OF",August,314.0
+"JORDAN, THE HASHEMITE KINGDOM OF",December,392.0
+"JORDAN, THE HASHEMITE KINGDOM OF",February,254.0
+"JORDAN, THE HASHEMITE KINGDOM OF",January,366.0
+"JORDAN, THE HASHEMITE KINGDOM OF",July,230.0
+"JORDAN, THE HASHEMITE KINGDOM OF",June,268.0
+"JORDAN, THE HASHEMITE KINGDOM OF",March,299.0
+"JORDAN, THE HASHEMITE KINGDOM OF",May,117.0
+"JORDAN, THE HASHEMITE KINGDOM OF",November,294.0
+"JORDAN, THE HASHEMITE KINGDOM OF",October,181.0
+"JORDAN, THE HASHEMITE KINGDOM OF",September,200.0
+Jamaica,April,11.0
+Jamaica,August,18.0
+Jamaica,December,25.0
+Jamaica,February,17.0
+Jamaica,January,10.0
+Jamaica,July,17.0
+Jamaica,June,24.0
+Jamaica,March,28.0
+Jamaica,May,13.0
+Jamaica,November,13.0
+Jamaica,October,21.0
+Jamaica,September,21.0
+Japan,April,6890.0
+Japan,August,12127.0
+Japan,December,11258.0
+Japan,February,7289.0
+Japan,January,5460.0
+Japan,July,6901.0
+Japan,June,4924.0
+Japan,March,7551.0
+Japan,May,4741.0
+Japan,November,8134.0
+Japan,October,6258.0
+Japan,September,9719.0
+Jordan,April,1034.0
+Jordan,August,907.0
+Jordan,December,1366.0
+Jordan,February,981.0
+Jordan,January,843.0
+Jordan,July,1324.0
+Jordan,June,1134.0
+Jordan,March,1022.0
+Jordan,May,774.0
+Jordan,November,904.0
+Jordan,October,968.0
+Jordan,September,715.0
+K,April,0.0
+K,August,0.0
+K,December,0.0
+K,February,0.0
+K,January,0.0
+K,July,0.0
+K,June,0.0
+K,March,0.0
+K,May,0.0
+K,November,0.0
+K,October,0.0
+K,September,0.0
+KAZAKHSTAN,April,549.0
+KAZAKHSTAN,August,42.0
+KAZAKHSTAN,December,3160.0
+KAZAKHSTAN,February,2231.0
+KAZAKHSTAN,January,1692.0
+KAZAKHSTAN,July,43.0
+KAZAKHSTAN,June,32.0
+KAZAKHSTAN,March,2258.0
+KAZAKHSTAN,May,15.0
+KAZAKHSTAN,November,305.0
+KAZAKHSTAN,October,98.0
+KAZAKHSTAN,September,61.0
+"KAZAKHSTAN, REPUBLIC OF",April,158.0
+"KAZAKHSTAN, REPUBLIC OF",August,77.0
+"KAZAKHSTAN, REPUBLIC OF",December,431.0
+"KAZAKHSTAN, REPUBLIC OF",February,407.0
+"KAZAKHSTAN, REPUBLIC OF",January,674.0
+"KAZAKHSTAN, REPUBLIC OF",July,112.0
+"KAZAKHSTAN, REPUBLIC OF",June,67.0
+"KAZAKHSTAN, REPUBLIC OF",March,370.0
+"KAZAKHSTAN, REPUBLIC OF",May,73.0
+"KAZAKHSTAN, REPUBLIC OF",November,134.0
+"KAZAKHSTAN, REPUBLIC OF",October,86.0
+"KAZAKHSTAN, REPUBLIC OF",September,132.0
+KENYA,April,53.0
+KENYA,August,616.0
+KENYA,December,153.0
+KENYA,February,108.0
+KENYA,January,113.0
+KENYA,July,37.0
+KENYA,June,24.0
+KENYA,March,57.0
+KENYA,May,16.0
+KENYA,November,66.0
+KENYA,October,37.0
+KENYA,September,428.0
+"KENYA, REPUBLIC OF",April,49.0
+"KENYA, REPUBLIC OF",August,61.0
+"KENYA, REPUBLIC OF",December,195.0
+"KENYA, REPUBLIC OF",February,35.0
+"KENYA, REPUBLIC OF",January,64.0
+"KENYA, REPUBLIC OF",July,95.0
+"KENYA, REPUBLIC OF",June,44.0
+"KENYA, REPUBLIC OF",March,48.0
+"KENYA, REPUBLIC OF",May,59.0
+"KENYA, REPUBLIC OF",November,58.0
+"KENYA, REPUBLIC OF",October,111.0
+"KENYA, REPUBLIC OF",September,55.0
+KIRIBATI,April,2.0
+KIRIBATI,August,0.0
+KIRIBATI,December,0.0
+KIRIBATI,February,0.0
+KIRIBATI,January,1.0
+KIRIBATI,July,1.0
+KIRIBATI,June,1.0
+KIRIBATI,March,0.0
+KIRIBATI,May,0.0
+KIRIBATI,November,0.0
+KIRIBATI,October,1.0
+KIRIBATI,September,2.0
+KOSOVAR,April,1.0
+KOSOVAR,August,3.0
+KOSOVAR,December,5.0
+KOSOVAR,February,15.0
+KOSOVAR,January,12.0
+KOSOVAR,July,2.0
+KOSOVAR,June,0.0
+KOSOVAR,March,0.0
+KOSOVAR,May,0.0
+KOSOVAR,November,7.0
+KOSOVAR,October,3.0
+KOSOVAR,September,5.0
+KOSOVO,April,8.0
+KOSOVO,August,3.0
+KOSOVO,December,4.0
+KOSOVO,February,3.0
+KOSOVO,January,0.0
+KOSOVO,July,5.0
+KOSOVO,June,1.0
+KOSOVO,March,2.0
+KOSOVO,May,0.0
+KOSOVO,November,0.0
+KOSOVO,October,0.0
+KOSOVO,September,6.0
+KUWAIT,April,250.0
+KUWAIT,August,523.0
+KUWAIT,December,429.0
+KUWAIT,February,793.0
+KUWAIT,January,1010.0
+KUWAIT,July,332.0
+KUWAIT,June,159.0
+KUWAIT,March,283.0
+KUWAIT,May,37.0
+KUWAIT,November,169.0
+KUWAIT,October,143.0
+KUWAIT,September,102.0
+"KUWAIT, STATE OF",April,249.0
+"KUWAIT, STATE OF",August,599.0
+"KUWAIT, STATE OF",December,213.0
+"KUWAIT, STATE OF",February,403.0
+"KUWAIT, STATE OF",January,545.0
+"KUWAIT, STATE OF",July,335.0
+"KUWAIT, STATE OF",June,226.0
+"KUWAIT, STATE OF",March,240.0
+"KUWAIT, STATE OF",May,143.0
+"KUWAIT, STATE OF",November,201.0
+"KUWAIT, STATE OF",October,157.0
+"KUWAIT, STATE OF",September,154.0
+KYRGYZSTAN,April,46.0
+KYRGYZSTAN,August,31.0
+KYRGYZSTAN,December,198.0
+KYRGYZSTAN,February,165.0
+KYRGYZSTAN,January,322.0
+KYRGYZSTAN,July,39.0
+KYRGYZSTAN,June,35.0
+KYRGYZSTAN,March,187.0
+KYRGYZSTAN,May,32.0
+KYRGYZSTAN,November,35.0
+KYRGYZSTAN,October,37.0
+KYRGYZSTAN,September,39.0
+Kazakhstan,April,554.0
+Kazakhstan,August,219.0
+Kazakhstan,December,5364.0
+Kazakhstan,February,8294.0
+Kazakhstan,January,8876.0
+Kazakhstan,July,364.0
+Kazakhstan,June,310.0
+Kazakhstan,March,7644.0
+Kazakhstan,May,375.0
+Kazakhstan,November,875.0
+Kazakhstan,October,652.0
+Kazakhstan,September,335.0
+Kenya,April,196.0
+Kenya,August,262.0
+Kenya,December,454.0
+Kenya,February,178.0
+Kenya,January,126.0
+Kenya,July,261.0
+Kenya,June,384.0
+Kenya,March,276.0
+Kenya,May,152.0
+Kenya,November,182.0
+Kenya,October,187.0
+Kenya,September,193.0
+Kiribati,April,0.0
+Kiribati,August,0.0
+Kiribati,December,0.0
+Kiribati,February,0.0
+Kiribati,January,0.0
+Kiribati,July,0.0
+Kiribati,June,2.0
+Kiribati,March,1.0
+Kiribati,May,0.0
+Kiribati,November,0.0
+Kiribati,October,0.0
+Kiribati,September,2.0
+Kosovar,April,12.0
+Kosovar,August,3.0
+Kosovar,December,17.0
+Kosovar,February,4.0
+Kosovar,January,4.0
+Kosovar,July,7.0
+Kosovar,June,3.0
+Kosovar,March,9.0
+Kosovar,May,14.0
+Kosovar,November,8.0
+Kosovar,October,6.0
+Kosovar,September,9.0
+Kosovo,April,7.0
+Kosovo,August,3.0
+Kosovo,December,2.0
+Kosovo,February,12.0
+Kosovo,January,9.0
+Kosovo,July,4.0
+Kosovo,June,1.0
+Kosovo,March,3.0
+Kosovo,May,4.0
+Kosovo,November,16.0
+Kosovo,October,2.0
+Kosovo,September,4.0
+Kuwait,April,597.0
+Kuwait,August,785.0
+Kuwait,December,556.0
+Kuwait,February,849.0
+Kuwait,January,603.0
+Kuwait,July,754.0
+Kuwait,June,649.0
+Kuwait,March,421.0
+Kuwait,May,400.0
+Kuwait,November,302.0
+Kuwait,October,324.0
+Kuwait,September,451.0
+Kyrgyzstan,April,134.0
+Kyrgyzstan,August,141.0
+Kyrgyzstan,December,578.0
+Kyrgyzstan,February,528.0
+Kyrgyzstan,January,594.0
+Kyrgyzstan,July,150.0
+Kyrgyzstan,June,78.0
+Kyrgyzstan,March,348.0
+Kyrgyzstan,May,161.0
+Kyrgyzstan,November,283.0
+Kyrgyzstan,October,132.0
+Kyrgyzstan,September,156.0
+L,April,0.0
+L,August,0.0
+L,December,0.0
+L,February,0.0
+L,January,0.0
+L,July,0.0
+L,June,0.0
+L,March,0.0
+L,May,0.0
+L,November,0.0
+L,October,0.0
+L,September,0.0
+LAO PEOPLES DEM. REP.,April,18.0
+LAO PEOPLES DEM. REP.,August,8.0
+LAO PEOPLES DEM. REP.,December,4.0
+LAO PEOPLES DEM. REP.,February,13.0
+LAO PEOPLES DEM. REP.,January,7.0
+LAO PEOPLES DEM. REP.,July,5.0
+LAO PEOPLES DEM. REP.,June,6.0
+LAO PEOPLES DEM. REP.,March,22.0
+LAO PEOPLES DEM. REP.,May,2.0
+LAO PEOPLES DEM. REP.,November,25.0
+LAO PEOPLES DEM. REP.,October,8.0
+LAO PEOPLES DEM. REP.,September,11.0
+LAO PEOPLES DEM.REP.,April,0.0
+LAO PEOPLES DEM.REP.,August,0.0
+LAO PEOPLES DEM.REP.,December,0.0
+LAO PEOPLES DEM.REP.,February,8.0
+LAO PEOPLES DEM.REP.,January,8.0
+LAO PEOPLES DEM.REP.,July,0.0
+LAO PEOPLES DEM.REP.,June,0.0
+LAO PEOPLES DEM.REP.,March,3.0
+LAO PEOPLES DEM.REP.,May,0.0
+LAO PEOPLES DEM.REP.,November,0.0
+LAO PEOPLES DEM.REP.,October,0.0
+LAO PEOPLES DEM.REP.,September,0.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",April,13.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",August,23.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",December,4.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",February,7.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",January,9.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",July,3.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",June,7.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",March,20.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",May,39.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",November,16.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",October,10.0
+"LAO, PEOPLE'S DEMOCRATIC REPUBLIC",September,7.0
+LATVIA,April,275.0
+LATVIA,August,90.0
+LATVIA,December,808.0
+LATVIA,February,722.0
+LATVIA,January,877.0
+LATVIA,July,59.0
+LATVIA,June,100.0
+LATVIA,March,702.0
+LATVIA,May,106.0
+LATVIA,November,568.0
+LATVIA,October,242.0
+LATVIA,September,179.0
+LEBANON,April,1382.0
+LEBANON,August,1046.0
+LEBANON,December,1376.0
+LEBANON,February,1181.0
+LEBANON,January,959.0
+LEBANON,July,844.0
+LEBANON,June,549.0
+LEBANON,March,1233.0
+LEBANON,May,318.0
+LEBANON,November,930.0
+LEBANON,October,379.0
+LEBANON,September,658.0
+LESOTHO,April,4.0
+LESOTHO,August,2.0
+LESOTHO,December,2.0
+LESOTHO,February,1.0
+LESOTHO,January,5.0
+LESOTHO,July,3.0
+LESOTHO,June,0.0
+LESOTHO,March,0.0
+LESOTHO,May,1.0
+LESOTHO,November,3.0
+LESOTHO,October,1.0
+LESOTHO,September,0.0
+LIBERIA,April,1.0
+LIBERIA,August,3.0
+LIBERIA,December,2.0
+LIBERIA,February,0.0
+LIBERIA,January,3.0
+LIBERIA,July,0.0
+LIBERIA,June,1.0
+LIBERIA,March,2.0
+LIBERIA,May,4.0
+LIBERIA,November,0.0
+LIBERIA,October,3.0
+LIBERIA,September,3.0
+LIBYA,April,21.0
+LIBYA,August,3.0
+LIBYA,December,15.0
+LIBYA,February,8.0
+LIBYA,January,11.0
+LIBYA,July,2.0
+LIBYA,June,10.0
+LIBYA,March,12.0
+LIBYA,May,8.0
+LIBYA,November,11.0
+LIBYA,October,8.0
+LIBYA,September,9.0
+LIBYA(LIBYAN ARAB JAMAHIR,April,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,August,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,December,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,February,7.0
+LIBYA(LIBYAN ARAB JAMAHIR,January,6.0
+LIBYA(LIBYAN ARAB JAMAHIR,July,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,June,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,March,1.0
+LIBYA(LIBYAN ARAB JAMAHIR,May,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,November,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,October,0.0
+LIBYA(LIBYAN ARAB JAMAHIR,September,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),April,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),August,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),December,5.0
+LIBYA(LIBYAN ARAB JAMAHIR),February,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),January,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),July,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),June,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),March,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),May,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),November,2.0
+LIBYA(LIBYAN ARAB JAMAHIR),October,0.0
+LIBYA(LIBYAN ARAB JAMAHIR),September,1.0
+"LIBYA, STATE OF",April,9.0
+"LIBYA, STATE OF",August,6.0
+"LIBYA, STATE OF",December,5.0
+"LIBYA, STATE OF",February,8.0
+"LIBYA, STATE OF",January,7.0
+"LIBYA, STATE OF",July,6.0
+"LIBYA, STATE OF",June,13.0
+"LIBYA, STATE OF",March,8.0
+"LIBYA, STATE OF",May,9.0
+"LIBYA, STATE OF",November,8.0
+"LIBYA, STATE OF",October,10.0
+"LIBYA, STATE OF",September,8.0
+LIECHTENSTEIN,April,12.0
+LIECHTENSTEIN,August,4.0
+LIECHTENSTEIN,December,26.0
+LIECHTENSTEIN,February,24.0
+LIECHTENSTEIN,January,12.0
+LIECHTENSTEIN,July,19.0
+LIECHTENSTEIN,June,1.0
+LIECHTENSTEIN,March,17.0
+LIECHTENSTEIN,May,6.0
+LIECHTENSTEIN,November,17.0
+LIECHTENSTEIN,October,5.0
+LIECHTENSTEIN,September,4.0
+"LIECHTENSTEIN, PRINCIPALITY OF",April,10.0
+"LIECHTENSTEIN, PRINCIPALITY OF",August,6.0
+"LIECHTENSTEIN, PRINCIPALITY OF",December,24.0
+"LIECHTENSTEIN, PRINCIPALITY OF",February,10.0
+"LIECHTENSTEIN, PRINCIPALITY OF",January,5.0
+"LIECHTENSTEIN, PRINCIPALITY OF",July,13.0
+"LIECHTENSTEIN, PRINCIPALITY OF",June,5.0
+"LIECHTENSTEIN, PRINCIPALITY OF",March,23.0
+"LIECHTENSTEIN, PRINCIPALITY OF",May,6.0
+"LIECHTENSTEIN, PRINCIPALITY OF",November,11.0
+"LIECHTENSTEIN, PRINCIPALITY OF",October,6.0
+"LIECHTENSTEIN, PRINCIPALITY OF",September,7.0
+LITHUANIA,April,383.0
+LITHUANIA,August,195.0
+LITHUANIA,December,962.0
+LITHUANIA,February,1546.0
+LITHUANIA,January,1347.0
+LITHUANIA,July,244.0
+LITHUANIA,June,279.0
+LITHUANIA,March,955.0
+LITHUANIA,May,249.0
+LITHUANIA,November,781.0
+LITHUANIA,October,450.0
+LITHUANIA,September,225.0
+LUXEMBOURG,April,304.0
+LUXEMBOURG,August,261.0
+LUXEMBOURG,December,180.0
+LUXEMBOURG,February,211.0
+LUXEMBOURG,January,211.0
+LUXEMBOURG,July,157.0
+LUXEMBOURG,June,27.0
+LUXEMBOURG,March,225.0
+LUXEMBOURG,May,27.0
+LUXEMBOURG,November,138.0
+LUXEMBOURG,October,50.0
+LUXEMBOURG,September,55.0
+Lao People's Democratic Republic,April,14.0
+Lao People's Democratic Republic,August,13.0
+Lao People's Democratic Republic,December,9.0
+Lao People's Democratic Republic,February,31.0
+Lao People's Democratic Republic,January,37.0
+Lao People's Democratic Republic,July,21.0
+Lao People's Democratic Republic,June,28.0
+Lao People's Democratic Republic,March,17.0
+Lao People's Democratic Republic,May,18.0
+Lao People's Democratic Republic,November,9.0
+Lao People's Democratic Republic,October,7.0
+Lao People's Democratic Republic,September,23.0
+Lao Peoples,April,0.0
+Lao Peoples,August,3.0
+Lao Peoples,December,3.0
+Lao Peoples,February,9.0
+Lao Peoples,January,2.0
+Lao Peoples,July,0.0
+Lao Peoples,June,1.0
+Lao Peoples,March,4.0
+Lao Peoples,May,0.0
+Lao Peoples,November,0.0
+Lao Peoples,October,4.0
+Lao Peoples,September,3.0
+"Lao, People's Democratic",April,12.0
+"Lao, People's Democratic",August,9.0
+"Lao, People's Democratic",December,12.0
+"Lao, People's Democratic",February,13.0
+"Lao, People's Democratic",January,4.0
+"Lao, People's Democratic",July,11.0
+"Lao, People's Democratic",June,19.0
+"Lao, People's Democratic",March,11.0
+"Lao, People's Democratic",May,18.0
+"Lao, People's Democratic",November,11.0
+"Lao, People's Democratic",October,1.0
+"Lao, People's Democratic",September,4.0
+"Lao, People's Democratic Republic",April,2.0
+"Lao, People's Democratic Republic",August,9.0
+"Lao, People's Democratic Republic",December,10.0
+"Lao, People's Democratic Republic",February,4.0
+"Lao, People's Democratic Republic",January,17.0
+"Lao, People's Democratic Republic",July,6.0
+"Lao, People's Democratic Republic",June,7.0
+"Lao, People's Democratic Republic",March,16.0
+"Lao, People's Democratic Republic",May,8.0
+"Lao, People's Democratic Republic",November,10.0
+"Lao, People's Democratic Republic",October,6.0
+"Lao, People's Democratic Republic",September,13.0
+Latvia,April,368.0
+Latvia,August,88.0
+Latvia,December,1809.0
+Latvia,February,1635.0
+Latvia,January,1957.0
+Latvia,July,113.0
+Latvia,June,99.0
+Latvia,March,2008.0
+Latvia,May,122.0
+Latvia,November,1301.0
+Latvia,October,455.0
+Latvia,September,116.0
+Lebanon,April,1945.0
+Lebanon,August,792.0
+Lebanon,December,1624.0
+Lebanon,February,991.0
+Lebanon,January,498.0
+Lebanon,July,960.0
+Lebanon,June,921.0
+Lebanon,March,1122.0
+Lebanon,May,669.0
+Lebanon,November,924.0
+Lebanon,October,708.0
+Lebanon,September,774.0
+Lesotho,April,2.0
+Lesotho,August,1.0
+Lesotho,December,6.0
+Lesotho,February,1.0
+Lesotho,January,1.0
+Lesotho,July,3.0
+Lesotho,June,3.0
+Lesotho,March,3.0
+Lesotho,May,7.0
+Lesotho,November,0.0
+Lesotho,October,1.0
+Lesotho,September,4.0
+Liberia,April,0.0
+Liberia,August,1.0
+Liberia,December,1.0
+Liberia,February,6.0
+Liberia,January,2.0
+Liberia,July,5.0
+Liberia,June,2.0
+Liberia,March,4.0
+Liberia,May,1.0
+Liberia,November,6.0
+Liberia,October,3.0
+Liberia,September,4.0
+Libya,April,9.0
+Libya,August,15.0
+Libya,December,39.0
+Libya,February,20.0
+Libya,January,4.0
+Libya,July,10.0
+Libya,June,9.0
+Libya,March,3.0
+Libya,May,16.0
+Libya,November,7.0
+Libya,October,19.0
+Libya,September,4.0
+Libya(Libyan Arab Jamahir),April,4.0
+Libya(Libyan Arab Jamahir),August,11.0
+Libya(Libyan Arab Jamahir),December,4.0
+Libya(Libyan Arab Jamahir),February,6.0
+Libya(Libyan Arab Jamahir),January,4.0
+Libya(Libyan Arab Jamahir),July,3.0
+Libya(Libyan Arab Jamahir),June,3.0
+Libya(Libyan Arab Jamahir),March,1.0
+Libya(Libyan Arab Jamahir),May,5.0
+Libya(Libyan Arab Jamahir),November,7.0
+Libya(Libyan Arab Jamahir),October,3.0
+Libya(Libyan Arab Jamahir),September,6.0
+Liechtenstein,April,49.0
+Liechtenstein,August,14.0
+Liechtenstein,December,55.0
+Liechtenstein,February,28.0
+Liechtenstein,January,21.0
+Liechtenstein,July,35.0
+Liechtenstein,June,13.0
+Liechtenstein,March,19.0
+Liechtenstein,May,22.0
+Liechtenstein,November,32.0
+Liechtenstein,October,18.0
+Liechtenstein,September,9.0
+Lithuania,April,948.0
+Lithuania,August,348.0
+Lithuania,December,2176.0
+Lithuania,February,3806.0
+Lithuania,January,3284.0
+Lithuania,July,483.0
+Lithuania,June,308.0
+Lithuania,March,3308.0
+Lithuania,May,280.0
+Lithuania,November,1586.0
+Lithuania,October,841.0
+Lithuania,September,370.0
+Luxembourg,April,351.0
+Luxembourg,August,349.0
+Luxembourg,December,274.0
+Luxembourg,February,255.0
+Luxembourg,January,189.0
+Luxembourg,July,224.0
+Luxembourg,June,50.0
+Luxembourg,March,235.0
+Luxembourg,May,99.0
+Luxembourg,November,192.0
+Luxembourg,October,79.0
+Luxembourg,September,93.0
+M,April,0.0
+M,August,0.0
+M,December,0.0
+M,February,0.0
+M,January,0.0
+M,July,0.0
+M,June,0.0
+M,March,0.0
+M,May,0.0
+M,November,0.0
+M,October,0.0
+M,September,0.0
+MACEDONIA,April,20.0
+MACEDONIA,August,10.0
+MACEDONIA,December,21.0
+MACEDONIA,February,38.0
+MACEDONIA,January,51.0
+MACEDONIA,July,7.0
+MACEDONIA,June,8.0
+MACEDONIA,March,36.0
+MACEDONIA,May,2.0
+MACEDONIA,November,29.0
+MACEDONIA,October,8.0
+MACEDONIA,September,5.0
+"MACEDONIA, REPUBLIC OF",April,20.0
+"MACEDONIA, REPUBLIC OF",August,19.0
+"MACEDONIA, REPUBLIC OF",December,35.0
+"MACEDONIA, REPUBLIC OF",February,34.0
+"MACEDONIA, REPUBLIC OF",January,44.0
+"MACEDONIA, REPUBLIC OF",July,38.0
+"MACEDONIA, REPUBLIC OF",June,15.0
+"MACEDONIA, REPUBLIC OF",March,34.0
+"MACEDONIA, REPUBLIC OF",May,13.0
+"MACEDONIA, REPUBLIC OF",November,16.0
+"MACEDONIA, REPUBLIC OF",October,16.0
+"MACEDONIA, REPUBLIC OF",September,26.0
+MADAGASCAR,April,13.0
+MADAGASCAR,August,122.0
+MADAGASCAR,December,16.0
+MADAGASCAR,February,34.0
+MADAGASCAR,January,19.0
+MADAGASCAR,July,11.0
+MADAGASCAR,June,9.0
+MADAGASCAR,March,11.0
+MADAGASCAR,May,10.0
+MADAGASCAR,November,19.0
+MADAGASCAR,October,8.0
+MADAGASCAR,September,65.0
+MALAWI,April,3.0
+MALAWI,August,1.0
+MALAWI,December,18.0
+MALAWI,February,6.0
+MALAWI,January,16.0
+MALAWI,July,5.0
+MALAWI,June,0.0
+MALAWI,March,11.0
+MALAWI,May,3.0
+MALAWI,November,12.0
+MALAWI,October,8.0
+MALAWI,September,6.0
+MALAYSIA,April,2830.0
+MALAYSIA,August,3636.0
+MALAYSIA,December,4442.0
+MALAYSIA,February,5217.0
+MALAYSIA,January,4616.0
+MALAYSIA,July,2694.0
+MALAYSIA,June,3246.0
+MALAYSIA,March,4690.0
+MALAYSIA,May,2360.0
+MALAYSIA,November,3659.0
+MALAYSIA,October,2729.0
+MALAYSIA,September,3367.0
+MALDIVES,April,4687.0
+MALDIVES,August,5271.0
+MALDIVES,December,11929.0
+MALDIVES,February,7904.0
+MALDIVES,January,10285.0
+MALDIVES,July,4124.0
+MALDIVES,June,3372.0
+MALDIVES,March,10041.0
+MALDIVES,May,1683.0
+MALDIVES,November,7314.0
+MALDIVES,October,4897.0
+MALDIVES,September,4450.0
+"MALDIVES, REPUBLIC OF",April,5696.0
+"MALDIVES, REPUBLIC OF",August,6880.0
+"MALDIVES, REPUBLIC OF",December,12054.0
+"MALDIVES, REPUBLIC OF",February,4726.0
+"MALDIVES, REPUBLIC OF",January,6124.0
+"MALDIVES, REPUBLIC OF",July,6348.0
+"MALDIVES, REPUBLIC OF",June,5362.0
+"MALDIVES, REPUBLIC OF",March,7239.0
+"MALDIVES, REPUBLIC OF",May,4343.0
+"MALDIVES, REPUBLIC OF",November,7418.0
+"MALDIVES, REPUBLIC OF",October,5223.0
+"MALDIVES, REPUBLIC OF",September,4695.0
+MALI,April,1.0
+MALI,August,0.0
+MALI,December,1.0
+MALI,February,3.0
+MALI,January,6.0
+MALI,July,2.0
+MALI,June,0.0
+MALI,March,5.0
+MALI,May,0.0
+MALI,November,3.0
+MALI,October,2.0
+MALI,September,1.0
+"MALI, REPUBLIC OF",April,2.0
+"MALI, REPUBLIC OF",August,1.0
+"MALI, REPUBLIC OF",December,1.0
+"MALI, REPUBLIC OF",February,1.0
+"MALI, REPUBLIC OF",January,2.0
+"MALI, REPUBLIC OF",July,2.0
+"MALI, REPUBLIC OF",June,0.0
+"MALI, REPUBLIC OF",March,0.0
+"MALI, REPUBLIC OF",May,1.0
+"MALI, REPUBLIC OF",November,4.0
+"MALI, REPUBLIC OF",October,2.0
+"MALI, REPUBLIC OF",September,1.0
+MALTA,April,87.0
+MALTA,August,117.0
+MALTA,December,237.0
+MALTA,February,195.0
+MALTA,January,239.0
+MALTA,July,93.0
+MALTA,June,15.0
+MALTA,March,174.0
+MALTA,May,18.0
+MALTA,November,86.0
+MALTA,October,38.0
+MALTA,September,89.0
+MARSHALL ISLANDS,April,0.0
+MARSHALL ISLANDS,August,0.0
+MARSHALL ISLANDS,December,0.0
+MARSHALL ISLANDS,February,1.0
+MARSHALL ISLANDS,January,0.0
+MARSHALL ISLANDS,July,0.0
+MARSHALL ISLANDS,June,1.0
+MARSHALL ISLANDS,March,0.0
+MARSHALL ISLANDS,May,0.0
+MARSHALL ISLANDS,November,0.0
+MARSHALL ISLANDS,October,0.0
+MARSHALL ISLANDS,September,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",April,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",August,1.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",December,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",February,1.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",January,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",July,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",June,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",March,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",May,1.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",November,1.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",October,0.0
+"MARSHALL ISLANDS, REPUBLIC OF THE",September,0.0
+MAURITANIA,April,2.0
+MAURITANIA,August,0.0
+MAURITANIA,December,0.0
+MAURITANIA,February,2.0
+MAURITANIA,January,19.0
+MAURITANIA,July,3.0
+MAURITANIA,June,0.0
+MAURITANIA,March,0.0
+MAURITANIA,May,0.0
+MAURITANIA,November,1.0
+MAURITANIA,October,2.0
+MAURITANIA,September,1.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",April,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",August,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",December,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",February,1.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",January,1.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",July,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",June,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",March,1.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",May,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",November,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",October,0.0
+"MAURITANIA, ISLAMIC REPUBLIC OF",September,0.0
+MAURITIUS,April,52.0
+MAURITIUS,August,37.0
+MAURITIUS,December,299.0
+MAURITIUS,February,95.0
+MAURITIUS,January,207.0
+MAURITIUS,July,36.0
+MAURITIUS,June,11.0
+MAURITIUS,March,118.0
+MAURITIUS,May,4.0
+MAURITIUS,November,25.0
+MAURITIUS,October,22.0
+MAURITIUS,September,26.0
+"MAURITIUS, REPUBLIC OF",April,40.0
+"MAURITIUS, REPUBLIC OF",August,32.0
+"MAURITIUS, REPUBLIC OF",December,98.0
+"MAURITIUS, REPUBLIC OF",February,100.0
+"MAURITIUS, REPUBLIC OF",January,56.0
+"MAURITIUS, REPUBLIC OF",July,72.0
+"MAURITIUS, REPUBLIC OF",June,34.0
+"MAURITIUS, REPUBLIC OF",March,60.0
+"MAURITIUS, REPUBLIC OF",May,24.0
+"MAURITIUS, REPUBLIC OF",November,97.0
+"MAURITIUS, REPUBLIC OF",October,28.0
+"MAURITIUS, REPUBLIC OF",September,79.0
+MEXICO,April,846.0
+MEXICO,August,124.0
+MEXICO,December,1006.0
+MEXICO,February,404.0
+MEXICO,January,366.0
+MEXICO,July,125.0
+MEXICO,June,92.0
+MEXICO,March,455.0
+MEXICO,May,105.0
+MEXICO,November,221.0
+MEXICO,October,165.0
+MEXICO,September,141.0
+MICRONESIA,April,1.0
+MICRONESIA,August,0.0
+MICRONESIA,December,1.0
+MICRONESIA,February,0.0
+MICRONESIA,January,0.0
+MICRONESIA,July,0.0
+MICRONESIA,June,0.0
+MICRONESIA,March,0.0
+MICRONESIA,May,0.0
+MICRONESIA,November,0.0
+MICRONESIA,October,0.0
+MICRONESIA,September,1.0
+"MICRONESIA, FEDERATED STATES OF",April,0.0
+"MICRONESIA, FEDERATED STATES OF",August,0.0
+"MICRONESIA, FEDERATED STATES OF",December,1.0
+"MICRONESIA, FEDERATED STATES OF",February,1.0
+"MICRONESIA, FEDERATED STATES OF",January,0.0
+"MICRONESIA, FEDERATED STATES OF",July,0.0
+"MICRONESIA, FEDERATED STATES OF",June,0.0
+"MICRONESIA, FEDERATED STATES OF",March,0.0
+"MICRONESIA, FEDERATED STATES OF",May,0.0
+"MICRONESIA, FEDERATED STATES OF",November,0.0
+"MICRONESIA, FEDERATED STATES OF",October,1.0
+"MICRONESIA, FEDERATED STATES OF",September,0.0
+MOLDOVA,April,17.0
+MOLDOVA,August,14.0
+MOLDOVA,December,112.0
+MOLDOVA,February,193.0
+MOLDOVA,January,213.0
+MOLDOVA,July,7.0
+MOLDOVA,June,15.0
+MOLDOVA,March,106.0
+MOLDOVA,May,3.0
+MOLDOVA,November,41.0
+MOLDOVA,October,19.0
+MOLDOVA,September,20.0
+"MOLDOVA, REPUBLIC OF",April,30.0
+"MOLDOVA, REPUBLIC OF",August,23.0
+"MOLDOVA, REPUBLIC OF",December,53.0
+"MOLDOVA, REPUBLIC OF",February,56.0
+"MOLDOVA, REPUBLIC OF",January,100.0
+"MOLDOVA, REPUBLIC OF",July,14.0
+"MOLDOVA, REPUBLIC OF",June,11.0
+"MOLDOVA, REPUBLIC OF",March,68.0
+"MOLDOVA, REPUBLIC OF",May,18.0
+"MOLDOVA, REPUBLIC OF",November,42.0
+"MOLDOVA, REPUBLIC OF",October,11.0
+"MOLDOVA, REPUBLIC OF",September,26.0
+MONACO,April,17.0
+MONACO,August,7.0
+MONACO,December,5.0
+MONACO,February,8.0
+MONACO,January,6.0
+MONACO,July,2.0
+MONACO,June,0.0
+MONACO,March,2.0
+MONACO,May,0.0
+MONACO,November,1.0
+MONACO,October,0.0
+MONACO,September,1.0
+"MONACO, PRINCIPALITY OF",April,1.0
+"MONACO, PRINCIPALITY OF",August,8.0
+"MONACO, PRINCIPALITY OF",December,24.0
+"MONACO, PRINCIPALITY OF",February,7.0
+"MONACO, PRINCIPALITY OF",January,5.0
+"MONACO, PRINCIPALITY OF",July,2.0
+"MONACO, PRINCIPALITY OF",June,1.0
+"MONACO, PRINCIPALITY OF",March,9.0
+"MONACO, PRINCIPALITY OF",May,1.0
+"MONACO, PRINCIPALITY OF",November,1.0
+"MONACO, PRINCIPALITY OF",October,2.0
+"MONACO, PRINCIPALITY OF",September,0.0
+MONGOLIA,April,13.0
+MONGOLIA,August,12.0
+MONGOLIA,December,59.0
+MONGOLIA,February,42.0
+MONGOLIA,January,72.0
+MONGOLIA,July,27.0
+MONGOLIA,June,14.0
+MONGOLIA,March,62.0
+MONGOLIA,May,12.0
+MONGOLIA,November,26.0
+MONGOLIA,October,13.0
+MONGOLIA,September,35.0
+MONTENEGRO,April,25.0
+MONTENEGRO,August,42.0
+MONTENEGRO,December,34.0
+MONTENEGRO,February,70.0
+MONTENEGRO,January,77.0
+MONTENEGRO,July,11.0
+MONTENEGRO,June,76.0
+MONTENEGRO,March,55.0
+MONTENEGRO,May,17.0
+MONTENEGRO,November,79.0
+MONTENEGRO,October,22.0
+MONTENEGRO,September,21.0
+MOROCCO,April,102.0
+MOROCCO,August,87.0
+MOROCCO,December,216.0
+MOROCCO,February,233.0
+MOROCCO,January,253.0
+MOROCCO,July,49.0
+MOROCCO,June,45.0
+MOROCCO,March,197.0
+MOROCCO,May,6.0
+MOROCCO,November,113.0
+MOROCCO,October,56.0
+MOROCCO,September,70.0
+"MOROCCO, KINGDOM OF",April,98.0
+"MOROCCO, KINGDOM OF",August,127.0
+"MOROCCO, KINGDOM OF",December,147.0
+"MOROCCO, KINGDOM OF",February,101.0
+"MOROCCO, KINGDOM OF",January,86.0
+"MOROCCO, KINGDOM OF",July,72.0
+"MOROCCO, KINGDOM OF",June,60.0
+"MOROCCO, KINGDOM OF",March,97.0
+"MOROCCO, KINGDOM OF",May,31.0
+"MOROCCO, KINGDOM OF",November,81.0
+"MOROCCO, KINGDOM OF",October,73.0
+"MOROCCO, KINGDOM OF",September,63.0
+MOZAMBIQUE,April,2.0
+MOZAMBIQUE,August,5.0
+MOZAMBIQUE,December,16.0
+MOZAMBIQUE,February,7.0
+MOZAMBIQUE,January,13.0
+MOZAMBIQUE,July,1.0
+MOZAMBIQUE,June,0.0
+MOZAMBIQUE,March,3.0
+MOZAMBIQUE,May,0.0
+MOZAMBIQUE,November,3.0
+MOZAMBIQUE,October,0.0
+MOZAMBIQUE,September,6.0
+"MOZAMBIQUE, REPUBLIC OF",April,2.0
+"MOZAMBIQUE, REPUBLIC OF",August,5.0
+"MOZAMBIQUE, REPUBLIC OF",December,7.0
+"MOZAMBIQUE, REPUBLIC OF",February,24.0
+"MOZAMBIQUE, REPUBLIC OF",January,2.0
+"MOZAMBIQUE, REPUBLIC OF",July,3.0
+"MOZAMBIQUE, REPUBLIC OF",June,1.0
+"MOZAMBIQUE, REPUBLIC OF",March,1.0
+"MOZAMBIQUE, REPUBLIC OF",May,0.0
+"MOZAMBIQUE, REPUBLIC OF",November,1.0
+"MOZAMBIQUE, REPUBLIC OF",October,4.0
+"MOZAMBIQUE, REPUBLIC OF",September,2.0
+MYANMAR,April,164.0
+MYANMAR,August,656.0
+MYANMAR,December,294.0
+MYANMAR,February,492.0
+MYANMAR,January,439.0
+MYANMAR,July,185.0
+MYANMAR,June,151.0
+MYANMAR,March,439.0
+MYANMAR,May,165.0
+MYANMAR,November,243.0
+MYANMAR,October,200.0
+MYANMAR,September,267.0
+"MYANMAR, REPUBLIC OF THE UNION OF",April,309.0
+"MYANMAR, REPUBLIC OF THE UNION OF",August,695.0
+"MYANMAR, REPUBLIC OF THE UNION OF",December,431.0
+"MYANMAR, REPUBLIC OF THE UNION OF",February,123.0
+"MYANMAR, REPUBLIC OF THE UNION OF",January,372.0
+"MYANMAR, REPUBLIC OF THE UNION OF",July,230.0
+"MYANMAR, REPUBLIC OF THE UNION OF",June,127.0
+"MYANMAR, REPUBLIC OF THE UNION OF",March,172.0
+"MYANMAR, REPUBLIC OF THE UNION OF",May,113.0
+"MYANMAR, REPUBLIC OF THE UNION OF",November,372.0
+"MYANMAR, REPUBLIC OF THE UNION OF",October,138.0
+"MYANMAR, REPUBLIC OF THE UNION OF",September,159.0
+Macedonia,April,81.0
+Macedonia,August,36.0
+Macedonia,December,94.0
+Macedonia,February,76.0
+Macedonia,January,57.0
+Macedonia,July,50.0
+Macedonia,June,27.0
+Macedonia,March,64.0
+Macedonia,May,53.0
+Macedonia,November,46.0
+Macedonia,October,102.0
+Macedonia,September,52.0
+Madagascar,April,34.0
+Madagascar,August,37.0
+Madagascar,December,53.0
+Madagascar,February,31.0
+Madagascar,January,37.0
+Madagascar,July,60.0
+Madagascar,June,74.0
+Madagascar,March,50.0
+Madagascar,May,33.0
+Madagascar,November,43.0
+Madagascar,October,39.0
+Madagascar,September,34.0
+Malawi,April,10.0
+Malawi,August,9.0
+Malawi,December,17.0
+Malawi,February,9.0
+Malawi,January,8.0
+Malawi,July,14.0
+Malawi,June,15.0
+Malawi,March,11.0
+Malawi,May,13.0
+Malawi,November,23.0
+Malawi,October,19.0
+Malawi,September,6.0
+Malaysia,April,3742.0
+Malaysia,August,5070.0
+Malaysia,December,6277.0
+Malaysia,February,4469.0
+Malaysia,January,3876.0
+Malaysia,July,4346.0
+Malaysia,June,4154.0
+Malaysia,March,4970.0
+Malaysia,May,4172.0
+Malaysia,November,5056.0
+Malaysia,October,3875.0
+Malaysia,September,5655.0
+Maldives,April,7617.0
+Maldives,August,9754.0
+Maldives,December,20202.0
+Maldives,February,9428.0
+Maldives,January,10522.0
+Maldives,July,15345.0
+Maldives,June,13476.0
+Maldives,March,7178.0
+Maldives,May,14333.0
+Maldives,November,9385.0
+Maldives,October,11465.0
+Maldives,September,11890.0
+Mali,April,2.0
+Mali,August,5.0
+Mali,December,1.0
+Mali,February,1.0
+Mali,January,3.0
+Mali,July,3.0
+Mali,June,4.0
+Mali,March,3.0
+Mali,May,5.0
+Mali,November,3.0
+Mali,October,6.0
+Mali,September,15.0
+Malta,April,223.0
+Malta,August,379.0
+Malta,December,638.0
+Malta,February,298.0
+Malta,January,274.0
+Malta,July,204.0
+Malta,June,96.0
+Malta,March,247.0
+Malta,May,66.0
+Malta,November,182.0
+Malta,October,100.0
+Malta,September,367.0
+Marshall Islands,April,2.0
+Marshall Islands,August,5.0
+Marshall Islands,December,0.0
+Marshall Islands,February,0.0
+Marshall Islands,January,3.0
+Marshall Islands,July,0.0
+Marshall Islands,June,0.0
+Marshall Islands,March,1.0
+Marshall Islands,May,0.0
+Marshall Islands,November,0.0
+Marshall Islands,October,1.0
+Marshall Islands,September,0.0
+Mauritania,April,4.0
+Mauritania,August,0.0
+Mauritania,December,3.0
+Mauritania,February,1.0
+Mauritania,January,1.0
+Mauritania,July,3.0
+Mauritania,June,1.0
+Mauritania,March,9.0
+Mauritania,May,4.0
+Mauritania,November,2.0
+Mauritania,October,4.0
+Mauritania,September,2.0
+Mauritius,April,173.0
+Mauritius,August,143.0
+Mauritius,December,629.0
+Mauritius,February,178.0
+Mauritius,January,123.0
+Mauritius,July,142.0
+Mauritius,June,93.0
+Mauritius,March,157.0
+Mauritius,May,113.0
+Mauritius,November,357.0
+Mauritius,October,116.0
+Mauritius,September,103.0
+Mexico,April,379.0
+Mexico,August,191.0
+Mexico,December,500.0
+Mexico,February,286.0
+Mexico,January,218.0
+Mexico,July,150.0
+Mexico,June,145.0
+Mexico,March,369.0
+Mexico,May,209.0
+Mexico,November,355.0
+Mexico,October,267.0
+Mexico,September,308.0
+Micronesia,April,0.0
+Micronesia,August,1.0
+Micronesia,December,1.0
+Micronesia,February,0.0
+Micronesia,January,0.0
+Micronesia,July,0.0
+Micronesia,June,0.0
+Micronesia,March,1.0
+Micronesia,May,0.0
+Micronesia,November,0.0
+Micronesia,October,1.0
+Micronesia,September,0.0
+Moldova,April,131.0
+Moldova,August,31.0
+Moldova,December,362.0
+Moldova,February,436.0
+Moldova,January,409.0
+Moldova,July,37.0
+Moldova,June,30.0
+Moldova,March,235.0
+Moldova,May,39.0
+Moldova,November,191.0
+Moldova,October,90.0
+Moldova,September,41.0
+Monaco,April,12.0
+Monaco,August,3.0
+Monaco,December,40.0
+Monaco,February,14.0
+Monaco,January,12.0
+Monaco,July,8.0
+Monaco,June,1.0
+Monaco,March,13.0
+Monaco,May,3.0
+Monaco,November,2.0
+Monaco,October,6.0
+Monaco,September,5.0
+Mongolia,April,41.0
+Mongolia,August,43.0
+Mongolia,December,60.0
+Mongolia,February,44.0
+Mongolia,January,59.0
+Mongolia,July,33.0
+Mongolia,June,41.0
+Mongolia,March,26.0
+Mongolia,May,31.0
+Mongolia,November,59.0
+Mongolia,October,40.0
+Mongolia,September,65.0
+Montenegro,April,52.0
+Montenegro,August,21.0
+Montenegro,December,113.0
+Montenegro,February,52.0
+Montenegro,January,82.0
+Montenegro,July,14.0
+Montenegro,June,5.0
+Montenegro,March,55.0
+Montenegro,May,11.0
+Montenegro,November,56.0
+Montenegro,October,28.0
+Montenegro,September,5.0
+Morocco,April,314.0
+Morocco,August,354.0
+Morocco,December,428.0
+Morocco,February,304.0
+Morocco,January,220.0
+Morocco,July,278.0
+Morocco,June,270.0
+Morocco,March,248.0
+Morocco,May,251.0
+Morocco,November,271.0
+Morocco,October,251.0
+Morocco,September,226.0
+Mozambique,April,3.0
+Mozambique,August,4.0
+Mozambique,December,30.0
+Mozambique,February,13.0
+Mozambique,January,14.0
+Mozambique,July,8.0
+Mozambique,June,9.0
+Mozambique,March,9.0
+Mozambique,May,11.0
+Mozambique,November,9.0
+Mozambique,October,12.0
+Mozambique,September,13.0
+Myanmar,April,377.0
+Myanmar,August,1309.0
+Myanmar,December,365.0
+Myanmar,February,242.0
+Myanmar,January,254.0
+Myanmar,July,695.0
+Myanmar,June,312.0
+Myanmar,March,296.0
+Myanmar,May,392.0
+Myanmar,November,597.0
+Myanmar,October,342.0
+Myanmar,September,279.0
+N,April,0.0
+N,August,0.0
+N,December,0.0
+N,February,0.0
+N,January,0.0
+N,July,0.0
+N,June,0.0
+N,March,0.0
+N,May,0.0
+N,November,0.0
+N,October,0.0
+N,September,0.0
+NAMIBIA,April,15.0
+NAMIBIA,August,7.0
+NAMIBIA,December,26.0
+NAMIBIA,February,14.0
+NAMIBIA,January,7.0
+NAMIBIA,July,2.0
+NAMIBIA,June,5.0
+NAMIBIA,March,19.0
+NAMIBIA,May,1.0
+NAMIBIA,November,6.0
+NAMIBIA,October,5.0
+NAMIBIA,September,4.0
+NAURU,April,0.0
+NAURU,August,0.0
+NAURU,December,0.0
+NAURU,February,1.0
+NAURU,January,0.0
+NAURU,July,0.0
+NAURU,June,0.0
+NAURU,March,1.0
+NAURU,May,0.0
+NAURU,November,0.0
+NAURU,October,0.0
+NAURU,September,0.0
+NEPAL,April,452.0
+NEPAL,August,402.0
+NEPAL,December,805.0
+NEPAL,February,1028.0
+NEPAL,January,1084.0
+NEPAL,July,410.0
+NEPAL,June,265.0
+NEPAL,March,653.0
+NEPAL,May,333.0
+NEPAL,November,574.0
+NEPAL,October,685.0
+NEPAL,September,432.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",April,366.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",August,444.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",December,480.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",February,401.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",January,566.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",July,352.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",June,444.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",March,367.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",May,472.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",November,391.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",October,642.0
+"NEPAL, FEDERAL DEMOCRATIC REPUBLIC OF",September,377.0
+NETHERLAND ANTILLES,April,0.0
+NETHERLAND ANTILLES,August,0.0
+NETHERLAND ANTILLES,December,0.0
+NETHERLAND ANTILLES,February,0.0
+NETHERLAND ANTILLES,January,0.0
+NETHERLAND ANTILLES,July,0.0
+NETHERLAND ANTILLES,June,0.0
+NETHERLAND ANTILLES,March,1.0
+NETHERLAND ANTILLES,May,0.0
+NETHERLAND ANTILLES,November,0.0
+NETHERLAND ANTILLES,October,0.0
+NETHERLAND ANTILLES,September,0.0
+NETHERLANDS,April,7564.0
+NETHERLANDS,August,9817.0
+NETHERLANDS,December,8325.0
+NETHERLANDS,February,13649.0
+NETHERLANDS,January,13718.0
+NETHERLANDS,July,19799.0
+NETHERLANDS,June,3066.0
+NETHERLANDS,March,10786.0
+NETHERLANDS,May,2437.0
+NETHERLANDS,November,6131.0
+NETHERLANDS,October,5123.0
+NETHERLANDS,September,6816.0
+NEW ZEALAND,April,3037.0
+NEW ZEALAND,August,2095.0
+NEW ZEALAND,December,3968.0
+NEW ZEALAND,February,2717.0
+NEW ZEALAND,January,3094.0
+NEW ZEALAND,July,2379.0
+NEW ZEALAND,June,2234.0
+NEW ZEALAND,March,2750.0
+NEW ZEALAND,May,1010.0
+NEW ZEALAND,November,2139.0
+NEW ZEALAND,October,1634.0
+NEW ZEALAND,September,1880.0
+NICARAGUA,April,7.0
+NICARAGUA,August,1.0
+NICARAGUA,December,7.0
+NICARAGUA,February,0.0
+NICARAGUA,January,5.0
+NICARAGUA,July,2.0
+NICARAGUA,June,2.0
+NICARAGUA,March,8.0
+NICARAGUA,May,1.0
+NICARAGUA,November,3.0
+NICARAGUA,October,2.0
+NICARAGUA,September,1.0
+NIGER,April,1.0
+NIGER,August,0.0
+NIGER,December,0.0
+NIGER,February,0.0
+NIGER,January,0.0
+NIGER,July,3.0
+NIGER,June,1.0
+NIGER,March,3.0
+NIGER,May,1.0
+NIGER,November,1.0
+NIGER,October,0.0
+NIGER,September,4.0
+"NIGER,REPUBLIC OF",April,0.0
+"NIGER,REPUBLIC OF",August,0.0
+"NIGER,REPUBLIC OF",December,0.0
+"NIGER,REPUBLIC OF",February,0.0
+"NIGER,REPUBLIC OF",January,0.0
+"NIGER,REPUBLIC OF",July,0.0
+"NIGER,REPUBLIC OF",June,0.0
+"NIGER,REPUBLIC OF",March,1.0
+"NIGER,REPUBLIC OF",May,0.0
+"NIGER,REPUBLIC OF",November,0.0
+"NIGER,REPUBLIC OF",October,0.0
+"NIGER,REPUBLIC OF",September,0.0
+NIGERIA,April,6.0
+NIGERIA,August,8.0
+NIGERIA,December,23.0
+NIGERIA,February,26.0
+NIGERIA,January,55.0
+NIGERIA,July,20.0
+NIGERIA,June,5.0
+NIGERIA,March,16.0
+NIGERIA,May,4.0
+NIGERIA,November,14.0
+NIGERIA,October,13.0
+NIGERIA,September,18.0
+"NIGERIA, FEDERAL REPUBLIC OF",April,28.0
+"NIGERIA, FEDERAL REPUBLIC OF",August,28.0
+"NIGERIA, FEDERAL REPUBLIC OF",December,27.0
+"NIGERIA, FEDERAL REPUBLIC OF",February,38.0
+"NIGERIA, FEDERAL REPUBLIC OF",January,44.0
+"NIGERIA, FEDERAL REPUBLIC OF",July,24.0
+"NIGERIA, FEDERAL REPUBLIC OF",June,22.0
+"NIGERIA, FEDERAL REPUBLIC OF",March,42.0
+"NIGERIA, FEDERAL REPUBLIC OF",May,39.0
+"NIGERIA, FEDERAL REPUBLIC OF",November,37.0
+"NIGERIA, FEDERAL REPUBLIC OF",October,36.0
+"NIGERIA, FEDERAL REPUBLIC OF",September,47.0
+NORTH KOREA,April,0.0
+NORTH KOREA,August,0.0
+NORTH KOREA,December,0.0
+NORTH KOREA,February,2.0
+NORTH KOREA,January,0.0
+NORTH KOREA,July,0.0
+NORTH KOREA,June,0.0
+NORTH KOREA,March,1.0
+NORTH KOREA,May,0.0
+NORTH KOREA,November,0.0
+NORTH KOREA,October,0.0
+NORTH KOREA,September,34.0
+NORWAY,April,1263.0
+NORWAY,August,739.0
+NORWAY,December,1834.0
+NORWAY,February,3371.0
+NORWAY,January,3285.0
+NORWAY,July,1748.0
+NORWAY,June,1331.0
+NORWAY,March,1635.0
+NORWAY,May,174.0
+NORWAY,November,984.0
+NORWAY,October,664.0
+NORWAY,September,578.0
+"NORWAY, KINGDOM OF",April,690.0
+"NORWAY, KINGDOM OF",August,952.0
+"NORWAY, KINGDOM OF",December,1852.0
+"NORWAY, KINGDOM OF",February,1722.0
+"NORWAY, KINGDOM OF",January,1851.0
+"NORWAY, KINGDOM OF",July,3067.0
+"NORWAY, KINGDOM OF",June,2272.0
+"NORWAY, KINGDOM OF",March,1784.0
+"NORWAY, KINGDOM OF",May,511.0
+"NORWAY, KINGDOM OF",November,1090.0
+"NORWAY, KINGDOM OF",October,821.0
+"NORWAY, KINGDOM OF",September,605.0
+Namibia,April,14.0
+Namibia,August,4.0
+Namibia,December,18.0
+Namibia,February,16.0
+Namibia,January,6.0
+Namibia,July,11.0
+Namibia,June,3.0
+Namibia,March,8.0
+Namibia,May,14.0
+Namibia,November,6.0
+Namibia,October,2.0
+Namibia,September,8.0
+Nauru,April,0.0
+Nauru,August,4.0
+Nauru,December,0.0
+Nauru,February,0.0
+Nauru,January,0.0
+Nauru,July,0.0
+Nauru,June,5.0
+Nauru,March,2.0
+Nauru,May,0.0
+Nauru,November,0.0
+Nauru,October,0.0
+Nauru,September,0.0
+Nepal,April,1131.0
+Nepal,August,1361.0
+Nepal,December,1632.0
+Nepal,February,1226.0
+Nepal,January,1706.0
+Nepal,July,1224.0
+Nepal,June,956.0
+Nepal,March,1097.0
+Nepal,May,1085.0
+Nepal,November,1378.0
+Nepal,October,1729.0
+Nepal,September,1469.0
+Netherlands,April,11081.0
+Netherlands,August,15887.0
+Netherlands,December,12096.0
+Netherlands,February,12317.0
+Netherlands,January,13670.0
+Netherlands,July,35836.0
+Netherlands,June,6039.0
+Netherlands,March,11540.0
+Netherlands,May,5729.0
+Netherlands,November,10344.0
+Netherlands,October,8976.0
+Netherlands,September,11808.0
+Netherlands Antilles,April,0.0
+Netherlands Antilles,August,0.0
+Netherlands Antilles,December,0.0
+Netherlands Antilles,February,0.0
+Netherlands Antilles,January,0.0
+Netherlands Antilles,July,0.0
+Netherlands Antilles,June,0.0
+Netherlands Antilles,March,0.0
+Netherlands Antilles,May,0.0
+Netherlands Antilles,November,1.0
+Netherlands Antilles,October,0.0
+Netherlands Antilles,September,1.0
+New Zealand,April,3506.0
+New Zealand,August,2796.0
+New Zealand,December,5327.0
+New Zealand,February,1785.0
+New Zealand,January,2235.0
+New Zealand,July,3096.0
+New Zealand,June,2943.0
+New Zealand,March,2786.0
+New Zealand,May,2225.0
+New Zealand,November,3097.0
+New Zealand,October,2654.0
+New Zealand,September,3067.0
+Nicaragua,April,3.0
+Nicaragua,August,2.0
+Nicaragua,December,6.0
+Nicaragua,February,5.0
+Nicaragua,January,3.0
+Nicaragua,July,1.0
+Nicaragua,June,5.0
+Nicaragua,March,7.0
+Nicaragua,May,2.0
+Nicaragua,November,4.0
+Nicaragua,October,2.0
+Nicaragua,September,6.0
+Niger,April,1.0
+Niger,August,2.0
+Niger,December,0.0
+Niger,February,3.0
+Niger,January,1.0
+Niger,July,1.0
+Niger,June,1.0
+Niger,March,0.0
+Niger,May,2.0
+Niger,November,0.0
+Niger,October,3.0
+Niger,September,1.0
+Nigeria,April,21.0
+Nigeria,August,25.0
+Nigeria,December,30.0
+Nigeria,February,20.0
+Nigeria,January,30.0
+Nigeria,July,29.0
+Nigeria,June,28.0
+Nigeria,March,15.0
+Nigeria,May,18.0
+Nigeria,November,43.0
+Nigeria,October,62.0
+Nigeria,September,55.0
+North Korea,April,0.0
+North Korea,August,0.0
+North Korea,December,0.0
+North Korea,February,0.0
+North Korea,January,0.0
+North Korea,July,0.0
+North Korea,June,0.0
+North Korea,March,0.0
+North Korea,May,0.0
+North Korea,November,0.0
+North Korea,October,2.0
+North Korea,September,0.0
+Norway,April,2500.0
+Norway,August,1776.0
+Norway,December,4669.0
+Norway,February,3891.0
+Norway,January,4110.0
+Norway,July,6182.0
+Norway,June,5227.0
+Norway,March,3409.0
+Norway,May,1270.0
+Norway,November,2705.0
+Norway,October,1667.0
+Norway,September,1755.0
+O,April,0.0
+O,August,0.0
+O,December,0.0
+O,February,0.0
+O,January,0.0
+O,July,0.0
+O,June,0.0
+O,March,0.0
+O,May,0.0
+O,November,0.0
+O,October,0.0
+O,September,0.0
+OMAN,April,282.0
+OMAN,August,337.0
+OMAN,December,450.0
+OMAN,February,584.0
+OMAN,January,1332.0
+OMAN,July,891.0
+OMAN,June,324.0
+OMAN,March,373.0
+OMAN,May,15.0
+OMAN,November,433.0
+OMAN,October,189.0
+OMAN,September,198.0
+"OMAN, SULTANATE OF",April,306.0
+"OMAN, SULTANATE OF",August,965.0
+"OMAN, SULTANATE OF",December,274.0
+"OMAN, SULTANATE OF",February,573.0
+"OMAN, SULTANATE OF",January,842.0
+"OMAN, SULTANATE OF",July,2171.0
+"OMAN, SULTANATE OF",June,539.0
+"OMAN, SULTANATE OF",March,268.0
+"OMAN, SULTANATE OF",May,84.0
+"OMAN, SULTANATE OF",November,310.0
+"OMAN, SULTANATE OF",October,209.0
+"OMAN, SULTANATE OF",September,305.0
+Oman,April,390.0
+Oman,August,1302.0
+Oman,December,558.0
+Oman,February,684.0
+Oman,January,676.0
+Oman,July,1705.0
+Oman,June,855.0
+Oman,March,209.0
+Oman,May,415.0
+Oman,November,546.0
+Oman,October,490.0
+Oman,September,484.0
+P,April,0.0
+P,August,0.0
+P,December,0.0
+P,February,0.0
+P,January,0.0
+P,July,0.0
+P,June,0.0
+P,March,0.0
+P,May,0.0
+P,November,0.0
+P,October,0.0
+P,September,0.0
+PAKISTAN,April,866.0
+PAKISTAN,August,3292.0
+PAKISTAN,December,2435.0
+PAKISTAN,February,2675.0
+PAKISTAN,January,2940.0
+PAKISTAN,July,893.0
+PAKISTAN,June,534.0
+PAKISTAN,March,1600.0
+PAKISTAN,May,178.0
+PAKISTAN,November,3651.0
+PAKISTAN,October,3102.0
+PAKISTAN,September,3074.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",April,1384.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",August,1709.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",December,2066.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",February,1734.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",January,2099.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",July,1924.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",June,1454.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",March,1589.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",May,1150.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",November,1401.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",October,1381.0
+"PAKISTAN, ISLAMIC REPUBLIC OF",September,1225.0
+PALAU,April,0.0
+PALAU,August,5.0
+PALAU,December,0.0
+PALAU,February,0.0
+PALAU,January,0.0
+PALAU,July,0.0
+PALAU,June,0.0
+PALAU,March,0.0
+PALAU,May,0.0
+PALAU,November,0.0
+PALAU,October,0.0
+PALAU,September,0.0
+PALESTINIAN TERRITORIES,April,162.0
+PALESTINIAN TERRITORIES,August,306.0
+PALESTINIAN TERRITORIES,December,217.0
+PALESTINIAN TERRITORIES,February,156.0
+PALESTINIAN TERRITORIES,January,276.0
+PALESTINIAN TERRITORIES,July,232.0
+PALESTINIAN TERRITORIES,June,168.0
+PALESTINIAN TERRITORIES,March,147.0
+PALESTINIAN TERRITORIES,May,67.0
+PALESTINIAN TERRITORIES,November,162.0
+PALESTINIAN TERRITORIES,October,122.0
+PALESTINIAN TERRITORIES,September,130.0
+PANAMA,April,2.0
+PANAMA,August,0.0
+PANAMA,December,1.0
+PANAMA,February,24.0
+PANAMA,January,14.0
+PANAMA,July,2.0
+PANAMA,June,1.0
+PANAMA,March,1.0
+PANAMA,May,0.0
+PANAMA,November,12.0
+PANAMA,October,0.0
+PANAMA,September,4.0
+"PANAMA, REPUBLIC OF",April,10.0
+"PANAMA, REPUBLIC OF",August,3.0
+"PANAMA, REPUBLIC OF",December,4.0
+"PANAMA, REPUBLIC OF",February,7.0
+"PANAMA, REPUBLIC OF",January,5.0
+"PANAMA, REPUBLIC OF",July,0.0
+"PANAMA, REPUBLIC OF",June,5.0
+"PANAMA, REPUBLIC OF",March,2.0
+"PANAMA, REPUBLIC OF",May,3.0
+"PANAMA, REPUBLIC OF",November,9.0
+"PANAMA, REPUBLIC OF",October,5.0
+"PANAMA, REPUBLIC OF",September,1.0
+PAPUA NEW GUINEA,April,8.0
+PAPUA NEW GUINEA,August,24.0
+PAPUA NEW GUINEA,December,50.0
+PAPUA NEW GUINEA,February,3.0
+PAPUA NEW GUINEA,January,11.0
+PAPUA NEW GUINEA,July,10.0
+PAPUA NEW GUINEA,June,6.0
+PAPUA NEW GUINEA,March,13.0
+PAPUA NEW GUINEA,May,3.0
+PAPUA NEW GUINEA,November,41.0
+PAPUA NEW GUINEA,October,6.0
+PAPUA NEW GUINEA,September,15.0
+PARAGUAY,April,5.0
+PARAGUAY,August,6.0
+PARAGUAY,December,5.0
+PARAGUAY,February,8.0
+PARAGUAY,January,7.0
+PARAGUAY,July,3.0
+PARAGUAY,June,1.0
+PARAGUAY,March,13.0
+PARAGUAY,May,1.0
+PARAGUAY,November,5.0
+PARAGUAY,October,3.0
+PARAGUAY,September,2.0
+PERU,April,40.0
+PERU,August,15.0
+PERU,December,50.0
+PERU,February,77.0
+PERU,January,63.0
+PERU,July,17.0
+PERU,June,16.0
+PERU,March,65.0
+PERU,May,9.0
+PERU,November,21.0
+PERU,October,18.0
+PERU,September,22.0
+"PERU, REPUBLIC OF",April,32.0
+"PERU, REPUBLIC OF",August,21.0
+"PERU, REPUBLIC OF",December,32.0
+"PERU, REPUBLIC OF",February,50.0
+"PERU, REPUBLIC OF",January,27.0
+"PERU, REPUBLIC OF",July,20.0
+"PERU, REPUBLIC OF",June,6.0
+"PERU, REPUBLIC OF",March,32.0
+"PERU, REPUBLIC OF",May,21.0
+"PERU, REPUBLIC OF",November,20.0
+"PERU, REPUBLIC OF",October,20.0
+"PERU, REPUBLIC OF",September,20.0
+PHILIPPINES,April,1336.0
+PHILIPPINES,August,1142.0
+PHILIPPINES,December,1352.0
+PHILIPPINES,February,3390.0
+PHILIPPINES,January,2449.0
+PHILIPPINES,July,1120.0
+PHILIPPINES,June,1004.0
+PHILIPPINES,March,2581.0
+PHILIPPINES,May,785.0
+PHILIPPINES,November,1445.0
+PHILIPPINES,October,1361.0
+PHILIPPINES,September,1403.0
+"PHILIPPINES, REPUBLIC OF",April,1631.0
+"PHILIPPINES, REPUBLIC OF",August,1723.0
+"PHILIPPINES, REPUBLIC OF",December,1427.0
+"PHILIPPINES, REPUBLIC OF",February,1744.0
+"PHILIPPINES, REPUBLIC OF",January,1667.0
+"PHILIPPINES, REPUBLIC OF",July,1681.0
+"PHILIPPINES, REPUBLIC OF",June,1673.0
+"PHILIPPINES, REPUBLIC OF",March,1775.0
+"PHILIPPINES, REPUBLIC OF",May,1656.0
+"PHILIPPINES, REPUBLIC OF",November,1560.0
+"PHILIPPINES, REPUBLIC OF",October,1460.0
+"PHILIPPINES, REPUBLIC OF",September,1306.0
+POLAND,April,2103.0
+POLAND,August,1613.0
+POLAND,December,7273.0
+POLAND,February,11201.0
+POLAND,January,12671.0
+POLAND,July,2052.0
+POLAND,June,996.0
+POLAND,March,6012.0
+POLAND,May,888.0
+POLAND,November,6614.0
+POLAND,October,2030.0
+POLAND,September,1839.0
+PORTUGAL,April,1205.0
+PORTUGAL,August,1090.0
+PORTUGAL,December,1651.0
+PORTUGAL,February,2027.0
+PORTUGAL,January,1506.0
+PORTUGAL,July,581.0
+PORTUGAL,June,420.0
+PORTUGAL,March,1531.0
+PORTUGAL,May,286.0
+PORTUGAL,November,1235.0
+PORTUGAL,October,966.0
+PORTUGAL,September,602.0
+Pakistan,April,2490.0
+Pakistan,August,4170.0
+Pakistan,December,5050.0
+Pakistan,February,3866.0
+Pakistan,January,3591.0
+Pakistan,July,5314.0
+Pakistan,June,9222.0
+Pakistan,March,3757.0
+Pakistan,May,2678.0
+Pakistan,November,4614.0
+Pakistan,October,4163.0
+Pakistan,September,3836.0
+Palau,April,1.0
+Palau,August,2.0
+Palau,December,1.0
+Palau,February,0.0
+Palau,January,0.0
+Palau,July,0.0
+Palau,June,0.0
+Palau,March,0.0
+Palau,May,0.0
+Palau,November,0.0
+Palau,October,1.0
+Palau,September,34.0
+Palestinian Territories,April,183.0
+Palestinian Territories,August,297.0
+Palestinian Territories,December,262.0
+Palestinian Territories,February,165.0
+Palestinian Territories,January,91.0
+Palestinian Territories,July,302.0
+Palestinian Territories,June,220.0
+Palestinian Territories,March,111.0
+Palestinian Territories,May,144.0
+Palestinian Territories,November,199.0
+Palestinian Territories,October,126.0
+Palestinian Territories,September,88.0
+Panama,April,4.0
+Panama,August,5.0
+Panama,December,6.0
+Panama,February,18.0
+Panama,January,9.0
+Panama,July,9.0
+Panama,June,5.0
+Panama,March,12.0
+Panama,May,6.0
+Panama,November,11.0
+Panama,October,7.0
+Panama,September,11.0
+Papua New Guinea,April,50.0
+Papua New Guinea,August,14.0
+Papua New Guinea,December,45.0
+Papua New Guinea,February,9.0
+Papua New Guinea,January,8.0
+Papua New Guinea,July,9.0
+Papua New Guinea,June,17.0
+Papua New Guinea,March,44.0
+Papua New Guinea,May,21.0
+Papua New Guinea,November,13.0
+Papua New Guinea,October,23.0
+Papua New Guinea,September,30.0
+Paraguay,April,11.0
+Paraguay,August,8.0
+Paraguay,December,3.0
+Paraguay,February,9.0
+Paraguay,January,10.0
+Paraguay,July,7.0
+Paraguay,June,5.0
+Paraguay,March,10.0
+Paraguay,May,8.0
+Paraguay,November,6.0
+Paraguay,October,8.0
+Paraguay,September,2.0
+Peru,April,95.0
+Peru,August,68.0
+Peru,December,76.0
+Peru,February,59.0
+Peru,January,59.0
+Peru,July,62.0
+Peru,June,42.0
+Peru,March,74.0
+Peru,May,52.0
+Peru,November,69.0
+Peru,October,61.0
+Peru,September,58.0
+Philippines,April,1758.0
+Philippines,August,1736.0
+Philippines,December,1681.0
+Philippines,February,1240.0
+Philippines,January,983.0
+Philippines,July,1705.0
+Philippines,June,1796.0
+Philippines,March,1565.0
+Philippines,May,1327.0
+Philippines,November,1423.0
+Philippines,October,1475.0
+Philippines,September,1484.0
+Poland,April,6967.0
+Poland,August,6934.0
+Poland,December,16844.0
+Poland,February,20861.0
+Poland,January,19839.0
+Poland,July,7069.0
+Poland,June,3207.0
+Poland,March,15272.0
+Poland,May,2899.0
+Poland,November,14640.0
+Poland,October,6039.0
+Poland,September,6724.0
+Portugal,April,2074.0
+Portugal,August,1796.0
+Portugal,December,2023.0
+Portugal,February,1827.0
+Portugal,January,1663.0
+Portugal,July,1297.0
+Portugal,June,1234.0
+Portugal,March,2186.0
+Portugal,May,845.0
+Portugal,November,2579.0
+Portugal,October,1549.0
+Portugal,September,1250.0
+Q,April,0.0
+Q,August,0.0
+Q,December,0.0
+Q,February,0.0
+Q,January,0.0
+Q,July,0.0
+Q,June,0.0
+Q,March,0.0
+Q,May,0.0
+Q,November,0.0
+Q,October,0.0
+Q,September,0.0
+QATAR,April,222.0
+QATAR,August,135.0
+QATAR,December,155.0
+QATAR,February,173.0
+QATAR,January,134.0
+QATAR,July,115.0
+QATAR,June,32.0
+QATAR,March,122.0
+QATAR,May,7.0
+QATAR,November,52.0
+QATAR,October,48.0
+QATAR,September,31.0
+"QATAR, STATE OF",April,111.0
+"QATAR, STATE OF",August,379.0
+"QATAR, STATE OF",December,111.0
+"QATAR, STATE OF",February,75.0
+"QATAR, STATE OF",January,268.0
+"QATAR, STATE OF",July,267.0
+"QATAR, STATE OF",June,183.0
+"QATAR, STATE OF",March,63.0
+"QATAR, STATE OF",May,53.0
+"QATAR, STATE OF",November,51.0
+"QATAR, STATE OF",October,59.0
+"QATAR, STATE OF",September,56.0
+Qatar,April,273.0
+Qatar,August,404.0
+Qatar,December,240.0
+Qatar,February,154.0
+Qatar,January,112.0
+Qatar,July,532.0
+Qatar,June,343.0
+Qatar,March,175.0
+Qatar,May,166.0
+Qatar,November,115.0
+Qatar,October,133.0
+Qatar,September,97.0
+R,April,0.0
+R,August,0.0
+R,December,0.0
+R,February,0.0
+R,January,0.0
+R,July,0.0
+R,June,0.0
+R,March,0.0
+R,May,0.0
+R,November,0.0
+R,October,0.0
+R,September,0.0
+REPUBLIC,April,0.0
+REPUBLIC,August,0.0
+REPUBLIC,December,0.0
+REPUBLIC,February,0.0
+REPUBLIC,January,0.0
+REPUBLIC,July,0.0
+REPUBLIC,June,0.0
+REPUBLIC,March,2.0
+REPUBLIC,May,0.0
+REPUBLIC,November,0.0
+REPUBLIC,October,0.0
+REPUBLIC,September,0.0
+REPUBLIC OF ZIMBABWE,April,0.0
+REPUBLIC OF ZIMBABWE,August,0.0
+REPUBLIC OF ZIMBABWE,December,1.0
+REPUBLIC OF ZIMBABWE,February,4.0
+REPUBLIC OF ZIMBABWE,January,7.0
+REPUBLIC OF ZIMBABWE,July,0.0
+REPUBLIC OF ZIMBABWE,June,0.0
+REPUBLIC OF ZIMBABWE,March,1.0
+REPUBLIC OF ZIMBABWE,May,0.0
+REPUBLIC OF ZIMBABWE,November,1.0
+REPUBLIC OF ZIMBABWE,October,0.0
+REPUBLIC OF ZIMBABWE,September,0.0
+ROMANIA,April,945.0
+ROMANIA,August,593.0
+ROMANIA,December,2560.0
+ROMANIA,February,2551.0
+ROMANIA,January,2611.0
+ROMANIA,July,378.0
+ROMANIA,June,340.0
+ROMANIA,March,1490.0
+ROMANIA,May,240.0
+ROMANIA,November,1116.0
+ROMANIA,October,595.0
+ROMANIA,September,519.0
+RUSSIAN FEDERATION,April,7880.0
+RUSSIAN FEDERATION,August,2753.0
+RUSSIAN FEDERATION,December,39610.0
+RUSSIAN FEDERATION,February,45118.0
+RUSSIAN FEDERATION,January,44679.0
+RUSSIAN FEDERATION,July,2528.0
+RUSSIAN FEDERATION,June,1879.0
+RUSSIAN FEDERATION,March,30824.0
+RUSSIAN FEDERATION,May,2202.0
+RUSSIAN FEDERATION,November,26147.0
+RUSSIAN FEDERATION,October,10185.0
+RUSSIAN FEDERATION,September,3532.0
+RWANDA,April,0.0
+RWANDA,August,12.0
+RWANDA,December,6.0
+RWANDA,February,10.0
+RWANDA,January,8.0
+RWANDA,July,2.0
+RWANDA,June,4.0
+RWANDA,March,4.0
+RWANDA,May,1.0
+RWANDA,November,2.0
+RWANDA,October,3.0
+RWANDA,September,0.0
+Republic Of Zimbabwe,April,0.0
+Republic Of Zimbabwe,August,1.0
+Republic Of Zimbabwe,December,0.0
+Republic Of Zimbabwe,February,0.0
+Republic Of Zimbabwe,January,6.0
+Republic Of Zimbabwe,July,0.0
+Republic Of Zimbabwe,June,0.0
+Republic Of Zimbabwe,March,1.0
+Republic Of Zimbabwe,May,1.0
+Republic Of Zimbabwe,November,1.0
+Republic Of Zimbabwe,October,0.0
+Republic Of Zimbabwe,September,0.0
+Republic of Congo,April,0.0
+Republic of Congo,August,0.0
+Republic of Congo,December,4.0
+Republic of Congo,February,0.0
+Republic of Congo,January,6.0
+Republic of Congo,July,1.0
+Republic of Congo,June,1.0
+Republic of Congo,March,1.0
+Republic of Congo,May,2.0
+Republic of Congo,November,2.0
+Republic of Congo,October,0.0
+Republic of Congo,September,4.0
+Romania,April,1901.0
+Romania,August,1154.0
+Romania,December,3972.0
+Romania,February,3008.0
+Romania,January,2585.0
+Romania,July,731.0
+Romania,June,605.0
+Romania,March,2255.0
+Romania,May,550.0
+Romania,November,1644.0
+Romania,October,1115.0
+Romania,September,695.0
+Russian Federation,April,47158.0
+Russian Federation,August,16076.0
+Russian Federation,December,112875.0
+Russian Federation,February,106749.0
+Russian Federation,January,103987.0
+Russian Federation,July,17663.0
+Russian Federation,June,14881.0
+Russian Federation,March,91645.0
+Russian Federation,May,18674.0
+Russian Federation,November,92738.0
+Russian Federation,October,38681.0
+Russian Federation,September,16143.0
+Rwanda,April,12.0
+Rwanda,August,11.0
+Rwanda,December,19.0
+Rwanda,February,10.0
+Rwanda,January,12.0
+Rwanda,July,6.0
+Rwanda,June,8.0
+Rwanda,March,10.0
+Rwanda,May,4.0
+Rwanda,November,8.0
+Rwanda,October,6.0
+Rwanda,September,18.0
+S,April,0.0
+S,August,0.0
+S,December,0.0
+S,February,0.0
+S,January,0.0
+S,July,0.0
+S,June,0.0
+S,March,0.0
+S,May,0.0
+S,November,0.0
+S,October,0.0
+S,September,0.0
+SAINT KITTS & NEVIS,April,2.0
+SAINT KITTS & NEVIS,August,9.0
+SAINT KITTS & NEVIS,December,10.0
+SAINT KITTS & NEVIS,February,3.0
+SAINT KITTS & NEVIS,January,6.0
+SAINT KITTS & NEVIS,July,1.0
+SAINT KITTS & NEVIS,June,0.0
+SAINT KITTS & NEVIS,March,4.0
+SAINT KITTS & NEVIS,May,3.0
+SAINT KITTS & NEVIS,November,2.0
+SAINT KITTS & NEVIS,October,4.0
+SAINT KITTS & NEVIS,September,3.0
+SAINT KITTS AND NEVIS,April,8.0
+SAINT KITTS AND NEVIS,August,6.0
+SAINT KITTS AND NEVIS,December,16.0
+SAINT KITTS AND NEVIS,February,13.0
+SAINT KITTS AND NEVIS,January,9.0
+SAINT KITTS AND NEVIS,July,3.0
+SAINT KITTS AND NEVIS,June,6.0
+SAINT KITTS AND NEVIS,March,6.0
+SAINT KITTS AND NEVIS,May,1.0
+SAINT KITTS AND NEVIS,November,7.0
+SAINT KITTS AND NEVIS,October,2.0
+SAINT KITTS AND NEVIS,September,4.0
+SAINT LUCIA,April,3.0
+SAINT LUCIA,August,1.0
+SAINT LUCIA,December,3.0
+SAINT LUCIA,February,4.0
+SAINT LUCIA,January,0.0
+SAINT LUCIA,July,0.0
+SAINT LUCIA,June,1.0
+SAINT LUCIA,March,1.0
+SAINT LUCIA,May,0.0
+SAINT LUCIA,November,2.0
+SAINT LUCIA,October,1.0
+SAINT LUCIA,September,4.0
+SAINT VINCENT & THE GRENADINES,April,1.0
+SAINT VINCENT & THE GRENADINES,August,0.0
+SAINT VINCENT & THE GRENADINES,December,0.0
+SAINT VINCENT & THE GRENADINES,February,0.0
+SAINT VINCENT & THE GRENADINES,January,0.0
+SAINT VINCENT & THE GRENADINES,July,0.0
+SAINT VINCENT & THE GRENADINES,June,0.0
+SAINT VINCENT & THE GRENADINES,March,2.0
+SAINT VINCENT & THE GRENADINES,May,0.0
+SAINT VINCENT & THE GRENADINES,November,0.0
+SAINT VINCENT & THE GRENADINES,October,0.0
+SAINT VINCENT & THE GRENADINES,September,0.0
+SAINT VINCENT THE GRENADI,April,0.0
+SAINT VINCENT THE GRENADI,August,0.0
+SAINT VINCENT THE GRENADI,December,1.0
+SAINT VINCENT THE GRENADI,February,3.0
+SAINT VINCENT THE GRENADI,January,5.0
+SAINT VINCENT THE GRENADI,July,0.0
+SAINT VINCENT THE GRENADI,June,0.0
+SAINT VINCENT THE GRENADI,March,4.0
+SAINT VINCENT THE GRENADI,May,0.0
+SAINT VINCENT THE GRENADI,November,2.0
+SAINT VINCENT THE GRENADI,October,0.0
+SAINT VINCENT THE GRENADI,September,0.0
+SAMOA,April,0.0
+SAMOA,August,0.0
+SAMOA,December,0.0
+SAMOA,February,2.0
+SAMOA,January,0.0
+SAMOA,July,1.0
+SAMOA,June,1.0
+SAMOA,March,1.0
+SAMOA,May,2.0
+SAMOA,November,0.0
+SAMOA,October,0.0
+SAMOA,September,5.0
+SAN MARINO,April,0.0
+SAN MARINO,August,0.0
+SAN MARINO,December,4.0
+SAN MARINO,February,7.0
+SAN MARINO,January,4.0
+SAN MARINO,July,0.0
+SAN MARINO,June,0.0
+SAN MARINO,March,4.0
+SAN MARINO,May,1.0
+SAN MARINO,November,1.0
+SAN MARINO,October,1.0
+SAN MARINO,September,1.0
+"SAN MARINO, REPUBLIC OF",April,0.0
+"SAN MARINO, REPUBLIC OF",August,0.0
+"SAN MARINO, REPUBLIC OF",December,1.0
+"SAN MARINO, REPUBLIC OF",February,16.0
+"SAN MARINO, REPUBLIC OF",January,1.0
+"SAN MARINO, REPUBLIC OF",July,0.0
+"SAN MARINO, REPUBLIC OF",June,2.0
+"SAN MARINO, REPUBLIC OF",March,7.0
+"SAN MARINO, REPUBLIC OF",May,0.0
+"SAN MARINO, REPUBLIC OF",November,0.0
+"SAN MARINO, REPUBLIC OF",October,0.0
+"SAN MARINO, REPUBLIC OF",September,1.0
+SAO TOME AND PRINCIPE,April,0.0
+SAO TOME AND PRINCIPE,August,0.0
+SAO TOME AND PRINCIPE,December,0.0
+SAO TOME AND PRINCIPE,February,0.0
+SAO TOME AND PRINCIPE,January,0.0
+SAO TOME AND PRINCIPE,July,0.0
+SAO TOME AND PRINCIPE,June,1.0
+SAO TOME AND PRINCIPE,March,0.0
+SAO TOME AND PRINCIPE,May,0.0
+SAO TOME AND PRINCIPE,November,0.0
+SAO TOME AND PRINCIPE,October,0.0
+SAO TOME AND PRINCIPE,September,0.0
+SAUDI ARABIA,April,1213.0
+SAUDI ARABIA,August,2393.0
+SAUDI ARABIA,December,1637.0
+SAUDI ARABIA,February,1819.0
+SAUDI ARABIA,January,5673.0
+SAUDI ARABIA,July,2914.0
+SAUDI ARABIA,June,1504.0
+SAUDI ARABIA,March,1582.0
+SAUDI ARABIA,May,82.0
+SAUDI ARABIA,November,1498.0
+SAUDI ARABIA,October,735.0
+SAUDI ARABIA,September,1008.0
+"SAUDI ARABIA, KINGDOM OF",April,1263.0
+"SAUDI ARABIA, KINGDOM OF",August,6517.0
+"SAUDI ARABIA, KINGDOM OF",December,2656.0
+"SAUDI ARABIA, KINGDOM OF",February,1065.0
+"SAUDI ARABIA, KINGDOM OF",January,4397.0
+"SAUDI ARABIA, KINGDOM OF",July,8409.0
+"SAUDI ARABIA, KINGDOM OF",June,5422.0
+"SAUDI ARABIA, KINGDOM OF",March,997.0
+"SAUDI ARABIA, KINGDOM OF",May,666.0
+"SAUDI ARABIA, KINGDOM OF",November,849.0
+"SAUDI ARABIA, KINGDOM OF",October,1030.0
+"SAUDI ARABIA, KINGDOM OF",September,1432.0
+SENEGAL,April,8.0
+SENEGAL,August,1.0
+SENEGAL,December,5.0
+SENEGAL,February,4.0
+SENEGAL,January,3.0
+SENEGAL,July,1.0
+SENEGAL,June,1.0
+SENEGAL,March,6.0
+SENEGAL,May,0.0
+SENEGAL,November,5.0
+SENEGAL,October,1.0
+SENEGAL,September,2.0
+"SENEGAL, REPUBLIC OF",April,2.0
+"SENEGAL, REPUBLIC OF",August,4.0
+"SENEGAL, REPUBLIC OF",December,2.0
+"SENEGAL, REPUBLIC OF",February,6.0
+"SENEGAL, REPUBLIC OF",January,5.0
+"SENEGAL, REPUBLIC OF",July,3.0
+"SENEGAL, REPUBLIC OF",June,3.0
+"SENEGAL, REPUBLIC OF",March,4.0
+"SENEGAL, REPUBLIC OF",May,4.0
+"SENEGAL, REPUBLIC OF",November,3.0
+"SENEGAL, REPUBLIC OF",October,1.0
+"SENEGAL, REPUBLIC OF",September,3.0
+SERBIA,April,3.0
+SERBIA,August,3.0
+SERBIA,December,80.0
+SERBIA,February,206.0
+SERBIA,January,202.0
+SERBIA,July,0.0
+SERBIA,June,3.0
+SERBIA,March,100.0
+SERBIA,May,0.0
+SERBIA,November,55.0
+SERBIA,October,4.0
+SERBIA,September,3.0
+"SERBIA, REPUBLIC OF",April,123.0
+"SERBIA, REPUBLIC OF",August,115.0
+"SERBIA, REPUBLIC OF",December,293.0
+"SERBIA, REPUBLIC OF",February,282.0
+"SERBIA, REPUBLIC OF",January,285.0
+"SERBIA, REPUBLIC OF",July,89.0
+"SERBIA, REPUBLIC OF",June,60.0
+"SERBIA, REPUBLIC OF",March,184.0
+"SERBIA, REPUBLIC OF",May,47.0
+"SERBIA, REPUBLIC OF",November,178.0
+"SERBIA, REPUBLIC OF",October,74.0
+"SERBIA, REPUBLIC OF",September,74.0
+SERBIA.,April,140.0
+SERBIA.,August,86.0
+SERBIA.,December,231.0
+SERBIA.,February,241.0
+SERBIA.,January,274.0
+SERBIA.,July,60.0
+SERBIA.,June,48.0
+SERBIA.,March,186.0
+SERBIA.,May,32.0
+SERBIA.,November,97.0
+SERBIA.,October,47.0
+SERBIA.,September,56.0
+SEYCHELLES,April,416.0
+SEYCHELLES,August,3.0
+SEYCHELLES,December,32.0
+SEYCHELLES,February,78.0
+SEYCHELLES,January,0.0
+SEYCHELLES,July,1.0
+SEYCHELLES,June,2.0
+SEYCHELLES,March,30.0
+SEYCHELLES,May,0.0
+SEYCHELLES,November,71.0
+SEYCHELLES,October,5.0
+SEYCHELLES,September,3.0
+SEYCHELLS,April,0.0
+SEYCHELLS,August,0.0
+SEYCHELLS,December,0.0
+SEYCHELLS,February,0.0
+SEYCHELLS,January,0.0
+SEYCHELLS,July,0.0
+SEYCHELLS,June,0.0
+SEYCHELLS,March,0.0
+SEYCHELLS,May,0.0
+SEYCHELLS,November,0.0
+SEYCHELLS,October,0.0
+SEYCHELLS,September,0.0
+SIERRA LEONE,April,1.0
+SIERRA LEONE,August,1.0
+SIERRA LEONE,December,0.0
+SIERRA LEONE,February,5.0
+SIERRA LEONE,January,4.0
+SIERRA LEONE,July,11.0
+SIERRA LEONE,June,2.0
+SIERRA LEONE,March,5.0
+SIERRA LEONE,May,0.0
+SIERRA LEONE,November,8.0
+SIERRA LEONE,October,3.0
+SIERRA LEONE,September,4.0
+SINGAPORE,April,1041.0
+SINGAPORE,August,1214.0
+SINGAPORE,December,2187.0
+SINGAPORE,February,2378.0
+SINGAPORE,January,2332.0
+SINGAPORE,July,809.0
+SINGAPORE,June,905.0
+SINGAPORE,March,2281.0
+SINGAPORE,May,475.0
+SINGAPORE,November,1328.0
+SINGAPORE,October,990.0
+SINGAPORE,September,1033.0
+"SINGAPORE, REPUBLIC OF",April,1357.0
+"SINGAPORE, REPUBLIC OF",August,1904.0
+"SINGAPORE, REPUBLIC OF",December,2524.0
+"SINGAPORE, REPUBLIC OF",February,1469.0
+"SINGAPORE, REPUBLIC OF",January,1387.0
+"SINGAPORE, REPUBLIC OF",July,1563.0
+"SINGAPORE, REPUBLIC OF",June,1979.0
+"SINGAPORE, REPUBLIC OF",March,1809.0
+"SINGAPORE, REPUBLIC OF",May,1461.0
+"SINGAPORE, REPUBLIC OF",November,1669.0
+"SINGAPORE, REPUBLIC OF",October,1219.0
+"SINGAPORE, REPUBLIC OF",September,1520.0
+SLOVAK REPUBLIC,April,494.0
+SLOVAK REPUBLIC,August,259.0
+SLOVAK REPUBLIC,December,529.0
+SLOVAK REPUBLIC,February,820.0
+SLOVAK REPUBLIC,January,760.0
+SLOVAK REPUBLIC,July,218.0
+SLOVAK REPUBLIC,June,145.0
+SLOVAK REPUBLIC,March,896.0
+SLOVAK REPUBLIC,May,153.0
+SLOVAK REPUBLIC,November,543.0
+SLOVAK REPUBLIC,October,267.0
+SLOVAK REPUBLIC,September,205.0
+SLOVAKIA(SLOVAK REPUBLIC),April,536.0
+SLOVAKIA(SLOVAK REPUBLIC),August,206.0
+SLOVAKIA(SLOVAK REPUBLIC),December,888.0
+SLOVAKIA(SLOVAK REPUBLIC),February,1657.0
+SLOVAKIA(SLOVAK REPUBLIC),January,1319.0
+SLOVAKIA(SLOVAK REPUBLIC),July,190.0
+SLOVAKIA(SLOVAK REPUBLIC),June,75.0
+SLOVAKIA(SLOVAK REPUBLIC),March,1033.0
+SLOVAKIA(SLOVAK REPUBLIC),May,76.0
+SLOVAKIA(SLOVAK REPUBLIC),November,692.0
+SLOVAKIA(SLOVAK REPUBLIC),October,257.0
+SLOVAKIA(SLOVAK REPUBLIC),September,192.0
+SLOVENIA,April,708.0
+SLOVENIA,August,311.0
+SLOVENIA,December,912.0
+SLOVENIA,February,1939.0
+SLOVENIA,January,1018.0
+SLOVENIA,July,647.0
+SLOVENIA,June,166.0
+SLOVENIA,March,646.0
+SLOVENIA,May,68.0
+SLOVENIA,November,347.0
+SLOVENIA,October,672.0
+SLOVENIA,September,285.0
+SOLOMAN ISLANDS,April,1.0
+SOLOMAN ISLANDS,August,3.0
+SOLOMAN ISLANDS,December,0.0
+SOLOMAN ISLANDS,February,0.0
+SOLOMAN ISLANDS,January,1.0
+SOLOMAN ISLANDS,July,0.0
+SOLOMAN ISLANDS,June,5.0
+SOLOMAN ISLANDS,March,0.0
+SOLOMAN ISLANDS,May,0.0
+SOLOMAN ISLANDS,November,0.0
+SOLOMAN ISLANDS,October,2.0
+SOLOMAN ISLANDS,September,1.0
+SOLOMON ISLANDS,April,0.0
+SOLOMON ISLANDS,August,0.0
+SOLOMON ISLANDS,December,0.0
+SOLOMON ISLANDS,February,0.0
+SOLOMON ISLANDS,January,0.0
+SOLOMON ISLANDS,July,0.0
+SOLOMON ISLANDS,June,1.0
+SOLOMON ISLANDS,March,1.0
+SOLOMON ISLANDS,May,0.0
+SOLOMON ISLANDS,November,0.0
+SOLOMON ISLANDS,October,0.0
+SOLOMON ISLANDS,September,3.0
+SOMALIA,April,11.0
+SOMALIA,August,8.0
+SOMALIA,December,10.0
+SOMALIA,February,19.0
+SOMALIA,January,20.0
+SOMALIA,July,6.0
+SOMALIA,June,8.0
+SOMALIA,March,12.0
+SOMALIA,May,1.0
+SOMALIA,November,6.0
+SOMALIA,October,2.0
+SOMALIA,September,0.0
+"SOMALIA, FEDERAL REPUBLIC OF",April,5.0
+"SOMALIA, FEDERAL REPUBLIC OF",August,4.0
+"SOMALIA, FEDERAL REPUBLIC OF",December,14.0
+"SOMALIA, FEDERAL REPUBLIC OF",February,6.0
+"SOMALIA, FEDERAL REPUBLIC OF",January,9.0
+"SOMALIA, FEDERAL REPUBLIC OF",July,6.0
+"SOMALIA, FEDERAL REPUBLIC OF",June,11.0
+"SOMALIA, FEDERAL REPUBLIC OF",March,9.0
+"SOMALIA, FEDERAL REPUBLIC OF",May,3.0
+"SOMALIA, FEDERAL REPUBLIC OF",November,9.0
+"SOMALIA, FEDERAL REPUBLIC OF",October,4.0
+"SOMALIA, FEDERAL REPUBLIC OF",September,12.0
+"SOUTH AFRICA, REPUBLIC OF",April,742.0
+"SOUTH AFRICA, REPUBLIC OF",August,457.0
+"SOUTH AFRICA, REPUBLIC OF",December,1752.0
+"SOUTH AFRICA, REPUBLIC OF",February,562.0
+"SOUTH AFRICA, REPUBLIC OF",January,588.0
+"SOUTH AFRICA, REPUBLIC OF",July,598.0
+"SOUTH AFRICA, REPUBLIC OF",June,520.0
+"SOUTH AFRICA, REPUBLIC OF",March,791.0
+"SOUTH AFRICA, REPUBLIC OF",May,259.0
+"SOUTH AFRICA, REPUBLIC OF",November,380.0
+"SOUTH AFRICA, REPUBLIC OF",October,354.0
+"SOUTH AFRICA, REPUBLIC OF",September,413.0
+SOUTH AFRICA- ZUID AFRIKA,April,0.0
+SOUTH AFRICA- ZUID AFRIKA,August,0.0
+SOUTH AFRICA- ZUID AFRIKA,December,0.0
+SOUTH AFRICA- ZUID AFRIKA,February,544.0
+SOUTH AFRICA- ZUID AFRIKA,January,686.0
+SOUTH AFRICA- ZUID AFRIKA,July,0.0
+SOUTH AFRICA- ZUID AFRIKA,June,0.0
+SOUTH AFRICA- ZUID AFRIKA,March,134.0
+SOUTH AFRICA- ZUID AFRIKA,May,0.0
+SOUTH AFRICA- ZUID AFRIKA,November,0.0
+SOUTH AFRICA- ZUID AFRIKA,October,0.0
+SOUTH AFRICA- ZUID AFRIKA,September,0.0
+SOUTH AFRICA-ZUID AFRIKA,April,659.0
+SOUTH AFRICA-ZUID AFRIKA,August,309.0
+SOUTH AFRICA-ZUID AFRIKA,December,2075.0
+SOUTH AFRICA-ZUID AFRIKA,February,748.0
+SOUTH AFRICA-ZUID AFRIKA,January,870.0
+SOUTH AFRICA-ZUID AFRIKA,July,240.0
+SOUTH AFRICA-ZUID AFRIKA,June,289.0
+SOUTH AFRICA-ZUID AFRIKA,March,1030.0
+SOUTH AFRICA-ZUID AFRIKA,May,161.0
+SOUTH AFRICA-ZUID AFRIKA,November,500.0
+SOUTH AFRICA-ZUID AFRIKA,October,279.0
+SOUTH AFRICA-ZUID AFRIKA,September,244.0
+SOUTH KOREA,April,1504.0
+SOUTH KOREA,August,2385.0
+SOUTH KOREA,December,2908.0
+SOUTH KOREA,February,3805.0
+SOUTH KOREA,January,6210.0
+SOUTH KOREA,July,2093.0
+SOUTH KOREA,June,1586.0
+SOUTH KOREA,March,2706.0
+SOUTH KOREA,May,1227.0
+SOUTH KOREA,November,2577.0
+SOUTH KOREA,October,2104.0
+SOUTH KOREA,September,1726.0
+SOUTH SUDAN,April,0.0
+SOUTH SUDAN,August,2.0
+SOUTH SUDAN,December,4.0
+SOUTH SUDAN,February,1.0
+SOUTH SUDAN,January,0.0
+SOUTH SUDAN,July,0.0
+SOUTH SUDAN,June,0.0
+SOUTH SUDAN,March,3.0
+SOUTH SUDAN,May,0.0
+SOUTH SUDAN,November,0.0
+SOUTH SUDAN,October,0.0
+SOUTH SUDAN,September,6.0
+"SOUTH SUDAN, REPUBLIC OF",April,2.0
+"SOUTH SUDAN, REPUBLIC OF",August,1.0
+"SOUTH SUDAN, REPUBLIC OF",December,7.0
+"SOUTH SUDAN, REPUBLIC OF",February,1.0
+"SOUTH SUDAN, REPUBLIC OF",January,0.0
+"SOUTH SUDAN, REPUBLIC OF",July,0.0
+"SOUTH SUDAN, REPUBLIC OF",June,0.0
+"SOUTH SUDAN, REPUBLIC OF",March,0.0
+"SOUTH SUDAN, REPUBLIC OF",May,1.0
+"SOUTH SUDAN, REPUBLIC OF",November,0.0
+"SOUTH SUDAN, REPUBLIC OF",October,0.0
+"SOUTH SUDAN, REPUBLIC OF",September,5.0
+SPAIN,April,4862.0
+SPAIN,August,10279.0
+SPAIN,December,5167.0
+SPAIN,February,4849.0
+SPAIN,January,4735.0
+SPAIN,July,5755.0
+SPAIN,June,2277.0
+SPAIN,March,5364.0
+SPAIN,May,1349.0
+SPAIN,November,5279.0
+SPAIN,October,4143.0
+SPAIN,September,5038.0
+SUDAN,April,97.0
+SUDAN,August,124.0
+SUDAN,December,198.0
+SUDAN,February,115.0
+SUDAN,January,191.0
+SUDAN,July,173.0
+SUDAN,June,134.0
+SUDAN,March,133.0
+SUDAN,May,71.0
+SUDAN,November,163.0
+SUDAN,October,51.0
+SUDAN,September,232.0
+SURINAME,April,7.0
+SURINAME,August,7.0
+SURINAME,December,1.0
+SURINAME,February,7.0
+SURINAME,January,2.0
+SURINAME,July,0.0
+SURINAME,June,1.0
+SURINAME,March,3.0
+SURINAME,May,2.0
+SURINAME,November,4.0
+SURINAME,October,10.0
+SURINAME,September,8.0
+SWAZILAND,April,9.0
+SWAZILAND,August,0.0
+SWAZILAND,December,1.0
+SWAZILAND,February,2.0
+SWAZILAND,January,0.0
+SWAZILAND,July,2.0
+SWAZILAND,June,1.0
+SWAZILAND,March,2.0
+SWAZILAND,May,1.0
+SWAZILAND,November,1.0
+SWAZILAND,October,0.0
+SWAZILAND,September,1.0
+SWEDEN,April,2380.0
+SWEDEN,August,1076.0
+SWEDEN,December,12810.0
+SWEDEN,February,12520.0
+SWEDEN,January,13377.0
+SWEDEN,July,1809.0
+SWEDEN,June,1370.0
+SWEDEN,March,6514.0
+SWEDEN,May,675.0
+SWEDEN,November,3554.0
+SWEDEN,October,2201.0
+SWEDEN,September,1107.0
+SWITZERLAND,April,7469.0
+SWITZERLAND,August,3207.0
+SWITZERLAND,December,8043.0
+SWITZERLAND,February,9987.0
+SWITZERLAND,January,9072.0
+SWITZERLAND,July,9004.0
+SWITZERLAND,June,2187.0
+SWITZERLAND,March,7902.0
+SWITZERLAND,May,1604.0
+SWITZERLAND,November,7788.0
+SWITZERLAND,October,3830.0
+SWITZERLAND,September,3216.0
+SYRIAN ARAB REPUBLIC,April,48.0
+SYRIAN ARAB REPUBLIC,August,5.0
+SYRIAN ARAB REPUBLIC,December,52.0
+SYRIAN ARAB REPUBLIC,February,56.0
+SYRIAN ARAB REPUBLIC,January,72.0
+SYRIAN ARAB REPUBLIC,July,19.0
+SYRIAN ARAB REPUBLIC,June,16.0
+SYRIAN ARAB REPUBLIC,March,48.0
+SYRIAN ARAB REPUBLIC,May,11.0
+SYRIAN ARAB REPUBLIC,November,31.0
+SYRIAN ARAB REPUBLIC,October,28.0
+SYRIAN ARAB REPUBLIC,September,37.0
+Saint Barthelemy,April,0.0
+Saint Barthelemy,August,0.0
+Saint Barthelemy,December,0.0
+Saint Barthelemy,February,0.0
+Saint Barthelemy,January,0.0
+Saint Barthelemy,July,1.0
+Saint Barthelemy,June,0.0
+Saint Barthelemy,March,0.0
+Saint Barthelemy,May,0.0
+Saint Barthelemy,November,0.0
+Saint Barthelemy,October,0.0
+Saint Barthelemy,September,0.0
+Saint Kitts And Nevis,April,3.0
+Saint Kitts And Nevis,August,1.0
+Saint Kitts And Nevis,December,10.0
+Saint Kitts And Nevis,February,8.0
+Saint Kitts And Nevis,January,4.0
+Saint Kitts And Nevis,July,3.0
+Saint Kitts And Nevis,June,2.0
+Saint Kitts And Nevis,March,3.0
+Saint Kitts And Nevis,May,6.0
+Saint Kitts And Nevis,November,1.0
+Saint Kitts And Nevis,October,4.0
+Saint Kitts And Nevis,September,1.0
+Saint Kitts and Nevis,April,43.0
+Saint Kitts and Nevis,August,45.0
+Saint Kitts and Nevis,December,49.0
+Saint Kitts and Nevis,February,38.0
+Saint Kitts and Nevis,January,35.0
+Saint Kitts and Nevis,July,15.0
+Saint Kitts and Nevis,June,45.0
+Saint Kitts and Nevis,March,37.0
+Saint Kitts and Nevis,May,21.0
+Saint Kitts and Nevis,November,44.0
+Saint Kitts and Nevis,October,29.0
+Saint Kitts and Nevis,September,28.0
+Saint Lucia,April,9.0
+Saint Lucia,August,6.0
+Saint Lucia,December,6.0
+Saint Lucia,February,4.0
+Saint Lucia,January,8.0
+Saint Lucia,July,5.0
+Saint Lucia,June,5.0
+Saint Lucia,March,7.0
+Saint Lucia,May,1.0
+Saint Lucia,November,4.0
+Saint Lucia,October,17.0
+Saint Lucia,September,8.0
+Saint Vincent The Grenadi,April,0.0
+Saint Vincent The Grenadi,August,7.0
+Saint Vincent The Grenadi,December,1.0
+Saint Vincent The Grenadi,February,1.0
+Saint Vincent The Grenadi,January,0.0
+Saint Vincent The Grenadi,July,1.0
+Saint Vincent The Grenadi,June,0.0
+Saint Vincent The Grenadi,March,0.0
+Saint Vincent The Grenadi,May,1.0
+Saint Vincent The Grenadi,November,0.0
+Saint Vincent The Grenadi,October,1.0
+Saint Vincent The Grenadi,September,1.0
+Saint Vincent and the Grenadi,April,0.0
+Saint Vincent and the Grenadi,August,0.0
+Saint Vincent and the Grenadi,December,0.0
+Saint Vincent and the Grenadi,February,0.0
+Saint Vincent and the Grenadi,January,1.0
+Saint Vincent and the Grenadi,July,0.0
+Saint Vincent and the Grenadi,June,1.0
+Saint Vincent and the Grenadi,March,0.0
+Saint Vincent and the Grenadi,May,7.0
+Saint Vincent and the Grenadi,November,0.0
+Saint Vincent and the Grenadi,October,0.0
+Saint Vincent and the Grenadi,September,1.0
+Samoa,April,1.0
+Samoa,August,1.0
+Samoa,December,1.0
+Samoa,February,0.0
+Samoa,January,0.0
+Samoa,July,1.0
+Samoa,June,1.0
+Samoa,March,3.0
+Samoa,May,0.0
+Samoa,November,1.0
+Samoa,October,3.0
+Samoa,September,0.0
+San Marino,April,2.0
+San Marino,August,6.0
+San Marino,December,18.0
+San Marino,February,5.0
+San Marino,January,9.0
+San Marino,July,1.0
+San Marino,June,9.0
+San Marino,March,3.0
+San Marino,May,5.0
+San Marino,November,14.0
+San Marino,October,4.0
+San Marino,September,3.0
+Sao Tome and Principe,April,0.0
+Sao Tome and Principe,August,0.0
+Sao Tome and Principe,December,0.0
+Sao Tome and Principe,February,0.0
+Sao Tome and Principe,January,0.0
+Sao Tome and Principe,July,0.0
+Sao Tome and Principe,June,0.0
+Sao Tome and Principe,March,0.0
+Sao Tome and Principe,May,1.0
+Sao Tome and Principe,November,0.0
+Sao Tome and Principe,October,0.0
+Sao Tome and Principe,September,0.0
+Saudi Arabia,April,1415.0
+Saudi Arabia,August,1948.0
+Saudi Arabia,December,1305.0
+Saudi Arabia,February,2133.0
+Saudi Arabia,January,2505.0
+Saudi Arabia,July,4219.0
+Saudi Arabia,June,2526.0
+Saudi Arabia,March,2342.0
+Saudi Arabia,May,1383.0
+Saudi Arabia,November,2812.0
+Saudi Arabia,October,1074.0
+Saudi Arabia,September,1094.0
+Senegal,April,10.0
+Senegal,August,10.0
+Senegal,December,9.0
+Senegal,February,11.0
+Senegal,January,12.0
+Senegal,July,7.0
+Senegal,June,12.0
+Senegal,March,4.0
+Senegal,May,6.0
+Senegal,November,9.0
+Senegal,October,13.0
+Senegal,September,9.0
+Serbia,April,716.0
+Serbia,August,281.0
+Serbia,December,766.0
+Serbia,February,913.0
+Serbia,January,988.0
+Serbia,July,263.0
+Serbia,June,179.0
+Serbia,March,830.0
+Serbia,May,136.0
+Serbia,November,628.0
+Serbia,October,395.0
+Serbia,September,255.0
+Seychelles,April,717.0
+Seychelles,August,1109.0
+Seychelles,December,1353.0
+Seychelles,February,400.0
+Seychelles,January,666.0
+Seychelles,July,699.0
+Seychelles,June,637.0
+Seychelles,March,462.0
+Seychelles,May,353.0
+Seychelles,November,542.0
+Seychelles,October,481.0
+Seychelles,September,445.0
+Sierra Leone,April,11.0
+Sierra Leone,August,5.0
+Sierra Leone,December,5.0
+Sierra Leone,February,5.0
+Sierra Leone,January,7.0
+Sierra Leone,July,10.0
+Sierra Leone,June,1.0
+Sierra Leone,March,11.0
+Sierra Leone,May,3.0
+Sierra Leone,November,4.0
+Sierra Leone,October,6.0
+Sierra Leone,September,2.0
+Singapore,April,2707.0
+Singapore,August,3563.0
+Singapore,December,6313.0
+Singapore,February,2655.0
+Singapore,January,2495.0
+Singapore,July,2962.0
+Singapore,June,4500.0
+Singapore,March,3480.0
+Singapore,May,2868.0
+Singapore,November,4046.0
+Singapore,October,2625.0
+Singapore,September,2784.0
+Slovakia,April,1449.0
+Slovakia,August,686.0
+Slovakia,December,1895.0
+Slovakia,February,2903.0
+Slovakia,January,2470.0
+Slovakia,July,724.0
+Slovakia,June,343.0
+Slovakia,March,2239.0
+Slovakia,May,451.0
+Slovakia,November,1765.0
+Slovakia,October,911.0
+Slovakia,September,628.0
+Slovakia(Slovak Republic),April,475.0
+Slovakia(Slovak Republic),August,227.0
+Slovakia(Slovak Republic),December,462.0
+Slovakia(Slovak Republic),February,515.0
+Slovakia(Slovak Republic),January,351.0
+Slovakia(Slovak Republic),July,254.0
+Slovakia(Slovak Republic),June,129.0
+Slovakia(Slovak Republic),March,610.0
+Slovakia(Slovak Republic),May,172.0
+Slovakia(Slovak Republic),November,617.0
+Slovakia(Slovak Republic),October,394.0
+Slovakia(Slovak Republic),September,258.0
+Slovenia,April,979.0
+Slovenia,August,566.0
+Slovenia,December,1383.0
+Slovenia,February,1595.0
+Slovenia,January,987.0
+Slovenia,July,1278.0
+Slovenia,June,311.0
+Slovenia,March,562.0
+Slovenia,May,129.0
+Slovenia,November,665.0
+Slovenia,October,801.0
+Slovenia,September,448.0
+Solomon Islands,April,0.0
+Solomon Islands,August,2.0
+Solomon Islands,December,3.0
+Solomon Islands,February,3.0
+Solomon Islands,January,0.0
+Solomon Islands,July,3.0
+Solomon Islands,June,4.0
+Solomon Islands,March,1.0
+Solomon Islands,May,1.0
+Solomon Islands,November,6.0
+Solomon Islands,October,3.0
+Solomon Islands,September,3.0
+Somalia,April,26.0
+Somalia,August,35.0
+Somalia,December,34.0
+Somalia,February,13.0
+Somalia,January,13.0
+Somalia,July,18.0
+Somalia,June,9.0
+Somalia,March,19.0
+Somalia,May,19.0
+Somalia,November,14.0
+Somalia,October,39.0
+Somalia,September,12.0
+South Africa,April,844.0
+South Africa,August,784.0
+South Africa,December,2299.0
+South Africa,February,743.0
+South Africa,January,697.0
+South Africa,July,752.0
+South Africa,June,693.0
+South Africa,March,1217.0
+South Africa,May,393.0
+South Africa,November,716.0
+South Africa,October,696.0
+South Africa,September,708.0
+South Africa-Zuid Afrika,April,572.0
+South Africa-Zuid Afrika,August,389.0
+South Africa-Zuid Afrika,December,1159.0
+South Africa-Zuid Afrika,February,302.0
+South Africa-Zuid Afrika,January,198.0
+South Africa-Zuid Afrika,July,287.0
+South Africa-Zuid Afrika,June,367.0
+South Africa-Zuid Afrika,March,555.0
+South Africa-Zuid Afrika,May,209.0
+South Africa-Zuid Afrika,November,399.0
+South Africa-Zuid Afrika,October,290.0
+South Africa-Zuid Afrika,September,219.0
+South Korea,April,1841.0
+South Korea,August,2283.0
+South Korea,December,3889.0
+South Korea,February,2926.0
+South Korea,January,4380.0
+South Korea,July,2656.0
+South Korea,June,1857.0
+South Korea,March,2503.0
+South Korea,May,1676.0
+South Korea,November,3334.0
+South Korea,October,2796.0
+South Korea,September,1969.0
+South Sudan,April,0.0
+South Sudan,August,1.0
+South Sudan,December,1.0
+South Sudan,February,2.0
+South Sudan,January,5.0
+South Sudan,July,4.0
+South Sudan,June,2.0
+South Sudan,March,1.0
+South Sudan,May,8.0
+South Sudan,November,3.0
+South Sudan,October,4.0
+South Sudan,September,0.0
+Spain,April,8376.0
+Spain,August,22708.0
+Spain,December,9703.0
+Spain,February,6078.0
+Spain,January,6154.0
+Spain,July,14386.0
+Spain,June,6668.0
+Spain,March,7491.0
+Spain,May,4511.0
+Spain,November,11742.0
+Spain,October,10437.0
+Spain,September,12512.0
+Sudan,April,229.0
+Sudan,August,474.0
+Sudan,December,346.0
+Sudan,February,281.0
+Sudan,January,332.0
+Sudan,July,462.0
+Sudan,June,323.0
+Sudan,March,244.0
+Sudan,May,229.0
+Sudan,November,459.0
+Sudan,October,304.0
+Sudan,September,213.0
+Suriname,April,10.0
+Suriname,August,11.0
+Suriname,December,5.0
+Suriname,February,4.0
+Suriname,January,2.0
+Suriname,July,7.0
+Suriname,June,5.0
+Suriname,March,4.0
+Suriname,May,2.0
+Suriname,November,3.0
+Suriname,October,2.0
+Suriname,September,15.0
+Swaziland,April,0.0
+Swaziland,August,4.0
+Swaziland,December,20.0
+Swaziland,February,2.0
+Swaziland,January,4.0
+Swaziland,July,4.0
+Swaziland,June,0.0
+Swaziland,March,2.0
+Swaziland,May,5.0
+Swaziland,November,6.0
+Swaziland,October,5.0
+Swaziland,September,3.0
+Sweden,April,2206.0
+Sweden,August,1072.0
+Sweden,December,10879.0
+Sweden,February,5564.0
+Sweden,January,5710.0
+Sweden,July,2174.0
+Sweden,June,2122.0
+Sweden,March,3930.0
+Sweden,May,955.0
+Sweden,November,3772.0
+Sweden,October,2414.0
+Sweden,September,1218.0
+Switzerland,April,9536.0
+Switzerland,August,6101.0
+Switzerland,December,10629.0
+Switzerland,February,9461.0
+Switzerland,January,9228.0
+Switzerland,July,16615.0
+Switzerland,June,4879.0
+Switzerland,March,8165.0
+Switzerland,May,4547.0
+Switzerland,November,8524.0
+Switzerland,October,6392.0
+Switzerland,September,6192.0
+Syrian Arab Republic,April,8.0
+Syrian Arab Republic,August,1.0
+Syrian Arab Republic,December,6.0
+Syrian Arab Republic,February,15.0
+Syrian Arab Republic,January,9.0
+Syrian Arab Republic,July,0.0
+Syrian Arab Republic,June,3.0
+Syrian Arab Republic,March,3.0
+Syrian Arab Republic,May,5.0
+Syrian Arab Republic,November,3.0
+Syrian Arab Republic,October,1.0
+Syrian Arab Republic,September,1.0
+T,April,0.0
+T,August,0.0
+T,December,0.0
+T,February,0.0
+T,January,0.0
+T,July,0.0
+T,June,0.0
+T,March,0.0
+T,May,0.0
+T,November,0.0
+T,October,0.0
+T,September,0.0
+TAIWAN (REPUBLIC OF CHINA),April,607.0
+TAIWAN (REPUBLIC OF CHINA),August,794.0
+TAIWAN (REPUBLIC OF CHINA),December,597.0
+TAIWAN (REPUBLIC OF CHINA),February,1152.0
+TAIWAN (REPUBLIC OF CHINA),January,928.0
+TAIWAN (REPUBLIC OF CHINA),July,924.0
+TAIWAN (REPUBLIC OF CHINA),June,412.0
+TAIWAN (REPUBLIC OF CHINA),March,700.0
+TAIWAN (REPUBLIC OF CHINA),May,565.0
+TAIWAN (REPUBLIC OF CHINA),November,569.0
+TAIWAN (REPUBLIC OF CHINA),October,465.0
+TAIWAN (REPUBLIC OF CHINA),September,474.0
+TAIWAN PROVINCE OF CHINA,April,605.0
+TAIWAN PROVINCE OF CHINA,August,384.0
+TAIWAN PROVINCE OF CHINA,December,567.0
+TAIWAN PROVINCE OF CHINA,February,1864.0
+TAIWAN PROVINCE OF CHINA,January,2393.0
+TAIWAN PROVINCE OF CHINA,July,366.0
+TAIWAN PROVINCE OF CHINA,June,278.0
+TAIWAN PROVINCE OF CHINA,March,1001.0
+TAIWAN PROVINCE OF CHINA,May,111.0
+TAIWAN PROVINCE OF CHINA,November,401.0
+TAIWAN PROVINCE OF CHINA,October,526.0
+TAIWAN PROVINCE OF CHINA,September,658.0
+TAJIKISTAN,April,6.0
+TAJIKISTAN,August,0.0
+TAJIKISTAN,December,23.0
+TAJIKISTAN,February,28.0
+TAJIKISTAN,January,25.0
+TAJIKISTAN,July,2.0
+TAJIKISTAN,June,2.0
+TAJIKISTAN,March,17.0
+TAJIKISTAN,May,4.0
+TAJIKISTAN,November,12.0
+TAJIKISTAN,October,12.0
+TAJIKISTAN,September,5.0
+"TAJIKISTAN, REPUBLIC OF",April,8.0
+"TAJIKISTAN, REPUBLIC OF",August,0.0
+"TAJIKISTAN, REPUBLIC OF",December,2.0
+"TAJIKISTAN, REPUBLIC OF",February,7.0
+"TAJIKISTAN, REPUBLIC OF",January,25.0
+"TAJIKISTAN, REPUBLIC OF",July,4.0
+"TAJIKISTAN, REPUBLIC OF",June,4.0
+"TAJIKISTAN, REPUBLIC OF",March,25.0
+"TAJIKISTAN, REPUBLIC OF",May,3.0
+"TAJIKISTAN, REPUBLIC OF",November,11.0
+"TAJIKISTAN, REPUBLIC OF",October,6.0
+"TAJIKISTAN, REPUBLIC OF",September,7.0
+TANZANIA,April,17.0
+TANZANIA,August,481.0
+TANZANIA,December,40.0
+TANZANIA,February,46.0
+TANZANIA,January,39.0
+TANZANIA,July,13.0
+TANZANIA,June,19.0
+TANZANIA,March,27.0
+TANZANIA,May,10.0
+TANZANIA,November,28.0
+TANZANIA,October,11.0
+TANZANIA,September,193.0
+"TANZANIA, UNITED REPUBLIC OF",April,15.0
+"TANZANIA, UNITED REPUBLIC OF",August,25.0
+"TANZANIA, UNITED REPUBLIC OF",December,25.0
+"TANZANIA, UNITED REPUBLIC OF",February,20.0
+"TANZANIA, UNITED REPUBLIC OF",January,18.0
+"TANZANIA, UNITED REPUBLIC OF",July,13.0
+"TANZANIA, UNITED REPUBLIC OF",June,29.0
+"TANZANIA, UNITED REPUBLIC OF",March,16.0
+"TANZANIA, UNITED REPUBLIC OF",May,16.0
+"TANZANIA, UNITED REPUBLIC OF",November,22.0
+"TANZANIA, UNITED REPUBLIC OF",October,18.0
+"TANZANIA, UNITED REPUBLIC OF",September,10.0
+THAILAND,April,765.0
+THAILAND,August,796.0
+THAILAND,December,1337.0
+THAILAND,February,1928.0
+THAILAND,January,1674.0
+THAILAND,July,572.0
+THAILAND,June,480.0
+THAILAND,March,1206.0
+THAILAND,May,550.0
+THAILAND,November,1182.0
+THAILAND,October,882.0
+THAILAND,September,616.0
+"THAILAND, KINGDOM OF",April,691.0
+"THAILAND, KINGDOM OF",August,823.0
+"THAILAND, KINGDOM OF",December,1031.0
+"THAILAND, KINGDOM OF",February,566.0
+"THAILAND, KINGDOM OF",January,785.0
+"THAILAND, KINGDOM OF",July,807.0
+"THAILAND, KINGDOM OF",June,870.0
+"THAILAND, KINGDOM OF",March,1028.0
+"THAILAND, KINGDOM OF",May,745.0
+"THAILAND, KINGDOM OF",November,593.0
+"THAILAND, KINGDOM OF",October,581.0
+"THAILAND, KINGDOM OF",September,658.0
+TIMOR-LESTE,April,0.0
+TIMOR-LESTE,August,1.0
+TIMOR-LESTE,December,3.0
+TIMOR-LESTE,February,3.0
+TIMOR-LESTE,January,9.0
+TIMOR-LESTE,July,2.0
+TIMOR-LESTE,June,0.0
+TIMOR-LESTE,March,3.0
+TIMOR-LESTE,May,0.0
+TIMOR-LESTE,November,2.0
+TIMOR-LESTE,October,5.0
+TIMOR-LESTE,September,0.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",April,5.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",August,16.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",December,1.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",February,3.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",January,1.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",July,9.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",June,2.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",March,3.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",May,1.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",November,1.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",October,3.0
+"TIMOR-LESTE, DEMOCRATIC REPUBLIC OF",September,3.0
+TOGO,April,2.0
+TOGO,August,0.0
+TOGO,December,2.0
+TOGO,February,3.0
+TOGO,January,3.0
+TOGO,July,2.0
+TOGO,June,2.0
+TOGO,March,1.0
+TOGO,May,0.0
+TOGO,November,0.0
+TOGO,October,2.0
+TOGO,September,36.0
+TONGA,April,0.0
+TONGA,August,4.0
+TONGA,December,3.0
+TONGA,February,0.0
+TONGA,January,1.0
+TONGA,July,2.0
+TONGA,June,1.0
+TONGA,March,1.0
+TONGA,May,0.0
+TONGA,November,3.0
+TONGA,October,2.0
+TONGA,September,1.0
+TRINIDAD & TOBAGO,April,8.0
+TRINIDAD & TOBAGO,August,2.0
+TRINIDAD & TOBAGO,December,8.0
+TRINIDAD & TOBAGO,February,9.0
+TRINIDAD & TOBAGO,January,5.0
+TRINIDAD & TOBAGO,July,16.0
+TRINIDAD & TOBAGO,June,9.0
+TRINIDAD & TOBAGO,March,10.0
+TRINIDAD & TOBAGO,May,4.0
+TRINIDAD & TOBAGO,November,21.0
+TRINIDAD & TOBAGO,October,6.0
+TRINIDAD & TOBAGO,September,7.0
+TRINIDAD AND TOBAGO,April,10.0
+TRINIDAD AND TOBAGO,August,3.0
+TRINIDAD AND TOBAGO,December,17.0
+TRINIDAD AND TOBAGO,February,24.0
+TRINIDAD AND TOBAGO,January,14.0
+TRINIDAD AND TOBAGO,July,1.0
+TRINIDAD AND TOBAGO,June,4.0
+TRINIDAD AND TOBAGO,March,45.0
+TRINIDAD AND TOBAGO,May,1.0
+TRINIDAD AND TOBAGO,November,18.0
+TRINIDAD AND TOBAGO,October,8.0
+TRINIDAD AND TOBAGO,September,9.0
+TUNISIA,April,76.0
+TUNISIA,August,43.0
+TUNISIA,December,333.0
+TUNISIA,February,122.0
+TUNISIA,January,170.0
+TUNISIA,July,41.0
+TUNISIA,June,26.0
+TUNISIA,March,143.0
+TUNISIA,May,8.0
+TUNISIA,November,81.0
+TUNISIA,October,44.0
+TUNISIA,September,21.0
+"TUNISIA, REPUBLIC OF",April,56.0
+"TUNISIA, REPUBLIC OF",August,45.0
+"TUNISIA, REPUBLIC OF",December,104.0
+"TUNISIA, REPUBLIC OF",February,62.0
+"TUNISIA, REPUBLIC OF",January,71.0
+"TUNISIA, REPUBLIC OF",July,49.0
+"TUNISIA, REPUBLIC OF",June,39.0
+"TUNISIA, REPUBLIC OF",March,105.0
+"TUNISIA, REPUBLIC OF",May,29.0
+"TUNISIA, REPUBLIC OF",November,66.0
+"TUNISIA, REPUBLIC OF",October,29.0
+"TUNISIA, REPUBLIC OF",September,57.0
+TURKEY,April,346.0
+TURKEY,August,347.0
+TURKEY,December,1179.0
+TURKEY,February,1508.0
+TURKEY,January,1730.0
+TURKEY,July,189.0
+TURKEY,June,164.0
+TURKEY,March,622.0
+TURKEY,May,96.0
+TURKEY,November,865.0
+TURKEY,October,188.0
+TURKEY,September,168.0
+"TURKEY, REPUBLIC OF",April,244.0
+"TURKEY, REPUBLIC OF",August,375.0
+"TURKEY, REPUBLIC OF",December,631.0
+"TURKEY, REPUBLIC OF",February,632.0
+"TURKEY, REPUBLIC OF",January,658.0
+"TURKEY, REPUBLIC OF",July,249.0
+"TURKEY, REPUBLIC OF",June,169.0
+"TURKEY, REPUBLIC OF",March,365.0
+"TURKEY, REPUBLIC OF",May,288.0
+"TURKEY, REPUBLIC OF",November,236.0
+"TURKEY, REPUBLIC OF",October,234.0
+"TURKEY, REPUBLIC OF",September,181.0
+TURKMENISTAN,April,9.0
+TURKMENISTAN,August,6.0
+TURKMENISTAN,December,14.0
+TURKMENISTAN,February,40.0
+TURKMENISTAN,January,25.0
+TURKMENISTAN,July,14.0
+TURKMENISTAN,June,3.0
+TURKMENISTAN,March,31.0
+TURKMENISTAN,May,1.0
+TURKMENISTAN,November,10.0
+TURKMENISTAN,October,9.0
+TURKMENISTAN,September,36.0
+TUVALU,April,2.0
+TUVALU,August,0.0
+TUVALU,December,1.0
+TUVALU,February,0.0
+TUVALU,January,0.0
+TUVALU,July,1.0
+TUVALU,June,3.0
+TUVALU,March,0.0
+TUVALU,May,0.0
+TUVALU,November,0.0
+TUVALU,October,1.0
+TUVALU,September,1.0
+Taiwan,April,16.0
+Taiwan,August,17.0
+Taiwan,December,77.0
+Taiwan,February,23.0
+Taiwan,January,13.0
+Taiwan,July,16.0
+Taiwan,June,50.0
+Taiwan,March,35.0
+Taiwan,May,11.0
+Taiwan,November,59.0
+Taiwan,October,24.0
+Taiwan,September,22.0
+Taiwan Province of China,April,244.0
+Taiwan Province of China,August,611.0
+Taiwan Province of China,December,374.0
+Taiwan Province of China,February,193.0
+Taiwan Province of China,January,151.0
+Taiwan Province of China,July,411.0
+Taiwan Province of China,June,637.0
+Taiwan Province of China,March,237.0
+Taiwan Province of China,May,211.0
+Taiwan Province of China,November,553.0
+Taiwan Province of China,October,761.0
+Taiwan Province of China,September,616.0
+Tajikistan,April,65.0
+Tajikistan,August,37.0
+Tajikistan,December,80.0
+Tajikistan,February,84.0
+Tajikistan,January,101.0
+Tajikistan,July,27.0
+Tajikistan,June,46.0
+Tajikistan,March,71.0
+Tajikistan,May,58.0
+Tajikistan,November,52.0
+Tajikistan,October,63.0
+Tajikistan,September,35.0
+Tanzania,April,41.0
+Tanzania,August,62.0
+Tanzania,December,93.0
+Tanzania,February,49.0
+Tanzania,January,34.0
+Tanzania,July,115.0
+Tanzania,June,288.0
+Tanzania,March,47.0
+Tanzania,May,43.0
+Tanzania,November,83.0
+Tanzania,October,56.0
+Tanzania,September,52.0
+Thailand,April,2583.0
+Thailand,August,1857.0
+Thailand,December,2379.0
+Thailand,February,1731.0
+Thailand,January,1481.0
+Thailand,July,1706.0
+Thailand,June,1506.0
+Thailand,March,2295.0
+Thailand,May,1678.0
+Thailand,November,2115.0
+Thailand,October,1909.0
+Thailand,September,1248.0
+The Gambia,April,0.0
+The Gambia,August,4.0
+The Gambia,December,0.0
+The Gambia,February,3.0
+The Gambia,January,0.0
+The Gambia,July,1.0
+The Gambia,June,3.0
+The Gambia,March,0.0
+The Gambia,May,1.0
+The Gambia,November,0.0
+The Gambia,October,1.0
+The Gambia,September,3.0
+Timor-Leste,April,12.0
+Timor-Leste,August,2.0
+Timor-Leste,December,12.0
+Timor-Leste,February,8.0
+Timor-Leste,January,6.0
+Timor-Leste,July,9.0
+Timor-Leste,June,9.0
+Timor-Leste,March,4.0
+Timor-Leste,May,3.0
+Timor-Leste,November,14.0
+Timor-Leste,October,10.0
+Timor-Leste,September,14.0
+Togo,April,4.0
+Togo,August,6.0
+Togo,December,0.0
+Togo,February,1.0
+Togo,January,3.0
+Togo,July,2.0
+Togo,June,2.0
+Togo,March,3.0
+Togo,May,3.0
+Togo,November,4.0
+Togo,October,7.0
+Togo,September,3.0
+Tonga,April,2.0
+Tonga,August,2.0
+Tonga,December,0.0
+Tonga,February,0.0
+Tonga,January,1.0
+Tonga,July,2.0
+Tonga,June,5.0
+Tonga,March,1.0
+Tonga,May,8.0
+Tonga,November,3.0
+Tonga,October,1.0
+Tonga,September,1.0
+Trinidad And Tobago,April,3.0
+Trinidad And Tobago,August,1.0
+Trinidad And Tobago,December,8.0
+Trinidad And Tobago,February,1.0
+Trinidad And Tobago,January,1.0
+Trinidad And Tobago,July,0.0
+Trinidad And Tobago,June,0.0
+Trinidad And Tobago,March,3.0
+Trinidad And Tobago,May,1.0
+Trinidad And Tobago,November,2.0
+Trinidad And Tobago,October,1.0
+Trinidad And Tobago,September,1.0
+Trinidad and Tobago,April,15.0
+Trinidad and Tobago,August,20.0
+Trinidad and Tobago,December,26.0
+Trinidad and Tobago,February,31.0
+Trinidad and Tobago,January,16.0
+Trinidad and Tobago,July,21.0
+Trinidad and Tobago,June,18.0
+Trinidad and Tobago,March,24.0
+Trinidad and Tobago,May,19.0
+Trinidad and Tobago,November,36.0
+Trinidad and Tobago,October,22.0
+Trinidad and Tobago,September,22.0
+Tunisia,April,346.0
+Tunisia,August,167.0
+Tunisia,December,377.0
+Tunisia,February,335.0
+Tunisia,January,172.0
+Tunisia,July,224.0
+Tunisia,June,199.0
+Tunisia,March,239.0
+Tunisia,May,183.0
+Tunisia,November,182.0
+Tunisia,October,330.0
+Tunisia,September,159.0
+Turkey,April,1908.0
+Turkey,August,1358.0
+Turkey,December,2220.0
+Turkey,February,1803.0
+Turkey,January,2405.0
+Turkey,July,1371.0
+Turkey,June,1511.0
+Turkey,March,1982.0
+Turkey,May,885.0
+Turkey,November,2106.0
+Turkey,October,1402.0
+Turkey,September,1087.0
+Turkmenistan,April,36.0
+Turkmenistan,August,15.0
+Turkmenistan,December,46.0
+Turkmenistan,February,36.0
+Turkmenistan,January,38.0
+Turkmenistan,July,42.0
+Turkmenistan,June,25.0
+Turkmenistan,March,39.0
+Turkmenistan,May,21.0
+Turkmenistan,November,25.0
+Turkmenistan,October,74.0
+Turkmenistan,September,15.0
+Tuvalu,April,0.0
+Tuvalu,August,2.0
+Tuvalu,December,0.0
+Tuvalu,February,0.0
+Tuvalu,January,0.0
+Tuvalu,July,1.0
+Tuvalu,June,2.0
+Tuvalu,March,0.0
+Tuvalu,May,0.0
+Tuvalu,November,0.0
+Tuvalu,October,0.0
+Tuvalu,September,0.0
+U,April,0.0
+U,August,0.0
+U,December,0.0
+U,February,0.0
+U,January,0.0
+U,July,0.0
+U,June,0.0
+U,March,0.0
+U,May,0.0
+U,November,0.0
+U,October,0.0
+U,September,0.0
+UGANDA,April,12.0
+UGANDA,August,25.0
+UGANDA,December,51.0
+UGANDA,February,42.0
+UGANDA,January,228.0
+UGANDA,July,36.0
+UGANDA,June,13.0
+UGANDA,March,20.0
+UGANDA,May,19.0
+UGANDA,November,46.0
+UGANDA,October,24.0
+UGANDA,September,23.0
+UKRAINE,April,3719.0
+UKRAINE,August,2518.0
+UKRAINE,December,14852.0
+UKRAINE,February,17408.0
+UKRAINE,January,23126.0
+UKRAINE,July,2190.0
+UKRAINE,June,1795.0
+UKRAINE,March,10213.0
+UKRAINE,May,2001.0
+UKRAINE,November,8784.0
+UKRAINE,October,5510.0
+UKRAINE,September,3656.0
+UNITED ARAB EMIRATES,April,777.0
+UNITED ARAB EMIRATES,August,1484.0
+UNITED ARAB EMIRATES,December,1080.0
+UNITED ARAB EMIRATES,February,641.0
+UNITED ARAB EMIRATES,January,881.0
+UNITED ARAB EMIRATES,July,1625.0
+UNITED ARAB EMIRATES,June,618.0
+UNITED ARAB EMIRATES,March,1044.0
+UNITED ARAB EMIRATES,May,253.0
+UNITED ARAB EMIRATES,November,659.0
+UNITED ARAB EMIRATES,October,440.0
+UNITED ARAB EMIRATES,September,417.0
+UNITED KINGDOM,April,51115.0
+UNITED KINGDOM,August,38264.0
+UNITED KINGDOM,December,56305.0
+UNITED KINGDOM,February,79994.0
+UNITED KINGDOM,January,70117.0
+UNITED KINGDOM,July,38560.0
+UNITED KINGDOM,June,16590.0
+UNITED KINGDOM,March,68333.0
+UNITED KINGDOM,May,12439.0
+UNITED KINGDOM,November,41779.0
+UNITED KINGDOM,October,28677.0
+UNITED KINGDOM,September,22880.0
+UNITED STATES,April,5058.0
+UNITED STATES,August,4997.0
+UNITED STATES,December,15186.0
+UNITED STATES,February,17556.0
+UNITED STATES,January,15353.0
+UNITED STATES,July,3216.0
+UNITED STATES,June,2530.0
+UNITED STATES,March,14270.0
+UNITED STATES,May,1551.0
+UNITED STATES,November,5692.0
+UNITED STATES,October,3409.0
+UNITED STATES,September,2980.0
+UNITED STATES OF AMERICA,April,8679.0
+UNITED STATES OF AMERICA,August,4410.0
+UNITED STATES OF AMERICA,December,8848.0
+UNITED STATES OF AMERICA,February,5984.0
+UNITED STATES OF AMERICA,January,7501.0
+UNITED STATES OF AMERICA,July,7164.0
+UNITED STATES OF AMERICA,June,4979.0
+UNITED STATES OF AMERICA,March,9701.0
+UNITED STATES OF AMERICA,May,4123.0
+UNITED STATES OF AMERICA,November,5799.0
+UNITED STATES OF AMERICA,October,3714.0
+UNITED STATES OF AMERICA,September,4406.0
+URUGUAY,April,25.0
+URUGUAY,August,8.0
+URUGUAY,December,24.0
+URUGUAY,February,24.0
+URUGUAY,January,33.0
+URUGUAY,July,4.0
+URUGUAY,June,15.0
+URUGUAY,March,11.0
+URUGUAY,May,5.0
+URUGUAY,November,11.0
+URUGUAY,October,5.0
+URUGUAY,September,6.0
+"URUGUAY, ORIENTAL REPUBLIC OF",April,34.0
+"URUGUAY, ORIENTAL REPUBLIC OF",August,8.0
+"URUGUAY, ORIENTAL REPUBLIC OF",December,11.0
+"URUGUAY, ORIENTAL REPUBLIC OF",February,3.0
+"URUGUAY, ORIENTAL REPUBLIC OF",January,13.0
+"URUGUAY, ORIENTAL REPUBLIC OF",July,3.0
+"URUGUAY, ORIENTAL REPUBLIC OF",June,3.0
+"URUGUAY, ORIENTAL REPUBLIC OF",March,16.0
+"URUGUAY, ORIENTAL REPUBLIC OF",May,6.0
+"URUGUAY, ORIENTAL REPUBLIC OF",November,9.0
+"URUGUAY, ORIENTAL REPUBLIC OF",October,7.0
+"URUGUAY, ORIENTAL REPUBLIC OF",September,7.0
+UZBEKISTAN,April,42.0
+UZBEKISTAN,August,30.0
+UZBEKISTAN,December,170.0
+UZBEKISTAN,February,164.0
+UZBEKISTAN,January,140.0
+UZBEKISTAN,July,40.0
+UZBEKISTAN,June,23.0
+UZBEKISTAN,March,122.0
+UZBEKISTAN,May,21.0
+UZBEKISTAN,November,50.0
+UZBEKISTAN,October,40.0
+UZBEKISTAN,September,19.0
+"UZBEKISTAN, REPUBLIC OF",April,24.0
+"UZBEKISTAN, REPUBLIC OF",August,36.0
+"UZBEKISTAN, REPUBLIC OF",December,47.0
+"UZBEKISTAN, REPUBLIC OF",February,88.0
+"UZBEKISTAN, REPUBLIC OF",January,69.0
+"UZBEKISTAN, REPUBLIC OF",July,70.0
+"UZBEKISTAN, REPUBLIC OF",June,30.0
+"UZBEKISTAN, REPUBLIC OF",March,48.0
+"UZBEKISTAN, REPUBLIC OF",May,26.0
+"UZBEKISTAN, REPUBLIC OF",November,44.0
+"UZBEKISTAN, REPUBLIC OF",October,40.0
+"UZBEKISTAN, REPUBLIC OF",September,74.0
+Uganda,April,50.0
+Uganda,August,44.0
+Uganda,December,48.0
+Uganda,February,49.0
+Uganda,January,46.0
+Uganda,July,76.0
+Uganda,June,57.0
+Uganda,March,41.0
+Uganda,May,47.0
+Uganda,November,48.0
+Uganda,October,48.0
+Uganda,September,53.0
+Ukraine,April,1332.0
+Ukraine,August,726.0
+Ukraine,December,3985.0
+Ukraine,February,8430.0
+Ukraine,January,12015.0
+Ukraine,July,736.0
+Ukraine,June,697.0
+Ukraine,March,2943.0
+Ukraine,May,688.0
+Ukraine,November,2188.0
+Ukraine,October,1320.0
+Ukraine,September,796.0
+United Arab Emirates,April,1100.0
+United Arab Emirates,August,1871.0
+United Arab Emirates,December,1274.0
+United Arab Emirates,February,589.0
+United Arab Emirates,January,575.0
+United Arab Emirates,July,2386.0
+United Arab Emirates,June,1784.0
+United Arab Emirates,March,592.0
+United Arab Emirates,May,975.0
+United Arab Emirates,November,983.0
+United Arab Emirates,October,1100.0
+United Arab Emirates,September,1015.0
+United Kingdom,April,50803.0
+United Kingdom,August,59162.0
+United Kingdom,December,66436.0
+United Kingdom,February,65359.0
+United Kingdom,January,54320.0
+United Kingdom,July,71051.0
+United Kingdom,June,32243.0
+United Kingdom,March,67948.0
+United Kingdom,May,27025.0
+United Kingdom,November,45859.0
+United Kingdom,October,35869.0
+United Kingdom,September,29816.0
+United States,April,15588.0
+United States,August,12721.0
+United States,December,28418.0
+United States,February,16446.0
+United States,January,17244.0
+United States,July,15773.0
+United States,June,14898.0
+United States,March,24108.0
+United States,May,12297.0
+United States,November,16144.0
+United States,October,11065.0
+United States,September,9377.0
+Uruguay,April,78.0
+Uruguay,August,22.0
+Uruguay,December,26.0
+Uruguay,February,52.0
+Uruguay,January,38.0
+Uruguay,July,18.0
+Uruguay,June,23.0
+Uruguay,March,62.0
+Uruguay,May,38.0
+Uruguay,November,23.0
+Uruguay,October,31.0
+Uruguay,September,31.0
+Uzbekistan,April,161.0
+Uzbekistan,August,136.0
+Uzbekistan,December,769.0
+Uzbekistan,February,969.0
+Uzbekistan,January,779.0
+Uzbekistan,July,185.0
+Uzbekistan,June,134.0
+Uzbekistan,March,756.0
+Uzbekistan,May,127.0
+Uzbekistan,November,196.0
+Uzbekistan,October,251.0
+Uzbekistan,September,161.0
+V,April,0.0
+V,August,0.0
+V,December,0.0
+V,February,0.0
+V,January,0.0
+V,July,0.0
+V,June,0.0
+V,March,0.0
+V,May,0.0
+V,November,0.0
+V,October,0.0
+V,September,0.0
+VANUATU,April,1.0
+VANUATU,August,0.0
+VANUATU,December,0.0
+VANUATU,February,2.0
+VANUATU,January,5.0
+VANUATU,July,2.0
+VANUATU,June,0.0
+VANUATU,March,1.0
+VANUATU,May,0.0
+VANUATU,November,3.0
+VANUATU,October,2.0
+VANUATU,September,2.0
+"VANUATU, REPUBLIC OF",April,4.0
+"VANUATU, REPUBLIC OF",August,2.0
+"VANUATU, REPUBLIC OF",December,0.0
+"VANUATU, REPUBLIC OF",February,1.0
+"VANUATU, REPUBLIC OF",January,0.0
+"VANUATU, REPUBLIC OF",July,2.0
+"VANUATU, REPUBLIC OF",June,3.0
+"VANUATU, REPUBLIC OF",March,1.0
+"VANUATU, REPUBLIC OF",May,1.0
+"VANUATU, REPUBLIC OF",November,1.0
+"VANUATU, REPUBLIC OF",October,1.0
+"VANUATU, REPUBLIC OF",September,1.0
+"VATICAN CITY, STATE OF",April,0.0
+"VATICAN CITY, STATE OF",August,0.0
+"VATICAN CITY, STATE OF",December,0.0
+"VATICAN CITY, STATE OF",February,0.0
+"VATICAN CITY, STATE OF",January,0.0
+"VATICAN CITY, STATE OF",July,0.0
+"VATICAN CITY, STATE OF",June,0.0
+"VATICAN CITY, STATE OF",March,0.0
+"VATICAN CITY, STATE OF",May,0.0
+"VATICAN CITY, STATE OF",November,0.0
+"VATICAN CITY, STATE OF",October,0.0
+"VATICAN CITY, STATE OF",September,0.0
+VENEZUELA,April,22.0
+VENEZUELA,August,13.0
+VENEZUELA,December,21.0
+VENEZUELA,February,44.0
+VENEZUELA,January,46.0
+VENEZUELA,July,16.0
+VENEZUELA,June,7.0
+VENEZUELA,March,22.0
+VENEZUELA,May,2.0
+VENEZUELA,November,10.0
+VENEZUELA,October,5.0
+VENEZUELA,September,9.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",April,40.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",August,33.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",December,26.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",February,18.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",January,12.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",July,11.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",June,11.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",March,18.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",May,16.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",November,13.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",October,18.0
+"VENEZUELA, BOLIVARIAN REPUBLIC OF",September,11.0
+VIET NAM,April,151.0
+VIET NAM,August,197.0
+VIET NAM,December,187.0
+VIET NAM,February,713.0
+VIET NAM,January,476.0
+VIET NAM,July,199.0
+VIET NAM,June,117.0
+VIET NAM,March,596.0
+VIET NAM,May,107.0
+VIET NAM,November,206.0
+VIET NAM,October,192.0
+VIET NAM,September,211.0
+VIETNAM,April,344.0
+VIETNAM,August,299.0
+VIETNAM,December,210.0
+VIETNAM,February,380.0
+VIETNAM,January,237.0
+VIETNAM,July,242.0
+VIETNAM,June,212.0
+VIETNAM,March,335.0
+VIETNAM,May,274.0
+VIETNAM,November,208.0
+VIETNAM,October,276.0
+VIETNAM,September,224.0
+Vanuatu,April,12.0
+Vanuatu,August,20.0
+Vanuatu,December,25.0
+Vanuatu,February,7.0
+Vanuatu,January,10.0
+Vanuatu,July,11.0
+Vanuatu,June,19.0
+Vanuatu,March,17.0
+Vanuatu,May,9.0
+Vanuatu,November,15.0
+Vanuatu,October,21.0
+Vanuatu,September,11.0
+Vatican City,April,0.0
+Vatican City,August,1.0
+Vatican City,December,0.0
+Vatican City,February,0.0
+Vatican City,January,0.0
+Vatican City,July,0.0
+Vatican City,June,0.0
+Vatican City,March,0.0
+Vatican City,May,0.0
+Vatican City,November,0.0
+Vatican City,October,0.0
+Vatican City,September,0.0
+Venezuela,April,55.0
+Venezuela,August,36.0
+Venezuela,December,41.0
+Venezuela,February,39.0
+Venezuela,January,21.0
+Venezuela,July,30.0
+Venezuela,June,29.0
+Venezuela,March,59.0
+Venezuela,May,23.0
+Venezuela,November,37.0
+Venezuela,October,23.0
+Venezuela,September,24.0
+Viet Nam,April,376.0
+Viet Nam,August,531.0
+Viet Nam,December,360.0
+Viet Nam,February,373.0
+Viet Nam,January,283.0
+Viet Nam,July,474.0
+Viet Nam,June,429.0
+Viet Nam,March,588.0
+Viet Nam,May,523.0
+Viet Nam,November,681.0
+Viet Nam,October,315.0
+Viet Nam,September,337.0
+Vietnam,April,861.0
+Vietnam,August,354.0
+Vietnam,December,325.0
+Vietnam,February,293.0
+Vietnam,January,274.0
+Vietnam,July,288.0
+Vietnam,June,298.0
+Vietnam,March,360.0
+Vietnam,May,284.0
+Vietnam,November,329.0
+Vietnam,October,325.0
+Vietnam,September,257.0
+Y,April,0.0
+Y,August,0.0
+Y,December,0.0
+Y,February,0.0
+Y,January,0.0
+Y,July,0.0
+Y,June,0.0
+Y,March,0.0
+Y,May,0.0
+Y,November,0.0
+Y,October,0.0
+Y,September,0.0
+YEMEN (YEMEN ARAB REP.),April,89.0
+YEMEN (YEMEN ARAB REP.),August,401.0
+YEMEN (YEMEN ARAB REP.),December,68.0
+YEMEN (YEMEN ARAB REP.),February,92.0
+YEMEN (YEMEN ARAB REP.),January,207.0
+YEMEN (YEMEN ARAB REP.),July,125.0
+YEMEN (YEMEN ARAB REP.),June,42.0
+YEMEN (YEMEN ARAB REP.),March,78.0
+YEMEN (YEMEN ARAB REP.),May,10.0
+YEMEN (YEMEN ARAB REP.),November,75.0
+YEMEN (YEMEN ARAB REP.),October,52.0
+YEMEN (YEMEN ARAB REP.),September,104.0
+"YEMEN, REPUBLIC OF",April,62.0
+"YEMEN, REPUBLIC OF",August,244.0
+"YEMEN, REPUBLIC OF",December,128.0
+"YEMEN, REPUBLIC OF",February,69.0
+"YEMEN, REPUBLIC OF",January,126.0
+"YEMEN, REPUBLIC OF",July,249.0
+"YEMEN, REPUBLIC OF",June,156.0
+"YEMEN, REPUBLIC OF",March,64.0
+"YEMEN, REPUBLIC OF",May,62.0
+"YEMEN, REPUBLIC OF",November,74.0
+"YEMEN, REPUBLIC OF",October,76.0
+"YEMEN, REPUBLIC OF",September,57.0
+Yemen,April,67.0
+Yemen,August,141.0
+Yemen,December,74.0
+Yemen,February,118.0
+Yemen,January,109.0
+Yemen,July,156.0
+Yemen,June,120.0
+Yemen,March,61.0
+Yemen,May,59.0
+Yemen,November,121.0
+Yemen,October,69.0
+Yemen,September,57.0
+Yemen (Yemen Arab Republic),April,22.0
+Yemen (Yemen Arab Republic),August,83.0
+Yemen (Yemen Arab Republic),December,44.0
+Yemen (Yemen Arab Republic),February,26.0
+Yemen (Yemen Arab Republic),January,22.0
+Yemen (Yemen Arab Republic),July,55.0
+Yemen (Yemen Arab Republic),June,23.0
+Yemen (Yemen Arab Republic),March,28.0
+Yemen (Yemen Arab Republic),May,25.0
+Yemen (Yemen Arab Republic),November,34.0
+Yemen (Yemen Arab Republic),October,52.0
+Yemen (Yemen Arab Republic),September,31.0
+Z,April,0.0
+Z,August,0.0
+Z,December,0.0
+Z,February,0.0
+Z,January,0.0
+Z,July,0.0
+Z,June,0.0
+Z,March,0.0
+Z,May,0.0
+Z,November,0.0
+Z,October,0.0
+Z,September,0.0
+ZAMBIA (NORTHERN RHODESIA),April,0.0
+ZAMBIA (NORTHERN RHODESIA),August,0.0
+ZAMBIA (NORTHERN RHODESIA),December,0.0
+ZAMBIA (NORTHERN RHODESIA),February,0.0
+ZAMBIA (NORTHERN RHODESIA),January,0.0
+ZAMBIA (NORTHERN RHODESIA),July,0.0
+ZAMBIA (NORTHERN RHODESIA),June,1.0
+ZAMBIA (NORTHERN RHODESIA),March,0.0
+ZAMBIA (NORTHERN RHODESIA),May,0.0
+ZAMBIA (NORTHERN RHODESIA),November,0.0
+ZAMBIA (NORTHERN RHODESIA),October,0.0
+ZAMBIA (NORTHERN RHODESIA),September,0.0
+ZAMBIA (NORTHERNRHODESIA),April,0.0
+ZAMBIA (NORTHERNRHODESIA),August,0.0
+ZAMBIA (NORTHERNRHODESIA),December,0.0
+ZAMBIA (NORTHERNRHODESIA),February,5.0
+ZAMBIA (NORTHERNRHODESIA),January,16.0
+ZAMBIA (NORTHERNRHODESIA),July,0.0
+ZAMBIA (NORTHERNRHODESIA),June,0.0
+ZAMBIA (NORTHERNRHODESIA),March,2.0
+ZAMBIA (NORTHERNRHODESIA),May,0.0
+ZAMBIA (NORTHERNRHODESIA),November,0.0
+ZAMBIA (NORTHERNRHODESIA),October,0.0
+ZAMBIA (NORTHERNRHODESIA),September,0.0
+ZAMBIA(NORTHERN RHODESIA),April,2.0
+ZAMBIA(NORTHERN RHODESIA),August,4.0
+ZAMBIA(NORTHERN RHODESIA),December,14.0
+ZAMBIA(NORTHERN RHODESIA),February,2.0
+ZAMBIA(NORTHERN RHODESIA),January,11.0
+ZAMBIA(NORTHERN RHODESIA),July,5.0
+ZAMBIA(NORTHERN RHODESIA),June,1.0
+ZAMBIA(NORTHERN RHODESIA),March,9.0
+ZAMBIA(NORTHERN RHODESIA),May,0.0
+ZAMBIA(NORTHERN RHODESIA),November,15.0
+ZAMBIA(NORTHERN RHODESIA),October,4.0
+ZAMBIA(NORTHERN RHODESIA),September,3.0
+"ZAMBIA, REPUBLIC OF",April,3.0
+"ZAMBIA, REPUBLIC OF",August,5.0
+"ZAMBIA, REPUBLIC OF",December,9.0
+"ZAMBIA, REPUBLIC OF",February,7.0
+"ZAMBIA, REPUBLIC OF",January,2.0
+"ZAMBIA, REPUBLIC OF",July,11.0
+"ZAMBIA, REPUBLIC OF",June,5.0
+"ZAMBIA, REPUBLIC OF",March,12.0
+"ZAMBIA, REPUBLIC OF",May,6.0
+"ZAMBIA, REPUBLIC OF",November,45.0
+"ZAMBIA, REPUBLIC OF",October,8.0
+"ZAMBIA, REPUBLIC OF",September,6.0
+ZIMBABWE,April,29.0
+ZIMBABWE,August,13.0
+ZIMBABWE,December,41.0
+ZIMBABWE,February,34.0
+ZIMBABWE,January,32.0
+ZIMBABWE,July,12.0
+ZIMBABWE,June,4.0
+ZIMBABWE,March,39.0
+ZIMBABWE,May,9.0
+ZIMBABWE,November,13.0
+ZIMBABWE,October,19.0
+ZIMBABWE,September,8.0
+"ZIMBABWE, REPUBLIC OF",April,11.0
+"ZIMBABWE, REPUBLIC OF",August,19.0
+"ZIMBABWE, REPUBLIC OF",December,26.0
+"ZIMBABWE, REPUBLIC OF",February,19.0
+"ZIMBABWE, REPUBLIC OF",January,10.0
+"ZIMBABWE, REPUBLIC OF",July,46.0
+"ZIMBABWE, REPUBLIC OF",June,9.0
+"ZIMBABWE, REPUBLIC OF",March,27.0
+"ZIMBABWE, REPUBLIC OF",May,16.0
+"ZIMBABWE, REPUBLIC OF",November,17.0
+"ZIMBABWE, REPUBLIC OF",October,12.0
+"ZIMBABWE, REPUBLIC OF",September,35.0
+Zambia,April,5.0
+Zambia,August,11.0
+Zambia,December,45.0
+Zambia,February,13.0
+Zambia,January,11.0
+Zambia,July,4.0
+Zambia,June,8.0
+Zambia,March,9.0
+Zambia,May,14.0
+Zambia,November,15.0
+Zambia,October,20.0
+Zambia,September,5.0
+Zambia(Northern Rhodesia),April,6.0
+Zambia(Northern Rhodesia),August,4.0
+Zambia(Northern Rhodesia),December,6.0
+Zambia(Northern Rhodesia),February,7.0
+Zambia(Northern Rhodesia),January,6.0
+Zambia(Northern Rhodesia),July,5.0
+Zambia(Northern Rhodesia),June,2.0
+Zambia(Northern Rhodesia),March,4.0
+Zambia(Northern Rhodesia),May,3.0
+Zambia(Northern Rhodesia),November,1.0
+Zambia(Northern Rhodesia),October,4.0
+Zambia(Northern Rhodesia),September,3.0
+Zimbabwe,April,51.0
+Zimbabwe,August,39.0
+Zimbabwe,December,81.0
+Zimbabwe,February,34.0
+Zimbabwe,January,73.0
+Zimbabwe,July,41.0
+Zimbabwe,June,52.0
+Zimbabwe,March,52.0
+Zimbabwe,May,45.0
+Zimbabwe,November,57.0
+Zimbabwe,October,41.0
+Zimbabwe,September,38.0
