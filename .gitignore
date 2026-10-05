@@ -1,9 +1,0 @@
-# Virtual Environment
-.venv/
-
-# Raw Data
-data/raw/
-
-# Python cache
-__pycache__/
-*.pyc

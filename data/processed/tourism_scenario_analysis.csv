@@ -1,6 +1,0 @@
-Scenario,Growth_Rate_%,Projected_Arrivals
-Baseline,0.0,2362521.0
-Growth +5%,5.0,2480647.0500000003
-Growth +10%,10.0,2598773.1
-Decline -5%,-5.0,2244394.9499999997
-Decline -10%,-10.0,2126268.9
