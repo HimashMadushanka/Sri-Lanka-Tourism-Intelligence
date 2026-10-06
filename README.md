@@ -5,6 +5,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-teal.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Executive Deck](https://img.shields.io/badge/Presentation-5--Slide%20Deck-orange.svg)](EXECUTIVE_SUMMARY.md)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Interactive%20Platform-red.svg)](app.py)
 
 > A strategic, end-to-end data and business analytics project evaluating Sri Lanka's inbound tourism performance, crisis resilience, seasonal dynamics, and source market concentration across 2018–2025.
 
@@ -151,7 +152,13 @@ Sri-Lanka-Tourism-Analytics/
    pip install -r requirements.txt
    ```
 
-4. **Run analysis:**
+4. **Launch the Interactive Decision Platform (Streamlit):**
+   ```bash
+   streamlit run app.py
+   ```
+   *Access the 5-step operational platform in your browser at `http://localhost:8501`.*
+
+5. **Run notebooks:**
    Open and execute notebooks in sequence (`01` through `04`) or view the presentation deck in [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md).
 
 ---

@@ -8,3 +8,5 @@ scipy
 statsmodels
 country_converter
 jupyter
+streamlit
+plotly
