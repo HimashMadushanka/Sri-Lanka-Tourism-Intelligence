@@ -444,7 +444,8 @@ with tabs[1]:
     
     country_totals = df_filtered.groupby("Standard_Country")["Tourist_Arrivals"].sum().sort_values(ascending=False).reset_index()
     country_totals = country_totals[~country_totals["Standard_Country"].isin(["Other", "Unknown", "NOT FOUND"])].head(15)
-    country_totals["Share_%"] = (country_totals["Tourist_Arrivals"] / total_filtered_arrivals) * 100
+    safe_filtered_total = total_filtered_arrivals if total_filtered_arrivals > 0 else 1
+    country_totals["Share_%"] = (country_totals["Tourist_Arrivals"] / safe_filtered_total) * 100
     country_totals["Cumulative_%"] = country_totals["Share_%"].cumsum()
 
     with col_m1:
@@ -477,12 +478,12 @@ with tabs[1]:
 
     with col_m2:
         st.markdown("#### Country Share Breakdown")
-        top5_share = country_totals["Cumulative_%"].iloc[4] if len(country_totals) >= 5 else 0
+        top5_share = country_totals["Cumulative_%"].iloc[4] if len(country_totals) >= 5 else (country_totals["Cumulative_%"].iloc[-1] if not country_totals.empty else 0)
 
         st.metric("Top 5 Countries Share", f"{top5_share:.1f}%", help="Percentage of all tourists coming from the top 5 countries")
         top_name = country_totals["Standard_Country"].iloc[0] if not country_totals.empty else "-"
         top_pct = country_totals["Share_%"].iloc[0] if not country_totals.empty else 0
-        st.metric("Top Source Market", f"{top_name}", f"{top_pct:.1f}% of all visitors", help="Country bringing the single highest number of tourists")
+        st.metric("Top Source Market", f"{top_name}", f"{top_pct:.1f}% of all visitors" if not country_totals.empty else "", help="Country bringing the single highest number of tourists")
 
         st.markdown("""
         <div style="background-color: rgba(30, 41, 59, 0.6); border: 1px solid rgba(249, 115, 22, 0.25); border-radius: 8px; padding: 12px; margin-top: 14px; font-size: 0.88rem; color: #cbd5e1;">
@@ -533,61 +534,64 @@ with tabs[1]:
         [1.0, "#fef08a"]
     ]
 
-    is_relative = "Seasonal Pattern" in hm_view_mode
-
-    if is_relative:
-        row_totals = heatmap_raw.sum(axis=1).replace(0, 1)
-        display_df = (heatmap_raw.div(row_totals, axis=0) * 100).round(1)
-        color_label = "Share of Year %"
-        text_matrix = display_df.map(lambda v: f"{v:.1f}%")
+    if heatmap_raw.empty or len(available_months) == 0 or len(top10_list) == 0:
+        st.info("No visitor data matches the current filter selection to display the seasonality heatmap.")
     else:
-        display_df = heatmap_raw
-        color_label = "Visitors"
-        text_matrix = display_df.map(lambda v: f"{v/1e6:.2f}M" if v >= 1e6 else (f"{v/1e3:.0f}K" if v >= 1e4 else (f"{v/1e3:.1f}K" if v >= 1e3 else f"{int(v)}")))
+        is_relative = "Seasonal Pattern" in hm_view_mode
 
-    fig_heat = px.imshow(
-        display_df,
-        labels=dict(x="Month", y="Country", color=color_label),
-        x=display_df.columns,
-        y=display_df.index,
-        color_continuous_scale=orange_flame,
-        aspect="auto"
-    )
+        if is_relative:
+            row_totals = heatmap_raw.sum(axis=1).replace(0, 1)
+            display_df = (heatmap_raw.div(row_totals, axis=0) * 100).round(1)
+            color_label = "Share of Year %"
+            text_matrix = display_df.map(lambda v: f"{v:.1f}%")
+        else:
+            display_df = heatmap_raw
+            color_label = "Visitors"
+            text_matrix = display_df.map(lambda v: f"{v/1e6:.2f}M" if v >= 1e6 else (f"{v/1e3:.0f}K" if v >= 1e4 else (f"{v/1e3:.1f}K" if v >= 1e3 else f"{int(v)}")))
 
-    if show_cell_labels:
-        fig_heat.update_traces(
-            text=text_matrix.values,
-            texttemplate="%{text}",
-            textfont=dict(size=11, color="#f8fafc", family="sans-serif"),
-            xgap=3,
-            ygap=3
-        )
-    else:
-        fig_heat.update_traces(
-            xgap=3,
-            ygap=3
+        fig_heat = px.imshow(
+            display_df,
+            labels=dict(x="Month", y="Country", color=color_label),
+            x=display_df.columns,
+            y=display_df.index,
+            color_continuous_scale=orange_flame,
+            aspect="auto"
         )
 
-    if is_relative:
-        fig_heat.update_traces(
-            customdata=heatmap_raw.values,
-            hovertemplate="<b>%{y}</b> • %{x}<br>Share of Year: <b>%{z:.1f}%</b><br>Visitors: <b>%{customdata:,.0f}</b><extra></extra>"
-        )
-    else:
-        fig_heat.update_traces(
-            hovertemplate="<b>%{y}</b> • %{x}<br>Visitors: <b>%{z:,.0f}</b><extra></extra>"
-        )
+        if show_cell_labels:
+            fig_heat.update_traces(
+                text=text_matrix.values,
+                texttemplate="%{text}",
+                textfont=dict(size=11, color="#f8fafc", family="sans-serif"),
+                xgap=3,
+                ygap=3
+            )
+        else:
+            fig_heat.update_traces(
+                xgap=3,
+                ygap=3
+            )
 
-    fig_heat.update_layout(
-        xaxis=dict(tickangle=0, tickfont=dict(size=12, color="#cbd5e1")),
-        yaxis=dict(tickfont=dict(size=12, color="#cbd5e1")),
-        coloraxis_colorbar=dict(
-            title=dict(text=color_label, font=dict(color="#cbd5e1", size=12)),
-            tickfont=dict(color="#cbd5e1", size=11)
+        if is_relative:
+            fig_heat.update_traces(
+                customdata=heatmap_raw.values,
+                hovertemplate="<b>%{y}</b> • %{x}<br>Share of Year: <b>%{z:.1f}%</b><br>Visitors: <b>%{customdata:,.0f}</b><extra></extra>"
+            )
+        else:
+            fig_heat.update_traces(
+                hovertemplate="<b>%{y}</b> • %{x}<br>Visitors: <b>%{z:,.0f}</b><extra></extra>"
+            )
+
+        fig_heat.update_layout(
+            xaxis=dict(tickangle=0, tickfont=dict(size=12, color="#cbd5e1")),
+            yaxis=dict(tickfont=dict(size=12, color="#cbd5e1")),
+            coloraxis_colorbar=dict(
+                title=dict(text=color_label, font=dict(color="#cbd5e1", size=12)),
+                tickfont=dict(color="#cbd5e1", size=11)
+            )
         )
-    )
-    apply_dark_theme(fig_heat, height=480)
-    st.plotly_chart(fig_heat, use_container_width=True)
+        apply_dark_theme(fig_heat, height=480)
+        st.plotly_chart(fig_heat, use_container_width=True)
 
 
 
@@ -616,7 +620,7 @@ with tabs[2]:
         sim_horizon = st.radio("Forecast Up To Year:", options=["2026", "2027", "2028"], horizontal=True, index=2)
 
         shock_factor = 0.0
-        if "Expensive Flights" in sim_shock:
+        if "Travel Cost" in sim_shock:
             shock_factor = -0.15
         elif "Free Visas" in sim_shock:
             shock_factor = 0.20
@@ -697,18 +701,21 @@ with tabs[3]:
         st.metric("Total Room Nights Needed per Year", f"{est_annual_room_nights/1e6:.2f}M nights", help="Total annual room nights needed for all visitors")
 
     # Seasonality Bar Chart in Flame Orange
-    fig_cap = px.bar(
-        monthly_demand,
-        x="Month",
-        y="Tourist_Arrivals",
-        title="Which Months Have the Most Visitors?",
-        color="Tourist_Arrivals",
-        color_continuous_scale="Oranges",
-        text_auto=".2s"
-    )
-    fig_cap.update_layout(xaxis_title="Month", yaxis_title="Total Visitors")
-    apply_dark_theme(fig_cap, height=350)
-    st.plotly_chart(fig_cap, use_container_width=True)
+    if monthly_demand.empty or monthly_demand["Tourist_Arrivals"].sum() == 0:
+        st.info("No visitor data matches the current filter selection to estimate room demand or display seasonality.")
+    else:
+        fig_cap = px.bar(
+            monthly_demand,
+            x="Month",
+            y="Tourist_Arrivals",
+            title="Which Months Have the Most Visitors?",
+            color="Tourist_Arrivals",
+            color_continuous_scale="Oranges",
+            text_auto=".2s"
+        )
+        fig_cap.update_layout(xaxis_title="Month", yaxis_title="Total Visitors")
+        apply_dark_theme(fig_cap, height=350)
+        st.plotly_chart(fig_cap, use_container_width=True)
 
 # =========================================================
 # TAB 5: DECISION CENTER (Action Plans & Next Steps)
@@ -722,8 +729,7 @@ with tabs[4]:
         options=[
             "1. Bring More Visitors in the Low Season (May–June)",
             "2. Maximize Income in the Busy Winter Season (December–February)",
-            "3. Attract Visitors from More Countries (Reduce Risk)",
-            "4. Reduce Airport Lines & Delays"
+            "3. Attract Visitors from More Countries (Reduce Risk)"
         ]
     )
 
@@ -764,12 +770,28 @@ with tabs[4]:
         """)
 
     st.divider()
-    st.markdown("#### Export Filtered Data")
-    export_df = df_filtered.groupby(["Year", "Month"])["Tourist_Arrivals"].sum().reset_index()
-    csv_data = export_df.to_csv(index=False).encode('utf-8')
-    st.download_button(
-        label="📥 Download Filtered Data (CSV)",
-        data=csv_data,
-        file_name=f"sri_lanka_tourism_filtered_{datetime.now().strftime('%Y%m%d')}.csv",
-        mime="text/csv"
-    )
+    st.markdown("#### Export Project Data & Reports")
+    dl_col1, dl_col2 = st.columns(2)
+    with dl_col1:
+        export_df = df_filtered.groupby(["Year", "Month"])["Tourist_Arrivals"].sum().reset_index()
+        csv_data = export_df.to_csv(index=False).encode('utf-8')
+        st.download_button(
+            label="📥 Download Filtered Data (CSV)",
+            data=csv_data,
+            file_name=f"sri_lanka_tourism_filtered_{datetime.now().strftime('%Y%m%d')}.csv",
+            mime="text/csv",
+            use_container_width=True
+        )
+    with dl_col2:
+        try:
+            with open("EXECUTIVE_SUMMARY.md", "r", encoding="utf-8") as f:
+                exec_text = f.read()
+            st.download_button(
+                label="📄 Download Executive Summary (MD)",
+                data=exec_text.encode('utf-8'),
+                file_name="Sri_Lanka_Tourism_Executive_Summary.md",
+                mime="text/markdown",
+                use_container_width=True
+            )
+        except Exception:
+            pass
