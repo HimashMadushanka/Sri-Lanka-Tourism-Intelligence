@@ -10,3 +10,5 @@ country_converter
 jupyter
 streamlit
 plotly
+requests
+beautifulsoup4

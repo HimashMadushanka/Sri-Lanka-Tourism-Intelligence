@@ -92,11 +92,13 @@ Rather than generic tourism advice, the data reveals specific operational, prici
 ## 📂 Project Architecture
 
 ```
-Sri-Lanka-Tourism-Analytics/
+├── .github/
+│   └── workflows/
+│       └── auto_fetch.yml    # Annual automated data fetching pipeline (GitHub Actions)
 │
 ├── data/
 │   ├── raw/                  # Official SLTDA yearly Excel reports (2018–2025)
-│   ├── processed/            # Standardized, cleaned master datasets
+│   ├── processed/            # Standardized, cleaned master datasets (18,396 records)
 │   └── reference/            # Country code mappings and continent definitions
 │
 ├── notebooks/
@@ -113,6 +115,8 @@ Sri-Lanka-Tourism-Analytics/
 │   │   └── final_tourism_analysis.png          # Executive 4-panel dashboard
 │   └── tables/               # Automated summary tables & business insight metrics
 │
+├── app.py                    # Interactive Streamlit Executive Intelligence Platform
+├── update_data.py            # Automated Monthly SLTDA Data Ingestion Script
 ├── EXECUTIVE_SUMMARY.md      # 5-Slide Executive Pitch Deck for decision-makers
 ├── requirements.txt          # Reproducible environment dependencies
 └── README.md                 # Primary project documentation

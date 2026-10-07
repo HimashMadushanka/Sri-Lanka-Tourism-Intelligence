@@ -230,27 +230,30 @@ with st.sidebar:
     #st.markdown("<span style='color: #f97316; font-weight: 700;'>Dark Mode • Orange Intelligence</span>", unsafe_allow_html=True)
     st.divider()
 
-    # 1. Timeline Preset
+    # 1. Timeline Preset & Year Range
+    min_year, max_year = int(df_raw["Year"].min()), int(df_raw["Year"].max())
+    
     st.subheader("1. Choose Time Period")
+    all_years_label = f"All Years ({min_year}–{max_year})"
+    rec_years_label = f"Recovery Period (2023–{max_year})"
+
     phase_preset = st.selectbox(
         "Select Time Period",
         options=[
-            "All Years (2018–2025)",
+            all_years_label,
             "Before Crisis (2018–2019)",
             "Crisis Years (2020–2022)",
-            "Recovery Period (2023–2025)"
+            rec_years_label
         ],
         index=0
     )
 
-    # 2. Year Range Filter
-    min_year, max_year = int(df_raw["Year"].min()), int(df_raw["Year"].max())
     if phase_preset == "Before Crisis (2018–2019)":
-        default_years = (2018, 2019)
+        default_years = (2018, min(2019, max_year))
     elif phase_preset == "Crisis Years (2020–2022)":
-        default_years = (2020, 2022)
-    elif phase_preset == "Recovery Period (2023–2025)":
-        default_years = (2023, 2025)
+        default_years = (2020, min(2022, max_year))
+    elif phase_preset == rec_years_label:
+        default_years = (2023, max_year)
     else:
         default_years = (min_year, max_year)
 
@@ -331,9 +334,11 @@ if selected_months:
     df_filtered = df_filtered[df_filtered["Month_Number"].isin(selected_months)]
 
 # Macro reference data
+# Macro reference data
 yearly_full = df_raw.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
 base_2018 = yearly_full.loc[yearly_full["Year"] == 2018, "Tourist_Arrivals"].values[0] if 2018 in yearly_full["Year"].values else 2333796
-curr_2025 = yearly_full.loc[yearly_full["Year"] == 2025, "Tourist_Arrivals"].values[0] if 2025 in yearly_full["Year"].values else 2362521
+latest_year_num = int(yearly_full["Year"].max())
+curr_latest = yearly_full.loc[yearly_full["Year"] == latest_year_num, "Tourist_Arrivals"].values[0]
 
 # ---------------------------------------------------------
 # Top Header & Macro KPI Snapshot
@@ -349,10 +354,10 @@ total_filtered_arrivals = df_filtered["Tourist_Arrivals"].sum()
 unique_markets = df_filtered["Standard_Country"].nunique()
 peak_filtered_year = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().idxmax() if not df_filtered.empty else "-"
 peak_val = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().max() if not df_filtered.empty else 0
-recovery_index_calc = (curr_2025 / base_2018) * 100
+recovery_index_calc = (curr_latest / base_2018) * 100
 
 kpi_c1.metric("Total Visitors", f"{total_filtered_arrivals/1e6:.2f}M" if total_filtered_arrivals >= 1e6 else f"{total_filtered_arrivals:,.0f}", delta=f"{selected_years[0]}–{selected_years[1]} Total", delta_color="off", help="Total tourist arrivals under current filters")
-kpi_c2.metric("Recovery vs 2018", f"{recovery_index_calc:.1f}%", delta=f"{recovery_index_calc - 100:+.1f}% vs 2018", help="Current arrivals compared to 2018 record peak")
+kpi_c2.metric(f"Recovery ({latest_year_num})", f"{recovery_index_calc:.1f}%", delta=f"{recovery_index_calc - 100:+.1f}% vs 2018", help=f"{latest_year_num} arrivals compared to 2018 record peak")
 kpi_c3.metric("Busiest Year", f"{peak_filtered_year}", delta=f"{peak_val/1e6:.2f}M Peak Volume", help="Year with the highest recorded tourist arrivals")
 kpi_c4.metric("Countries", f"{unique_markets}", delta="Contributing Markets", delta_color="off", help="Number of inbound tourist source countries")
 kpi_c5.metric("Lowest Year (2021)", "194.5K", delta="-91.7% vs 2018", delta_color="inverse", help="Lowest arrival level recorded during global pandemic lockdowns")
@@ -374,7 +379,7 @@ tabs = st.tabs([
 # TAB 1: SHOCKS & RECOVERY
 # =========================================================
 with tabs[0]:
-    st.subheader("1️⃣ Major Shocks & Visitor Recovery (2018–2025)")
+    st.subheader(f"1️⃣ Major Shocks & Visitor Recovery ({min_year}–{max_year})")
    
 
     yearly_filtered = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
@@ -388,9 +393,9 @@ with tabs[0]:
         </div>
         """, unsafe_allow_html=True)
     else:
-        st.markdown("""
+        st.markdown(f"""
         <div class="alert-box alert-orange">
-            <strong>🔥 Strong Recovery:</strong> Tourist arrivals have fully recovered and crossed the 2018 record (2.36M visitors in 2025).
+            <strong>🔥 Strong Recovery:</strong> Tourist arrivals have fully recovered and crossed the 2018 record ({curr_latest/1e6:.2f}M visitors in {latest_year_num}).
         </div>
         """, unsafe_allow_html=True)
 
@@ -431,6 +436,13 @@ with tabs[0]:
     )
     apply_dark_theme(fig_timeline, height=450)
     st.plotly_chart(fig_timeline, use_container_width=True)
+
+    with st.expander("📊 View Year-by-Year Summary Table (with YoY Growth)"):
+        y_summary = yearly_filtered.copy()
+        y_summary["YoY Growth %"] = y_summary["Tourist_Arrivals"].pct_change() * 100
+        y_summary["Total Visitors"] = y_summary["Tourist_Arrivals"].map(lambda x: f"{x:,.0f}")
+        y_summary["YoY Growth"] = y_summary["YoY Growth %"].map(lambda x: f"{x:+.1f}%" if pd.notnull(x) else "Baseline")
+        st.dataframe(y_summary[["Year", "Total Visitors", "YoY Growth"]], use_container_width=True, hide_index=True)
 
 
 # =========================================================
@@ -692,7 +704,7 @@ with tabs[3]:
         avg_length_stay = st.slider("Average Days Tourists Stay", min_value=5, max_value=21, value=10)
         persons_per_room = st.slider("Average Guests per Room", min_value=1.0, max_value=2.5, value=1.8, step=0.1)
 
-    total_tourists_yr = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().iloc[-1] if not df_filtered.empty else curr_2025
+    total_tourists_yr = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().iloc[-1] if not df_filtered.empty else curr_latest
     est_annual_room_nights = (total_tourists_yr * avg_length_stay) / persons_per_room
     peak_daily_rooms = (peak_month_arrivals * avg_length_stay) / (30 * persons_per_room)
 
@@ -770,28 +782,60 @@ with tabs[4]:
         """)
 
     st.divider()
-    st.markdown("#### Export Project Data & Reports")
-    dl_col1, dl_col2 = st.columns(2)
-    with dl_col1:
-        export_df = df_filtered.groupby(["Year", "Month"])["Tourist_Arrivals"].sum().reset_index()
-        csv_data = export_df.to_csv(index=False).encode('utf-8')
+    st.markdown("#### 📥 Download Datasets Year-by-Year & Reports")
+    st.caption("Export official visitor datasets for any individual year, all years combined, or annual totals.")
+
+    y_pick_col, dl_btn_col1, dl_btn_col2 = st.columns([2.5, 2.5, 2.5])
+    
+    available_years = sorted(df_raw["Year"].unique(), reverse=True)
+    with y_pick_col:
+        chosen_year_str = st.selectbox(
+            "Select Year to Download:",
+            options=["All Years (2018–2025)"] + [str(y) for y in available_years],
+            help="Choose an individual year or all years"
+        )
+
+    if "All Years" in chosen_year_str:
+        export_dataset = df_raw.copy()
+        export_filename = f"sri_lanka_tourism_all_years_{datetime.now().strftime('%Y%m%d')}.csv"
+        btn_label = "📥 Download All Years (CSV)"
+    else:
+        sel_yr = int(chosen_year_str)
+        export_dataset = df_raw[df_raw["Year"] == sel_yr].copy()
+        export_filename = f"sri_lanka_tourism_{sel_yr}_{datetime.now().strftime('%Y%m%d')}.csv"
+        btn_label = f"📥 Download {sel_yr} Dataset (CSV)"
+
+    csv_data = export_dataset.to_csv(index=False).encode('utf-8')
+    with dl_btn_col1:
         st.download_button(
-            label="📥 Download Filtered Data (CSV)",
+            label=btn_label,
             data=csv_data,
-            file_name=f"sri_lanka_tourism_filtered_{datetime.now().strftime('%Y%m%d')}.csv",
+            file_name=export_filename,
             mime="text/csv",
             use_container_width=True
         )
-    with dl_col2:
-        try:
-            with open("EXECUTIVE_SUMMARY.md", "r", encoding="utf-8") as f:
-                exec_text = f.read()
-            st.download_button(
-                label="📄 Download Executive Summary (MD)",
-                data=exec_text.encode('utf-8'),
-                file_name="Sri_Lanka_Tourism_Executive_Summary.md",
-                mime="text/markdown",
-                use_container_width=True
-            )
-        except Exception:
-            pass
+
+    with dl_btn_col2:
+        yearly_summary_df = df_raw.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
+        yearly_summary_df["YoY Growth %"] = (yearly_summary_df["Tourist_Arrivals"].pct_change() * 100).round(1)
+        summary_csv = yearly_summary_df.to_csv(index=False).encode('utf-8')
+        st.download_button(
+            label="📊 Download Yearly Totals (CSV)",
+            data=summary_csv,
+            file_name="sri_lanka_tourism_yearly_totals.csv",
+            mime="text/csv",
+            use_container_width=True
+        )
+
+    try:
+        with open("EXECUTIVE_SUMMARY.md", "r", encoding="utf-8") as f:
+            exec_text = f.read()
+        st.download_button(
+            label="📄 Download 1-Page Summary Deck (MD)",
+            data=exec_text.encode('utf-8'),
+            file_name="Sri_Lanka_Tourism_Executive_Summary.md",
+            mime="text/markdown",
+            use_container_width=True
+        )
+    except Exception:
+        pass

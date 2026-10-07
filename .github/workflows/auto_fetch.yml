@@ -1,0 +1,48 @@
+name: Annual Tourism Data Auto-Fetch (Year-by-Year)
+
+on:
+  schedule:
+    # Checks quarterly for new SLTDA Annual Statistical Reports (Jan, Apr, Jul, Oct)
+    - cron: '0 0 1 1,4,7,10 *'
+  workflow_dispatch: # Allows manual trigger from GitHub anytime
+
+permissions:
+  contents: write
+
+jobs:
+  auto-fetch-yearly-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Yearly Ingestion Script
+        run: |
+          python update_data.py
+
+      - name: Commit and Push if Data Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if dataset files have changed
+          if git status --porcelain data/processed/ | grep -q 'data/processed'; then
+            echo "New yearly data detected! Committing changes..."
+            git add data/processed/ outputs/tables/yearly_tourism_summary.csv
+            git commit -m "Auto-update: added new annual tourism dataset [skip ci]"
+            git push
+          else
+            echo "Yearly dataset is already up to date. No new commit needed."
+          fi

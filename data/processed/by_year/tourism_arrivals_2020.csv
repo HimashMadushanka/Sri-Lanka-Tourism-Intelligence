@@ -1,0 +1,2257 @@
+Year,Country,Month,Tourist_Arrivals,Month_Number,Date,Standard_Country,Continent
+2020,AFGHANISTAN,January,65.0,1,2020-01-01,Afghanistan,Asia
+2020,ALBANIA,January,33.0,1,2020-01-01,Albania,Europe
+2020,ALGERIA,January,34.0,1,2020-01-01,Algeria,Africa
+2020,ANDORRA,January,2.0,1,2020-01-01,Andorra,Europe
+2020,ANGOLA,January,1.0,1,2020-01-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,January,4.0,1,2020-01-01,Antigua and Barbuda,America
+2020,ARGENTINA,January,224.0,1,2020-01-01,Argentina,America
+2020,ARMENIA,January,156.0,1,2020-01-01,Armenia,Asia
+2020,AUSTRALIA,January,8115.0,1,2020-01-01,Australia,Oceania
+2020,AUSTRIA,January,1674.0,1,2020-01-01,Austria,Europe
+2020,AZERBAIJAN,January,56.0,1,2020-01-01,Azerbaijan,Asia
+2020,BAHAMAS,January,0.0,1,2020-01-01,Bahamas,America
+2020,BAHRAIN,January,404.0,1,2020-01-01,Bahrain,Asia
+2020,BANGLADESH,January,1014.0,1,2020-01-01,Bangladesh,Asia
+2020,BARBADOS,January,2.0,1,2020-01-01,Barbados,America
+2020,BELARUS,January,1099.0,1,2020-01-01,Belarus,Europe
+2020,BELGIUM,January,1243.0,1,2020-01-01,Belgium,Europe
+2020,BELIZE,January,2.0,1,2020-01-01,Belize,America
+2020,BENIN,January,0.0,1,2020-01-01,Benin,Africa
+2020,BHUTAN,January,137.0,1,2020-01-01,Bhutan,Asia
+2020,BOLIVIA,January,12.0,1,2020-01-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,January,30.0,1,2020-01-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,January,11.0,1,2020-01-01,Botswana,Africa
+2020,BRAZIL,January,467.0,1,2020-01-01,Brazil,America
+2020,BRUNEI DARUSSALAM,January,4.0,1,2020-01-01,Brunei Darussalam,Asia
+2020,BULGARIA,January,305.0,1,2020-01-01,Bulgaria,Europe
+2020,BURKINA FASO,January,0.0,1,2020-01-01,Burkina Faso,Africa
+2020,BURUNDI,January,0.0,1,2020-01-01,Burundi,Africa
+2020,CAMBODIA,January,146.0,1,2020-01-01,Cambodia,Asia
+2020,CAMEROON,January,3.0,1,2020-01-01,Cameroon,Africa
+2020,CANADA,January,5510.0,1,2020-01-01,Canada,America
+2020,CAPE VERDE,January,1.0,1,2020-01-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,January,0.0,1,2020-01-01,CENTRAL AFRICAN,Other
+2020,CHAD,January,0.0,1,2020-01-01,Chad,Africa
+2020,CHILE,January,128.0,1,2020-01-01,Chile,America
+2020,CHINA,January,22363.0,1,2020-01-01,China,Asia
+2020,COLOMBIA,January,88.0,1,2020-01-01,Colombia,America
+2020,COMOROS,January,6.0,1,2020-01-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,January,3.0,1,2020-01-01,DR Congo,Africa
+2020,COSTA RICA,January,9.0,1,2020-01-01,Costa Rica,America
+2020,COTE DIVOIRE,January,1.0,1,2020-01-01,Côte d'Ivoire,Africa
+2020,CROATIA,January,331.0,1,2020-01-01,Croatia,Europe
+2020,CUBA,January,0.0,1,2020-01-01,Cuba,America
+2020,CYPRUS,January,99.0,1,2020-01-01,Cyprus,Asia
+2020,CZECH REPUBLIC,January,2673.0,1,2020-01-01,Czechia,Europe
+2020,DENMARK,January,2176.0,1,2020-01-01,Denmark,Europe
+2020,DJIBOUTI,January,1.0,1,2020-01-01,Djibouti,Africa
+2020,DOMINICA,January,6.0,1,2020-01-01,Dominica,America
+2020,DOMINICAN,January,3.0,1,2020-01-01,Dominican Republic,America
+2020,ECUADOR,January,19.0,1,2020-01-01,Ecuador,America
+2020,EGYPT,January,404.0,1,2020-01-01,Egypt,Africa
+2020,EL SALVADOR,January,0.0,1,2020-01-01,El Salvador,America
+2020,EQUATORIAL,January,0.0,1,2020-01-01,EQUATORIAL,Other
+2020,ERITREA,January,2.0,1,2020-01-01,Eritrea,Africa
+2020,ESTONIA,January,394.0,1,2020-01-01,Estonia,Europe
+2020,ETHIOPIA,January,9.0,1,2020-01-01,Ethiopia,Africa
+2020,FIJI,January,34.0,1,2020-01-01,Fiji,Oceania
+2020,FINLAND,January,986.0,1,2020-01-01,Finland,Europe
+2020,FRANCE,January,9352.0,1,2020-01-01,France,Europe
+2020,GABON,January,1.0,1,2020-01-01,Gabon,Africa
+2020,"GAMBIA, THE",January,0.0,1,2020-01-01,Gambia,Africa
+2020,GEORGIA,January,102.0,1,2020-01-01,Georgia,Asia
+2020,GERMANY,January,11494.0,1,2020-01-01,Germany,Europe
+2020,GHANA,January,3.0,1,2020-01-01,Ghana,Africa
+2020,GREECE,January,598.0,1,2020-01-01,Greece,Europe
+2020,GRENADA,January,3.0,1,2020-01-01,Grenada,America
+2020,GUATEMALA,January,6.0,1,2020-01-01,Guatemala,America
+2020,GUINEA,January,0.0,1,2020-01-01,Guinea,Africa
+2020,GUINEA-BISSAU,January,0.0,1,2020-01-01,Guinea-Bissau,Africa
+2020,GUYANA,January,0.0,1,2020-01-01,Guyana,America
+2020,HAITI,January,2.0,1,2020-01-01,Haiti,America
+2020,HONDURAS,January,7.0,1,2020-01-01,Honduras,America
+2020,HONG KONG,January,8.0,1,2020-01-01,Hong Kong,Asia
+2020,HUNGARY,January,758.0,1,2020-01-01,Hungary,Europe
+2020,ICELAND,January,48.0,1,2020-01-01,Iceland,Europe
+2020,INDIA,January,41448.0,1,2020-01-01,India,Asia
+2020,INDONESIA,January,401.0,1,2020-01-01,Indonesia,Asia
+2020,IRAN,January,330.0,1,2020-01-01,Iran,Asia
+2020,IRAQ,January,71.0,1,2020-01-01,Iraq,Asia
+2020,IRELAND,January,948.0,1,2020-01-01,Ireland,Europe
+2020,ISRAEL,January,1688.0,1,2020-01-01,Israel,Asia
+2020,ITALY,January,4454.0,1,2020-01-01,Italy,Europe
+2020,JAMAICA,January,7.0,1,2020-01-01,Jamaica,America
+2020,JAPAN,January,2917.0,1,2020-01-01,Japan,Asia
+2020,JORDAN,January,361.0,1,2020-01-01,Jordan,Asia
+2020,KAZAKHSTAN,January,1182.0,1,2020-01-01,Kazakhstan,Asia
+2020,KENYA,January,45.0,1,2020-01-01,Kenya,Africa
+2020,KOSOVAR,January,11.0,1,2020-01-01,KOSOVAR,Other
+2020,KUWAIT,January,465.0,1,2020-01-01,Kuwait,Asia
+2020,KYRGYZSTAN,January,122.0,1,2020-01-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,January,8.0,1,2020-01-01,Laos,Asia
+2020,LATVIA,January,235.0,1,2020-01-01,Latvia,Europe
+2020,LEBANON,January,212.0,1,2020-01-01,Lebanon,Asia
+2020,LESOTHO,January,2.0,1,2020-01-01,Lesotho,Africa
+2020,LIBERIA,January,2.0,1,2020-01-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,January,6.0,1,2020-01-01,Libya,Africa
+2020,LIECHTENSTEIN,January,6.0,1,2020-01-01,Liechtenstein,Europe
+2020,LITHUANIA,January,514.0,1,2020-01-01,Lithuania,Europe
+2020,LUXEMBOURG,January,55.0,1,2020-01-01,Luxembourg,Europe
+2020,MACEDONIA,January,23.0,1,2020-01-01,North Macedonia,Europe
+2020,MADAGASCAR,January,3.0,1,2020-01-01,Madagascar,Africa
+2020,MALAWI,January,5.0,1,2020-01-01,Malawi,Africa
+2020,MALAYSIA,January,1399.0,1,2020-01-01,Malaysia,Asia
+2020,MALDIVES,January,4264.0,1,2020-01-01,Maldives,Asia
+2020,MALI,January,0.0,1,2020-01-01,Mali,Africa
+2020,MALTA,January,87.0,1,2020-01-01,Malta,Europe
+2020,MAURITANIA,January,1.0,1,2020-01-01,Mauritania,Africa
+2020,MAURITIUS,January,107.0,1,2020-01-01,Mauritius,Africa
+2020,MEXICO,January,138.0,1,2020-01-01,Mexico,America
+2020,MOLDOVA,January,120.0,1,2020-01-01,Moldova,Europe
+2020,MONACO,January,0.0,1,2020-01-01,Monaco,Europe
+2020,MONGOLIA,January,20.0,1,2020-01-01,Mongolia,Asia
+2020,MONTENEGRO,January,33.0,1,2020-01-01,Montenegro,Europe
+2020,MOROCCO,January,125.0,1,2020-01-01,Morocco,Africa
+2020,MOZAMBIQUE,January,9.0,1,2020-01-01,Mozambique,Africa
+2020,MYANMAR,January,190.0,1,2020-01-01,Myanmar,Asia
+2020,NAMIBIA,January,0.0,1,2020-01-01,Namibia,Africa
+2020,NAURU,January,0.0,1,2020-01-01,Nauru,Oceania
+2020,NEPAL,January,589.0,1,2020-01-01,Nepal,Asia
+2020,NETHERLANDS,January,3538.0,1,2020-01-01,Netherlands,Europe
+2020,NEW ZEALAND,January,1035.0,1,2020-01-01,New Zealand,Oceania
+2020,NIGER,January,0.0,1,2020-01-01,Niger,Africa
+2020,NIGERIA,January,12.0,1,2020-01-01,Nigeria,Africa
+2020,NORWAY,January,1379.0,1,2020-01-01,Norway,Europe
+2020,OMAN,January,768.0,1,2020-01-01,Oman,Asia
+2020,PAKISTAN,January,1397.0,1,2020-01-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,January,85.0,1,2020-01-01,Palestine,Asia
+2020,PANAMA,January,6.0,1,2020-01-01,Panama,America
+2020,PAPUA NEW GUINEA,January,3.0,1,2020-01-01,Papua New Guinea,Oceania
+2020,PARAGUAY,January,6.0,1,2020-01-01,Paraguay,America
+2020,PERU,January,30.0,1,2020-01-01,Peru,America
+2020,PHILIPPINES,January,1199.0,1,2020-01-01,Philippines,Asia
+2020,POLAND,January,5577.0,1,2020-01-01,Poland,Europe
+2020,PORTUGAL,January,568.0,1,2020-01-01,Portugal,Europe
+2020,QATAR,January,69.0,1,2020-01-01,Qatar,Asia
+2020,REPUBLIC,January,0.0,1,2020-01-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,January,7.0,1,2020-01-01,Zimbabwe,Africa
+2020,ROMANIA,January,785.0,1,2020-01-01,Romania,Europe
+2020,RUSSIAN FEDERATION,January,19616.0,1,2020-01-01,Russia,Europe
+2020,RWANDA,January,3.0,1,2020-01-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,January,8.0,1,2020-01-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,January,0.0,1,2020-01-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,January,2.0,1,2020-01-01,St. Vincent and the Grenadines,America
+2020,SAMOA,January,0.0,1,2020-01-01,Samoa,Oceania
+2020,SAN MARINO,January,0.0,1,2020-01-01,San Marino,Europe
+2020,SAUDI ARABIA,January,3914.0,1,2020-01-01,Saudi Arabia,Asia
+2020,SENEGAL,January,0.0,1,2020-01-01,Senegal,Africa
+2020,SERBIA,January,202.0,1,2020-01-01,Serbia,Europe
+2020,SEYCHELLES,January,0.0,1,2020-01-01,Seychelles,Africa
+2020,SIERRA LEONE,January,2.0,1,2020-01-01,Sierra Leone,Africa
+2020,SINGAPORE,January,1214.0,1,2020-01-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),January,539.0,1,2020-01-01,Slovakia,Europe
+2020,SLOVENIA,January,261.0,1,2020-01-01,Slovenia,Europe
+2020,SOMALIA,January,5.0,1,2020-01-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,January,686.0,1,2020-01-01,South Africa,Africa
+2020,SOUTH KOREA,January,1577.0,1,2020-01-01,South Korea,Asia
+2020,SOUTH SUDAN,January,0.0,1,2020-01-01,South Sudan,Africa
+2020,SPAIN,January,1509.0,1,2020-01-01,Spain,Europe
+2020,SUDAN,January,67.0,1,2020-01-01,Sudan,Africa
+2020,SURINAME,January,0.0,1,2020-01-01,Suriname,America
+2020,SWAZILAND,January,0.0,1,2020-01-01,Eswatini,Africa
+2020,SWEDEN,January,3099.0,1,2020-01-01,Sweden,Europe
+2020,SWITZERLAND,January,2508.0,1,2020-01-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,January,37.0,1,2020-01-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,January,1296.0,1,2020-01-01,Taiwan,Asia
+2020,TAJIKISTAN,January,18.0,1,2020-01-01,Tajikistan,Asia
+2020,TANZANIA,January,16.0,1,2020-01-01,Tanzania,Africa
+2020,THAILAND,January,736.0,1,2020-01-01,Thailand,Asia
+2020,TIMOR-LESTE,January,0.0,1,2020-01-01,Timor-Leste,Asia
+2020,TOGO,January,0.0,1,2020-01-01,Togo,Africa
+2020,TONGA,January,0.0,1,2020-01-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,January,7.0,1,2020-01-01,Trinidad and Tobago,America
+2020,TUNISIA,January,80.0,1,2020-01-01,Tunisia,Africa
+2020,TURKEY,January,1145.0,1,2020-01-01,Türkiye,Asia
+2020,TURKMENISTAN,January,9.0,1,2020-01-01,Turkmenistan,Asia
+2020,UGANDA,January,16.0,1,2020-01-01,Uganda,Africa
+2020,UKRAINE,January,8549.0,1,2020-01-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,January,199.0,1,2020-01-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,January,21138.0,1,2020-01-01,United Kingdom,Europe
+2020,UNITED STATES,January,7494.0,1,2020-01-01,United States,America
+2020,URUGUAY,January,21.0,1,2020-01-01,Uruguay,America
+2020,UZBEKISTAN,January,74.0,1,2020-01-01,Uzbekistan,Asia
+2020,VANUATU,January,5.0,1,2020-01-01,Vanuatu,Oceania
+2020,VENEZUELA,January,13.0,1,2020-01-01,Venezuela,America
+2020,VIET NAM,January,287.0,1,2020-01-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),January,116.0,1,2020-01-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),January,16.0,1,2020-01-01,Zambia,Africa
+2020,ZIMBABWE,January,11.0,1,2020-01-01,Zimbabwe,Africa
+2020,AFGHANISTAN,February,64.0,2,2020-02-01,Afghanistan,Asia
+2020,ALBANIA,February,38.0,2,2020-02-01,Albania,Europe
+2020,ALGERIA,February,41.0,2,2020-02-01,Algeria,Africa
+2020,ANDORRA,February,1.0,2,2020-02-01,Andorra,Europe
+2020,ANGOLA,February,1.0,2,2020-02-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,February,6.0,2,2020-02-01,Antigua and Barbuda,America
+2020,ARGENTINA,February,140.0,2,2020-02-01,Argentina,America
+2020,ARMENIA,February,82.0,2,2020-02-01,Armenia,Asia
+2020,AUSTRALIA,February,9578.0,2,2020-02-01,Australia,Oceania
+2020,AUSTRIA,February,2024.0,2,2020-02-01,Austria,Europe
+2020,AZERBAIJAN,February,50.0,2,2020-02-01,Azerbaijan,Asia
+2020,BAHAMAS,February,4.0,2,2020-02-01,Bahamas,America
+2020,BAHRAIN,February,131.0,2,2020-02-01,Bahrain,Asia
+2020,BANGLADESH,February,760.0,2,2020-02-01,Bangladesh,Asia
+2020,BARBADOS,February,6.0,2,2020-02-01,Barbados,America
+2020,BELARUS,February,1101.0,2,2020-02-01,Belarus,Europe
+2020,BELGIUM,February,1500.0,2,2020-02-01,Belgium,Europe
+2020,BELIZE,February,3.0,2,2020-02-01,Belize,America
+2020,BENIN,February,2.0,2,2020-02-01,Benin,Africa
+2020,BHUTAN,February,69.0,2,2020-02-01,Bhutan,Asia
+2020,BOLIVIA,February,3.0,2,2020-02-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,February,21.0,2,2020-02-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,February,2.0,2,2020-02-01,Botswana,Africa
+2020,BRAZIL,February,337.0,2,2020-02-01,Brazil,America
+2020,BRUNEI DARUSSALAM,February,5.0,2,2020-02-01,Brunei Darussalam,Asia
+2020,BULGARIA,February,303.0,2,2020-02-01,Bulgaria,Europe
+2020,BURKINA FASO,February,1.0,2,2020-02-01,Burkina Faso,Africa
+2020,BURUNDI,February,0.0,2,2020-02-01,Burundi,Africa
+2020,CAMBODIA,February,152.0,2,2020-02-01,Cambodia,Asia
+2020,CAMEROON,February,2.0,2,2020-02-01,Cameroon,Africa
+2020,CANADA,February,5482.0,2,2020-02-01,Canada,America
+2020,CAPE VERDE,February,1.0,2,2020-02-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,February,0.0,2,2020-02-01,CENTRAL AFRICAN,Other
+2020,CHAD,February,0.0,2,2020-02-01,Chad,Africa
+2020,CHILE,February,117.0,2,2020-02-01,Chile,America
+2020,CHINA,February,2096.0,2,2020-02-01,China,Asia
+2020,COLOMBIA,February,72.0,2,2020-02-01,Colombia,America
+2020,COMOROS,February,9.0,2,2020-02-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,February,35.0,2,2020-02-01,DR Congo,Africa
+2020,COSTA RICA,February,24.0,2,2020-02-01,Costa Rica,America
+2020,COTE DIVOIRE,February,1.0,2,2020-02-01,Côte d'Ivoire,Africa
+2020,CROATIA,February,250.0,2,2020-02-01,Croatia,Europe
+2020,CUBA,February,1.0,2,2020-02-01,Cuba,America
+2020,CYPRUS,February,53.0,2,2020-02-01,Cyprus,Asia
+2020,CZECH REPUBLIC,February,3646.0,2,2020-02-01,Czechia,Europe
+2020,DENMARK,February,2223.0,2,2020-02-01,Denmark,Europe
+2020,DJIBOUTI,February,2.0,2,2020-02-01,Djibouti,Africa
+2020,DOMINICA,February,3.0,2,2020-02-01,Dominica,America
+2020,DOMINICAN,February,0.0,2,2020-02-01,Dominican Republic,America
+2020,ECUADOR,February,7.0,2,2020-02-01,Ecuador,America
+2020,EGYPT,February,400.0,2,2020-02-01,Egypt,Africa
+2020,EL SALVADOR,February,4.0,2,2020-02-01,El Salvador,America
+2020,EQUATORIAL,February,0.0,2,2020-02-01,EQUATORIAL,Other
+2020,ERITREA,February,5.0,2,2020-02-01,Eritrea,Africa
+2020,ESTONIA,February,651.0,2,2020-02-01,Estonia,Europe
+2020,ETHIOPIA,February,21.0,2,2020-02-01,Ethiopia,Africa
+2020,FIJI,February,49.0,2,2020-02-01,Fiji,Oceania
+2020,FINLAND,February,1037.0,2,2020-02-01,Finland,Europe
+2020,FRANCE,February,11430.0,2,2020-02-01,France,Europe
+2020,GABON,February,0.0,2,2020-02-01,Gabon,Africa
+2020,"GAMBIA, THE",February,1.0,2,2020-02-01,Gambia,Africa
+2020,GEORGIA,February,108.0,2,2020-02-01,Georgia,Asia
+2020,GERMANY,February,16405.0,2,2020-02-01,Germany,Europe
+2020,GHANA,February,5.0,2,2020-02-01,Ghana,Africa
+2020,GREECE,February,618.0,2,2020-02-01,Greece,Europe
+2020,GRENADA,February,5.0,2,2020-02-01,Grenada,America
+2020,GUATEMALA,February,1.0,2,2020-02-01,Guatemala,America
+2020,GUINEA,February,0.0,2,2020-02-01,Guinea,Africa
+2020,GUINEA-BISSAU,February,0.0,2,2020-02-01,Guinea-Bissau,Africa
+2020,GUYANA,February,5.0,2,2020-02-01,Guyana,America
+2020,HAITI,February,1.0,2,2020-02-01,Haiti,America
+2020,HONDURAS,February,6.0,2,2020-02-01,Honduras,America
+2020,HONG KONG,February,0.0,2,2020-02-01,Hong Kong,Asia
+2020,HUNGARY,February,655.0,2,2020-02-01,Hungary,Europe
+2020,ICELAND,February,38.0,2,2020-02-01,Iceland,Europe
+2020,INDIA,February,35309.0,2,2020-02-01,India,Asia
+2020,INDONESIA,February,515.0,2,2020-02-01,Indonesia,Asia
+2020,IRAN,February,293.0,2,2020-02-01,Iran,Asia
+2020,IRAQ,February,52.0,2,2020-02-01,Iraq,Asia
+2020,IRELAND,February,1084.0,2,2020-02-01,Ireland,Europe
+2020,ISRAEL,February,1539.0,2,2020-02-01,Israel,Asia
+2020,ITALY,February,3743.0,2,2020-02-01,Italy,Europe
+2020,JAMAICA,February,18.0,2,2020-02-01,Jamaica,America
+2020,JAPAN,February,3015.0,2,2020-02-01,Japan,Asia
+2020,JORDAN,February,206.0,2,2020-02-01,Jordan,Asia
+2020,KAZAKHSTAN,February,673.0,2,2020-02-01,Kazakhstan,Asia
+2020,KENYA,February,50.0,2,2020-02-01,Kenya,Africa
+2020,KOSOVAR,February,5.0,2,2020-02-01,KOSOVAR,Other
+2020,KUWAIT,February,326.0,2,2020-02-01,Kuwait,Asia
+2020,KYRGYZSTAN,February,75.0,2,2020-02-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,February,8.0,2,2020-02-01,Laos,Asia
+2020,LATVIA,February,208.0,2,2020-02-01,Latvia,Europe
+2020,LEBANON,February,223.0,2,2020-02-01,Lebanon,Asia
+2020,LESOTHO,February,0.0,2,2020-02-01,Lesotho,Africa
+2020,LIBERIA,February,0.0,2,2020-02-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,February,7.0,2,2020-02-01,Libya,Africa
+2020,LIECHTENSTEIN,February,15.0,2,2020-02-01,Liechtenstein,Europe
+2020,LITHUANIA,February,397.0,2,2020-02-01,Lithuania,Europe
+2020,LUXEMBOURG,February,57.0,2,2020-02-01,Luxembourg,Europe
+2020,MACEDONIA,February,20.0,2,2020-02-01,North Macedonia,Europe
+2020,MADAGASCAR,February,21.0,2,2020-02-01,Madagascar,Africa
+2020,MALAWI,February,5.0,2,2020-02-01,Malawi,Africa
+2020,MALAYSIA,February,1400.0,2,2020-02-01,Malaysia,Asia
+2020,MALDIVES,February,2960.0,2,2020-02-01,Maldives,Asia
+2020,MALI,February,3.0,2,2020-02-01,Mali,Africa
+2020,MALTA,February,40.0,2,2020-02-01,Malta,Europe
+2020,MAURITANIA,February,0.0,2,2020-02-01,Mauritania,Africa
+2020,MAURITIUS,February,44.0,2,2020-02-01,Mauritius,Africa
+2020,MEXICO,February,181.0,2,2020-02-01,Mexico,America
+2020,MOLDOVA,February,103.0,2,2020-02-01,Moldova,Europe
+2020,MONACO,February,6.0,2,2020-02-01,Monaco,Europe
+2020,MONGOLIA,February,13.0,2,2020-02-01,Mongolia,Asia
+2020,MONTENEGRO,February,40.0,2,2020-02-01,Montenegro,Europe
+2020,MOROCCO,February,136.0,2,2020-02-01,Morocco,Africa
+2020,MOZAMBIQUE,February,3.0,2,2020-02-01,Mozambique,Africa
+2020,MYANMAR,February,214.0,2,2020-02-01,Myanmar,Asia
+2020,NAMIBIA,February,6.0,2,2020-02-01,Namibia,Africa
+2020,NAURU,February,0.0,2,2020-02-01,Nauru,Oceania
+2020,NEPAL,February,560.0,2,2020-02-01,Nepal,Asia
+2020,NETHERLANDS,February,3763.0,2,2020-02-01,Netherlands,Europe
+2020,NEW ZEALAND,February,987.0,2,2020-02-01,New Zealand,Oceania
+2020,NIGER,February,0.0,2,2020-02-01,Niger,Africa
+2020,NIGERIA,February,13.0,2,2020-02-01,Nigeria,Africa
+2020,NORWAY,February,1304.0,2,2020-02-01,Norway,Europe
+2020,OMAN,February,229.0,2,2020-02-01,Oman,Asia
+2020,PAKISTAN,February,1166.0,2,2020-02-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,February,33.0,2,2020-02-01,Palestine,Asia
+2020,PANAMA,February,8.0,2,2020-02-01,Panama,America
+2020,PAPUA NEW GUINEA,February,3.0,2,2020-02-01,Papua New Guinea,Oceania
+2020,PARAGUAY,February,5.0,2,2020-02-01,Paraguay,America
+2020,PERU,February,44.0,2,2020-02-01,Peru,America
+2020,PHILIPPINES,February,1890.0,2,2020-02-01,Philippines,Asia
+2020,POLAND,February,4693.0,2,2020-02-01,Poland,Europe
+2020,PORTUGAL,February,850.0,2,2020-02-01,Portugal,Europe
+2020,QATAR,February,53.0,2,2020-02-01,Qatar,Asia
+2020,REPUBLIC,February,0.0,2,2020-02-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,February,4.0,2,2020-02-01,Zimbabwe,Africa
+2020,ROMANIA,February,693.0,2,2020-02-01,Romania,Europe
+2020,RUSSIAN FEDERATION,February,20948.0,2,2020-02-01,Russia,Europe
+2020,RWANDA,February,6.0,2,2020-02-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,February,6.0,2,2020-02-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,February,1.0,2,2020-02-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,February,0.0,2,2020-02-01,St. Vincent and the Grenadines,America
+2020,SAMOA,February,1.0,2,2020-02-01,Samoa,Oceania
+2020,SAN MARINO,February,3.0,2,2020-02-01,San Marino,Europe
+2020,SAUDI ARABIA,February,662.0,2,2020-02-01,Saudi Arabia,Asia
+2020,SENEGAL,February,3.0,2,2020-02-01,Senegal,Africa
+2020,SERBIA,February,204.0,2,2020-02-01,Serbia,Europe
+2020,SEYCHELLES,February,77.0,2,2020-02-01,Seychelles,Africa
+2020,SIERRA LEONE,February,0.0,2,2020-02-01,Sierra Leone,Africa
+2020,SINGAPORE,February,878.0,2,2020-02-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),February,730.0,2,2020-02-01,Slovakia,Europe
+2020,SLOVENIA,February,463.0,2,2020-02-01,Slovenia,Europe
+2020,SOMALIA,February,9.0,2,2020-02-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,February,544.0,2,2020-02-01,South Africa,Africa
+2020,SOUTH KOREA,February,835.0,2,2020-02-01,South Korea,Asia
+2020,SOUTH SUDAN,February,1.0,2,2020-02-01,South Sudan,Africa
+2020,SPAIN,February,1380.0,2,2020-02-01,Spain,Europe
+2020,SUDAN,February,40.0,2,2020-02-01,Sudan,Africa
+2020,SURINAME,February,3.0,2,2020-02-01,Suriname,America
+2020,SWAZILAND,February,1.0,2,2020-02-01,Eswatini,Africa
+2020,SWEDEN,February,3239.0,2,2020-02-01,Sweden,Europe
+2020,SWITZERLAND,February,2924.0,2,2020-02-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,February,16.0,2,2020-02-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,February,580.0,2,2020-02-01,Taiwan,Asia
+2020,TAJIKISTAN,February,15.0,2,2020-02-01,Tajikistan,Asia
+2020,TANZANIA,February,27.0,2,2020-02-01,Tanzania,Africa
+2020,THAILAND,February,927.0,2,2020-02-01,Thailand,Asia
+2020,TIMOR-LESTE,February,1.0,2,2020-02-01,Timor-Leste,Asia
+2020,TOGO,February,2.0,2,2020-02-01,Togo,Africa
+2020,TONGA,February,0.0,2,2020-02-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,February,19.0,2,2020-02-01,Trinidad and Tobago,America
+2020,TUNISIA,February,45.0,2,2020-02-01,Tunisia,Africa
+2020,TURKEY,February,813.0,2,2020-02-01,Türkiye,Asia
+2020,TURKMENISTAN,February,9.0,2,2020-02-01,Turkmenistan,Asia
+2020,UGANDA,February,15.0,2,2020-02-01,Uganda,Africa
+2020,UKRAINE,February,6072.0,2,2020-02-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,February,123.0,2,2020-02-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,February,26348.0,2,2020-02-01,United Kingdom,Europe
+2020,UNITED STATES,February,7803.0,2,2020-02-01,United States,America
+2020,URUGUAY,February,11.0,2,2020-02-01,Uruguay,America
+2020,UZBEKISTAN,February,108.0,2,2020-02-01,Uzbekistan,Asia
+2020,VANUATU,February,1.0,2,2020-02-01,Vanuatu,Oceania
+2020,VENEZUELA,February,17.0,2,2020-02-01,Venezuela,America
+2020,VIET NAM,February,325.0,2,2020-02-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),February,38.0,2,2020-02-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),February,5.0,2,2020-02-01,Zambia,Africa
+2020,ZIMBABWE,February,21.0,2,2020-02-01,Zimbabwe,Africa
+2020,AFGHANISTAN,March,17.0,3,2020-03-01,Afghanistan,Asia
+2020,ALBANIA,March,26.0,3,2020-03-01,Albania,Europe
+2020,ALGERIA,March,8.0,3,2020-03-01,Algeria,Africa
+2020,ANDORRA,March,0.0,3,2020-03-01,Andorra,Europe
+2020,ANGOLA,March,1.0,3,2020-03-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,March,4.0,3,2020-03-01,Antigua and Barbuda,America
+2020,ARGENTINA,March,52.0,3,2020-03-01,Argentina,America
+2020,ARMENIA,March,32.0,3,2020-03-01,Armenia,Asia
+2020,AUSTRALIA,March,2590.0,3,2020-03-01,Australia,Oceania
+2020,AUSTRIA,March,602.0,3,2020-03-01,Austria,Europe
+2020,AZERBAIJAN,March,14.0,3,2020-03-01,Azerbaijan,Asia
+2020,BAHAMAS,March,1.0,3,2020-03-01,Bahamas,America
+2020,BAHRAIN,March,14.0,3,2020-03-01,Bahrain,Asia
+2020,BANGLADESH,March,212.0,3,2020-03-01,Bangladesh,Asia
+2020,BARBADOS,March,1.0,3,2020-03-01,Barbados,America
+2020,BELARUS,March,438.0,3,2020-03-01,Belarus,Europe
+2020,BELGIUM,March,628.0,3,2020-03-01,Belgium,Europe
+2020,BELIZE,March,0.0,3,2020-03-01,Belize,America
+2020,BENIN,March,0.0,3,2020-03-01,Benin,Africa
+2020,BHUTAN,March,2.0,3,2020-03-01,Bhutan,Asia
+2020,BOLIVIA,March,3.0,3,2020-03-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,March,17.0,3,2020-03-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,March,1.0,3,2020-03-01,Botswana,Africa
+2020,BRAZIL,March,71.0,3,2020-03-01,Brazil,America
+2020,BRUNEI DARUSSALAM,March,3.0,3,2020-03-01,Brunei Darussalam,Asia
+2020,BULGARIA,March,79.0,3,2020-03-01,Bulgaria,Europe
+2020,BURKINA FASO,March,0.0,3,2020-03-01,Burkina Faso,Africa
+2020,BURUNDI,March,0.0,3,2020-03-01,Burundi,Africa
+2020,CAMBODIA,March,74.0,3,2020-03-01,Cambodia,Asia
+2020,CAMEROON,March,1.0,3,2020-03-01,Cameroon,Africa
+2020,CANADA,March,1444.0,3,2020-03-01,Canada,America
+2020,CAPE VERDE,March,0.0,3,2020-03-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,March,0.0,3,2020-03-01,CENTRAL AFRICAN,Other
+2020,CHAD,March,1.0,3,2020-03-01,Chad,Africa
+2020,CHILE,March,26.0,3,2020-03-01,Chile,America
+2020,CHINA,March,1688.0,3,2020-03-01,China,Asia
+2020,COLOMBIA,March,41.0,3,2020-03-01,Colombia,America
+2020,COMOROS,March,2.0,3,2020-03-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,March,0.0,3,2020-03-01,DR Congo,Africa
+2020,COSTA RICA,March,0.0,3,2020-03-01,Costa Rica,America
+2020,COTE DIVOIRE,March,0.0,3,2020-03-01,Côte d'Ivoire,Africa
+2020,CROATIA,March,81.0,3,2020-03-01,Croatia,Europe
+2020,CUBA,March,1.0,3,2020-03-01,Cuba,America
+2020,CYPRUS,March,31.0,3,2020-03-01,Cyprus,Asia
+2020,CZECH REPUBLIC,March,1280.0,3,2020-03-01,Czechia,Europe
+2020,DENMARK,March,506.0,3,2020-03-01,Denmark,Europe
+2020,DJIBOUTI,March,0.0,3,2020-03-01,Djibouti,Africa
+2020,DOMINICA,March,1.0,3,2020-03-01,Dominica,America
+2020,DOMINICAN,March,0.0,3,2020-03-01,Dominican Republic,America
+2020,ECUADOR,March,4.0,3,2020-03-01,Ecuador,America
+2020,EGYPT,March,152.0,3,2020-03-01,Egypt,Africa
+2020,EL SALVADOR,March,1.0,3,2020-03-01,El Salvador,America
+2020,EQUATORIAL,March,0.0,3,2020-03-01,EQUATORIAL,Other
+2020,ERITREA,March,2.0,3,2020-03-01,Eritrea,Africa
+2020,ESTONIA,March,140.0,3,2020-03-01,Estonia,Europe
+2020,ETHIOPIA,March,6.0,3,2020-03-01,Ethiopia,Africa
+2020,FIJI,March,3.0,3,2020-03-01,Fiji,Oceania
+2020,FINLAND,March,275.0,3,2020-03-01,Finland,Europe
+2020,FRANCE,March,4056.0,3,2020-03-01,France,Europe
+2020,GABON,March,0.0,3,2020-03-01,Gabon,Africa
+2020,"GAMBIA, THE",March,1.0,3,2020-03-01,Gambia,Africa
+2020,GEORGIA,March,26.0,3,2020-03-01,Georgia,Asia
+2020,GERMANY,March,6608.0,3,2020-03-01,Germany,Europe
+2020,GHANA,March,1.0,3,2020-03-01,Ghana,Africa
+2020,GREECE,March,357.0,3,2020-03-01,Greece,Europe
+2020,GRENADA,March,8.0,3,2020-03-01,Grenada,America
+2020,GUATEMALA,March,0.0,3,2020-03-01,Guatemala,America
+2020,GUINEA,March,0.0,3,2020-03-01,Guinea,Africa
+2020,GUINEA-BISSAU,March,0.0,3,2020-03-01,Guinea-Bissau,Africa
+2020,GUYANA,March,4.0,3,2020-03-01,Guyana,America
+2020,HAITI,March,0.0,3,2020-03-01,Haiti,America
+2020,HONDURAS,March,1.0,3,2020-03-01,Honduras,America
+2020,HONG KONG,March,2.0,3,2020-03-01,Hong Kong,Asia
+2020,HUNGARY,March,175.0,3,2020-03-01,Hungary,Europe
+2020,ICELAND,March,28.0,3,2020-03-01,Iceland,Europe
+2020,INDIA,March,12600.0,3,2020-03-01,India,Asia
+2020,INDONESIA,March,198.0,3,2020-03-01,Indonesia,Asia
+2020,IRAN,March,25.0,3,2020-03-01,Iran,Asia
+2020,IRAQ,March,15.0,3,2020-03-01,Iraq,Asia
+2020,IRELAND,March,262.0,3,2020-03-01,Ireland,Europe
+2020,ISRAEL,March,329.0,3,2020-03-01,Israel,Asia
+2020,ITALY,March,406.0,3,2020-03-01,Italy,Europe
+2020,JAMAICA,March,0.0,3,2020-03-01,Jamaica,America
+2020,JAPAN,March,712.0,3,2020-03-01,Japan,Asia
+2020,JORDAN,March,60.0,3,2020-03-01,Jordan,Asia
+2020,KAZAKHSTAN,March,478.0,3,2020-03-01,Kazakhstan,Asia
+2020,KENYA,March,15.0,3,2020-03-01,Kenya,Africa
+2020,KOSOVAR,March,0.0,3,2020-03-01,KOSOVAR,Other
+2020,KUWAIT,March,34.0,3,2020-03-01,Kuwait,Asia
+2020,KYRGYZSTAN,March,24.0,3,2020-03-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,March,3.0,3,2020-03-01,Laos,Asia
+2020,LATVIA,March,155.0,3,2020-03-01,Latvia,Europe
+2020,LEBANON,March,48.0,3,2020-03-01,Lebanon,Asia
+2020,LESOTHO,March,0.0,3,2020-03-01,Lesotho,Africa
+2020,LIBERIA,March,0.0,3,2020-03-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,March,1.0,3,2020-03-01,Libya,Africa
+2020,LIECHTENSTEIN,March,3.0,3,2020-03-01,Liechtenstein,Europe
+2020,LITHUANIA,March,143.0,3,2020-03-01,Lithuania,Europe
+2020,LUXEMBOURG,March,26.0,3,2020-03-01,Luxembourg,Europe
+2020,MACEDONIA,March,10.0,3,2020-03-01,North Macedonia,Europe
+2020,MADAGASCAR,March,3.0,3,2020-03-01,Madagascar,Africa
+2020,MALAWI,March,2.0,3,2020-03-01,Malawi,Africa
+2020,MALAYSIA,March,695.0,3,2020-03-01,Malaysia,Asia
+2020,MALDIVES,March,2183.0,3,2020-03-01,Maldives,Asia
+2020,MALI,March,0.0,3,2020-03-01,Mali,Africa
+2020,MALTA,March,21.0,3,2020-03-01,Malta,Europe
+2020,MAURITANIA,March,0.0,3,2020-03-01,Mauritania,Africa
+2020,MAURITIUS,March,19.0,3,2020-03-01,Mauritius,Africa
+2020,MEXICO,March,30.0,3,2020-03-01,Mexico,America
+2020,MOLDOVA,March,23.0,3,2020-03-01,Moldova,Europe
+2020,MONACO,March,0.0,3,2020-03-01,Monaco,Europe
+2020,MONGOLIA,March,2.0,3,2020-03-01,Mongolia,Asia
+2020,MONTENEGRO,March,12.0,3,2020-03-01,Montenegro,Europe
+2020,MOROCCO,March,50.0,3,2020-03-01,Morocco,Africa
+2020,MOZAMBIQUE,March,0.0,3,2020-03-01,Mozambique,Africa
+2020,MYANMAR,March,128.0,3,2020-03-01,Myanmar,Asia
+2020,NAMIBIA,March,0.0,3,2020-03-01,Namibia,Africa
+2020,NAURU,March,0.0,3,2020-03-01,Nauru,Oceania
+2020,NEPAL,March,235.0,3,2020-03-01,Nepal,Asia
+2020,NETHERLANDS,March,1355.0,3,2020-03-01,Netherlands,Europe
+2020,NEW ZEALAND,March,302.0,3,2020-03-01,New Zealand,Oceania
+2020,NIGER,March,3.0,3,2020-03-01,Niger,Africa
+2020,NIGERIA,March,0.0,3,2020-03-01,Nigeria,Africa
+2020,NORWAY,March,336.0,3,2020-03-01,Norway,Europe
+2020,OMAN,March,48.0,3,2020-03-01,Oman,Asia
+2020,PAKISTAN,March,502.0,3,2020-03-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,March,10.0,3,2020-03-01,Palestine,Asia
+2020,PANAMA,March,1.0,3,2020-03-01,Panama,America
+2020,PAPUA NEW GUINEA,March,0.0,3,2020-03-01,Papua New Guinea,Oceania
+2020,PARAGUAY,March,2.0,3,2020-03-01,Paraguay,America
+2020,PERU,March,21.0,3,2020-03-01,Peru,America
+2020,PHILIPPINES,March,1160.0,3,2020-03-01,Philippines,Asia
+2020,POLAND,March,1638.0,3,2020-03-01,Poland,Europe
+2020,PORTUGAL,March,184.0,3,2020-03-01,Portugal,Europe
+2020,QATAR,March,7.0,3,2020-03-01,Qatar,Asia
+2020,REPUBLIC,March,1.0,3,2020-03-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,March,1.0,3,2020-03-01,Zimbabwe,Africa
+2020,ROMANIA,March,246.0,3,2020-03-01,Romania,Europe
+2020,RUSSIAN FEDERATION,March,8833.0,3,2020-03-01,Russia,Europe
+2020,RWANDA,March,0.0,3,2020-03-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,March,1.0,3,2020-03-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,March,0.0,3,2020-03-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,March,1.0,3,2020-03-01,St. Vincent and the Grenadines,America
+2020,SAMOA,March,0.0,3,2020-03-01,Samoa,Oceania
+2020,SAN MARINO,March,0.0,3,2020-03-01,San Marino,Europe
+2020,SAUDI ARABIA,March,179.0,3,2020-03-01,Saudi Arabia,Asia
+2020,SENEGAL,March,0.0,3,2020-03-01,Senegal,Africa
+2020,SERBIA,March,91.0,3,2020-03-01,Serbia,Europe
+2020,SEYCHELLES,March,29.0,3,2020-03-01,Seychelles,Africa
+2020,SIERRA LEONE,March,1.0,3,2020-03-01,Sierra Leone,Africa
+2020,SINGAPORE,March,453.0,3,2020-03-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),March,244.0,3,2020-03-01,Slovakia,Europe
+2020,SLOVENIA,March,76.0,3,2020-03-01,Slovenia,Europe
+2020,SOMALIA,March,1.0,3,2020-03-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,March,134.0,3,2020-03-01,South Africa,Africa
+2020,SOUTH KOREA,March,87.0,3,2020-03-01,South Korea,Asia
+2020,SOUTH SUDAN,March,0.0,3,2020-03-01,South Sudan,Africa
+2020,SPAIN,March,496.0,3,2020-03-01,Spain,Europe
+2020,SUDAN,March,36.0,3,2020-03-01,Sudan,Africa
+2020,SURINAME,March,1.0,3,2020-03-01,Suriname,America
+2020,SWAZILAND,March,0.0,3,2020-03-01,Eswatini,Africa
+2020,SWEDEN,March,723.0,3,2020-03-01,Sweden,Europe
+2020,SWITZERLAND,March,957.0,3,2020-03-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,March,4.0,3,2020-03-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,March,109.0,3,2020-03-01,Taiwan,Asia
+2020,TAJIKISTAN,March,9.0,3,2020-03-01,Tajikistan,Asia
+2020,TANZANIA,March,9.0,3,2020-03-01,Tanzania,Africa
+2020,THAILAND,March,217.0,3,2020-03-01,Thailand,Asia
+2020,TIMOR-LESTE,March,0.0,3,2020-03-01,Timor-Leste,Asia
+2020,TOGO,March,0.0,3,2020-03-01,Togo,Africa
+2020,TONGA,March,0.0,3,2020-03-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,March,0.0,3,2020-03-01,Trinidad and Tobago,America
+2020,TUNISIA,March,24.0,3,2020-03-01,Tunisia,Africa
+2020,TURKEY,March,163.0,3,2020-03-01,Türkiye,Asia
+2020,TURKMENISTAN,March,3.0,3,2020-03-01,Turkmenistan,Asia
+2020,UGANDA,March,5.0,3,2020-03-01,Uganda,Africa
+2020,UKRAINE,March,2155.0,3,2020-03-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,March,30.0,3,2020-03-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,March,7969.0,3,2020-03-01,United Kingdom,Europe
+2020,UNITED STATES,March,1545.0,3,2020-03-01,United States,America
+2020,URUGUAY,March,4.0,3,2020-03-01,Uruguay,America
+2020,UZBEKISTAN,March,35.0,3,2020-03-01,Uzbekistan,Asia
+2020,VANUATU,March,0.0,3,2020-03-01,Vanuatu,Oceania
+2020,VENEZUELA,March,3.0,3,2020-03-01,Venezuela,America
+2020,VIET NAM,March,97.0,3,2020-03-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),March,19.0,3,2020-03-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),March,2.0,3,2020-03-01,Zambia,Africa
+2020,ZIMBABWE,March,14.0,3,2020-03-01,Zimbabwe,Africa
+2020,AFGHANISTAN,April,0.0,4,2020-04-01,Afghanistan,Asia
+2020,ALBANIA,April,0.0,4,2020-04-01,Albania,Europe
+2020,ALGERIA,April,0.0,4,2020-04-01,Algeria,Africa
+2020,ANDORRA,April,0.0,4,2020-04-01,Andorra,Europe
+2020,ANGOLA,April,0.0,4,2020-04-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,April,0.0,4,2020-04-01,Antigua and Barbuda,America
+2020,ARGENTINA,April,0.0,4,2020-04-01,Argentina,America
+2020,ARMENIA,April,0.0,4,2020-04-01,Armenia,Asia
+2020,AUSTRALIA,April,0.0,4,2020-04-01,Australia,Oceania
+2020,AUSTRIA,April,0.0,4,2020-04-01,Austria,Europe
+2020,AZERBAIJAN,April,0.0,4,2020-04-01,Azerbaijan,Asia
+2020,BAHAMAS,April,0.0,4,2020-04-01,Bahamas,America
+2020,BAHRAIN,April,0.0,4,2020-04-01,Bahrain,Asia
+2020,BANGLADESH,April,0.0,4,2020-04-01,Bangladesh,Asia
+2020,BARBADOS,April,0.0,4,2020-04-01,Barbados,America
+2020,BELARUS,April,0.0,4,2020-04-01,Belarus,Europe
+2020,BELGIUM,April,0.0,4,2020-04-01,Belgium,Europe
+2020,BELIZE,April,0.0,4,2020-04-01,Belize,America
+2020,BENIN,April,0.0,4,2020-04-01,Benin,Africa
+2020,BHUTAN,April,0.0,4,2020-04-01,Bhutan,Asia
+2020,BOLIVIA,April,0.0,4,2020-04-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,April,0.0,4,2020-04-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,April,0.0,4,2020-04-01,Botswana,Africa
+2020,BRAZIL,April,0.0,4,2020-04-01,Brazil,America
+2020,BRUNEI DARUSSALAM,April,0.0,4,2020-04-01,Brunei Darussalam,Asia
+2020,BULGARIA,April,0.0,4,2020-04-01,Bulgaria,Europe
+2020,BURKINA FASO,April,0.0,4,2020-04-01,Burkina Faso,Africa
+2020,BURUNDI,April,0.0,4,2020-04-01,Burundi,Africa
+2020,CAMBODIA,April,0.0,4,2020-04-01,Cambodia,Asia
+2020,CAMEROON,April,0.0,4,2020-04-01,Cameroon,Africa
+2020,CANADA,April,0.0,4,2020-04-01,Canada,America
+2020,CAPE VERDE,April,0.0,4,2020-04-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,April,0.0,4,2020-04-01,CENTRAL AFRICAN,Other
+2020,CHAD,April,0.0,4,2020-04-01,Chad,Africa
+2020,CHILE,April,0.0,4,2020-04-01,Chile,America
+2020,CHINA,April,0.0,4,2020-04-01,China,Asia
+2020,COLOMBIA,April,0.0,4,2020-04-01,Colombia,America
+2020,COMOROS,April,0.0,4,2020-04-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,April,0.0,4,2020-04-01,DR Congo,Africa
+2020,COSTA RICA,April,0.0,4,2020-04-01,Costa Rica,America
+2020,COTE DIVOIRE,April,0.0,4,2020-04-01,Côte d'Ivoire,Africa
+2020,CROATIA,April,0.0,4,2020-04-01,Croatia,Europe
+2020,CUBA,April,0.0,4,2020-04-01,Cuba,America
+2020,CYPRUS,April,0.0,4,2020-04-01,Cyprus,Asia
+2020,CZECH REPUBLIC,April,0.0,4,2020-04-01,Czechia,Europe
+2020,DENMARK,April,0.0,4,2020-04-01,Denmark,Europe
+2020,DJIBOUTI,April,0.0,4,2020-04-01,Djibouti,Africa
+2020,DOMINICA,April,0.0,4,2020-04-01,Dominica,America
+2020,DOMINICAN,April,0.0,4,2020-04-01,Dominican Republic,America
+2020,ECUADOR,April,0.0,4,2020-04-01,Ecuador,America
+2020,EGYPT,April,0.0,4,2020-04-01,Egypt,Africa
+2020,EL SALVADOR,April,0.0,4,2020-04-01,El Salvador,America
+2020,EQUATORIAL,April,0.0,4,2020-04-01,EQUATORIAL,Other
+2020,ERITREA,April,0.0,4,2020-04-01,Eritrea,Africa
+2020,ESTONIA,April,0.0,4,2020-04-01,Estonia,Europe
+2020,ETHIOPIA,April,0.0,4,2020-04-01,Ethiopia,Africa
+2020,FIJI,April,0.0,4,2020-04-01,Fiji,Oceania
+2020,FINLAND,April,0.0,4,2020-04-01,Finland,Europe
+2020,FRANCE,April,0.0,4,2020-04-01,France,Europe
+2020,GABON,April,0.0,4,2020-04-01,Gabon,Africa
+2020,"GAMBIA, THE",April,0.0,4,2020-04-01,Gambia,Africa
+2020,GEORGIA,April,0.0,4,2020-04-01,Georgia,Asia
+2020,GERMANY,April,0.0,4,2020-04-01,Germany,Europe
+2020,GHANA,April,0.0,4,2020-04-01,Ghana,Africa
+2020,GREECE,April,0.0,4,2020-04-01,Greece,Europe
+2020,GRENADA,April,0.0,4,2020-04-01,Grenada,America
+2020,GUATEMALA,April,0.0,4,2020-04-01,Guatemala,America
+2020,GUINEA,April,0.0,4,2020-04-01,Guinea,Africa
+2020,GUINEA-BISSAU,April,0.0,4,2020-04-01,Guinea-Bissau,Africa
+2020,GUYANA,April,0.0,4,2020-04-01,Guyana,America
+2020,HAITI,April,0.0,4,2020-04-01,Haiti,America
+2020,HONDURAS,April,0.0,4,2020-04-01,Honduras,America
+2020,HONG KONG,April,0.0,4,2020-04-01,Hong Kong,Asia
+2020,HUNGARY,April,0.0,4,2020-04-01,Hungary,Europe
+2020,ICELAND,April,0.0,4,2020-04-01,Iceland,Europe
+2020,INDIA,April,0.0,4,2020-04-01,India,Asia
+2020,INDONESIA,April,0.0,4,2020-04-01,Indonesia,Asia
+2020,IRAN,April,0.0,4,2020-04-01,Iran,Asia
+2020,IRAQ,April,0.0,4,2020-04-01,Iraq,Asia
+2020,IRELAND,April,0.0,4,2020-04-01,Ireland,Europe
+2020,ISRAEL,April,0.0,4,2020-04-01,Israel,Asia
+2020,ITALY,April,0.0,4,2020-04-01,Italy,Europe
+2020,JAMAICA,April,0.0,4,2020-04-01,Jamaica,America
+2020,JAPAN,April,0.0,4,2020-04-01,Japan,Asia
+2020,JORDAN,April,0.0,4,2020-04-01,Jordan,Asia
+2020,KAZAKHSTAN,April,0.0,4,2020-04-01,Kazakhstan,Asia
+2020,KENYA,April,0.0,4,2020-04-01,Kenya,Africa
+2020,KOSOVAR,April,0.0,4,2020-04-01,KOSOVAR,Other
+2020,KUWAIT,April,0.0,4,2020-04-01,Kuwait,Asia
+2020,KYRGYZSTAN,April,0.0,4,2020-04-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,April,0.0,4,2020-04-01,Laos,Asia
+2020,LATVIA,April,0.0,4,2020-04-01,Latvia,Europe
+2020,LEBANON,April,0.0,4,2020-04-01,Lebanon,Asia
+2020,LESOTHO,April,0.0,4,2020-04-01,Lesotho,Africa
+2020,LIBERIA,April,0.0,4,2020-04-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,April,0.0,4,2020-04-01,Libya,Africa
+2020,LIECHTENSTEIN,April,0.0,4,2020-04-01,Liechtenstein,Europe
+2020,LITHUANIA,April,0.0,4,2020-04-01,Lithuania,Europe
+2020,LUXEMBOURG,April,0.0,4,2020-04-01,Luxembourg,Europe
+2020,MACEDONIA,April,0.0,4,2020-04-01,North Macedonia,Europe
+2020,MADAGASCAR,April,0.0,4,2020-04-01,Madagascar,Africa
+2020,MALAWI,April,0.0,4,2020-04-01,Malawi,Africa
+2020,MALAYSIA,April,0.0,4,2020-04-01,Malaysia,Asia
+2020,MALDIVES,April,0.0,4,2020-04-01,Maldives,Asia
+2020,MALI,April,0.0,4,2020-04-01,Mali,Africa
+2020,MALTA,April,0.0,4,2020-04-01,Malta,Europe
+2020,MAURITANIA,April,0.0,4,2020-04-01,Mauritania,Africa
+2020,MAURITIUS,April,0.0,4,2020-04-01,Mauritius,Africa
+2020,MEXICO,April,0.0,4,2020-04-01,Mexico,America
+2020,MOLDOVA,April,0.0,4,2020-04-01,Moldova,Europe
+2020,MONACO,April,0.0,4,2020-04-01,Monaco,Europe
+2020,MONGOLIA,April,0.0,4,2020-04-01,Mongolia,Asia
+2020,MONTENEGRO,April,0.0,4,2020-04-01,Montenegro,Europe
+2020,MOROCCO,April,0.0,4,2020-04-01,Morocco,Africa
+2020,MOZAMBIQUE,April,0.0,4,2020-04-01,Mozambique,Africa
+2020,MYANMAR,April,0.0,4,2020-04-01,Myanmar,Asia
+2020,NAMIBIA,April,0.0,4,2020-04-01,Namibia,Africa
+2020,NAURU,April,0.0,4,2020-04-01,Nauru,Oceania
+2020,NEPAL,April,0.0,4,2020-04-01,Nepal,Asia
+2020,NETHERLANDS,April,0.0,4,2020-04-01,Netherlands,Europe
+2020,NEW ZEALAND,April,0.0,4,2020-04-01,New Zealand,Oceania
+2020,NIGER,April,0.0,4,2020-04-01,Niger,Africa
+2020,NIGERIA,April,0.0,4,2020-04-01,Nigeria,Africa
+2020,NORWAY,April,0.0,4,2020-04-01,Norway,Europe
+2020,OMAN,April,0.0,4,2020-04-01,Oman,Asia
+2020,PAKISTAN,April,0.0,4,2020-04-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,April,0.0,4,2020-04-01,Palestine,Asia
+2020,PANAMA,April,0.0,4,2020-04-01,Panama,America
+2020,PAPUA NEW GUINEA,April,0.0,4,2020-04-01,Papua New Guinea,Oceania
+2020,PARAGUAY,April,0.0,4,2020-04-01,Paraguay,America
+2020,PERU,April,0.0,4,2020-04-01,Peru,America
+2020,PHILIPPINES,April,0.0,4,2020-04-01,Philippines,Asia
+2020,POLAND,April,0.0,4,2020-04-01,Poland,Europe
+2020,PORTUGAL,April,0.0,4,2020-04-01,Portugal,Europe
+2020,QATAR,April,0.0,4,2020-04-01,Qatar,Asia
+2020,REPUBLIC,April,0.0,4,2020-04-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,April,0.0,4,2020-04-01,Zimbabwe,Africa
+2020,ROMANIA,April,0.0,4,2020-04-01,Romania,Europe
+2020,RUSSIAN FEDERATION,April,0.0,4,2020-04-01,Russia,Europe
+2020,RWANDA,April,0.0,4,2020-04-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,April,0.0,4,2020-04-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,April,0.0,4,2020-04-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,April,0.0,4,2020-04-01,St. Vincent and the Grenadines,America
+2020,SAMOA,April,0.0,4,2020-04-01,Samoa,Oceania
+2020,SAN MARINO,April,0.0,4,2020-04-01,San Marino,Europe
+2020,SAUDI ARABIA,April,0.0,4,2020-04-01,Saudi Arabia,Asia
+2020,SENEGAL,April,0.0,4,2020-04-01,Senegal,Africa
+2020,SERBIA,April,0.0,4,2020-04-01,Serbia,Europe
+2020,SEYCHELLES,April,0.0,4,2020-04-01,Seychelles,Africa
+2020,SIERRA LEONE,April,0.0,4,2020-04-01,Sierra Leone,Africa
+2020,SINGAPORE,April,0.0,4,2020-04-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),April,0.0,4,2020-04-01,Slovakia,Europe
+2020,SLOVENIA,April,0.0,4,2020-04-01,Slovenia,Europe
+2020,SOMALIA,April,0.0,4,2020-04-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,April,0.0,4,2020-04-01,South Africa,Africa
+2020,SOUTH KOREA,April,0.0,4,2020-04-01,South Korea,Asia
+2020,SOUTH SUDAN,April,0.0,4,2020-04-01,South Sudan,Africa
+2020,SPAIN,April,0.0,4,2020-04-01,Spain,Europe
+2020,SUDAN,April,0.0,4,2020-04-01,Sudan,Africa
+2020,SURINAME,April,0.0,4,2020-04-01,Suriname,America
+2020,SWAZILAND,April,0.0,4,2020-04-01,Eswatini,Africa
+2020,SWEDEN,April,0.0,4,2020-04-01,Sweden,Europe
+2020,SWITZERLAND,April,0.0,4,2020-04-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,April,0.0,4,2020-04-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,April,0.0,4,2020-04-01,Taiwan,Asia
+2020,TAJIKISTAN,April,0.0,4,2020-04-01,Tajikistan,Asia
+2020,TANZANIA,April,0.0,4,2020-04-01,Tanzania,Africa
+2020,THAILAND,April,0.0,4,2020-04-01,Thailand,Asia
+2020,TIMOR-LESTE,April,0.0,4,2020-04-01,Timor-Leste,Asia
+2020,TOGO,April,0.0,4,2020-04-01,Togo,Africa
+2020,TONGA,April,0.0,4,2020-04-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,April,0.0,4,2020-04-01,Trinidad and Tobago,America
+2020,TUNISIA,April,0.0,4,2020-04-01,Tunisia,Africa
+2020,TURKEY,April,0.0,4,2020-04-01,Türkiye,Asia
+2020,TURKMENISTAN,April,0.0,4,2020-04-01,Turkmenistan,Asia
+2020,UGANDA,April,0.0,4,2020-04-01,Uganda,Africa
+2020,UKRAINE,April,0.0,4,2020-04-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,April,0.0,4,2020-04-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,April,0.0,4,2020-04-01,United Kingdom,Europe
+2020,UNITED STATES,April,0.0,4,2020-04-01,United States,America
+2020,URUGUAY,April,0.0,4,2020-04-01,Uruguay,America
+2020,UZBEKISTAN,April,0.0,4,2020-04-01,Uzbekistan,Asia
+2020,VANUATU,April,0.0,4,2020-04-01,Vanuatu,Oceania
+2020,VENEZUELA,April,0.0,4,2020-04-01,Venezuela,America
+2020,VIET NAM,April,0.0,4,2020-04-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),April,0.0,4,2020-04-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),April,0.0,4,2020-04-01,Zambia,Africa
+2020,ZIMBABWE,April,0.0,4,2020-04-01,Zimbabwe,Africa
+2020,AFGHANISTAN,May,0.0,5,2020-05-01,Afghanistan,Asia
+2020,ALBANIA,May,0.0,5,2020-05-01,Albania,Europe
+2020,ALGERIA,May,0.0,5,2020-05-01,Algeria,Africa
+2020,ANDORRA,May,0.0,5,2020-05-01,Andorra,Europe
+2020,ANGOLA,May,0.0,5,2020-05-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,May,0.0,5,2020-05-01,Antigua and Barbuda,America
+2020,ARGENTINA,May,0.0,5,2020-05-01,Argentina,America
+2020,ARMENIA,May,0.0,5,2020-05-01,Armenia,Asia
+2020,AUSTRALIA,May,0.0,5,2020-05-01,Australia,Oceania
+2020,AUSTRIA,May,0.0,5,2020-05-01,Austria,Europe
+2020,AZERBAIJAN,May,0.0,5,2020-05-01,Azerbaijan,Asia
+2020,BAHAMAS,May,0.0,5,2020-05-01,Bahamas,America
+2020,BAHRAIN,May,0.0,5,2020-05-01,Bahrain,Asia
+2020,BANGLADESH,May,0.0,5,2020-05-01,Bangladesh,Asia
+2020,BARBADOS,May,0.0,5,2020-05-01,Barbados,America
+2020,BELARUS,May,0.0,5,2020-05-01,Belarus,Europe
+2020,BELGIUM,May,0.0,5,2020-05-01,Belgium,Europe
+2020,BELIZE,May,0.0,5,2020-05-01,Belize,America
+2020,BENIN,May,0.0,5,2020-05-01,Benin,Africa
+2020,BHUTAN,May,0.0,5,2020-05-01,Bhutan,Asia
+2020,BOLIVIA,May,0.0,5,2020-05-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,May,0.0,5,2020-05-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,May,0.0,5,2020-05-01,Botswana,Africa
+2020,BRAZIL,May,0.0,5,2020-05-01,Brazil,America
+2020,BRUNEI DARUSSALAM,May,0.0,5,2020-05-01,Brunei Darussalam,Asia
+2020,BULGARIA,May,0.0,5,2020-05-01,Bulgaria,Europe
+2020,BURKINA FASO,May,0.0,5,2020-05-01,Burkina Faso,Africa
+2020,BURUNDI,May,0.0,5,2020-05-01,Burundi,Africa
+2020,CAMBODIA,May,0.0,5,2020-05-01,Cambodia,Asia
+2020,CAMEROON,May,0.0,5,2020-05-01,Cameroon,Africa
+2020,CANADA,May,0.0,5,2020-05-01,Canada,America
+2020,CAPE VERDE,May,0.0,5,2020-05-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,May,0.0,5,2020-05-01,CENTRAL AFRICAN,Other
+2020,CHAD,May,0.0,5,2020-05-01,Chad,Africa
+2020,CHILE,May,0.0,5,2020-05-01,Chile,America
+2020,CHINA,May,0.0,5,2020-05-01,China,Asia
+2020,COLOMBIA,May,0.0,5,2020-05-01,Colombia,America
+2020,COMOROS,May,0.0,5,2020-05-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,May,0.0,5,2020-05-01,DR Congo,Africa
+2020,COSTA RICA,May,0.0,5,2020-05-01,Costa Rica,America
+2020,COTE DIVOIRE,May,0.0,5,2020-05-01,Côte d'Ivoire,Africa
+2020,CROATIA,May,0.0,5,2020-05-01,Croatia,Europe
+2020,CUBA,May,0.0,5,2020-05-01,Cuba,America
+2020,CYPRUS,May,0.0,5,2020-05-01,Cyprus,Asia
+2020,CZECH REPUBLIC,May,0.0,5,2020-05-01,Czechia,Europe
+2020,DENMARK,May,0.0,5,2020-05-01,Denmark,Europe
+2020,DJIBOUTI,May,0.0,5,2020-05-01,Djibouti,Africa
+2020,DOMINICA,May,0.0,5,2020-05-01,Dominica,America
+2020,DOMINICAN,May,0.0,5,2020-05-01,Dominican Republic,America
+2020,ECUADOR,May,0.0,5,2020-05-01,Ecuador,America
+2020,EGYPT,May,0.0,5,2020-05-01,Egypt,Africa
+2020,EL SALVADOR,May,0.0,5,2020-05-01,El Salvador,America
+2020,EQUATORIAL,May,0.0,5,2020-05-01,EQUATORIAL,Other
+2020,ERITREA,May,0.0,5,2020-05-01,Eritrea,Africa
+2020,ESTONIA,May,0.0,5,2020-05-01,Estonia,Europe
+2020,ETHIOPIA,May,0.0,5,2020-05-01,Ethiopia,Africa
+2020,FIJI,May,0.0,5,2020-05-01,Fiji,Oceania
+2020,FINLAND,May,0.0,5,2020-05-01,Finland,Europe
+2020,FRANCE,May,0.0,5,2020-05-01,France,Europe
+2020,GABON,May,0.0,5,2020-05-01,Gabon,Africa
+2020,"GAMBIA, THE",May,0.0,5,2020-05-01,Gambia,Africa
+2020,GEORGIA,May,0.0,5,2020-05-01,Georgia,Asia
+2020,GERMANY,May,0.0,5,2020-05-01,Germany,Europe
+2020,GHANA,May,0.0,5,2020-05-01,Ghana,Africa
+2020,GREECE,May,0.0,5,2020-05-01,Greece,Europe
+2020,GRENADA,May,0.0,5,2020-05-01,Grenada,America
+2020,GUATEMALA,May,0.0,5,2020-05-01,Guatemala,America
+2020,GUINEA,May,0.0,5,2020-05-01,Guinea,Africa
+2020,GUINEA-BISSAU,May,0.0,5,2020-05-01,Guinea-Bissau,Africa
+2020,GUYANA,May,0.0,5,2020-05-01,Guyana,America
+2020,HAITI,May,0.0,5,2020-05-01,Haiti,America
+2020,HONDURAS,May,0.0,5,2020-05-01,Honduras,America
+2020,HONG KONG,May,0.0,5,2020-05-01,Hong Kong,Asia
+2020,HUNGARY,May,0.0,5,2020-05-01,Hungary,Europe
+2020,ICELAND,May,0.0,5,2020-05-01,Iceland,Europe
+2020,INDIA,May,0.0,5,2020-05-01,India,Asia
+2020,INDONESIA,May,0.0,5,2020-05-01,Indonesia,Asia
+2020,IRAN,May,0.0,5,2020-05-01,Iran,Asia
+2020,IRAQ,May,0.0,5,2020-05-01,Iraq,Asia
+2020,IRELAND,May,0.0,5,2020-05-01,Ireland,Europe
+2020,ISRAEL,May,0.0,5,2020-05-01,Israel,Asia
+2020,ITALY,May,0.0,5,2020-05-01,Italy,Europe
+2020,JAMAICA,May,0.0,5,2020-05-01,Jamaica,America
+2020,JAPAN,May,0.0,5,2020-05-01,Japan,Asia
+2020,JORDAN,May,0.0,5,2020-05-01,Jordan,Asia
+2020,KAZAKHSTAN,May,0.0,5,2020-05-01,Kazakhstan,Asia
+2020,KENYA,May,0.0,5,2020-05-01,Kenya,Africa
+2020,KOSOVAR,May,0.0,5,2020-05-01,KOSOVAR,Other
+2020,KUWAIT,May,0.0,5,2020-05-01,Kuwait,Asia
+2020,KYRGYZSTAN,May,0.0,5,2020-05-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,May,0.0,5,2020-05-01,Laos,Asia
+2020,LATVIA,May,0.0,5,2020-05-01,Latvia,Europe
+2020,LEBANON,May,0.0,5,2020-05-01,Lebanon,Asia
+2020,LESOTHO,May,0.0,5,2020-05-01,Lesotho,Africa
+2020,LIBERIA,May,0.0,5,2020-05-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,May,0.0,5,2020-05-01,Libya,Africa
+2020,LIECHTENSTEIN,May,0.0,5,2020-05-01,Liechtenstein,Europe
+2020,LITHUANIA,May,0.0,5,2020-05-01,Lithuania,Europe
+2020,LUXEMBOURG,May,0.0,5,2020-05-01,Luxembourg,Europe
+2020,MACEDONIA,May,0.0,5,2020-05-01,North Macedonia,Europe
+2020,MADAGASCAR,May,0.0,5,2020-05-01,Madagascar,Africa
+2020,MALAWI,May,0.0,5,2020-05-01,Malawi,Africa
+2020,MALAYSIA,May,0.0,5,2020-05-01,Malaysia,Asia
+2020,MALDIVES,May,0.0,5,2020-05-01,Maldives,Asia
+2020,MALI,May,0.0,5,2020-05-01,Mali,Africa
+2020,MALTA,May,0.0,5,2020-05-01,Malta,Europe
+2020,MAURITANIA,May,0.0,5,2020-05-01,Mauritania,Africa
+2020,MAURITIUS,May,0.0,5,2020-05-01,Mauritius,Africa
+2020,MEXICO,May,0.0,5,2020-05-01,Mexico,America
+2020,MOLDOVA,May,0.0,5,2020-05-01,Moldova,Europe
+2020,MONACO,May,0.0,5,2020-05-01,Monaco,Europe
+2020,MONGOLIA,May,0.0,5,2020-05-01,Mongolia,Asia
+2020,MONTENEGRO,May,0.0,5,2020-05-01,Montenegro,Europe
+2020,MOROCCO,May,0.0,5,2020-05-01,Morocco,Africa
+2020,MOZAMBIQUE,May,0.0,5,2020-05-01,Mozambique,Africa
+2020,MYANMAR,May,0.0,5,2020-05-01,Myanmar,Asia
+2020,NAMIBIA,May,0.0,5,2020-05-01,Namibia,Africa
+2020,NAURU,May,0.0,5,2020-05-01,Nauru,Oceania
+2020,NEPAL,May,0.0,5,2020-05-01,Nepal,Asia
+2020,NETHERLANDS,May,0.0,5,2020-05-01,Netherlands,Europe
+2020,NEW ZEALAND,May,0.0,5,2020-05-01,New Zealand,Oceania
+2020,NIGER,May,0.0,5,2020-05-01,Niger,Africa
+2020,NIGERIA,May,0.0,5,2020-05-01,Nigeria,Africa
+2020,NORWAY,May,0.0,5,2020-05-01,Norway,Europe
+2020,OMAN,May,0.0,5,2020-05-01,Oman,Asia
+2020,PAKISTAN,May,0.0,5,2020-05-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,May,0.0,5,2020-05-01,Palestine,Asia
+2020,PANAMA,May,0.0,5,2020-05-01,Panama,America
+2020,PAPUA NEW GUINEA,May,0.0,5,2020-05-01,Papua New Guinea,Oceania
+2020,PARAGUAY,May,0.0,5,2020-05-01,Paraguay,America
+2020,PERU,May,0.0,5,2020-05-01,Peru,America
+2020,PHILIPPINES,May,0.0,5,2020-05-01,Philippines,Asia
+2020,POLAND,May,0.0,5,2020-05-01,Poland,Europe
+2020,PORTUGAL,May,0.0,5,2020-05-01,Portugal,Europe
+2020,QATAR,May,0.0,5,2020-05-01,Qatar,Asia
+2020,REPUBLIC,May,0.0,5,2020-05-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,May,0.0,5,2020-05-01,Zimbabwe,Africa
+2020,ROMANIA,May,0.0,5,2020-05-01,Romania,Europe
+2020,RUSSIAN FEDERATION,May,0.0,5,2020-05-01,Russia,Europe
+2020,RWANDA,May,0.0,5,2020-05-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,May,0.0,5,2020-05-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,May,0.0,5,2020-05-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,May,0.0,5,2020-05-01,St. Vincent and the Grenadines,America
+2020,SAMOA,May,0.0,5,2020-05-01,Samoa,Oceania
+2020,SAN MARINO,May,0.0,5,2020-05-01,San Marino,Europe
+2020,SAUDI ARABIA,May,0.0,5,2020-05-01,Saudi Arabia,Asia
+2020,SENEGAL,May,0.0,5,2020-05-01,Senegal,Africa
+2020,SERBIA,May,0.0,5,2020-05-01,Serbia,Europe
+2020,SEYCHELLES,May,0.0,5,2020-05-01,Seychelles,Africa
+2020,SIERRA LEONE,May,0.0,5,2020-05-01,Sierra Leone,Africa
+2020,SINGAPORE,May,0.0,5,2020-05-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),May,0.0,5,2020-05-01,Slovakia,Europe
+2020,SLOVENIA,May,0.0,5,2020-05-01,Slovenia,Europe
+2020,SOMALIA,May,0.0,5,2020-05-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,May,0.0,5,2020-05-01,South Africa,Africa
+2020,SOUTH KOREA,May,0.0,5,2020-05-01,South Korea,Asia
+2020,SOUTH SUDAN,May,0.0,5,2020-05-01,South Sudan,Africa
+2020,SPAIN,May,0.0,5,2020-05-01,Spain,Europe
+2020,SUDAN,May,0.0,5,2020-05-01,Sudan,Africa
+2020,SURINAME,May,0.0,5,2020-05-01,Suriname,America
+2020,SWAZILAND,May,0.0,5,2020-05-01,Eswatini,Africa
+2020,SWEDEN,May,0.0,5,2020-05-01,Sweden,Europe
+2020,SWITZERLAND,May,0.0,5,2020-05-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,May,0.0,5,2020-05-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,May,0.0,5,2020-05-01,Taiwan,Asia
+2020,TAJIKISTAN,May,0.0,5,2020-05-01,Tajikistan,Asia
+2020,TANZANIA,May,0.0,5,2020-05-01,Tanzania,Africa
+2020,THAILAND,May,0.0,5,2020-05-01,Thailand,Asia
+2020,TIMOR-LESTE,May,0.0,5,2020-05-01,Timor-Leste,Asia
+2020,TOGO,May,0.0,5,2020-05-01,Togo,Africa
+2020,TONGA,May,0.0,5,2020-05-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,May,0.0,5,2020-05-01,Trinidad and Tobago,America
+2020,TUNISIA,May,0.0,5,2020-05-01,Tunisia,Africa
+2020,TURKEY,May,0.0,5,2020-05-01,Türkiye,Asia
+2020,TURKMENISTAN,May,0.0,5,2020-05-01,Turkmenistan,Asia
+2020,UGANDA,May,0.0,5,2020-05-01,Uganda,Africa
+2020,UKRAINE,May,0.0,5,2020-05-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,May,0.0,5,2020-05-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,May,0.0,5,2020-05-01,United Kingdom,Europe
+2020,UNITED STATES,May,0.0,5,2020-05-01,United States,America
+2020,URUGUAY,May,0.0,5,2020-05-01,Uruguay,America
+2020,UZBEKISTAN,May,0.0,5,2020-05-01,Uzbekistan,Asia
+2020,VANUATU,May,0.0,5,2020-05-01,Vanuatu,Oceania
+2020,VENEZUELA,May,0.0,5,2020-05-01,Venezuela,America
+2020,VIET NAM,May,0.0,5,2020-05-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),May,0.0,5,2020-05-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),May,0.0,5,2020-05-01,Zambia,Africa
+2020,ZIMBABWE,May,0.0,5,2020-05-01,Zimbabwe,Africa
+2020,AFGHANISTAN,June,0.0,6,2020-06-01,Afghanistan,Asia
+2020,ALBANIA,June,0.0,6,2020-06-01,Albania,Europe
+2020,ALGERIA,June,0.0,6,2020-06-01,Algeria,Africa
+2020,ANDORRA,June,0.0,6,2020-06-01,Andorra,Europe
+2020,ANGOLA,June,0.0,6,2020-06-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,June,0.0,6,2020-06-01,Antigua and Barbuda,America
+2020,ARGENTINA,June,0.0,6,2020-06-01,Argentina,America
+2020,ARMENIA,June,0.0,6,2020-06-01,Armenia,Asia
+2020,AUSTRALIA,June,0.0,6,2020-06-01,Australia,Oceania
+2020,AUSTRIA,June,0.0,6,2020-06-01,Austria,Europe
+2020,AZERBAIJAN,June,0.0,6,2020-06-01,Azerbaijan,Asia
+2020,BAHAMAS,June,0.0,6,2020-06-01,Bahamas,America
+2020,BAHRAIN,June,0.0,6,2020-06-01,Bahrain,Asia
+2020,BANGLADESH,June,0.0,6,2020-06-01,Bangladesh,Asia
+2020,BARBADOS,June,0.0,6,2020-06-01,Barbados,America
+2020,BELARUS,June,0.0,6,2020-06-01,Belarus,Europe
+2020,BELGIUM,June,0.0,6,2020-06-01,Belgium,Europe
+2020,BELIZE,June,0.0,6,2020-06-01,Belize,America
+2020,BENIN,June,0.0,6,2020-06-01,Benin,Africa
+2020,BHUTAN,June,0.0,6,2020-06-01,Bhutan,Asia
+2020,BOLIVIA,June,0.0,6,2020-06-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,June,0.0,6,2020-06-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,June,0.0,6,2020-06-01,Botswana,Africa
+2020,BRAZIL,June,0.0,6,2020-06-01,Brazil,America
+2020,BRUNEI DARUSSALAM,June,0.0,6,2020-06-01,Brunei Darussalam,Asia
+2020,BULGARIA,June,0.0,6,2020-06-01,Bulgaria,Europe
+2020,BURKINA FASO,June,0.0,6,2020-06-01,Burkina Faso,Africa
+2020,BURUNDI,June,0.0,6,2020-06-01,Burundi,Africa
+2020,CAMBODIA,June,0.0,6,2020-06-01,Cambodia,Asia
+2020,CAMEROON,June,0.0,6,2020-06-01,Cameroon,Africa
+2020,CANADA,June,0.0,6,2020-06-01,Canada,America
+2020,CAPE VERDE,June,0.0,6,2020-06-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,June,0.0,6,2020-06-01,CENTRAL AFRICAN,Other
+2020,CHAD,June,0.0,6,2020-06-01,Chad,Africa
+2020,CHILE,June,0.0,6,2020-06-01,Chile,America
+2020,CHINA,June,0.0,6,2020-06-01,China,Asia
+2020,COLOMBIA,June,0.0,6,2020-06-01,Colombia,America
+2020,COMOROS,June,0.0,6,2020-06-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,June,0.0,6,2020-06-01,DR Congo,Africa
+2020,COSTA RICA,June,0.0,6,2020-06-01,Costa Rica,America
+2020,COTE DIVOIRE,June,0.0,6,2020-06-01,Côte d'Ivoire,Africa
+2020,CROATIA,June,0.0,6,2020-06-01,Croatia,Europe
+2020,CUBA,June,0.0,6,2020-06-01,Cuba,America
+2020,CYPRUS,June,0.0,6,2020-06-01,Cyprus,Asia
+2020,CZECH REPUBLIC,June,0.0,6,2020-06-01,Czechia,Europe
+2020,DENMARK,June,0.0,6,2020-06-01,Denmark,Europe
+2020,DJIBOUTI,June,0.0,6,2020-06-01,Djibouti,Africa
+2020,DOMINICA,June,0.0,6,2020-06-01,Dominica,America
+2020,DOMINICAN,June,0.0,6,2020-06-01,Dominican Republic,America
+2020,ECUADOR,June,0.0,6,2020-06-01,Ecuador,America
+2020,EGYPT,June,0.0,6,2020-06-01,Egypt,Africa
+2020,EL SALVADOR,June,0.0,6,2020-06-01,El Salvador,America
+2020,EQUATORIAL,June,0.0,6,2020-06-01,EQUATORIAL,Other
+2020,ERITREA,June,0.0,6,2020-06-01,Eritrea,Africa
+2020,ESTONIA,June,0.0,6,2020-06-01,Estonia,Europe
+2020,ETHIOPIA,June,0.0,6,2020-06-01,Ethiopia,Africa
+2020,FIJI,June,0.0,6,2020-06-01,Fiji,Oceania
+2020,FINLAND,June,0.0,6,2020-06-01,Finland,Europe
+2020,FRANCE,June,0.0,6,2020-06-01,France,Europe
+2020,GABON,June,0.0,6,2020-06-01,Gabon,Africa
+2020,"GAMBIA, THE",June,0.0,6,2020-06-01,Gambia,Africa
+2020,GEORGIA,June,0.0,6,2020-06-01,Georgia,Asia
+2020,GERMANY,June,0.0,6,2020-06-01,Germany,Europe
+2020,GHANA,June,0.0,6,2020-06-01,Ghana,Africa
+2020,GREECE,June,0.0,6,2020-06-01,Greece,Europe
+2020,GRENADA,June,0.0,6,2020-06-01,Grenada,America
+2020,GUATEMALA,June,0.0,6,2020-06-01,Guatemala,America
+2020,GUINEA,June,0.0,6,2020-06-01,Guinea,Africa
+2020,GUINEA-BISSAU,June,0.0,6,2020-06-01,Guinea-Bissau,Africa
+2020,GUYANA,June,0.0,6,2020-06-01,Guyana,America
+2020,HAITI,June,0.0,6,2020-06-01,Haiti,America
+2020,HONDURAS,June,0.0,6,2020-06-01,Honduras,America
+2020,HONG KONG,June,0.0,6,2020-06-01,Hong Kong,Asia
+2020,HUNGARY,June,0.0,6,2020-06-01,Hungary,Europe
+2020,ICELAND,June,0.0,6,2020-06-01,Iceland,Europe
+2020,INDIA,June,0.0,6,2020-06-01,India,Asia
+2020,INDONESIA,June,0.0,6,2020-06-01,Indonesia,Asia
+2020,IRAN,June,0.0,6,2020-06-01,Iran,Asia
+2020,IRAQ,June,0.0,6,2020-06-01,Iraq,Asia
+2020,IRELAND,June,0.0,6,2020-06-01,Ireland,Europe
+2020,ISRAEL,June,0.0,6,2020-06-01,Israel,Asia
+2020,ITALY,June,0.0,6,2020-06-01,Italy,Europe
+2020,JAMAICA,June,0.0,6,2020-06-01,Jamaica,America
+2020,JAPAN,June,0.0,6,2020-06-01,Japan,Asia
+2020,JORDAN,June,0.0,6,2020-06-01,Jordan,Asia
+2020,KAZAKHSTAN,June,0.0,6,2020-06-01,Kazakhstan,Asia
+2020,KENYA,June,0.0,6,2020-06-01,Kenya,Africa
+2020,KOSOVAR,June,0.0,6,2020-06-01,KOSOVAR,Other
+2020,KUWAIT,June,0.0,6,2020-06-01,Kuwait,Asia
+2020,KYRGYZSTAN,June,0.0,6,2020-06-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,June,0.0,6,2020-06-01,Laos,Asia
+2020,LATVIA,June,0.0,6,2020-06-01,Latvia,Europe
+2020,LEBANON,June,0.0,6,2020-06-01,Lebanon,Asia
+2020,LESOTHO,June,0.0,6,2020-06-01,Lesotho,Africa
+2020,LIBERIA,June,0.0,6,2020-06-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,June,0.0,6,2020-06-01,Libya,Africa
+2020,LIECHTENSTEIN,June,0.0,6,2020-06-01,Liechtenstein,Europe
+2020,LITHUANIA,June,0.0,6,2020-06-01,Lithuania,Europe
+2020,LUXEMBOURG,June,0.0,6,2020-06-01,Luxembourg,Europe
+2020,MACEDONIA,June,0.0,6,2020-06-01,North Macedonia,Europe
+2020,MADAGASCAR,June,0.0,6,2020-06-01,Madagascar,Africa
+2020,MALAWI,June,0.0,6,2020-06-01,Malawi,Africa
+2020,MALAYSIA,June,0.0,6,2020-06-01,Malaysia,Asia
+2020,MALDIVES,June,0.0,6,2020-06-01,Maldives,Asia
+2020,MALI,June,0.0,6,2020-06-01,Mali,Africa
+2020,MALTA,June,0.0,6,2020-06-01,Malta,Europe
+2020,MAURITANIA,June,0.0,6,2020-06-01,Mauritania,Africa
+2020,MAURITIUS,June,0.0,6,2020-06-01,Mauritius,Africa
+2020,MEXICO,June,0.0,6,2020-06-01,Mexico,America
+2020,MOLDOVA,June,0.0,6,2020-06-01,Moldova,Europe
+2020,MONACO,June,0.0,6,2020-06-01,Monaco,Europe
+2020,MONGOLIA,June,0.0,6,2020-06-01,Mongolia,Asia
+2020,MONTENEGRO,June,0.0,6,2020-06-01,Montenegro,Europe
+2020,MOROCCO,June,0.0,6,2020-06-01,Morocco,Africa
+2020,MOZAMBIQUE,June,0.0,6,2020-06-01,Mozambique,Africa
+2020,MYANMAR,June,0.0,6,2020-06-01,Myanmar,Asia
+2020,NAMIBIA,June,0.0,6,2020-06-01,Namibia,Africa
+2020,NAURU,June,0.0,6,2020-06-01,Nauru,Oceania
+2020,NEPAL,June,0.0,6,2020-06-01,Nepal,Asia
+2020,NETHERLANDS,June,0.0,6,2020-06-01,Netherlands,Europe
+2020,NEW ZEALAND,June,0.0,6,2020-06-01,New Zealand,Oceania
+2020,NIGER,June,0.0,6,2020-06-01,Niger,Africa
+2020,NIGERIA,June,0.0,6,2020-06-01,Nigeria,Africa
+2020,NORWAY,June,0.0,6,2020-06-01,Norway,Europe
+2020,OMAN,June,0.0,6,2020-06-01,Oman,Asia
+2020,PAKISTAN,June,0.0,6,2020-06-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,June,0.0,6,2020-06-01,Palestine,Asia
+2020,PANAMA,June,0.0,6,2020-06-01,Panama,America
+2020,PAPUA NEW GUINEA,June,0.0,6,2020-06-01,Papua New Guinea,Oceania
+2020,PARAGUAY,June,0.0,6,2020-06-01,Paraguay,America
+2020,PERU,June,0.0,6,2020-06-01,Peru,America
+2020,PHILIPPINES,June,0.0,6,2020-06-01,Philippines,Asia
+2020,POLAND,June,0.0,6,2020-06-01,Poland,Europe
+2020,PORTUGAL,June,0.0,6,2020-06-01,Portugal,Europe
+2020,QATAR,June,0.0,6,2020-06-01,Qatar,Asia
+2020,REPUBLIC,June,0.0,6,2020-06-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,June,0.0,6,2020-06-01,Zimbabwe,Africa
+2020,ROMANIA,June,0.0,6,2020-06-01,Romania,Europe
+2020,RUSSIAN FEDERATION,June,0.0,6,2020-06-01,Russia,Europe
+2020,RWANDA,June,0.0,6,2020-06-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,June,0.0,6,2020-06-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,June,0.0,6,2020-06-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,June,0.0,6,2020-06-01,St. Vincent and the Grenadines,America
+2020,SAMOA,June,0.0,6,2020-06-01,Samoa,Oceania
+2020,SAN MARINO,June,0.0,6,2020-06-01,San Marino,Europe
+2020,SAUDI ARABIA,June,0.0,6,2020-06-01,Saudi Arabia,Asia
+2020,SENEGAL,June,0.0,6,2020-06-01,Senegal,Africa
+2020,SERBIA,June,0.0,6,2020-06-01,Serbia,Europe
+2020,SEYCHELLES,June,0.0,6,2020-06-01,Seychelles,Africa
+2020,SIERRA LEONE,June,0.0,6,2020-06-01,Sierra Leone,Africa
+2020,SINGAPORE,June,0.0,6,2020-06-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),June,0.0,6,2020-06-01,Slovakia,Europe
+2020,SLOVENIA,June,0.0,6,2020-06-01,Slovenia,Europe
+2020,SOMALIA,June,0.0,6,2020-06-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,June,0.0,6,2020-06-01,South Africa,Africa
+2020,SOUTH KOREA,June,0.0,6,2020-06-01,South Korea,Asia
+2020,SOUTH SUDAN,June,0.0,6,2020-06-01,South Sudan,Africa
+2020,SPAIN,June,0.0,6,2020-06-01,Spain,Europe
+2020,SUDAN,June,0.0,6,2020-06-01,Sudan,Africa
+2020,SURINAME,June,0.0,6,2020-06-01,Suriname,America
+2020,SWAZILAND,June,0.0,6,2020-06-01,Eswatini,Africa
+2020,SWEDEN,June,0.0,6,2020-06-01,Sweden,Europe
+2020,SWITZERLAND,June,0.0,6,2020-06-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,June,0.0,6,2020-06-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,June,0.0,6,2020-06-01,Taiwan,Asia
+2020,TAJIKISTAN,June,0.0,6,2020-06-01,Tajikistan,Asia
+2020,TANZANIA,June,0.0,6,2020-06-01,Tanzania,Africa
+2020,THAILAND,June,0.0,6,2020-06-01,Thailand,Asia
+2020,TIMOR-LESTE,June,0.0,6,2020-06-01,Timor-Leste,Asia
+2020,TOGO,June,0.0,6,2020-06-01,Togo,Africa
+2020,TONGA,June,0.0,6,2020-06-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,June,0.0,6,2020-06-01,Trinidad and Tobago,America
+2020,TUNISIA,June,0.0,6,2020-06-01,Tunisia,Africa
+2020,TURKEY,June,0.0,6,2020-06-01,Türkiye,Asia
+2020,TURKMENISTAN,June,0.0,6,2020-06-01,Turkmenistan,Asia
+2020,UGANDA,June,0.0,6,2020-06-01,Uganda,Africa
+2020,UKRAINE,June,0.0,6,2020-06-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,June,0.0,6,2020-06-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,June,0.0,6,2020-06-01,United Kingdom,Europe
+2020,UNITED STATES,June,0.0,6,2020-06-01,United States,America
+2020,URUGUAY,June,0.0,6,2020-06-01,Uruguay,America
+2020,UZBEKISTAN,June,0.0,6,2020-06-01,Uzbekistan,Asia
+2020,VANUATU,June,0.0,6,2020-06-01,Vanuatu,Oceania
+2020,VENEZUELA,June,0.0,6,2020-06-01,Venezuela,America
+2020,VIET NAM,June,0.0,6,2020-06-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),June,0.0,6,2020-06-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),June,0.0,6,2020-06-01,Zambia,Africa
+2020,ZIMBABWE,June,0.0,6,2020-06-01,Zimbabwe,Africa
+2020,AFGHANISTAN,July,0.0,7,2020-07-01,Afghanistan,Asia
+2020,ALBANIA,July,0.0,7,2020-07-01,Albania,Europe
+2020,ALGERIA,July,0.0,7,2020-07-01,Algeria,Africa
+2020,ANDORRA,July,0.0,7,2020-07-01,Andorra,Europe
+2020,ANGOLA,July,0.0,7,2020-07-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,July,0.0,7,2020-07-01,Antigua and Barbuda,America
+2020,ARGENTINA,July,0.0,7,2020-07-01,Argentina,America
+2020,ARMENIA,July,0.0,7,2020-07-01,Armenia,Asia
+2020,AUSTRALIA,July,0.0,7,2020-07-01,Australia,Oceania
+2020,AUSTRIA,July,0.0,7,2020-07-01,Austria,Europe
+2020,AZERBAIJAN,July,0.0,7,2020-07-01,Azerbaijan,Asia
+2020,BAHAMAS,July,0.0,7,2020-07-01,Bahamas,America
+2020,BAHRAIN,July,0.0,7,2020-07-01,Bahrain,Asia
+2020,BANGLADESH,July,0.0,7,2020-07-01,Bangladesh,Asia
+2020,BARBADOS,July,0.0,7,2020-07-01,Barbados,America
+2020,BELARUS,July,0.0,7,2020-07-01,Belarus,Europe
+2020,BELGIUM,July,0.0,7,2020-07-01,Belgium,Europe
+2020,BELIZE,July,0.0,7,2020-07-01,Belize,America
+2020,BENIN,July,0.0,7,2020-07-01,Benin,Africa
+2020,BHUTAN,July,0.0,7,2020-07-01,Bhutan,Asia
+2020,BOLIVIA,July,0.0,7,2020-07-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,July,0.0,7,2020-07-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,July,0.0,7,2020-07-01,Botswana,Africa
+2020,BRAZIL,July,0.0,7,2020-07-01,Brazil,America
+2020,BRUNEI DARUSSALAM,July,0.0,7,2020-07-01,Brunei Darussalam,Asia
+2020,BULGARIA,July,0.0,7,2020-07-01,Bulgaria,Europe
+2020,BURKINA FASO,July,0.0,7,2020-07-01,Burkina Faso,Africa
+2020,BURUNDI,July,0.0,7,2020-07-01,Burundi,Africa
+2020,CAMBODIA,July,0.0,7,2020-07-01,Cambodia,Asia
+2020,CAMEROON,July,0.0,7,2020-07-01,Cameroon,Africa
+2020,CANADA,July,0.0,7,2020-07-01,Canada,America
+2020,CAPE VERDE,July,0.0,7,2020-07-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,July,0.0,7,2020-07-01,CENTRAL AFRICAN,Other
+2020,CHAD,July,0.0,7,2020-07-01,Chad,Africa
+2020,CHILE,July,0.0,7,2020-07-01,Chile,America
+2020,CHINA,July,0.0,7,2020-07-01,China,Asia
+2020,COLOMBIA,July,0.0,7,2020-07-01,Colombia,America
+2020,COMOROS,July,0.0,7,2020-07-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,July,0.0,7,2020-07-01,DR Congo,Africa
+2020,COSTA RICA,July,0.0,7,2020-07-01,Costa Rica,America
+2020,COTE DIVOIRE,July,0.0,7,2020-07-01,Côte d'Ivoire,Africa
+2020,CROATIA,July,0.0,7,2020-07-01,Croatia,Europe
+2020,CUBA,July,0.0,7,2020-07-01,Cuba,America
+2020,CYPRUS,July,0.0,7,2020-07-01,Cyprus,Asia
+2020,CZECH REPUBLIC,July,0.0,7,2020-07-01,Czechia,Europe
+2020,DENMARK,July,0.0,7,2020-07-01,Denmark,Europe
+2020,DJIBOUTI,July,0.0,7,2020-07-01,Djibouti,Africa
+2020,DOMINICA,July,0.0,7,2020-07-01,Dominica,America
+2020,DOMINICAN,July,0.0,7,2020-07-01,Dominican Republic,America
+2020,ECUADOR,July,0.0,7,2020-07-01,Ecuador,America
+2020,EGYPT,July,0.0,7,2020-07-01,Egypt,Africa
+2020,EL SALVADOR,July,0.0,7,2020-07-01,El Salvador,America
+2020,EQUATORIAL,July,0.0,7,2020-07-01,EQUATORIAL,Other
+2020,ERITREA,July,0.0,7,2020-07-01,Eritrea,Africa
+2020,ESTONIA,July,0.0,7,2020-07-01,Estonia,Europe
+2020,ETHIOPIA,July,0.0,7,2020-07-01,Ethiopia,Africa
+2020,FIJI,July,0.0,7,2020-07-01,Fiji,Oceania
+2020,FINLAND,July,0.0,7,2020-07-01,Finland,Europe
+2020,FRANCE,July,0.0,7,2020-07-01,France,Europe
+2020,GABON,July,0.0,7,2020-07-01,Gabon,Africa
+2020,"GAMBIA, THE",July,0.0,7,2020-07-01,Gambia,Africa
+2020,GEORGIA,July,0.0,7,2020-07-01,Georgia,Asia
+2020,GERMANY,July,0.0,7,2020-07-01,Germany,Europe
+2020,GHANA,July,0.0,7,2020-07-01,Ghana,Africa
+2020,GREECE,July,0.0,7,2020-07-01,Greece,Europe
+2020,GRENADA,July,0.0,7,2020-07-01,Grenada,America
+2020,GUATEMALA,July,0.0,7,2020-07-01,Guatemala,America
+2020,GUINEA,July,0.0,7,2020-07-01,Guinea,Africa
+2020,GUINEA-BISSAU,July,0.0,7,2020-07-01,Guinea-Bissau,Africa
+2020,GUYANA,July,0.0,7,2020-07-01,Guyana,America
+2020,HAITI,July,0.0,7,2020-07-01,Haiti,America
+2020,HONDURAS,July,0.0,7,2020-07-01,Honduras,America
+2020,HONG KONG,July,0.0,7,2020-07-01,Hong Kong,Asia
+2020,HUNGARY,July,0.0,7,2020-07-01,Hungary,Europe
+2020,ICELAND,July,0.0,7,2020-07-01,Iceland,Europe
+2020,INDIA,July,0.0,7,2020-07-01,India,Asia
+2020,INDONESIA,July,0.0,7,2020-07-01,Indonesia,Asia
+2020,IRAN,July,0.0,7,2020-07-01,Iran,Asia
+2020,IRAQ,July,0.0,7,2020-07-01,Iraq,Asia
+2020,IRELAND,July,0.0,7,2020-07-01,Ireland,Europe
+2020,ISRAEL,July,0.0,7,2020-07-01,Israel,Asia
+2020,ITALY,July,0.0,7,2020-07-01,Italy,Europe
+2020,JAMAICA,July,0.0,7,2020-07-01,Jamaica,America
+2020,JAPAN,July,0.0,7,2020-07-01,Japan,Asia
+2020,JORDAN,July,0.0,7,2020-07-01,Jordan,Asia
+2020,KAZAKHSTAN,July,0.0,7,2020-07-01,Kazakhstan,Asia
+2020,KENYA,July,0.0,7,2020-07-01,Kenya,Africa
+2020,KOSOVAR,July,0.0,7,2020-07-01,KOSOVAR,Other
+2020,KUWAIT,July,0.0,7,2020-07-01,Kuwait,Asia
+2020,KYRGYZSTAN,July,0.0,7,2020-07-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,July,0.0,7,2020-07-01,Laos,Asia
+2020,LATVIA,July,0.0,7,2020-07-01,Latvia,Europe
+2020,LEBANON,July,0.0,7,2020-07-01,Lebanon,Asia
+2020,LESOTHO,July,0.0,7,2020-07-01,Lesotho,Africa
+2020,LIBERIA,July,0.0,7,2020-07-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,July,0.0,7,2020-07-01,Libya,Africa
+2020,LIECHTENSTEIN,July,0.0,7,2020-07-01,Liechtenstein,Europe
+2020,LITHUANIA,July,0.0,7,2020-07-01,Lithuania,Europe
+2020,LUXEMBOURG,July,0.0,7,2020-07-01,Luxembourg,Europe
+2020,MACEDONIA,July,0.0,7,2020-07-01,North Macedonia,Europe
+2020,MADAGASCAR,July,0.0,7,2020-07-01,Madagascar,Africa
+2020,MALAWI,July,0.0,7,2020-07-01,Malawi,Africa
+2020,MALAYSIA,July,0.0,7,2020-07-01,Malaysia,Asia
+2020,MALDIVES,July,0.0,7,2020-07-01,Maldives,Asia
+2020,MALI,July,0.0,7,2020-07-01,Mali,Africa
+2020,MALTA,July,0.0,7,2020-07-01,Malta,Europe
+2020,MAURITANIA,July,0.0,7,2020-07-01,Mauritania,Africa
+2020,MAURITIUS,July,0.0,7,2020-07-01,Mauritius,Africa
+2020,MEXICO,July,0.0,7,2020-07-01,Mexico,America
+2020,MOLDOVA,July,0.0,7,2020-07-01,Moldova,Europe
+2020,MONACO,July,0.0,7,2020-07-01,Monaco,Europe
+2020,MONGOLIA,July,0.0,7,2020-07-01,Mongolia,Asia
+2020,MONTENEGRO,July,0.0,7,2020-07-01,Montenegro,Europe
+2020,MOROCCO,July,0.0,7,2020-07-01,Morocco,Africa
+2020,MOZAMBIQUE,July,0.0,7,2020-07-01,Mozambique,Africa
+2020,MYANMAR,July,0.0,7,2020-07-01,Myanmar,Asia
+2020,NAMIBIA,July,0.0,7,2020-07-01,Namibia,Africa
+2020,NAURU,July,0.0,7,2020-07-01,Nauru,Oceania
+2020,NEPAL,July,0.0,7,2020-07-01,Nepal,Asia
+2020,NETHERLANDS,July,0.0,7,2020-07-01,Netherlands,Europe
+2020,NEW ZEALAND,July,0.0,7,2020-07-01,New Zealand,Oceania
+2020,NIGER,July,0.0,7,2020-07-01,Niger,Africa
+2020,NIGERIA,July,0.0,7,2020-07-01,Nigeria,Africa
+2020,NORWAY,July,0.0,7,2020-07-01,Norway,Europe
+2020,OMAN,July,0.0,7,2020-07-01,Oman,Asia
+2020,PAKISTAN,July,0.0,7,2020-07-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,July,0.0,7,2020-07-01,Palestine,Asia
+2020,PANAMA,July,0.0,7,2020-07-01,Panama,America
+2020,PAPUA NEW GUINEA,July,0.0,7,2020-07-01,Papua New Guinea,Oceania
+2020,PARAGUAY,July,0.0,7,2020-07-01,Paraguay,America
+2020,PERU,July,0.0,7,2020-07-01,Peru,America
+2020,PHILIPPINES,July,0.0,7,2020-07-01,Philippines,Asia
+2020,POLAND,July,0.0,7,2020-07-01,Poland,Europe
+2020,PORTUGAL,July,0.0,7,2020-07-01,Portugal,Europe
+2020,QATAR,July,0.0,7,2020-07-01,Qatar,Asia
+2020,REPUBLIC,July,0.0,7,2020-07-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,July,0.0,7,2020-07-01,Zimbabwe,Africa
+2020,ROMANIA,July,0.0,7,2020-07-01,Romania,Europe
+2020,RUSSIAN FEDERATION,July,0.0,7,2020-07-01,Russia,Europe
+2020,RWANDA,July,0.0,7,2020-07-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,July,0.0,7,2020-07-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,July,0.0,7,2020-07-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,July,0.0,7,2020-07-01,St. Vincent and the Grenadines,America
+2020,SAMOA,July,0.0,7,2020-07-01,Samoa,Oceania
+2020,SAN MARINO,July,0.0,7,2020-07-01,San Marino,Europe
+2020,SAUDI ARABIA,July,0.0,7,2020-07-01,Saudi Arabia,Asia
+2020,SENEGAL,July,0.0,7,2020-07-01,Senegal,Africa
+2020,SERBIA,July,0.0,7,2020-07-01,Serbia,Europe
+2020,SEYCHELLES,July,0.0,7,2020-07-01,Seychelles,Africa
+2020,SIERRA LEONE,July,0.0,7,2020-07-01,Sierra Leone,Africa
+2020,SINGAPORE,July,0.0,7,2020-07-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),July,0.0,7,2020-07-01,Slovakia,Europe
+2020,SLOVENIA,July,0.0,7,2020-07-01,Slovenia,Europe
+2020,SOMALIA,July,0.0,7,2020-07-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,July,0.0,7,2020-07-01,South Africa,Africa
+2020,SOUTH KOREA,July,0.0,7,2020-07-01,South Korea,Asia
+2020,SOUTH SUDAN,July,0.0,7,2020-07-01,South Sudan,Africa
+2020,SPAIN,July,0.0,7,2020-07-01,Spain,Europe
+2020,SUDAN,July,0.0,7,2020-07-01,Sudan,Africa
+2020,SURINAME,July,0.0,7,2020-07-01,Suriname,America
+2020,SWAZILAND,July,0.0,7,2020-07-01,Eswatini,Africa
+2020,SWEDEN,July,0.0,7,2020-07-01,Sweden,Europe
+2020,SWITZERLAND,July,0.0,7,2020-07-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,July,0.0,7,2020-07-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,July,0.0,7,2020-07-01,Taiwan,Asia
+2020,TAJIKISTAN,July,0.0,7,2020-07-01,Tajikistan,Asia
+2020,TANZANIA,July,0.0,7,2020-07-01,Tanzania,Africa
+2020,THAILAND,July,0.0,7,2020-07-01,Thailand,Asia
+2020,TIMOR-LESTE,July,0.0,7,2020-07-01,Timor-Leste,Asia
+2020,TOGO,July,0.0,7,2020-07-01,Togo,Africa
+2020,TONGA,July,0.0,7,2020-07-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,July,0.0,7,2020-07-01,Trinidad and Tobago,America
+2020,TUNISIA,July,0.0,7,2020-07-01,Tunisia,Africa
+2020,TURKEY,July,0.0,7,2020-07-01,Türkiye,Asia
+2020,TURKMENISTAN,July,0.0,7,2020-07-01,Turkmenistan,Asia
+2020,UGANDA,July,0.0,7,2020-07-01,Uganda,Africa
+2020,UKRAINE,July,0.0,7,2020-07-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,July,0.0,7,2020-07-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,July,0.0,7,2020-07-01,United Kingdom,Europe
+2020,UNITED STATES,July,0.0,7,2020-07-01,United States,America
+2020,URUGUAY,July,0.0,7,2020-07-01,Uruguay,America
+2020,UZBEKISTAN,July,0.0,7,2020-07-01,Uzbekistan,Asia
+2020,VANUATU,July,0.0,7,2020-07-01,Vanuatu,Oceania
+2020,VENEZUELA,July,0.0,7,2020-07-01,Venezuela,America
+2020,VIET NAM,July,0.0,7,2020-07-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),July,0.0,7,2020-07-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),July,0.0,7,2020-07-01,Zambia,Africa
+2020,ZIMBABWE,July,0.0,7,2020-07-01,Zimbabwe,Africa
+2020,AFGHANISTAN,August,0.0,8,2020-08-01,Afghanistan,Asia
+2020,ALBANIA,August,0.0,8,2020-08-01,Albania,Europe
+2020,ALGERIA,August,0.0,8,2020-08-01,Algeria,Africa
+2020,ANDORRA,August,0.0,8,2020-08-01,Andorra,Europe
+2020,ANGOLA,August,0.0,8,2020-08-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,August,0.0,8,2020-08-01,Antigua and Barbuda,America
+2020,ARGENTINA,August,0.0,8,2020-08-01,Argentina,America
+2020,ARMENIA,August,0.0,8,2020-08-01,Armenia,Asia
+2020,AUSTRALIA,August,0.0,8,2020-08-01,Australia,Oceania
+2020,AUSTRIA,August,0.0,8,2020-08-01,Austria,Europe
+2020,AZERBAIJAN,August,0.0,8,2020-08-01,Azerbaijan,Asia
+2020,BAHAMAS,August,0.0,8,2020-08-01,Bahamas,America
+2020,BAHRAIN,August,0.0,8,2020-08-01,Bahrain,Asia
+2020,BANGLADESH,August,0.0,8,2020-08-01,Bangladesh,Asia
+2020,BARBADOS,August,0.0,8,2020-08-01,Barbados,America
+2020,BELARUS,August,0.0,8,2020-08-01,Belarus,Europe
+2020,BELGIUM,August,0.0,8,2020-08-01,Belgium,Europe
+2020,BELIZE,August,0.0,8,2020-08-01,Belize,America
+2020,BENIN,August,0.0,8,2020-08-01,Benin,Africa
+2020,BHUTAN,August,0.0,8,2020-08-01,Bhutan,Asia
+2020,BOLIVIA,August,0.0,8,2020-08-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,August,0.0,8,2020-08-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,August,0.0,8,2020-08-01,Botswana,Africa
+2020,BRAZIL,August,0.0,8,2020-08-01,Brazil,America
+2020,BRUNEI DARUSSALAM,August,0.0,8,2020-08-01,Brunei Darussalam,Asia
+2020,BULGARIA,August,0.0,8,2020-08-01,Bulgaria,Europe
+2020,BURKINA FASO,August,0.0,8,2020-08-01,Burkina Faso,Africa
+2020,BURUNDI,August,0.0,8,2020-08-01,Burundi,Africa
+2020,CAMBODIA,August,0.0,8,2020-08-01,Cambodia,Asia
+2020,CAMEROON,August,0.0,8,2020-08-01,Cameroon,Africa
+2020,CANADA,August,0.0,8,2020-08-01,Canada,America
+2020,CAPE VERDE,August,0.0,8,2020-08-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,August,0.0,8,2020-08-01,CENTRAL AFRICAN,Other
+2020,CHAD,August,0.0,8,2020-08-01,Chad,Africa
+2020,CHILE,August,0.0,8,2020-08-01,Chile,America
+2020,CHINA,August,0.0,8,2020-08-01,China,Asia
+2020,COLOMBIA,August,0.0,8,2020-08-01,Colombia,America
+2020,COMOROS,August,0.0,8,2020-08-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,August,0.0,8,2020-08-01,DR Congo,Africa
+2020,COSTA RICA,August,0.0,8,2020-08-01,Costa Rica,America
+2020,COTE DIVOIRE,August,0.0,8,2020-08-01,Côte d'Ivoire,Africa
+2020,CROATIA,August,0.0,8,2020-08-01,Croatia,Europe
+2020,CUBA,August,0.0,8,2020-08-01,Cuba,America
+2020,CYPRUS,August,0.0,8,2020-08-01,Cyprus,Asia
+2020,CZECH REPUBLIC,August,0.0,8,2020-08-01,Czechia,Europe
+2020,DENMARK,August,0.0,8,2020-08-01,Denmark,Europe
+2020,DJIBOUTI,August,0.0,8,2020-08-01,Djibouti,Africa
+2020,DOMINICA,August,0.0,8,2020-08-01,Dominica,America
+2020,DOMINICAN,August,0.0,8,2020-08-01,Dominican Republic,America
+2020,ECUADOR,August,0.0,8,2020-08-01,Ecuador,America
+2020,EGYPT,August,0.0,8,2020-08-01,Egypt,Africa
+2020,EL SALVADOR,August,0.0,8,2020-08-01,El Salvador,America
+2020,EQUATORIAL,August,0.0,8,2020-08-01,EQUATORIAL,Other
+2020,ERITREA,August,0.0,8,2020-08-01,Eritrea,Africa
+2020,ESTONIA,August,0.0,8,2020-08-01,Estonia,Europe
+2020,ETHIOPIA,August,0.0,8,2020-08-01,Ethiopia,Africa
+2020,FIJI,August,0.0,8,2020-08-01,Fiji,Oceania
+2020,FINLAND,August,0.0,8,2020-08-01,Finland,Europe
+2020,FRANCE,August,0.0,8,2020-08-01,France,Europe
+2020,GABON,August,0.0,8,2020-08-01,Gabon,Africa
+2020,"GAMBIA, THE",August,0.0,8,2020-08-01,Gambia,Africa
+2020,GEORGIA,August,0.0,8,2020-08-01,Georgia,Asia
+2020,GERMANY,August,0.0,8,2020-08-01,Germany,Europe
+2020,GHANA,August,0.0,8,2020-08-01,Ghana,Africa
+2020,GREECE,August,0.0,8,2020-08-01,Greece,Europe
+2020,GRENADA,August,0.0,8,2020-08-01,Grenada,America
+2020,GUATEMALA,August,0.0,8,2020-08-01,Guatemala,America
+2020,GUINEA,August,0.0,8,2020-08-01,Guinea,Africa
+2020,GUINEA-BISSAU,August,0.0,8,2020-08-01,Guinea-Bissau,Africa
+2020,GUYANA,August,0.0,8,2020-08-01,Guyana,America
+2020,HAITI,August,0.0,8,2020-08-01,Haiti,America
+2020,HONDURAS,August,0.0,8,2020-08-01,Honduras,America
+2020,HONG KONG,August,0.0,8,2020-08-01,Hong Kong,Asia
+2020,HUNGARY,August,0.0,8,2020-08-01,Hungary,Europe
+2020,ICELAND,August,0.0,8,2020-08-01,Iceland,Europe
+2020,INDIA,August,0.0,8,2020-08-01,India,Asia
+2020,INDONESIA,August,0.0,8,2020-08-01,Indonesia,Asia
+2020,IRAN,August,0.0,8,2020-08-01,Iran,Asia
+2020,IRAQ,August,0.0,8,2020-08-01,Iraq,Asia
+2020,IRELAND,August,0.0,8,2020-08-01,Ireland,Europe
+2020,ISRAEL,August,0.0,8,2020-08-01,Israel,Asia
+2020,ITALY,August,0.0,8,2020-08-01,Italy,Europe
+2020,JAMAICA,August,0.0,8,2020-08-01,Jamaica,America
+2020,JAPAN,August,0.0,8,2020-08-01,Japan,Asia
+2020,JORDAN,August,0.0,8,2020-08-01,Jordan,Asia
+2020,KAZAKHSTAN,August,0.0,8,2020-08-01,Kazakhstan,Asia
+2020,KENYA,August,0.0,8,2020-08-01,Kenya,Africa
+2020,KOSOVAR,August,0.0,8,2020-08-01,KOSOVAR,Other
+2020,KUWAIT,August,0.0,8,2020-08-01,Kuwait,Asia
+2020,KYRGYZSTAN,August,0.0,8,2020-08-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,August,0.0,8,2020-08-01,Laos,Asia
+2020,LATVIA,August,0.0,8,2020-08-01,Latvia,Europe
+2020,LEBANON,August,0.0,8,2020-08-01,Lebanon,Asia
+2020,LESOTHO,August,0.0,8,2020-08-01,Lesotho,Africa
+2020,LIBERIA,August,0.0,8,2020-08-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,August,0.0,8,2020-08-01,Libya,Africa
+2020,LIECHTENSTEIN,August,0.0,8,2020-08-01,Liechtenstein,Europe
+2020,LITHUANIA,August,0.0,8,2020-08-01,Lithuania,Europe
+2020,LUXEMBOURG,August,0.0,8,2020-08-01,Luxembourg,Europe
+2020,MACEDONIA,August,0.0,8,2020-08-01,North Macedonia,Europe
+2020,MADAGASCAR,August,0.0,8,2020-08-01,Madagascar,Africa
+2020,MALAWI,August,0.0,8,2020-08-01,Malawi,Africa
+2020,MALAYSIA,August,0.0,8,2020-08-01,Malaysia,Asia
+2020,MALDIVES,August,0.0,8,2020-08-01,Maldives,Asia
+2020,MALI,August,0.0,8,2020-08-01,Mali,Africa
+2020,MALTA,August,0.0,8,2020-08-01,Malta,Europe
+2020,MAURITANIA,August,0.0,8,2020-08-01,Mauritania,Africa
+2020,MAURITIUS,August,0.0,8,2020-08-01,Mauritius,Africa
+2020,MEXICO,August,0.0,8,2020-08-01,Mexico,America
+2020,MOLDOVA,August,0.0,8,2020-08-01,Moldova,Europe
+2020,MONACO,August,0.0,8,2020-08-01,Monaco,Europe
+2020,MONGOLIA,August,0.0,8,2020-08-01,Mongolia,Asia
+2020,MONTENEGRO,August,0.0,8,2020-08-01,Montenegro,Europe
+2020,MOROCCO,August,0.0,8,2020-08-01,Morocco,Africa
+2020,MOZAMBIQUE,August,0.0,8,2020-08-01,Mozambique,Africa
+2020,MYANMAR,August,0.0,8,2020-08-01,Myanmar,Asia
+2020,NAMIBIA,August,0.0,8,2020-08-01,Namibia,Africa
+2020,NAURU,August,0.0,8,2020-08-01,Nauru,Oceania
+2020,NEPAL,August,0.0,8,2020-08-01,Nepal,Asia
+2020,NETHERLANDS,August,0.0,8,2020-08-01,Netherlands,Europe
+2020,NEW ZEALAND,August,0.0,8,2020-08-01,New Zealand,Oceania
+2020,NIGER,August,0.0,8,2020-08-01,Niger,Africa
+2020,NIGERIA,August,0.0,8,2020-08-01,Nigeria,Africa
+2020,NORWAY,August,0.0,8,2020-08-01,Norway,Europe
+2020,OMAN,August,0.0,8,2020-08-01,Oman,Asia
+2020,PAKISTAN,August,0.0,8,2020-08-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,August,0.0,8,2020-08-01,Palestine,Asia
+2020,PANAMA,August,0.0,8,2020-08-01,Panama,America
+2020,PAPUA NEW GUINEA,August,0.0,8,2020-08-01,Papua New Guinea,Oceania
+2020,PARAGUAY,August,0.0,8,2020-08-01,Paraguay,America
+2020,PERU,August,0.0,8,2020-08-01,Peru,America
+2020,PHILIPPINES,August,0.0,8,2020-08-01,Philippines,Asia
+2020,POLAND,August,0.0,8,2020-08-01,Poland,Europe
+2020,PORTUGAL,August,0.0,8,2020-08-01,Portugal,Europe
+2020,QATAR,August,0.0,8,2020-08-01,Qatar,Asia
+2020,REPUBLIC,August,0.0,8,2020-08-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,August,0.0,8,2020-08-01,Zimbabwe,Africa
+2020,ROMANIA,August,0.0,8,2020-08-01,Romania,Europe
+2020,RUSSIAN FEDERATION,August,0.0,8,2020-08-01,Russia,Europe
+2020,RWANDA,August,0.0,8,2020-08-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,August,0.0,8,2020-08-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,August,0.0,8,2020-08-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,August,0.0,8,2020-08-01,St. Vincent and the Grenadines,America
+2020,SAMOA,August,0.0,8,2020-08-01,Samoa,Oceania
+2020,SAN MARINO,August,0.0,8,2020-08-01,San Marino,Europe
+2020,SAUDI ARABIA,August,0.0,8,2020-08-01,Saudi Arabia,Asia
+2020,SENEGAL,August,0.0,8,2020-08-01,Senegal,Africa
+2020,SERBIA,August,0.0,8,2020-08-01,Serbia,Europe
+2020,SEYCHELLES,August,0.0,8,2020-08-01,Seychelles,Africa
+2020,SIERRA LEONE,August,0.0,8,2020-08-01,Sierra Leone,Africa
+2020,SINGAPORE,August,0.0,8,2020-08-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),August,0.0,8,2020-08-01,Slovakia,Europe
+2020,SLOVENIA,August,0.0,8,2020-08-01,Slovenia,Europe
+2020,SOMALIA,August,0.0,8,2020-08-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,August,0.0,8,2020-08-01,South Africa,Africa
+2020,SOUTH KOREA,August,0.0,8,2020-08-01,South Korea,Asia
+2020,SOUTH SUDAN,August,0.0,8,2020-08-01,South Sudan,Africa
+2020,SPAIN,August,0.0,8,2020-08-01,Spain,Europe
+2020,SUDAN,August,0.0,8,2020-08-01,Sudan,Africa
+2020,SURINAME,August,0.0,8,2020-08-01,Suriname,America
+2020,SWAZILAND,August,0.0,8,2020-08-01,Eswatini,Africa
+2020,SWEDEN,August,0.0,8,2020-08-01,Sweden,Europe
+2020,SWITZERLAND,August,0.0,8,2020-08-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,August,0.0,8,2020-08-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,August,0.0,8,2020-08-01,Taiwan,Asia
+2020,TAJIKISTAN,August,0.0,8,2020-08-01,Tajikistan,Asia
+2020,TANZANIA,August,0.0,8,2020-08-01,Tanzania,Africa
+2020,THAILAND,August,0.0,8,2020-08-01,Thailand,Asia
+2020,TIMOR-LESTE,August,0.0,8,2020-08-01,Timor-Leste,Asia
+2020,TOGO,August,0.0,8,2020-08-01,Togo,Africa
+2020,TONGA,August,0.0,8,2020-08-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,August,0.0,8,2020-08-01,Trinidad and Tobago,America
+2020,TUNISIA,August,0.0,8,2020-08-01,Tunisia,Africa
+2020,TURKEY,August,0.0,8,2020-08-01,Türkiye,Asia
+2020,TURKMENISTAN,August,0.0,8,2020-08-01,Turkmenistan,Asia
+2020,UGANDA,August,0.0,8,2020-08-01,Uganda,Africa
+2020,UKRAINE,August,0.0,8,2020-08-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,August,0.0,8,2020-08-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,August,0.0,8,2020-08-01,United Kingdom,Europe
+2020,UNITED STATES,August,0.0,8,2020-08-01,United States,America
+2020,URUGUAY,August,0.0,8,2020-08-01,Uruguay,America
+2020,UZBEKISTAN,August,0.0,8,2020-08-01,Uzbekistan,Asia
+2020,VANUATU,August,0.0,8,2020-08-01,Vanuatu,Oceania
+2020,VENEZUELA,August,0.0,8,2020-08-01,Venezuela,America
+2020,VIET NAM,August,0.0,8,2020-08-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),August,0.0,8,2020-08-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),August,0.0,8,2020-08-01,Zambia,Africa
+2020,ZIMBABWE,August,0.0,8,2020-08-01,Zimbabwe,Africa
+2020,AFGHANISTAN,September,0.0,9,2020-09-01,Afghanistan,Asia
+2020,ALBANIA,September,0.0,9,2020-09-01,Albania,Europe
+2020,ALGERIA,September,0.0,9,2020-09-01,Algeria,Africa
+2020,ANDORRA,September,0.0,9,2020-09-01,Andorra,Europe
+2020,ANGOLA,September,0.0,9,2020-09-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,September,0.0,9,2020-09-01,Antigua and Barbuda,America
+2020,ARGENTINA,September,0.0,9,2020-09-01,Argentina,America
+2020,ARMENIA,September,0.0,9,2020-09-01,Armenia,Asia
+2020,AUSTRALIA,September,0.0,9,2020-09-01,Australia,Oceania
+2020,AUSTRIA,September,0.0,9,2020-09-01,Austria,Europe
+2020,AZERBAIJAN,September,0.0,9,2020-09-01,Azerbaijan,Asia
+2020,BAHAMAS,September,0.0,9,2020-09-01,Bahamas,America
+2020,BAHRAIN,September,0.0,9,2020-09-01,Bahrain,Asia
+2020,BANGLADESH,September,0.0,9,2020-09-01,Bangladesh,Asia
+2020,BARBADOS,September,0.0,9,2020-09-01,Barbados,America
+2020,BELARUS,September,0.0,9,2020-09-01,Belarus,Europe
+2020,BELGIUM,September,0.0,9,2020-09-01,Belgium,Europe
+2020,BELIZE,September,0.0,9,2020-09-01,Belize,America
+2020,BENIN,September,0.0,9,2020-09-01,Benin,Africa
+2020,BHUTAN,September,0.0,9,2020-09-01,Bhutan,Asia
+2020,BOLIVIA,September,0.0,9,2020-09-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,September,0.0,9,2020-09-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,September,0.0,9,2020-09-01,Botswana,Africa
+2020,BRAZIL,September,0.0,9,2020-09-01,Brazil,America
+2020,BRUNEI DARUSSALAM,September,0.0,9,2020-09-01,Brunei Darussalam,Asia
+2020,BULGARIA,September,0.0,9,2020-09-01,Bulgaria,Europe
+2020,BURKINA FASO,September,0.0,9,2020-09-01,Burkina Faso,Africa
+2020,BURUNDI,September,0.0,9,2020-09-01,Burundi,Africa
+2020,CAMBODIA,September,0.0,9,2020-09-01,Cambodia,Asia
+2020,CAMEROON,September,0.0,9,2020-09-01,Cameroon,Africa
+2020,CANADA,September,0.0,9,2020-09-01,Canada,America
+2020,CAPE VERDE,September,0.0,9,2020-09-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,September,0.0,9,2020-09-01,CENTRAL AFRICAN,Other
+2020,CHAD,September,0.0,9,2020-09-01,Chad,Africa
+2020,CHILE,September,0.0,9,2020-09-01,Chile,America
+2020,CHINA,September,0.0,9,2020-09-01,China,Asia
+2020,COLOMBIA,September,0.0,9,2020-09-01,Colombia,America
+2020,COMOROS,September,0.0,9,2020-09-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,September,0.0,9,2020-09-01,DR Congo,Africa
+2020,COSTA RICA,September,0.0,9,2020-09-01,Costa Rica,America
+2020,COTE DIVOIRE,September,0.0,9,2020-09-01,Côte d'Ivoire,Africa
+2020,CROATIA,September,0.0,9,2020-09-01,Croatia,Europe
+2020,CUBA,September,0.0,9,2020-09-01,Cuba,America
+2020,CYPRUS,September,0.0,9,2020-09-01,Cyprus,Asia
+2020,CZECH REPUBLIC,September,0.0,9,2020-09-01,Czechia,Europe
+2020,DENMARK,September,0.0,9,2020-09-01,Denmark,Europe
+2020,DJIBOUTI,September,0.0,9,2020-09-01,Djibouti,Africa
+2020,DOMINICA,September,0.0,9,2020-09-01,Dominica,America
+2020,DOMINICAN,September,0.0,9,2020-09-01,Dominican Republic,America
+2020,ECUADOR,September,0.0,9,2020-09-01,Ecuador,America
+2020,EGYPT,September,0.0,9,2020-09-01,Egypt,Africa
+2020,EL SALVADOR,September,0.0,9,2020-09-01,El Salvador,America
+2020,EQUATORIAL,September,0.0,9,2020-09-01,EQUATORIAL,Other
+2020,ERITREA,September,0.0,9,2020-09-01,Eritrea,Africa
+2020,ESTONIA,September,0.0,9,2020-09-01,Estonia,Europe
+2020,ETHIOPIA,September,0.0,9,2020-09-01,Ethiopia,Africa
+2020,FIJI,September,0.0,9,2020-09-01,Fiji,Oceania
+2020,FINLAND,September,0.0,9,2020-09-01,Finland,Europe
+2020,FRANCE,September,0.0,9,2020-09-01,France,Europe
+2020,GABON,September,0.0,9,2020-09-01,Gabon,Africa
+2020,"GAMBIA, THE",September,0.0,9,2020-09-01,Gambia,Africa
+2020,GEORGIA,September,0.0,9,2020-09-01,Georgia,Asia
+2020,GERMANY,September,0.0,9,2020-09-01,Germany,Europe
+2020,GHANA,September,0.0,9,2020-09-01,Ghana,Africa
+2020,GREECE,September,0.0,9,2020-09-01,Greece,Europe
+2020,GRENADA,September,0.0,9,2020-09-01,Grenada,America
+2020,GUATEMALA,September,0.0,9,2020-09-01,Guatemala,America
+2020,GUINEA,September,0.0,9,2020-09-01,Guinea,Africa
+2020,GUINEA-BISSAU,September,0.0,9,2020-09-01,Guinea-Bissau,Africa
+2020,GUYANA,September,0.0,9,2020-09-01,Guyana,America
+2020,HAITI,September,0.0,9,2020-09-01,Haiti,America
+2020,HONDURAS,September,0.0,9,2020-09-01,Honduras,America
+2020,HONG KONG,September,0.0,9,2020-09-01,Hong Kong,Asia
+2020,HUNGARY,September,0.0,9,2020-09-01,Hungary,Europe
+2020,ICELAND,September,0.0,9,2020-09-01,Iceland,Europe
+2020,INDIA,September,0.0,9,2020-09-01,India,Asia
+2020,INDONESIA,September,0.0,9,2020-09-01,Indonesia,Asia
+2020,IRAN,September,0.0,9,2020-09-01,Iran,Asia
+2020,IRAQ,September,0.0,9,2020-09-01,Iraq,Asia
+2020,IRELAND,September,0.0,9,2020-09-01,Ireland,Europe
+2020,ISRAEL,September,0.0,9,2020-09-01,Israel,Asia
+2020,ITALY,September,0.0,9,2020-09-01,Italy,Europe
+2020,JAMAICA,September,0.0,9,2020-09-01,Jamaica,America
+2020,JAPAN,September,0.0,9,2020-09-01,Japan,Asia
+2020,JORDAN,September,0.0,9,2020-09-01,Jordan,Asia
+2020,KAZAKHSTAN,September,0.0,9,2020-09-01,Kazakhstan,Asia
+2020,KENYA,September,0.0,9,2020-09-01,Kenya,Africa
+2020,KOSOVAR,September,0.0,9,2020-09-01,KOSOVAR,Other
+2020,KUWAIT,September,0.0,9,2020-09-01,Kuwait,Asia
+2020,KYRGYZSTAN,September,0.0,9,2020-09-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,September,0.0,9,2020-09-01,Laos,Asia
+2020,LATVIA,September,0.0,9,2020-09-01,Latvia,Europe
+2020,LEBANON,September,0.0,9,2020-09-01,Lebanon,Asia
+2020,LESOTHO,September,0.0,9,2020-09-01,Lesotho,Africa
+2020,LIBERIA,September,0.0,9,2020-09-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,September,0.0,9,2020-09-01,Libya,Africa
+2020,LIECHTENSTEIN,September,0.0,9,2020-09-01,Liechtenstein,Europe
+2020,LITHUANIA,September,0.0,9,2020-09-01,Lithuania,Europe
+2020,LUXEMBOURG,September,0.0,9,2020-09-01,Luxembourg,Europe
+2020,MACEDONIA,September,0.0,9,2020-09-01,North Macedonia,Europe
+2020,MADAGASCAR,September,0.0,9,2020-09-01,Madagascar,Africa
+2020,MALAWI,September,0.0,9,2020-09-01,Malawi,Africa
+2020,MALAYSIA,September,0.0,9,2020-09-01,Malaysia,Asia
+2020,MALDIVES,September,0.0,9,2020-09-01,Maldives,Asia
+2020,MALI,September,0.0,9,2020-09-01,Mali,Africa
+2020,MALTA,September,0.0,9,2020-09-01,Malta,Europe
+2020,MAURITANIA,September,0.0,9,2020-09-01,Mauritania,Africa
+2020,MAURITIUS,September,0.0,9,2020-09-01,Mauritius,Africa
+2020,MEXICO,September,0.0,9,2020-09-01,Mexico,America
+2020,MOLDOVA,September,0.0,9,2020-09-01,Moldova,Europe
+2020,MONACO,September,0.0,9,2020-09-01,Monaco,Europe
+2020,MONGOLIA,September,0.0,9,2020-09-01,Mongolia,Asia
+2020,MONTENEGRO,September,0.0,9,2020-09-01,Montenegro,Europe
+2020,MOROCCO,September,0.0,9,2020-09-01,Morocco,Africa
+2020,MOZAMBIQUE,September,0.0,9,2020-09-01,Mozambique,Africa
+2020,MYANMAR,September,0.0,9,2020-09-01,Myanmar,Asia
+2020,NAMIBIA,September,0.0,9,2020-09-01,Namibia,Africa
+2020,NAURU,September,0.0,9,2020-09-01,Nauru,Oceania
+2020,NEPAL,September,0.0,9,2020-09-01,Nepal,Asia
+2020,NETHERLANDS,September,0.0,9,2020-09-01,Netherlands,Europe
+2020,NEW ZEALAND,September,0.0,9,2020-09-01,New Zealand,Oceania
+2020,NIGER,September,0.0,9,2020-09-01,Niger,Africa
+2020,NIGERIA,September,0.0,9,2020-09-01,Nigeria,Africa
+2020,NORWAY,September,0.0,9,2020-09-01,Norway,Europe
+2020,OMAN,September,0.0,9,2020-09-01,Oman,Asia
+2020,PAKISTAN,September,0.0,9,2020-09-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,September,0.0,9,2020-09-01,Palestine,Asia
+2020,PANAMA,September,0.0,9,2020-09-01,Panama,America
+2020,PAPUA NEW GUINEA,September,0.0,9,2020-09-01,Papua New Guinea,Oceania
+2020,PARAGUAY,September,0.0,9,2020-09-01,Paraguay,America
+2020,PERU,September,0.0,9,2020-09-01,Peru,America
+2020,PHILIPPINES,September,0.0,9,2020-09-01,Philippines,Asia
+2020,POLAND,September,0.0,9,2020-09-01,Poland,Europe
+2020,PORTUGAL,September,0.0,9,2020-09-01,Portugal,Europe
+2020,QATAR,September,0.0,9,2020-09-01,Qatar,Asia
+2020,REPUBLIC,September,0.0,9,2020-09-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,September,0.0,9,2020-09-01,Zimbabwe,Africa
+2020,ROMANIA,September,0.0,9,2020-09-01,Romania,Europe
+2020,RUSSIAN FEDERATION,September,0.0,9,2020-09-01,Russia,Europe
+2020,RWANDA,September,0.0,9,2020-09-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,September,0.0,9,2020-09-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,September,0.0,9,2020-09-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,September,0.0,9,2020-09-01,St. Vincent and the Grenadines,America
+2020,SAMOA,September,0.0,9,2020-09-01,Samoa,Oceania
+2020,SAN MARINO,September,0.0,9,2020-09-01,San Marino,Europe
+2020,SAUDI ARABIA,September,0.0,9,2020-09-01,Saudi Arabia,Asia
+2020,SENEGAL,September,0.0,9,2020-09-01,Senegal,Africa
+2020,SERBIA,September,0.0,9,2020-09-01,Serbia,Europe
+2020,SEYCHELLES,September,0.0,9,2020-09-01,Seychelles,Africa
+2020,SIERRA LEONE,September,0.0,9,2020-09-01,Sierra Leone,Africa
+2020,SINGAPORE,September,0.0,9,2020-09-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),September,0.0,9,2020-09-01,Slovakia,Europe
+2020,SLOVENIA,September,0.0,9,2020-09-01,Slovenia,Europe
+2020,SOMALIA,September,0.0,9,2020-09-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,September,0.0,9,2020-09-01,South Africa,Africa
+2020,SOUTH KOREA,September,0.0,9,2020-09-01,South Korea,Asia
+2020,SOUTH SUDAN,September,0.0,9,2020-09-01,South Sudan,Africa
+2020,SPAIN,September,0.0,9,2020-09-01,Spain,Europe
+2020,SUDAN,September,0.0,9,2020-09-01,Sudan,Africa
+2020,SURINAME,September,0.0,9,2020-09-01,Suriname,America
+2020,SWAZILAND,September,0.0,9,2020-09-01,Eswatini,Africa
+2020,SWEDEN,September,0.0,9,2020-09-01,Sweden,Europe
+2020,SWITZERLAND,September,0.0,9,2020-09-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,September,0.0,9,2020-09-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,September,0.0,9,2020-09-01,Taiwan,Asia
+2020,TAJIKISTAN,September,0.0,9,2020-09-01,Tajikistan,Asia
+2020,TANZANIA,September,0.0,9,2020-09-01,Tanzania,Africa
+2020,THAILAND,September,0.0,9,2020-09-01,Thailand,Asia
+2020,TIMOR-LESTE,September,0.0,9,2020-09-01,Timor-Leste,Asia
+2020,TOGO,September,0.0,9,2020-09-01,Togo,Africa
+2020,TONGA,September,0.0,9,2020-09-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,September,0.0,9,2020-09-01,Trinidad and Tobago,America
+2020,TUNISIA,September,0.0,9,2020-09-01,Tunisia,Africa
+2020,TURKEY,September,0.0,9,2020-09-01,Türkiye,Asia
+2020,TURKMENISTAN,September,0.0,9,2020-09-01,Turkmenistan,Asia
+2020,UGANDA,September,0.0,9,2020-09-01,Uganda,Africa
+2020,UKRAINE,September,0.0,9,2020-09-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,September,0.0,9,2020-09-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,September,0.0,9,2020-09-01,United Kingdom,Europe
+2020,UNITED STATES,September,0.0,9,2020-09-01,United States,America
+2020,URUGUAY,September,0.0,9,2020-09-01,Uruguay,America
+2020,UZBEKISTAN,September,0.0,9,2020-09-01,Uzbekistan,Asia
+2020,VANUATU,September,0.0,9,2020-09-01,Vanuatu,Oceania
+2020,VENEZUELA,September,0.0,9,2020-09-01,Venezuela,America
+2020,VIET NAM,September,0.0,9,2020-09-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),September,0.0,9,2020-09-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),September,0.0,9,2020-09-01,Zambia,Africa
+2020,ZIMBABWE,September,0.0,9,2020-09-01,Zimbabwe,Africa
+2020,AFGHANISTAN,October,0.0,10,2020-10-01,Afghanistan,Asia
+2020,ALBANIA,October,0.0,10,2020-10-01,Albania,Europe
+2020,ALGERIA,October,0.0,10,2020-10-01,Algeria,Africa
+2020,ANDORRA,October,0.0,10,2020-10-01,Andorra,Europe
+2020,ANGOLA,October,0.0,10,2020-10-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,October,0.0,10,2020-10-01,Antigua and Barbuda,America
+2020,ARGENTINA,October,0.0,10,2020-10-01,Argentina,America
+2020,ARMENIA,October,0.0,10,2020-10-01,Armenia,Asia
+2020,AUSTRALIA,October,0.0,10,2020-10-01,Australia,Oceania
+2020,AUSTRIA,October,0.0,10,2020-10-01,Austria,Europe
+2020,AZERBAIJAN,October,0.0,10,2020-10-01,Azerbaijan,Asia
+2020,BAHAMAS,October,0.0,10,2020-10-01,Bahamas,America
+2020,BAHRAIN,October,0.0,10,2020-10-01,Bahrain,Asia
+2020,BANGLADESH,October,0.0,10,2020-10-01,Bangladesh,Asia
+2020,BARBADOS,October,0.0,10,2020-10-01,Barbados,America
+2020,BELARUS,October,0.0,10,2020-10-01,Belarus,Europe
+2020,BELGIUM,October,0.0,10,2020-10-01,Belgium,Europe
+2020,BELIZE,October,0.0,10,2020-10-01,Belize,America
+2020,BENIN,October,0.0,10,2020-10-01,Benin,Africa
+2020,BHUTAN,October,0.0,10,2020-10-01,Bhutan,Asia
+2020,BOLIVIA,October,0.0,10,2020-10-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,October,0.0,10,2020-10-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,October,0.0,10,2020-10-01,Botswana,Africa
+2020,BRAZIL,October,0.0,10,2020-10-01,Brazil,America
+2020,BRUNEI DARUSSALAM,October,0.0,10,2020-10-01,Brunei Darussalam,Asia
+2020,BULGARIA,October,0.0,10,2020-10-01,Bulgaria,Europe
+2020,BURKINA FASO,October,0.0,10,2020-10-01,Burkina Faso,Africa
+2020,BURUNDI,October,0.0,10,2020-10-01,Burundi,Africa
+2020,CAMBODIA,October,0.0,10,2020-10-01,Cambodia,Asia
+2020,CAMEROON,October,0.0,10,2020-10-01,Cameroon,Africa
+2020,CANADA,October,0.0,10,2020-10-01,Canada,America
+2020,CAPE VERDE,October,0.0,10,2020-10-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,October,0.0,10,2020-10-01,CENTRAL AFRICAN,Other
+2020,CHAD,October,0.0,10,2020-10-01,Chad,Africa
+2020,CHILE,October,0.0,10,2020-10-01,Chile,America
+2020,CHINA,October,0.0,10,2020-10-01,China,Asia
+2020,COLOMBIA,October,0.0,10,2020-10-01,Colombia,America
+2020,COMOROS,October,0.0,10,2020-10-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,October,0.0,10,2020-10-01,DR Congo,Africa
+2020,COSTA RICA,October,0.0,10,2020-10-01,Costa Rica,America
+2020,COTE DIVOIRE,October,0.0,10,2020-10-01,Côte d'Ivoire,Africa
+2020,CROATIA,October,0.0,10,2020-10-01,Croatia,Europe
+2020,CUBA,October,0.0,10,2020-10-01,Cuba,America
+2020,CYPRUS,October,0.0,10,2020-10-01,Cyprus,Asia
+2020,CZECH REPUBLIC,October,0.0,10,2020-10-01,Czechia,Europe
+2020,DENMARK,October,0.0,10,2020-10-01,Denmark,Europe
+2020,DJIBOUTI,October,0.0,10,2020-10-01,Djibouti,Africa
+2020,DOMINICA,October,0.0,10,2020-10-01,Dominica,America
+2020,DOMINICAN,October,0.0,10,2020-10-01,Dominican Republic,America
+2020,ECUADOR,October,0.0,10,2020-10-01,Ecuador,America
+2020,EGYPT,October,0.0,10,2020-10-01,Egypt,Africa
+2020,EL SALVADOR,October,0.0,10,2020-10-01,El Salvador,America
+2020,EQUATORIAL,October,0.0,10,2020-10-01,EQUATORIAL,Other
+2020,ERITREA,October,0.0,10,2020-10-01,Eritrea,Africa
+2020,ESTONIA,October,0.0,10,2020-10-01,Estonia,Europe
+2020,ETHIOPIA,October,0.0,10,2020-10-01,Ethiopia,Africa
+2020,FIJI,October,0.0,10,2020-10-01,Fiji,Oceania
+2020,FINLAND,October,0.0,10,2020-10-01,Finland,Europe
+2020,FRANCE,October,0.0,10,2020-10-01,France,Europe
+2020,GABON,October,0.0,10,2020-10-01,Gabon,Africa
+2020,"GAMBIA, THE",October,0.0,10,2020-10-01,Gambia,Africa
+2020,GEORGIA,October,0.0,10,2020-10-01,Georgia,Asia
+2020,GERMANY,October,0.0,10,2020-10-01,Germany,Europe
+2020,GHANA,October,0.0,10,2020-10-01,Ghana,Africa
+2020,GREECE,October,0.0,10,2020-10-01,Greece,Europe
+2020,GRENADA,October,0.0,10,2020-10-01,Grenada,America
+2020,GUATEMALA,October,0.0,10,2020-10-01,Guatemala,America
+2020,GUINEA,October,0.0,10,2020-10-01,Guinea,Africa
+2020,GUINEA-BISSAU,October,0.0,10,2020-10-01,Guinea-Bissau,Africa
+2020,GUYANA,October,0.0,10,2020-10-01,Guyana,America
+2020,HAITI,October,0.0,10,2020-10-01,Haiti,America
+2020,HONDURAS,October,0.0,10,2020-10-01,Honduras,America
+2020,HONG KONG,October,0.0,10,2020-10-01,Hong Kong,Asia
+2020,HUNGARY,October,0.0,10,2020-10-01,Hungary,Europe
+2020,ICELAND,October,0.0,10,2020-10-01,Iceland,Europe
+2020,INDIA,October,0.0,10,2020-10-01,India,Asia
+2020,INDONESIA,October,0.0,10,2020-10-01,Indonesia,Asia
+2020,IRAN,October,0.0,10,2020-10-01,Iran,Asia
+2020,IRAQ,October,0.0,10,2020-10-01,Iraq,Asia
+2020,IRELAND,October,0.0,10,2020-10-01,Ireland,Europe
+2020,ISRAEL,October,0.0,10,2020-10-01,Israel,Asia
+2020,ITALY,October,0.0,10,2020-10-01,Italy,Europe
+2020,JAMAICA,October,0.0,10,2020-10-01,Jamaica,America
+2020,JAPAN,October,0.0,10,2020-10-01,Japan,Asia
+2020,JORDAN,October,0.0,10,2020-10-01,Jordan,Asia
+2020,KAZAKHSTAN,October,0.0,10,2020-10-01,Kazakhstan,Asia
+2020,KENYA,October,0.0,10,2020-10-01,Kenya,Africa
+2020,KOSOVAR,October,0.0,10,2020-10-01,KOSOVAR,Other
+2020,KUWAIT,October,0.0,10,2020-10-01,Kuwait,Asia
+2020,KYRGYZSTAN,October,0.0,10,2020-10-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,October,0.0,10,2020-10-01,Laos,Asia
+2020,LATVIA,October,0.0,10,2020-10-01,Latvia,Europe
+2020,LEBANON,October,0.0,10,2020-10-01,Lebanon,Asia
+2020,LESOTHO,October,0.0,10,2020-10-01,Lesotho,Africa
+2020,LIBERIA,October,0.0,10,2020-10-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,October,0.0,10,2020-10-01,Libya,Africa
+2020,LIECHTENSTEIN,October,0.0,10,2020-10-01,Liechtenstein,Europe
+2020,LITHUANIA,October,0.0,10,2020-10-01,Lithuania,Europe
+2020,LUXEMBOURG,October,0.0,10,2020-10-01,Luxembourg,Europe
+2020,MACEDONIA,October,0.0,10,2020-10-01,North Macedonia,Europe
+2020,MADAGASCAR,October,0.0,10,2020-10-01,Madagascar,Africa
+2020,MALAWI,October,0.0,10,2020-10-01,Malawi,Africa
+2020,MALAYSIA,October,0.0,10,2020-10-01,Malaysia,Asia
+2020,MALDIVES,October,0.0,10,2020-10-01,Maldives,Asia
+2020,MALI,October,0.0,10,2020-10-01,Mali,Africa
+2020,MALTA,October,0.0,10,2020-10-01,Malta,Europe
+2020,MAURITANIA,October,0.0,10,2020-10-01,Mauritania,Africa
+2020,MAURITIUS,October,0.0,10,2020-10-01,Mauritius,Africa
+2020,MEXICO,October,0.0,10,2020-10-01,Mexico,America
+2020,MOLDOVA,October,0.0,10,2020-10-01,Moldova,Europe
+2020,MONACO,October,0.0,10,2020-10-01,Monaco,Europe
+2020,MONGOLIA,October,0.0,10,2020-10-01,Mongolia,Asia
+2020,MONTENEGRO,October,0.0,10,2020-10-01,Montenegro,Europe
+2020,MOROCCO,October,0.0,10,2020-10-01,Morocco,Africa
+2020,MOZAMBIQUE,October,0.0,10,2020-10-01,Mozambique,Africa
+2020,MYANMAR,October,0.0,10,2020-10-01,Myanmar,Asia
+2020,NAMIBIA,October,0.0,10,2020-10-01,Namibia,Africa
+2020,NAURU,October,0.0,10,2020-10-01,Nauru,Oceania
+2020,NEPAL,October,0.0,10,2020-10-01,Nepal,Asia
+2020,NETHERLANDS,October,0.0,10,2020-10-01,Netherlands,Europe
+2020,NEW ZEALAND,October,0.0,10,2020-10-01,New Zealand,Oceania
+2020,NIGER,October,0.0,10,2020-10-01,Niger,Africa
+2020,NIGERIA,October,0.0,10,2020-10-01,Nigeria,Africa
+2020,NORWAY,October,0.0,10,2020-10-01,Norway,Europe
+2020,OMAN,October,0.0,10,2020-10-01,Oman,Asia
+2020,PAKISTAN,October,0.0,10,2020-10-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,October,0.0,10,2020-10-01,Palestine,Asia
+2020,PANAMA,October,0.0,10,2020-10-01,Panama,America
+2020,PAPUA NEW GUINEA,October,0.0,10,2020-10-01,Papua New Guinea,Oceania
+2020,PARAGUAY,October,0.0,10,2020-10-01,Paraguay,America
+2020,PERU,October,0.0,10,2020-10-01,Peru,America
+2020,PHILIPPINES,October,0.0,10,2020-10-01,Philippines,Asia
+2020,POLAND,October,0.0,10,2020-10-01,Poland,Europe
+2020,PORTUGAL,October,0.0,10,2020-10-01,Portugal,Europe
+2020,QATAR,October,0.0,10,2020-10-01,Qatar,Asia
+2020,REPUBLIC,October,0.0,10,2020-10-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,October,0.0,10,2020-10-01,Zimbabwe,Africa
+2020,ROMANIA,October,0.0,10,2020-10-01,Romania,Europe
+2020,RUSSIAN FEDERATION,October,0.0,10,2020-10-01,Russia,Europe
+2020,RWANDA,October,0.0,10,2020-10-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,October,0.0,10,2020-10-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,October,0.0,10,2020-10-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,October,0.0,10,2020-10-01,St. Vincent and the Grenadines,America
+2020,SAMOA,October,0.0,10,2020-10-01,Samoa,Oceania
+2020,SAN MARINO,October,0.0,10,2020-10-01,San Marino,Europe
+2020,SAUDI ARABIA,October,0.0,10,2020-10-01,Saudi Arabia,Asia
+2020,SENEGAL,October,0.0,10,2020-10-01,Senegal,Africa
+2020,SERBIA,October,0.0,10,2020-10-01,Serbia,Europe
+2020,SEYCHELLES,October,0.0,10,2020-10-01,Seychelles,Africa
+2020,SIERRA LEONE,October,0.0,10,2020-10-01,Sierra Leone,Africa
+2020,SINGAPORE,October,0.0,10,2020-10-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),October,0.0,10,2020-10-01,Slovakia,Europe
+2020,SLOVENIA,October,0.0,10,2020-10-01,Slovenia,Europe
+2020,SOMALIA,October,0.0,10,2020-10-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,October,0.0,10,2020-10-01,South Africa,Africa
+2020,SOUTH KOREA,October,0.0,10,2020-10-01,South Korea,Asia
+2020,SOUTH SUDAN,October,0.0,10,2020-10-01,South Sudan,Africa
+2020,SPAIN,October,0.0,10,2020-10-01,Spain,Europe
+2020,SUDAN,October,0.0,10,2020-10-01,Sudan,Africa
+2020,SURINAME,October,0.0,10,2020-10-01,Suriname,America
+2020,SWAZILAND,October,0.0,10,2020-10-01,Eswatini,Africa
+2020,SWEDEN,October,0.0,10,2020-10-01,Sweden,Europe
+2020,SWITZERLAND,October,0.0,10,2020-10-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,October,0.0,10,2020-10-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,October,0.0,10,2020-10-01,Taiwan,Asia
+2020,TAJIKISTAN,October,0.0,10,2020-10-01,Tajikistan,Asia
+2020,TANZANIA,October,0.0,10,2020-10-01,Tanzania,Africa
+2020,THAILAND,October,0.0,10,2020-10-01,Thailand,Asia
+2020,TIMOR-LESTE,October,0.0,10,2020-10-01,Timor-Leste,Asia
+2020,TOGO,October,0.0,10,2020-10-01,Togo,Africa
+2020,TONGA,October,0.0,10,2020-10-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,October,0.0,10,2020-10-01,Trinidad and Tobago,America
+2020,TUNISIA,October,0.0,10,2020-10-01,Tunisia,Africa
+2020,TURKEY,October,0.0,10,2020-10-01,Türkiye,Asia
+2020,TURKMENISTAN,October,0.0,10,2020-10-01,Turkmenistan,Asia
+2020,UGANDA,October,0.0,10,2020-10-01,Uganda,Africa
+2020,UKRAINE,October,0.0,10,2020-10-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,October,0.0,10,2020-10-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,October,0.0,10,2020-10-01,United Kingdom,Europe
+2020,UNITED STATES,October,0.0,10,2020-10-01,United States,America
+2020,URUGUAY,October,0.0,10,2020-10-01,Uruguay,America
+2020,UZBEKISTAN,October,0.0,10,2020-10-01,Uzbekistan,Asia
+2020,VANUATU,October,0.0,10,2020-10-01,Vanuatu,Oceania
+2020,VENEZUELA,October,0.0,10,2020-10-01,Venezuela,America
+2020,VIET NAM,October,0.0,10,2020-10-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),October,0.0,10,2020-10-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),October,0.0,10,2020-10-01,Zambia,Africa
+2020,ZIMBABWE,October,0.0,10,2020-10-01,Zimbabwe,Africa
+2020,AFGHANISTAN,November,0.0,11,2020-11-01,Afghanistan,Asia
+2020,ALBANIA,November,0.0,11,2020-11-01,Albania,Europe
+2020,ALGERIA,November,0.0,11,2020-11-01,Algeria,Africa
+2020,ANDORRA,November,0.0,11,2020-11-01,Andorra,Europe
+2020,ANGOLA,November,0.0,11,2020-11-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,November,0.0,11,2020-11-01,Antigua and Barbuda,America
+2020,ARGENTINA,November,0.0,11,2020-11-01,Argentina,America
+2020,ARMENIA,November,0.0,11,2020-11-01,Armenia,Asia
+2020,AUSTRALIA,November,0.0,11,2020-11-01,Australia,Oceania
+2020,AUSTRIA,November,0.0,11,2020-11-01,Austria,Europe
+2020,AZERBAIJAN,November,0.0,11,2020-11-01,Azerbaijan,Asia
+2020,BAHAMAS,November,0.0,11,2020-11-01,Bahamas,America
+2020,BAHRAIN,November,0.0,11,2020-11-01,Bahrain,Asia
+2020,BANGLADESH,November,0.0,11,2020-11-01,Bangladesh,Asia
+2020,BARBADOS,November,0.0,11,2020-11-01,Barbados,America
+2020,BELARUS,November,0.0,11,2020-11-01,Belarus,Europe
+2020,BELGIUM,November,0.0,11,2020-11-01,Belgium,Europe
+2020,BELIZE,November,0.0,11,2020-11-01,Belize,America
+2020,BENIN,November,0.0,11,2020-11-01,Benin,Africa
+2020,BHUTAN,November,0.0,11,2020-11-01,Bhutan,Asia
+2020,BOLIVIA,November,0.0,11,2020-11-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,November,0.0,11,2020-11-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,November,0.0,11,2020-11-01,Botswana,Africa
+2020,BRAZIL,November,0.0,11,2020-11-01,Brazil,America
+2020,BRUNEI DARUSSALAM,November,0.0,11,2020-11-01,Brunei Darussalam,Asia
+2020,BULGARIA,November,0.0,11,2020-11-01,Bulgaria,Europe
+2020,BURKINA FASO,November,0.0,11,2020-11-01,Burkina Faso,Africa
+2020,BURUNDI,November,0.0,11,2020-11-01,Burundi,Africa
+2020,CAMBODIA,November,0.0,11,2020-11-01,Cambodia,Asia
+2020,CAMEROON,November,0.0,11,2020-11-01,Cameroon,Africa
+2020,CANADA,November,0.0,11,2020-11-01,Canada,America
+2020,CAPE VERDE,November,0.0,11,2020-11-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,November,0.0,11,2020-11-01,CENTRAL AFRICAN,Other
+2020,CHAD,November,0.0,11,2020-11-01,Chad,Africa
+2020,CHILE,November,0.0,11,2020-11-01,Chile,America
+2020,CHINA,November,0.0,11,2020-11-01,China,Asia
+2020,COLOMBIA,November,0.0,11,2020-11-01,Colombia,America
+2020,COMOROS,November,0.0,11,2020-11-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,November,0.0,11,2020-11-01,DR Congo,Africa
+2020,COSTA RICA,November,0.0,11,2020-11-01,Costa Rica,America
+2020,COTE DIVOIRE,November,0.0,11,2020-11-01,Côte d'Ivoire,Africa
+2020,CROATIA,November,0.0,11,2020-11-01,Croatia,Europe
+2020,CUBA,November,0.0,11,2020-11-01,Cuba,America
+2020,CYPRUS,November,0.0,11,2020-11-01,Cyprus,Asia
+2020,CZECH REPUBLIC,November,0.0,11,2020-11-01,Czechia,Europe
+2020,DENMARK,November,0.0,11,2020-11-01,Denmark,Europe
+2020,DJIBOUTI,November,0.0,11,2020-11-01,Djibouti,Africa
+2020,DOMINICA,November,0.0,11,2020-11-01,Dominica,America
+2020,DOMINICAN,November,0.0,11,2020-11-01,Dominican Republic,America
+2020,ECUADOR,November,0.0,11,2020-11-01,Ecuador,America
+2020,EGYPT,November,0.0,11,2020-11-01,Egypt,Africa
+2020,EL SALVADOR,November,0.0,11,2020-11-01,El Salvador,America
+2020,EQUATORIAL,November,0.0,11,2020-11-01,EQUATORIAL,Other
+2020,ERITREA,November,0.0,11,2020-11-01,Eritrea,Africa
+2020,ESTONIA,November,0.0,11,2020-11-01,Estonia,Europe
+2020,ETHIOPIA,November,0.0,11,2020-11-01,Ethiopia,Africa
+2020,FIJI,November,0.0,11,2020-11-01,Fiji,Oceania
+2020,FINLAND,November,0.0,11,2020-11-01,Finland,Europe
+2020,FRANCE,November,0.0,11,2020-11-01,France,Europe
+2020,GABON,November,0.0,11,2020-11-01,Gabon,Africa
+2020,"GAMBIA, THE",November,0.0,11,2020-11-01,Gambia,Africa
+2020,GEORGIA,November,0.0,11,2020-11-01,Georgia,Asia
+2020,GERMANY,November,0.0,11,2020-11-01,Germany,Europe
+2020,GHANA,November,0.0,11,2020-11-01,Ghana,Africa
+2020,GREECE,November,0.0,11,2020-11-01,Greece,Europe
+2020,GRENADA,November,0.0,11,2020-11-01,Grenada,America
+2020,GUATEMALA,November,0.0,11,2020-11-01,Guatemala,America
+2020,GUINEA,November,0.0,11,2020-11-01,Guinea,Africa
+2020,GUINEA-BISSAU,November,0.0,11,2020-11-01,Guinea-Bissau,Africa
+2020,GUYANA,November,0.0,11,2020-11-01,Guyana,America
+2020,HAITI,November,0.0,11,2020-11-01,Haiti,America
+2020,HONDURAS,November,0.0,11,2020-11-01,Honduras,America
+2020,HONG KONG,November,0.0,11,2020-11-01,Hong Kong,Asia
+2020,HUNGARY,November,0.0,11,2020-11-01,Hungary,Europe
+2020,ICELAND,November,0.0,11,2020-11-01,Iceland,Europe
+2020,INDIA,November,0.0,11,2020-11-01,India,Asia
+2020,INDONESIA,November,0.0,11,2020-11-01,Indonesia,Asia
+2020,IRAN,November,0.0,11,2020-11-01,Iran,Asia
+2020,IRAQ,November,0.0,11,2020-11-01,Iraq,Asia
+2020,IRELAND,November,0.0,11,2020-11-01,Ireland,Europe
+2020,ISRAEL,November,0.0,11,2020-11-01,Israel,Asia
+2020,ITALY,November,0.0,11,2020-11-01,Italy,Europe
+2020,JAMAICA,November,0.0,11,2020-11-01,Jamaica,America
+2020,JAPAN,November,0.0,11,2020-11-01,Japan,Asia
+2020,JORDAN,November,0.0,11,2020-11-01,Jordan,Asia
+2020,KAZAKHSTAN,November,0.0,11,2020-11-01,Kazakhstan,Asia
+2020,KENYA,November,0.0,11,2020-11-01,Kenya,Africa
+2020,KOSOVAR,November,0.0,11,2020-11-01,KOSOVAR,Other
+2020,KUWAIT,November,0.0,11,2020-11-01,Kuwait,Asia
+2020,KYRGYZSTAN,November,0.0,11,2020-11-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,November,0.0,11,2020-11-01,Laos,Asia
+2020,LATVIA,November,0.0,11,2020-11-01,Latvia,Europe
+2020,LEBANON,November,0.0,11,2020-11-01,Lebanon,Asia
+2020,LESOTHO,November,0.0,11,2020-11-01,Lesotho,Africa
+2020,LIBERIA,November,0.0,11,2020-11-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,November,0.0,11,2020-11-01,Libya,Africa
+2020,LIECHTENSTEIN,November,0.0,11,2020-11-01,Liechtenstein,Europe
+2020,LITHUANIA,November,0.0,11,2020-11-01,Lithuania,Europe
+2020,LUXEMBOURG,November,0.0,11,2020-11-01,Luxembourg,Europe
+2020,MACEDONIA,November,0.0,11,2020-11-01,North Macedonia,Europe
+2020,MADAGASCAR,November,0.0,11,2020-11-01,Madagascar,Africa
+2020,MALAWI,November,0.0,11,2020-11-01,Malawi,Africa
+2020,MALAYSIA,November,0.0,11,2020-11-01,Malaysia,Asia
+2020,MALDIVES,November,0.0,11,2020-11-01,Maldives,Asia
+2020,MALI,November,0.0,11,2020-11-01,Mali,Africa
+2020,MALTA,November,0.0,11,2020-11-01,Malta,Europe
+2020,MAURITANIA,November,0.0,11,2020-11-01,Mauritania,Africa
+2020,MAURITIUS,November,0.0,11,2020-11-01,Mauritius,Africa
+2020,MEXICO,November,0.0,11,2020-11-01,Mexico,America
+2020,MOLDOVA,November,0.0,11,2020-11-01,Moldova,Europe
+2020,MONACO,November,0.0,11,2020-11-01,Monaco,Europe
+2020,MONGOLIA,November,0.0,11,2020-11-01,Mongolia,Asia
+2020,MONTENEGRO,November,0.0,11,2020-11-01,Montenegro,Europe
+2020,MOROCCO,November,0.0,11,2020-11-01,Morocco,Africa
+2020,MOZAMBIQUE,November,0.0,11,2020-11-01,Mozambique,Africa
+2020,MYANMAR,November,0.0,11,2020-11-01,Myanmar,Asia
+2020,NAMIBIA,November,0.0,11,2020-11-01,Namibia,Africa
+2020,NAURU,November,0.0,11,2020-11-01,Nauru,Oceania
+2020,NEPAL,November,0.0,11,2020-11-01,Nepal,Asia
+2020,NETHERLANDS,November,0.0,11,2020-11-01,Netherlands,Europe
+2020,NEW ZEALAND,November,0.0,11,2020-11-01,New Zealand,Oceania
+2020,NIGER,November,0.0,11,2020-11-01,Niger,Africa
+2020,NIGERIA,November,0.0,11,2020-11-01,Nigeria,Africa
+2020,NORWAY,November,0.0,11,2020-11-01,Norway,Europe
+2020,OMAN,November,0.0,11,2020-11-01,Oman,Asia
+2020,PAKISTAN,November,0.0,11,2020-11-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,November,0.0,11,2020-11-01,Palestine,Asia
+2020,PANAMA,November,0.0,11,2020-11-01,Panama,America
+2020,PAPUA NEW GUINEA,November,0.0,11,2020-11-01,Papua New Guinea,Oceania
+2020,PARAGUAY,November,0.0,11,2020-11-01,Paraguay,America
+2020,PERU,November,0.0,11,2020-11-01,Peru,America
+2020,PHILIPPINES,November,0.0,11,2020-11-01,Philippines,Asia
+2020,POLAND,November,0.0,11,2020-11-01,Poland,Europe
+2020,PORTUGAL,November,0.0,11,2020-11-01,Portugal,Europe
+2020,QATAR,November,0.0,11,2020-11-01,Qatar,Asia
+2020,REPUBLIC,November,0.0,11,2020-11-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,November,0.0,11,2020-11-01,Zimbabwe,Africa
+2020,ROMANIA,November,0.0,11,2020-11-01,Romania,Europe
+2020,RUSSIAN FEDERATION,November,0.0,11,2020-11-01,Russia,Europe
+2020,RWANDA,November,0.0,11,2020-11-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,November,0.0,11,2020-11-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,November,0.0,11,2020-11-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,November,0.0,11,2020-11-01,St. Vincent and the Grenadines,America
+2020,SAMOA,November,0.0,11,2020-11-01,Samoa,Oceania
+2020,SAN MARINO,November,0.0,11,2020-11-01,San Marino,Europe
+2020,SAUDI ARABIA,November,0.0,11,2020-11-01,Saudi Arabia,Asia
+2020,SENEGAL,November,0.0,11,2020-11-01,Senegal,Africa
+2020,SERBIA,November,0.0,11,2020-11-01,Serbia,Europe
+2020,SEYCHELLES,November,0.0,11,2020-11-01,Seychelles,Africa
+2020,SIERRA LEONE,November,0.0,11,2020-11-01,Sierra Leone,Africa
+2020,SINGAPORE,November,0.0,11,2020-11-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),November,0.0,11,2020-11-01,Slovakia,Europe
+2020,SLOVENIA,November,0.0,11,2020-11-01,Slovenia,Europe
+2020,SOMALIA,November,0.0,11,2020-11-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,November,0.0,11,2020-11-01,South Africa,Africa
+2020,SOUTH KOREA,November,0.0,11,2020-11-01,South Korea,Asia
+2020,SOUTH SUDAN,November,0.0,11,2020-11-01,South Sudan,Africa
+2020,SPAIN,November,0.0,11,2020-11-01,Spain,Europe
+2020,SUDAN,November,0.0,11,2020-11-01,Sudan,Africa
+2020,SURINAME,November,0.0,11,2020-11-01,Suriname,America
+2020,SWAZILAND,November,0.0,11,2020-11-01,Eswatini,Africa
+2020,SWEDEN,November,0.0,11,2020-11-01,Sweden,Europe
+2020,SWITZERLAND,November,0.0,11,2020-11-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,November,0.0,11,2020-11-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,November,0.0,11,2020-11-01,Taiwan,Asia
+2020,TAJIKISTAN,November,0.0,11,2020-11-01,Tajikistan,Asia
+2020,TANZANIA,November,0.0,11,2020-11-01,Tanzania,Africa
+2020,THAILAND,November,0.0,11,2020-11-01,Thailand,Asia
+2020,TIMOR-LESTE,November,0.0,11,2020-11-01,Timor-Leste,Asia
+2020,TOGO,November,0.0,11,2020-11-01,Togo,Africa
+2020,TONGA,November,0.0,11,2020-11-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,November,0.0,11,2020-11-01,Trinidad and Tobago,America
+2020,TUNISIA,November,0.0,11,2020-11-01,Tunisia,Africa
+2020,TURKEY,November,0.0,11,2020-11-01,Türkiye,Asia
+2020,TURKMENISTAN,November,0.0,11,2020-11-01,Turkmenistan,Asia
+2020,UGANDA,November,0.0,11,2020-11-01,Uganda,Africa
+2020,UKRAINE,November,0.0,11,2020-11-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,November,0.0,11,2020-11-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,November,0.0,11,2020-11-01,United Kingdom,Europe
+2020,UNITED STATES,November,0.0,11,2020-11-01,United States,America
+2020,URUGUAY,November,0.0,11,2020-11-01,Uruguay,America
+2020,UZBEKISTAN,November,0.0,11,2020-11-01,Uzbekistan,Asia
+2020,VANUATU,November,0.0,11,2020-11-01,Vanuatu,Oceania
+2020,VENEZUELA,November,0.0,11,2020-11-01,Venezuela,America
+2020,VIET NAM,November,0.0,11,2020-11-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),November,0.0,11,2020-11-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),November,0.0,11,2020-11-01,Zambia,Africa
+2020,ZIMBABWE,November,0.0,11,2020-11-01,Zimbabwe,Africa
+2020,AFGHANISTAN,December,0.0,12,2020-12-01,Afghanistan,Asia
+2020,ALBANIA,December,0.0,12,2020-12-01,Albania,Europe
+2020,ALGERIA,December,0.0,12,2020-12-01,Algeria,Africa
+2020,ANDORRA,December,0.0,12,2020-12-01,Andorra,Europe
+2020,ANGOLA,December,0.0,12,2020-12-01,Angola,Africa
+2020,ANTIGUA AND BARBUDA,December,0.0,12,2020-12-01,Antigua and Barbuda,America
+2020,ARGENTINA,December,0.0,12,2020-12-01,Argentina,America
+2020,ARMENIA,December,0.0,12,2020-12-01,Armenia,Asia
+2020,AUSTRALIA,December,0.0,12,2020-12-01,Australia,Oceania
+2020,AUSTRIA,December,0.0,12,2020-12-01,Austria,Europe
+2020,AZERBAIJAN,December,0.0,12,2020-12-01,Azerbaijan,Asia
+2020,BAHAMAS,December,0.0,12,2020-12-01,Bahamas,America
+2020,BAHRAIN,December,0.0,12,2020-12-01,Bahrain,Asia
+2020,BANGLADESH,December,0.0,12,2020-12-01,Bangladesh,Asia
+2020,BARBADOS,December,0.0,12,2020-12-01,Barbados,America
+2020,BELARUS,December,0.0,12,2020-12-01,Belarus,Europe
+2020,BELGIUM,December,0.0,12,2020-12-01,Belgium,Europe
+2020,BELIZE,December,0.0,12,2020-12-01,Belize,America
+2020,BENIN,December,0.0,12,2020-12-01,Benin,Africa
+2020,BHUTAN,December,0.0,12,2020-12-01,Bhutan,Asia
+2020,BOLIVIA,December,0.0,12,2020-12-01,Bolivia,America
+2020,BOSNIA AND HERZEGOVINA,December,0.0,12,2020-12-01,Bosnia and Herzegovina,Europe
+2020,BOTSWANA,December,0.0,12,2020-12-01,Botswana,Africa
+2020,BRAZIL,December,0.0,12,2020-12-01,Brazil,America
+2020,BRUNEI DARUSSALAM,December,0.0,12,2020-12-01,Brunei Darussalam,Asia
+2020,BULGARIA,December,0.0,12,2020-12-01,Bulgaria,Europe
+2020,BURKINA FASO,December,0.0,12,2020-12-01,Burkina Faso,Africa
+2020,BURUNDI,December,0.0,12,2020-12-01,Burundi,Africa
+2020,CAMBODIA,December,0.0,12,2020-12-01,Cambodia,Asia
+2020,CAMEROON,December,0.0,12,2020-12-01,Cameroon,Africa
+2020,CANADA,December,0.0,12,2020-12-01,Canada,America
+2020,CAPE VERDE,December,0.0,12,2020-12-01,Cabo Verde,Africa
+2020,CENTRAL AFRICAN,December,0.0,12,2020-12-01,CENTRAL AFRICAN,Other
+2020,CHAD,December,0.0,12,2020-12-01,Chad,Africa
+2020,CHILE,December,0.0,12,2020-12-01,Chile,America
+2020,CHINA,December,0.0,12,2020-12-01,China,Asia
+2020,COLOMBIA,December,0.0,12,2020-12-01,Colombia,America
+2020,COMOROS,December,0.0,12,2020-12-01,Comoros,Africa
+2020,CONGO THE DEM REPOF THE,December,0.0,12,2020-12-01,DR Congo,Africa
+2020,COSTA RICA,December,0.0,12,2020-12-01,Costa Rica,America
+2020,COTE DIVOIRE,December,0.0,12,2020-12-01,Côte d'Ivoire,Africa
+2020,CROATIA,December,0.0,12,2020-12-01,Croatia,Europe
+2020,CUBA,December,0.0,12,2020-12-01,Cuba,America
+2020,CYPRUS,December,0.0,12,2020-12-01,Cyprus,Asia
+2020,CZECH REPUBLIC,December,0.0,12,2020-12-01,Czechia,Europe
+2020,DENMARK,December,0.0,12,2020-12-01,Denmark,Europe
+2020,DJIBOUTI,December,0.0,12,2020-12-01,Djibouti,Africa
+2020,DOMINICA,December,0.0,12,2020-12-01,Dominica,America
+2020,DOMINICAN,December,0.0,12,2020-12-01,Dominican Republic,America
+2020,ECUADOR,December,0.0,12,2020-12-01,Ecuador,America
+2020,EGYPT,December,0.0,12,2020-12-01,Egypt,Africa
+2020,EL SALVADOR,December,0.0,12,2020-12-01,El Salvador,America
+2020,EQUATORIAL,December,0.0,12,2020-12-01,EQUATORIAL,Other
+2020,ERITREA,December,0.0,12,2020-12-01,Eritrea,Africa
+2020,ESTONIA,December,0.0,12,2020-12-01,Estonia,Europe
+2020,ETHIOPIA,December,0.0,12,2020-12-01,Ethiopia,Africa
+2020,FIJI,December,0.0,12,2020-12-01,Fiji,Oceania
+2020,FINLAND,December,0.0,12,2020-12-01,Finland,Europe
+2020,FRANCE,December,0.0,12,2020-12-01,France,Europe
+2020,GABON,December,0.0,12,2020-12-01,Gabon,Africa
+2020,"GAMBIA, THE",December,0.0,12,2020-12-01,Gambia,Africa
+2020,GEORGIA,December,0.0,12,2020-12-01,Georgia,Asia
+2020,GERMANY,December,0.0,12,2020-12-01,Germany,Europe
+2020,GHANA,December,0.0,12,2020-12-01,Ghana,Africa
+2020,GREECE,December,0.0,12,2020-12-01,Greece,Europe
+2020,GRENADA,December,0.0,12,2020-12-01,Grenada,America
+2020,GUATEMALA,December,0.0,12,2020-12-01,Guatemala,America
+2020,GUINEA,December,0.0,12,2020-12-01,Guinea,Africa
+2020,GUINEA-BISSAU,December,0.0,12,2020-12-01,Guinea-Bissau,Africa
+2020,GUYANA,December,0.0,12,2020-12-01,Guyana,America
+2020,HAITI,December,0.0,12,2020-12-01,Haiti,America
+2020,HONDURAS,December,0.0,12,2020-12-01,Honduras,America
+2020,HONG KONG,December,0.0,12,2020-12-01,Hong Kong,Asia
+2020,HUNGARY,December,0.0,12,2020-12-01,Hungary,Europe
+2020,ICELAND,December,0.0,12,2020-12-01,Iceland,Europe
+2020,INDIA,December,0.0,12,2020-12-01,India,Asia
+2020,INDONESIA,December,0.0,12,2020-12-01,Indonesia,Asia
+2020,IRAN,December,0.0,12,2020-12-01,Iran,Asia
+2020,IRAQ,December,0.0,12,2020-12-01,Iraq,Asia
+2020,IRELAND,December,0.0,12,2020-12-01,Ireland,Europe
+2020,ISRAEL,December,0.0,12,2020-12-01,Israel,Asia
+2020,ITALY,December,0.0,12,2020-12-01,Italy,Europe
+2020,JAMAICA,December,0.0,12,2020-12-01,Jamaica,America
+2020,JAPAN,December,0.0,12,2020-12-01,Japan,Asia
+2020,JORDAN,December,0.0,12,2020-12-01,Jordan,Asia
+2020,KAZAKHSTAN,December,0.0,12,2020-12-01,Kazakhstan,Asia
+2020,KENYA,December,0.0,12,2020-12-01,Kenya,Africa
+2020,KOSOVAR,December,0.0,12,2020-12-01,KOSOVAR,Other
+2020,KUWAIT,December,0.0,12,2020-12-01,Kuwait,Asia
+2020,KYRGYZSTAN,December,0.0,12,2020-12-01,Kyrgyzstan,Asia
+2020,LAO PEOPLES DEM.REP.,December,0.0,12,2020-12-01,Laos,Asia
+2020,LATVIA,December,0.0,12,2020-12-01,Latvia,Europe
+2020,LEBANON,December,0.0,12,2020-12-01,Lebanon,Asia
+2020,LESOTHO,December,0.0,12,2020-12-01,Lesotho,Africa
+2020,LIBERIA,December,0.0,12,2020-12-01,Liberia,Africa
+2020,LIBYA(LIBYAN ARAB JAMAHIR,December,0.0,12,2020-12-01,Libya,Africa
+2020,LIECHTENSTEIN,December,0.0,12,2020-12-01,Liechtenstein,Europe
+2020,LITHUANIA,December,0.0,12,2020-12-01,Lithuania,Europe
+2020,LUXEMBOURG,December,0.0,12,2020-12-01,Luxembourg,Europe
+2020,MACEDONIA,December,0.0,12,2020-12-01,North Macedonia,Europe
+2020,MADAGASCAR,December,0.0,12,2020-12-01,Madagascar,Africa
+2020,MALAWI,December,0.0,12,2020-12-01,Malawi,Africa
+2020,MALAYSIA,December,0.0,12,2020-12-01,Malaysia,Asia
+2020,MALDIVES,December,0.0,12,2020-12-01,Maldives,Asia
+2020,MALI,December,0.0,12,2020-12-01,Mali,Africa
+2020,MALTA,December,0.0,12,2020-12-01,Malta,Europe
+2020,MAURITANIA,December,0.0,12,2020-12-01,Mauritania,Africa
+2020,MAURITIUS,December,0.0,12,2020-12-01,Mauritius,Africa
+2020,MEXICO,December,0.0,12,2020-12-01,Mexico,America
+2020,MOLDOVA,December,0.0,12,2020-12-01,Moldova,Europe
+2020,MONACO,December,0.0,12,2020-12-01,Monaco,Europe
+2020,MONGOLIA,December,0.0,12,2020-12-01,Mongolia,Asia
+2020,MONTENEGRO,December,0.0,12,2020-12-01,Montenegro,Europe
+2020,MOROCCO,December,0.0,12,2020-12-01,Morocco,Africa
+2020,MOZAMBIQUE,December,0.0,12,2020-12-01,Mozambique,Africa
+2020,MYANMAR,December,0.0,12,2020-12-01,Myanmar,Asia
+2020,NAMIBIA,December,0.0,12,2020-12-01,Namibia,Africa
+2020,NAURU,December,0.0,12,2020-12-01,Nauru,Oceania
+2020,NEPAL,December,0.0,12,2020-12-01,Nepal,Asia
+2020,NETHERLANDS,December,0.0,12,2020-12-01,Netherlands,Europe
+2020,NEW ZEALAND,December,0.0,12,2020-12-01,New Zealand,Oceania
+2020,NIGER,December,0.0,12,2020-12-01,Niger,Africa
+2020,NIGERIA,December,0.0,12,2020-12-01,Nigeria,Africa
+2020,NORWAY,December,0.0,12,2020-12-01,Norway,Europe
+2020,OMAN,December,0.0,12,2020-12-01,Oman,Asia
+2020,PAKISTAN,December,0.0,12,2020-12-01,Pakistan,Asia
+2020,PALESTINIAN TERRITORIES,December,0.0,12,2020-12-01,Palestine,Asia
+2020,PANAMA,December,0.0,12,2020-12-01,Panama,America
+2020,PAPUA NEW GUINEA,December,0.0,12,2020-12-01,Papua New Guinea,Oceania
+2020,PARAGUAY,December,0.0,12,2020-12-01,Paraguay,America
+2020,PERU,December,0.0,12,2020-12-01,Peru,America
+2020,PHILIPPINES,December,0.0,12,2020-12-01,Philippines,Asia
+2020,POLAND,December,0.0,12,2020-12-01,Poland,Europe
+2020,PORTUGAL,December,0.0,12,2020-12-01,Portugal,Europe
+2020,QATAR,December,0.0,12,2020-12-01,Qatar,Asia
+2020,REPUBLIC,December,0.0,12,2020-12-01,REPUBLIC,Other
+2020,REPUBLIC OF ZIMBABWE,December,0.0,12,2020-12-01,Zimbabwe,Africa
+2020,ROMANIA,December,0.0,12,2020-12-01,Romania,Europe
+2020,RUSSIAN FEDERATION,December,0.0,12,2020-12-01,Russia,Europe
+2020,RWANDA,December,0.0,12,2020-12-01,Rwanda,Africa
+2020,SAINT KITTS AND NEVIS,December,0.0,12,2020-12-01,St. Kitts and Nevis,America
+2020,SAINT LUCIA,December,0.0,12,2020-12-01,St. Lucia,America
+2020,SAINT VINCENT THE GRENADI,December,0.0,12,2020-12-01,St. Vincent and the Grenadines,America
+2020,SAMOA,December,0.0,12,2020-12-01,Samoa,Oceania
+2020,SAN MARINO,December,0.0,12,2020-12-01,San Marino,Europe
+2020,SAUDI ARABIA,December,0.0,12,2020-12-01,Saudi Arabia,Asia
+2020,SENEGAL,December,0.0,12,2020-12-01,Senegal,Africa
+2020,SERBIA,December,0.0,12,2020-12-01,Serbia,Europe
+2020,SEYCHELLES,December,0.0,12,2020-12-01,Seychelles,Africa
+2020,SIERRA LEONE,December,0.0,12,2020-12-01,Sierra Leone,Africa
+2020,SINGAPORE,December,0.0,12,2020-12-01,Singapore,Asia
+2020,SLOVAKIA(SLOVAK REPUBLIC),December,0.0,12,2020-12-01,Slovakia,Europe
+2020,SLOVENIA,December,0.0,12,2020-12-01,Slovenia,Europe
+2020,SOMALIA,December,0.0,12,2020-12-01,Somalia,Africa
+2020,SOUTH AFRICA- ZUID AFRIKA,December,0.0,12,2020-12-01,South Africa,Africa
+2020,SOUTH KOREA,December,0.0,12,2020-12-01,South Korea,Asia
+2020,SOUTH SUDAN,December,0.0,12,2020-12-01,South Sudan,Africa
+2020,SPAIN,December,0.0,12,2020-12-01,Spain,Europe
+2020,SUDAN,December,0.0,12,2020-12-01,Sudan,Africa
+2020,SURINAME,December,0.0,12,2020-12-01,Suriname,America
+2020,SWAZILAND,December,0.0,12,2020-12-01,Eswatini,Africa
+2020,SWEDEN,December,0.0,12,2020-12-01,Sweden,Europe
+2020,SWITZERLAND,December,0.0,12,2020-12-01,Switzerland,Europe
+2020,SYRIAN ARAB REPUBLIC,December,0.0,12,2020-12-01,Syria,Asia
+2020,TAIWAN PROVINCE OF CHINA,December,0.0,12,2020-12-01,Taiwan,Asia
+2020,TAJIKISTAN,December,0.0,12,2020-12-01,Tajikistan,Asia
+2020,TANZANIA,December,0.0,12,2020-12-01,Tanzania,Africa
+2020,THAILAND,December,0.0,12,2020-12-01,Thailand,Asia
+2020,TIMOR-LESTE,December,0.0,12,2020-12-01,Timor-Leste,Asia
+2020,TOGO,December,0.0,12,2020-12-01,Togo,Africa
+2020,TONGA,December,0.0,12,2020-12-01,Tonga,Oceania
+2020,TRINIDAD AND TOBAGO,December,0.0,12,2020-12-01,Trinidad and Tobago,America
+2020,TUNISIA,December,0.0,12,2020-12-01,Tunisia,Africa
+2020,TURKEY,December,0.0,12,2020-12-01,Türkiye,Asia
+2020,TURKMENISTAN,December,0.0,12,2020-12-01,Turkmenistan,Asia
+2020,UGANDA,December,0.0,12,2020-12-01,Uganda,Africa
+2020,UKRAINE,December,393.0,12,2020-12-01,Ukraine,Europe
+2020,UNITED ARAB EMIRATES,December,0.0,12,2020-12-01,United Arab Emirates,Asia
+2020,UNITED KINGDOM,December,0.0,12,2020-12-01,United Kingdom,Europe
+2020,UNITED STATES,December,0.0,12,2020-12-01,United States,America
+2020,URUGUAY,December,0.0,12,2020-12-01,Uruguay,America
+2020,UZBEKISTAN,December,0.0,12,2020-12-01,Uzbekistan,Asia
+2020,VANUATU,December,0.0,12,2020-12-01,Vanuatu,Oceania
+2020,VENEZUELA,December,0.0,12,2020-12-01,Venezuela,America
+2020,VIET NAM,December,0.0,12,2020-12-01,Vietnam,Asia
+2020,YEMEN (YEMEN ARAB REP.),December,0.0,12,2020-12-01,Yemen,Asia
+2020,ZAMBIA (NORTHERNRHODESIA),December,0.0,12,2020-12-01,Zambia,Africa
+2020,ZIMBABWE,December,0.0,12,2020-12-01,Zimbabwe,Africa

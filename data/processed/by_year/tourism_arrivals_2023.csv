@@ -1,0 +1,2281 @@
+Year,Country,Month,Tourist_Arrivals,Month_Number,Date,Standard_Country,Continent
+2023,Afghanistan,January,9.0,1,2023-01-01,Afghanistan,Asia
+2023,Albania,January,6.0,1,2023-01-01,Albania,Europe
+2023,Algeria,January,21.0,1,2023-01-01,Algeria,Africa
+2023,Andorra,January,4.0,1,2023-01-01,Andorra,Europe
+2023,Angola,January,0.0,1,2023-01-01,Angola,Africa
+2023,Antigua and Barbuda,January,4.0,1,2023-01-01,Antigua and Barbuda,America
+2023,Argentina,January,76.0,1,2023-01-01,Argentina,America
+2023,Armenia,January,258.0,1,2023-01-01,Armenia,Asia
+2023,Aruba,January,0.0,1,2023-01-01,Aruba,America
+2023,Australia,January,3668.0,1,2023-01-01,Australia,Oceania
+2023,Austria,January,956.0,1,2023-01-01,Austria,Europe
+2023,Azerbaijan,January,115.0,1,2023-01-01,Azerbaijan,Asia
+2023,Bahamas,January,0.0,1,2023-01-01,Bahamas,America
+2023,Bahrain,January,134.0,1,2023-01-01,Bahrain,Asia
+2023,Bangladesh,January,717.0,1,2023-01-01,Bangladesh,Asia
+2023,Barbados,January,0.0,1,2023-01-01,Barbados,America
+2023,Belarus,January,1204.0,1,2023-01-01,Belarus,Europe
+2023,Belgium,January,646.0,1,2023-01-01,Belgium,Europe
+2023,Belize,January,1.0,1,2023-01-01,Belize,America
+2023,Benin,January,1.0,1,2023-01-01,Benin,Africa
+2023,Bhutan,January,32.0,1,2023-01-01,Bhutan,Asia
+2023,Bolivia,January,0.0,1,2023-01-01,Bolivia,America
+2023,Bosnia and Herzegovina,January,10.0,1,2023-01-01,Bosnia and Herzegovina,Europe
+2023,Botswana,January,4.0,1,2023-01-01,Botswana,Africa
+2023,Brazil,January,101.0,1,2023-01-01,Brazil,America
+2023,Brunei Darussalam,January,0.0,1,2023-01-01,Brunei Darussalam,Asia
+2023,Bulgaria,January,134.0,1,2023-01-01,Bulgaria,Europe
+2023,Burkina Faso,January,0.0,1,2023-01-01,Burkina Faso,Africa
+2023,Burundi,January,0.0,1,2023-01-01,Burundi,Africa
+2023,Cambodia,January,31.0,1,2023-01-01,Cambodia,Asia
+2023,Cameroon,January,8.0,1,2023-01-01,Cameroon,Africa
+2023,Canada,January,3681.0,1,2023-01-01,Canada,America
+2023,Cape Verde,January,0.0,1,2023-01-01,Cabo Verde,Africa
+2023,Central African Republic,January,0.0,1,2023-01-01,Central African Republic,Africa
+2023,Chad,January,0.0,1,2023-01-01,Chad,Africa
+2023,Chile,January,26.0,1,2023-01-01,Chile,America
+2023,China,January,835.0,1,2023-01-01,China,Asia
+2023,Colombia,January,36.0,1,2023-01-01,Colombia,America
+2023,Comoros,January,3.0,1,2023-01-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",January,0.0,1,2023-01-01,DR Congo,Africa
+2023,Costa Rica,January,6.0,1,2023-01-01,Costa Rica,America
+2023,Cote Divoire,January,2.0,1,2023-01-01,Côte d'Ivoire,Africa
+2023,Croatia,January,84.0,1,2023-01-01,Croatia,Europe
+2023,Cuba,January,5.0,1,2023-01-01,Cuba,America
+2023,Cyprus,January,51.0,1,2023-01-01,Cyprus,Asia
+2023,Czech Republic,January,960.0,1,2023-01-01,Czechia,Europe
+2023,Denmark,January,1081.0,1,2023-01-01,Denmark,Europe
+2023,Djibouti,January,0.0,1,2023-01-01,Djibouti,Africa
+2023,Dominica,January,8.0,1,2023-01-01,Dominica,America
+2023,Dominican Republic,January,2.0,1,2023-01-01,Dominican Republic,America
+2023,Ecuador,January,10.0,1,2023-01-01,Ecuador,America
+2023,Egypt,January,127.0,1,2023-01-01,Egypt,Africa
+2023,El Salvador,January,3.0,1,2023-01-01,El Salvador,America
+2023,Eritrea,January,2.0,1,2023-01-01,Eritrea,Africa
+2023,Estonia,January,182.0,1,2023-01-01,Estonia,Europe
+2023,Ethiopia,January,8.0,1,2023-01-01,Ethiopia,Africa
+2023,Fiji,January,6.0,1,2023-01-01,Fiji,Oceania
+2023,Finland,January,257.0,1,2023-01-01,Finland,Europe
+2023,France,January,4840.0,1,2023-01-01,France,Europe
+2023,Gabon,January,1.0,1,2023-01-01,Gabon,Africa
+2023,"Gambia, The",January,0.0,1,2023-01-01,Gambia,Africa
+2023,Georgia,January,164.0,1,2023-01-01,Georgia,Asia
+2023,Germany,January,8217.0,1,2023-01-01,Germany,Europe
+2023,Ghana,January,1.0,1,2023-01-01,Ghana,Africa
+2023,Greece,January,151.0,1,2023-01-01,Greece,Europe
+2023,Grenada,January,0.0,1,2023-01-01,Grenada,America
+2023,Guatemala,January,1.0,1,2023-01-01,Guatemala,America
+2023,Guinea,January,1.0,1,2023-01-01,Guinea,Africa
+2023,Guyana,January,0.0,1,2023-01-01,Guyana,America
+2023,Haiti,January,3.0,1,2023-01-01,Haiti,America
+2023,Honduras,January,3.0,1,2023-01-01,Honduras,America
+2023,Hungary,January,400.0,1,2023-01-01,Hungary,Europe
+2023,Iceland,January,33.0,1,2023-01-01,Iceland,Europe
+2023,India,January,13759.0,1,2023-01-01,India,Asia
+2023,Indonesia,January,138.0,1,2023-01-01,Indonesia,Asia
+2023,Iran,January,435.0,1,2023-01-01,Iran,Asia
+2023,Iraq,January,63.0,1,2023-01-01,Iraq,Asia
+2023,Ireland,January,244.0,1,2023-01-01,Ireland,Europe
+2023,Israel,January,1868.0,1,2023-01-01,Israel,Asia
+2023,Italy,January,1477.0,1,2023-01-01,Italy,Europe
+2023,Jamaica,January,1.0,1,2023-01-01,Jamaica,America
+2023,Japan,January,744.0,1,2023-01-01,Japan,Asia
+2023,Jordan,January,261.0,1,2023-01-01,Jordan,Asia
+2023,Kazakhstan,January,470.0,1,2023-01-01,Kazakhstan,Asia
+2023,Kenya,January,23.0,1,2023-01-01,Kenya,Africa
+2023,Kiribati,January,0.0,1,2023-01-01,Kiribati,Oceania
+2023,Kosovar,January,1.0,1,2023-01-01,Kosovar,Other
+2023,Kuwait,January,162.0,1,2023-01-01,Kuwait,Asia
+2023,Kyrgyzstan,January,79.0,1,2023-01-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",January,17.0,1,2023-01-01,Laos,Asia
+2023,Latvia,January,171.0,1,2023-01-01,Latvia,Europe
+2023,Lebanon,January,111.0,1,2023-01-01,Lebanon,Asia
+2023,Lesotho,January,0.0,1,2023-01-01,Lesotho,Africa
+2023,Liberia,January,1.0,1,2023-01-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),January,4.0,1,2023-01-01,Libya,Africa
+2023,Liechtenstein,January,5.0,1,2023-01-01,Liechtenstein,Europe
+2023,Lithuania,January,278.0,1,2023-01-01,Lithuania,Europe
+2023,Luxembourg,January,35.0,1,2023-01-01,Luxembourg,Europe
+2023,Macedonia,January,9.0,1,2023-01-01,North Macedonia,Europe
+2023,Madagascar,January,7.0,1,2023-01-01,Madagascar,Africa
+2023,Malawi,January,2.0,1,2023-01-01,Malawi,Africa
+2023,Malaysia,January,496.0,1,2023-01-01,Malaysia,Asia
+2023,Maldives,January,2203.0,1,2023-01-01,Maldives,Asia
+2023,Mali,January,2.0,1,2023-01-01,Mali,Africa
+2023,Malta,January,45.0,1,2023-01-01,Malta,Europe
+2023,Marshall Islands,January,0.0,1,2023-01-01,Marshall Islands,Oceania
+2023,Mauritania,January,1.0,1,2023-01-01,Mauritania,Africa
+2023,Mauritius,January,19.0,1,2023-01-01,Mauritius,Africa
+2023,Mexico,January,19.0,1,2023-01-01,Mexico,America
+2023,Moldova,January,66.0,1,2023-01-01,Moldova,Europe
+2023,Monaco,January,2.0,1,2023-01-01,Monaco,Europe
+2023,Mongolia,January,2.0,1,2023-01-01,Mongolia,Asia
+2023,Montenegro,January,20.0,1,2023-01-01,Montenegro,Europe
+2023,Morocco,January,47.0,1,2023-01-01,Morocco,Africa
+2023,Mozambique,January,5.0,1,2023-01-01,Mozambique,Africa
+2023,Myanmar,January,35.0,1,2023-01-01,Myanmar,Asia
+2023,Namibia,January,1.0,1,2023-01-01,Namibia,Africa
+2023,Nauru,January,0.0,1,2023-01-01,Nauru,Oceania
+2023,Nepal,January,292.0,1,2023-01-01,Nepal,Asia
+2023,Netherlands,January,1514.0,1,2023-01-01,Netherlands,Europe
+2023,New Zealand,January,394.0,1,2023-01-01,New Zealand,Oceania
+2023,Nicaragua,January,2.0,1,2023-01-01,Nicaragua,America
+2023,Niger,January,0.0,1,2023-01-01,Niger,Africa
+2023,Nigeria,January,10.0,1,2023-01-01,Nigeria,Africa
+2023,Norway,January,698.0,1,2023-01-01,Norway,Europe
+2023,Oman,January,183.0,1,2023-01-01,Oman,Asia
+2023,Pakistan,January,595.0,1,2023-01-01,Pakistan,Asia
+2023,Palau,January,0.0,1,2023-01-01,Palau,Oceania
+2023,Palestinian Territories,January,28.0,1,2023-01-01,Palestine,Asia
+2023,Panama,January,1.0,1,2023-01-01,Panama,America
+2023,Papua New Guinea,January,1.0,1,2023-01-01,Papua New Guinea,Oceania
+2023,Paraguay,January,2.0,1,2023-01-01,Paraguay,America
+2023,Peru,January,8.0,1,2023-01-01,Peru,America
+2023,Philippines,January,188.0,1,2023-01-01,Philippines,Asia
+2023,Poland,January,1269.0,1,2023-01-01,Poland,Europe
+2023,Portugal,January,230.0,1,2023-01-01,Portugal,Europe
+2023,Qatar,January,34.0,1,2023-01-01,Qatar,Asia
+2023,Romania,January,316.0,1,2023-01-01,Romania,Europe
+2023,Russian Federation,January,25254.0,1,2023-01-01,Russia,Europe
+2023,Rwanda,January,2.0,1,2023-01-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,January,3.0,1,2023-01-01,St. Kitts and Nevis,America
+2023,Saint Lucia,January,3.0,1,2023-01-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,January,0.0,1,2023-01-01,St. Vincent and the Grenadines,America
+2023,Samoa,January,0.0,1,2023-01-01,Samoa,Oceania
+2023,San Marino,January,1.0,1,2023-01-01,San Marino,Europe
+2023,Saudi Arabia,January,340.0,1,2023-01-01,Saudi Arabia,Asia
+2023,Senegal,January,2.0,1,2023-01-01,Senegal,Africa
+2023,Serbia,January,144.0,1,2023-01-01,Serbia,Europe
+2023,Seychelles,January,21.0,1,2023-01-01,Seychelles,Africa
+2023,Sierra Leone,January,0.0,1,2023-01-01,Sierra Leone,Africa
+2023,Singapore,January,414.0,1,2023-01-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),January,351.0,1,2023-01-01,Slovakia,Europe
+2023,Slovenia,January,146.0,1,2023-01-01,Slovenia,Europe
+2023,Solomon Islands,January,0.0,1,2023-01-01,Solomon Islands,Oceania
+2023,Somalia,January,3.0,1,2023-01-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,January,125.0,1,2023-01-01,South Africa,Africa
+2023,South Korea,January,450.0,1,2023-01-01,South Korea,Asia
+2023,South Sudan,January,0.0,1,2023-01-01,South Sudan,Africa
+2023,Spain,January,857.0,1,2023-01-01,Spain,Europe
+2023,Sudan,January,61.0,1,2023-01-01,Sudan,Africa
+2023,Suriname,January,0.0,1,2023-01-01,Suriname,America
+2023,Swaziland,January,0.0,1,2023-01-01,Eswatini,Africa
+2023,Sweden,January,871.0,1,2023-01-01,Sweden,Europe
+2023,Switzerland,January,1769.0,1,2023-01-01,Switzerland,Europe
+2023,Syrian Arab Republic,January,0.0,1,2023-01-01,Syria,Asia
+2023,Taiwan Province of China,January,151.0,1,2023-01-01,Taiwan,Asia
+2023,Tajikistan,January,27.0,1,2023-01-01,Tajikistan,Asia
+2023,Tanzania,January,9.0,1,2023-01-01,Tanzania,Africa
+2023,Thailand,January,279.0,1,2023-01-01,Thailand,Asia
+2023,Timor-Leste,January,0.0,1,2023-01-01,Timor-Leste,Asia
+2023,Togo,January,1.0,1,2023-01-01,Togo,Africa
+2023,Tonga,January,0.0,1,2023-01-01,Tonga,Oceania
+2023,Trinidad and Tobago,January,2.0,1,2023-01-01,Trinidad and Tobago,America
+2023,Tunisia,January,43.0,1,2023-01-01,Tunisia,Africa
+2023,Turkey,January,362.0,1,2023-01-01,Türkiye,Asia
+2023,Turkmenistan,January,4.0,1,2023-01-01,Turkmenistan,Asia
+2023,Tuvalu,January,0.0,1,2023-01-01,Tuvalu,Oceania
+2023,Uganda,January,9.0,1,2023-01-01,Uganda,Africa
+2023,Ukraine,January,884.0,1,2023-01-01,Ukraine,Europe
+2023,United Arab Emirates,January,101.0,1,2023-01-01,United Arab Emirates,Asia
+2023,United Kingdom,January,8483.0,1,2023-01-01,United Kingdom,Europe
+2023,United States,January,2636.0,1,2023-01-01,United States,America
+2023,Uruguay,January,5.0,1,2023-01-01,Uruguay,America
+2023,Uzbekistan,January,152.0,1,2023-01-01,Uzbekistan,Asia
+2023,Vanuatu,January,1.0,1,2023-01-01,Vanuatu,Oceania
+2023,Venezuela,January,4.0,1,2023-01-01,Venezuela,America
+2023,Viet Nam,January,117.0,1,2023-01-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),January,22.0,1,2023-01-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),January,6.0,1,2023-01-01,Zambia,Africa
+2023,Zimbabwe,January,7.0,1,2023-01-01,Zimbabwe,Africa
+2023,Afghanistan,February,2.0,2,2023-02-01,Afghanistan,Asia
+2023,Albania,February,8.0,2,2023-02-01,Albania,Europe
+2023,Algeria,February,16.0,2,2023-02-01,Algeria,Africa
+2023,Andorra,February,1.0,2,2023-02-01,Andorra,Europe
+2023,Angola,February,0.0,2,2023-02-01,Angola,Africa
+2023,Antigua and Barbuda,February,2.0,2,2023-02-01,Antigua and Barbuda,America
+2023,Argentina,February,43.0,2,2023-02-01,Argentina,America
+2023,Armenia,February,145.0,2,2023-02-01,Armenia,Asia
+2023,Aruba,February,0.0,2,2023-02-01,Aruba,America
+2023,Australia,February,3113.0,2,2023-02-01,Australia,Oceania
+2023,Austria,February,934.0,2,2023-02-01,Austria,Europe
+2023,Azerbaijan,February,64.0,2,2023-02-01,Azerbaijan,Asia
+2023,Bahamas,February,1.0,2,2023-02-01,Bahamas,America
+2023,Bahrain,February,35.0,2,2023-02-01,Bahrain,Asia
+2023,Bangladesh,February,531.0,2,2023-02-01,Bangladesh,Asia
+2023,Barbados,February,1.0,2,2023-02-01,Barbados,America
+2023,Belarus,February,1244.0,2,2023-02-01,Belarus,Europe
+2023,Belgium,February,725.0,2,2023-02-01,Belgium,Europe
+2023,Belize,February,0.0,2,2023-02-01,Belize,America
+2023,Benin,February,0.0,2,2023-02-01,Benin,Africa
+2023,Bhutan,February,19.0,2,2023-02-01,Bhutan,Asia
+2023,Bolivia,February,1.0,2,2023-02-01,Bolivia,America
+2023,Bosnia and Herzegovina,February,7.0,2,2023-02-01,Bosnia and Herzegovina,Europe
+2023,Botswana,February,1.0,2,2023-02-01,Botswana,Africa
+2023,Brazil,February,83.0,2,2023-02-01,Brazil,America
+2023,Brunei Darussalam,February,6.0,2,2023-02-01,Brunei Darussalam,Asia
+2023,Bulgaria,February,325.0,2,2023-02-01,Bulgaria,Europe
+2023,Burkina Faso,February,1.0,2,2023-02-01,Burkina Faso,Africa
+2023,Burundi,February,2.0,2,2023-02-01,Burundi,Africa
+2023,Cambodia,February,57.0,2,2023-02-01,Cambodia,Asia
+2023,Cameroon,February,3.0,2,2023-02-01,Cameroon,Africa
+2023,Canada,February,3107.0,2,2023-02-01,Canada,America
+2023,Cape Verde,February,0.0,2,2023-02-01,Cabo Verde,Africa
+2023,Central African Republic,February,0.0,2,2023-02-01,Central African Republic,Africa
+2023,Chad,February,0.0,2,2023-02-01,Chad,Africa
+2023,Chile,February,45.0,2,2023-02-01,Chile,America
+2023,China,February,1535.0,2,2023-02-01,China,Asia
+2023,Colombia,February,38.0,2,2023-02-01,Colombia,America
+2023,Comoros,February,3.0,2,2023-02-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",February,3.0,2,2023-02-01,DR Congo,Africa
+2023,Costa Rica,February,4.0,2,2023-02-01,Costa Rica,America
+2023,Cote Divoire,February,2.0,2,2023-02-01,Côte d'Ivoire,Africa
+2023,Croatia,February,84.0,2,2023-02-01,Croatia,Europe
+2023,Cuba,February,1.0,2,2023-02-01,Cuba,America
+2023,Cyprus,February,41.0,2,2023-02-01,Cyprus,Asia
+2023,Czech Republic,February,1206.0,2,2023-02-01,Czechia,Europe
+2023,Denmark,February,1110.0,2,2023-02-01,Denmark,Europe
+2023,Djibouti,February,3.0,2,2023-02-01,Djibouti,Africa
+2023,Dominica,February,3.0,2,2023-02-01,Dominica,America
+2023,Dominican Republic,February,0.0,2,2023-02-01,Dominican Republic,America
+2023,Ecuador,February,6.0,2,2023-02-01,Ecuador,America
+2023,Egypt,February,241.0,2,2023-02-01,Egypt,Africa
+2023,El Salvador,February,2.0,2,2023-02-01,El Salvador,America
+2023,Eritrea,February,0.0,2,2023-02-01,Eritrea,Africa
+2023,Estonia,February,193.0,2,2023-02-01,Estonia,Europe
+2023,Ethiopia,February,6.0,2,2023-02-01,Ethiopia,Africa
+2023,Fiji,February,5.0,2,2023-02-01,Fiji,Oceania
+2023,Finland,February,204.0,2,2023-02-01,Finland,Europe
+2023,France,February,6118.0,2,2023-02-01,France,Europe
+2023,Gabon,February,0.0,2,2023-02-01,Gabon,Africa
+2023,"Gambia, The",February,1.0,2,2023-02-01,Gambia,Africa
+2023,Georgia,February,128.0,2,2023-02-01,Georgia,Asia
+2023,Germany,February,7930.0,2,2023-02-01,Germany,Europe
+2023,Ghana,February,5.0,2,2023-02-01,Ghana,Africa
+2023,Greece,February,163.0,2,2023-02-01,Greece,Europe
+2023,Grenada,February,2.0,2,2023-02-01,Grenada,America
+2023,Guatemala,February,4.0,2,2023-02-01,Guatemala,America
+2023,Guinea,February,0.0,2,2023-02-01,Guinea,Africa
+2023,Guyana,February,0.0,2,2023-02-01,Guyana,America
+2023,Haiti,February,1.0,2,2023-02-01,Haiti,America
+2023,Honduras,February,1.0,2,2023-02-01,Honduras,America
+2023,Hungary,February,405.0,2,2023-02-01,Hungary,Europe
+2023,Iceland,February,25.0,2,2023-02-01,Iceland,Europe
+2023,India,February,13714.0,2,2023-02-01,India,Asia
+2023,Indonesia,February,175.0,2,2023-02-01,Indonesia,Asia
+2023,Iran,February,791.0,2,2023-02-01,Iran,Asia
+2023,Iraq,February,92.0,2,2023-02-01,Iraq,Asia
+2023,Ireland,February,287.0,2,2023-02-01,Ireland,Europe
+2023,Israel,February,2188.0,2,2023-02-01,Israel,Asia
+2023,Italy,February,1409.0,2,2023-02-01,Italy,Europe
+2023,Jamaica,February,1.0,2,2023-02-01,Jamaica,America
+2023,Japan,February,974.0,2,2023-02-01,Japan,Asia
+2023,Jordan,February,227.0,2,2023-02-01,Jordan,Asia
+2023,Kazakhstan,February,328.0,2,2023-02-01,Kazakhstan,Asia
+2023,Kenya,February,40.0,2,2023-02-01,Kenya,Africa
+2023,Kiribati,February,0.0,2,2023-02-01,Kiribati,Oceania
+2023,Kosovar,February,0.0,2,2023-02-01,Kosovar,Other
+2023,Kuwait,February,219.0,2,2023-02-01,Kuwait,Asia
+2023,Kyrgyzstan,February,74.0,2,2023-02-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",February,4.0,2,2023-02-01,Laos,Asia
+2023,Latvia,February,176.0,2,2023-02-01,Latvia,Europe
+2023,Lebanon,February,188.0,2,2023-02-01,Lebanon,Asia
+2023,Lesotho,February,0.0,2,2023-02-01,Lesotho,Africa
+2023,Liberia,February,0.0,2,2023-02-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),February,6.0,2,2023-02-01,Libya,Africa
+2023,Liechtenstein,February,6.0,2,2023-02-01,Liechtenstein,Europe
+2023,Lithuania,February,296.0,2,2023-02-01,Lithuania,Europe
+2023,Luxembourg,February,40.0,2,2023-02-01,Luxembourg,Europe
+2023,Macedonia,February,15.0,2,2023-02-01,North Macedonia,Europe
+2023,Madagascar,February,7.0,2,2023-02-01,Madagascar,Africa
+2023,Malawi,February,2.0,2,2023-02-01,Malawi,Africa
+2023,Malaysia,February,657.0,2,2023-02-01,Malaysia,Asia
+2023,Maldives,February,1818.0,2,2023-02-01,Maldives,Asia
+2023,Mali,February,0.0,2,2023-02-01,Mali,Africa
+2023,Malta,February,28.0,2,2023-02-01,Malta,Europe
+2023,Marshall Islands,February,0.0,2,2023-02-01,Marshall Islands,Oceania
+2023,Mauritania,February,0.0,2,2023-02-01,Mauritania,Africa
+2023,Mauritius,February,21.0,2,2023-02-01,Mauritius,Africa
+2023,Mexico,February,40.0,2,2023-02-01,Mexico,America
+2023,Moldova,February,47.0,2,2023-02-01,Moldova,Europe
+2023,Monaco,February,0.0,2,2023-02-01,Monaco,Europe
+2023,Mongolia,February,12.0,2,2023-02-01,Mongolia,Asia
+2023,Montenegro,February,9.0,2,2023-02-01,Montenegro,Europe
+2023,Morocco,February,38.0,2,2023-02-01,Morocco,Africa
+2023,Mozambique,February,3.0,2,2023-02-01,Mozambique,Africa
+2023,Myanmar,February,36.0,2,2023-02-01,Myanmar,Asia
+2023,Namibia,February,0.0,2,2023-02-01,Namibia,Africa
+2023,Nauru,February,0.0,2,2023-02-01,Nauru,Oceania
+2023,Nepal,February,247.0,2,2023-02-01,Nepal,Asia
+2023,Netherlands,February,1485.0,2,2023-02-01,Netherlands,Europe
+2023,New Zealand,February,346.0,2,2023-02-01,New Zealand,Oceania
+2023,Nicaragua,February,1.0,2,2023-02-01,Nicaragua,America
+2023,Niger,February,2.0,2,2023-02-01,Niger,Africa
+2023,Nigeria,February,2.0,2,2023-02-01,Nigeria,Africa
+2023,Norway,February,567.0,2,2023-02-01,Norway,Europe
+2023,Oman,February,229.0,2,2023-02-01,Oman,Asia
+2023,Pakistan,February,724.0,2,2023-02-01,Pakistan,Asia
+2023,Palau,February,0.0,2,2023-02-01,Palau,Oceania
+2023,Palestinian Territories,February,43.0,2,2023-02-01,Palestine,Asia
+2023,Panama,February,4.0,2,2023-02-01,Panama,America
+2023,Papua New Guinea,February,3.0,2,2023-02-01,Papua New Guinea,Oceania
+2023,Paraguay,February,3.0,2,2023-02-01,Paraguay,America
+2023,Peru,February,10.0,2,2023-02-01,Peru,America
+2023,Philippines,February,262.0,2,2023-02-01,Philippines,Asia
+2023,Poland,February,1118.0,2,2023-02-01,Poland,Europe
+2023,Portugal,February,268.0,2,2023-02-01,Portugal,Europe
+2023,Qatar,February,46.0,2,2023-02-01,Qatar,Asia
+2023,Romania,February,398.0,2,2023-02-01,Romania,Europe
+2023,Russian Federation,February,29084.0,2,2023-02-01,Russia,Europe
+2023,Rwanda,February,0.0,2,2023-02-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,February,10.0,2,2023-02-01,St. Kitts and Nevis,America
+2023,Saint Lucia,February,0.0,2,2023-02-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,February,0.0,2,2023-02-01,St. Vincent and the Grenadines,America
+2023,Samoa,February,0.0,2,2023-02-01,Samoa,Oceania
+2023,San Marino,February,1.0,2,2023-02-01,San Marino,Europe
+2023,Saudi Arabia,February,365.0,2,2023-02-01,Saudi Arabia,Asia
+2023,Senegal,February,5.0,2,2023-02-01,Senegal,Africa
+2023,Serbia,February,153.0,2,2023-02-01,Serbia,Europe
+2023,Seychelles,February,7.0,2,2023-02-01,Seychelles,Africa
+2023,Sierra Leone,February,2.0,2,2023-02-01,Sierra Leone,Africa
+2023,Singapore,February,486.0,2,2023-02-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),February,515.0,2,2023-02-01,Slovakia,Europe
+2023,Slovenia,February,184.0,2,2023-02-01,Slovenia,Europe
+2023,Solomon Islands,February,2.0,2,2023-02-01,Solomon Islands,Oceania
+2023,Somalia,February,3.0,2,2023-02-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,February,141.0,2,2023-02-01,South Africa,Africa
+2023,South Korea,February,508.0,2,2023-02-01,South Korea,Asia
+2023,South Sudan,February,0.0,2,2023-02-01,South Sudan,Africa
+2023,Spain,February,770.0,2,2023-02-01,Spain,Europe
+2023,Sudan,February,37.0,2,2023-02-01,Sudan,Africa
+2023,Suriname,February,0.0,2,2023-02-01,Suriname,America
+2023,Swaziland,February,0.0,2,2023-02-01,Eswatini,Africa
+2023,Sweden,February,836.0,2,2023-02-01,Sweden,Europe
+2023,Switzerland,February,1812.0,2,2023-02-01,Switzerland,Europe
+2023,Syrian Arab Republic,February,1.0,2,2023-02-01,Syria,Asia
+2023,Taiwan Province of China,February,193.0,2,2023-02-01,Taiwan,Asia
+2023,Tajikistan,February,19.0,2,2023-02-01,Tajikistan,Asia
+2023,Tanzania,February,10.0,2,2023-02-01,Tanzania,Africa
+2023,Thailand,February,210.0,2,2023-02-01,Thailand,Asia
+2023,Timor-Leste,February,0.0,2,2023-02-01,Timor-Leste,Asia
+2023,Togo,February,1.0,2,2023-02-01,Togo,Africa
+2023,Tonga,February,0.0,2,2023-02-01,Tonga,Oceania
+2023,Trinidad and Tobago,February,7.0,2,2023-02-01,Trinidad and Tobago,America
+2023,Tunisia,February,39.0,2,2023-02-01,Tunisia,Africa
+2023,Turkey,February,246.0,2,2023-02-01,Türkiye,Asia
+2023,Turkmenistan,February,18.0,2,2023-02-01,Turkmenistan,Asia
+2023,Tuvalu,February,0.0,2,2023-02-01,Tuvalu,Oceania
+2023,Uganda,February,1.0,2,2023-02-01,Uganda,Africa
+2023,Ukraine,February,562.0,2,2023-02-01,Ukraine,Europe
+2023,United Arab Emirates,February,138.0,2,2023-02-01,United Arab Emirates,Asia
+2023,United Kingdom,February,8575.0,2,2023-02-01,United Kingdom,Europe
+2023,United States,February,2443.0,2,2023-02-01,United States,America
+2023,Uruguay,February,4.0,2,2023-02-01,Uruguay,America
+2023,Uzbekistan,February,383.0,2,2023-02-01,Uzbekistan,Asia
+2023,Vanuatu,February,2.0,2,2023-02-01,Vanuatu,Oceania
+2023,Venezuela,February,5.0,2,2023-02-01,Venezuela,America
+2023,Viet Nam,February,103.0,2,2023-02-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),February,26.0,2,2023-02-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),February,7.0,2,2023-02-01,Zambia,Africa
+2023,Zimbabwe,February,4.0,2,2023-02-01,Zimbabwe,Africa
+2023,Afghanistan,March,1.0,3,2023-03-01,Afghanistan,Asia
+2023,Albania,March,4.0,3,2023-03-01,Albania,Europe
+2023,Algeria,March,15.0,3,2023-03-01,Algeria,Africa
+2023,Andorra,March,1.0,3,2023-03-01,Andorra,Europe
+2023,Angola,March,1.0,3,2023-03-01,Angola,Africa
+2023,Antigua and Barbuda,March,2.0,3,2023-03-01,Antigua and Barbuda,America
+2023,Argentina,March,94.0,3,2023-03-01,Argentina,America
+2023,Armenia,March,124.0,3,2023-03-01,Armenia,Asia
+2023,Aruba,March,0.0,3,2023-03-01,Aruba,America
+2023,Australia,March,4725.0,3,2023-03-01,Australia,Oceania
+2023,Austria,March,872.0,3,2023-03-01,Austria,Europe
+2023,Azerbaijan,March,343.0,3,2023-03-01,Azerbaijan,Asia
+2023,Bahamas,March,3.0,3,2023-03-01,Bahamas,America
+2023,Bahrain,March,56.0,3,2023-03-01,Bahrain,Asia
+2023,Bangladesh,March,612.0,3,2023-03-01,Bangladesh,Asia
+2023,Barbados,March,3.0,3,2023-03-01,Barbados,America
+2023,Belarus,March,1399.0,3,2023-03-01,Belarus,Europe
+2023,Belgium,March,722.0,3,2023-03-01,Belgium,Europe
+2023,Belize,March,1.0,3,2023-03-01,Belize,America
+2023,Benin,March,0.0,3,2023-03-01,Benin,Africa
+2023,Bhutan,March,24.0,3,2023-03-01,Bhutan,Asia
+2023,Bolivia,March,6.0,3,2023-03-01,Bolivia,America
+2023,Bosnia and Herzegovina,March,15.0,3,2023-03-01,Bosnia and Herzegovina,Europe
+2023,Botswana,March,2.0,3,2023-03-01,Botswana,Africa
+2023,Brazil,March,112.0,3,2023-03-01,Brazil,America
+2023,Brunei Darussalam,March,1.0,3,2023-03-01,Brunei Darussalam,Asia
+2023,Bulgaria,March,283.0,3,2023-03-01,Bulgaria,Europe
+2023,Burkina Faso,March,0.0,3,2023-03-01,Burkina Faso,Africa
+2023,Burundi,March,0.0,3,2023-03-01,Burundi,Africa
+2023,Cambodia,March,47.0,3,2023-03-01,Cambodia,Asia
+2023,Cameroon,March,0.0,3,2023-03-01,Cameroon,Africa
+2023,Canada,March,4066.0,3,2023-03-01,Canada,America
+2023,Cape Verde,March,0.0,3,2023-03-01,Cabo Verde,Africa
+2023,Central African Republic,March,0.0,3,2023-03-01,Central African Republic,Africa
+2023,Chad,March,0.0,3,2023-03-01,Chad,Africa
+2023,Chile,March,27.0,3,2023-03-01,Chile,America
+2023,China,March,3096.0,3,2023-03-01,China,Asia
+2023,Colombia,March,46.0,3,2023-03-01,Colombia,America
+2023,Comoros,March,3.0,3,2023-03-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",March,1.0,3,2023-03-01,DR Congo,Africa
+2023,Costa Rica,March,8.0,3,2023-03-01,Costa Rica,America
+2023,Cote Divoire,March,0.0,3,2023-03-01,Côte d'Ivoire,Africa
+2023,Croatia,March,91.0,3,2023-03-01,Croatia,Europe
+2023,Cuba,March,12.0,3,2023-03-01,Cuba,America
+2023,Cyprus,March,67.0,3,2023-03-01,Cyprus,Asia
+2023,Czech Republic,March,1287.0,3,2023-03-01,Czechia,Europe
+2023,Denmark,March,895.0,3,2023-03-01,Denmark,Europe
+2023,Djibouti,March,0.0,3,2023-03-01,Djibouti,Africa
+2023,Dominica,March,14.0,3,2023-03-01,Dominica,America
+2023,Dominican Republic,March,2.0,3,2023-03-01,Dominican Republic,America
+2023,Ecuador,March,7.0,3,2023-03-01,Ecuador,America
+2023,Egypt,March,185.0,3,2023-03-01,Egypt,Africa
+2023,El Salvador,March,1.0,3,2023-03-01,El Salvador,America
+2023,Eritrea,March,3.0,3,2023-03-01,Eritrea,Africa
+2023,Estonia,March,197.0,3,2023-03-01,Estonia,Europe
+2023,Ethiopia,March,1.0,3,2023-03-01,Ethiopia,Africa
+2023,Fiji,March,17.0,3,2023-03-01,Fiji,Oceania
+2023,Finland,March,173.0,3,2023-03-01,Finland,Europe
+2023,France,March,5786.0,3,2023-03-01,France,Europe
+2023,Gabon,March,0.0,3,2023-03-01,Gabon,Africa
+2023,"Gambia, The",March,0.0,3,2023-03-01,Gambia,Africa
+2023,Georgia,March,102.0,3,2023-03-01,Georgia,Asia
+2023,Germany,March,9702.0,3,2023-03-01,Germany,Europe
+2023,Ghana,March,3.0,3,2023-03-01,Ghana,Africa
+2023,Greece,March,143.0,3,2023-03-01,Greece,Europe
+2023,Grenada,March,0.0,3,2023-03-01,Grenada,America
+2023,Guatemala,March,8.0,3,2023-03-01,Guatemala,America
+2023,Guinea,March,1.0,3,2023-03-01,Guinea,Africa
+2023,Guyana,March,2.0,3,2023-03-01,Guyana,America
+2023,Haiti,March,1.0,3,2023-03-01,Haiti,America
+2023,Honduras,March,6.0,3,2023-03-01,Honduras,America
+2023,Hungary,March,403.0,3,2023-03-01,Hungary,Europe
+2023,Iceland,March,16.0,3,2023-03-01,Iceland,Europe
+2023,India,March,18959.0,3,2023-03-01,India,Asia
+2023,Indonesia,March,133.0,3,2023-03-01,Indonesia,Asia
+2023,Iran,March,3738.0,3,2023-03-01,Iran,Asia
+2023,Iraq,March,64.0,3,2023-03-01,Iraq,Asia
+2023,Ireland,March,463.0,3,2023-03-01,Ireland,Europe
+2023,Israel,March,1765.0,3,2023-03-01,Israel,Asia
+2023,Italy,March,1272.0,3,2023-03-01,Italy,Europe
+2023,Jamaica,March,4.0,3,2023-03-01,Jamaica,America
+2023,Japan,March,1042.0,3,2023-03-01,Japan,Asia
+2023,Jordan,March,245.0,3,2023-03-01,Jordan,Asia
+2023,Kazakhstan,March,972.0,3,2023-03-01,Kazakhstan,Asia
+2023,Kenya,March,51.0,3,2023-03-01,Kenya,Africa
+2023,Kiribati,March,0.0,3,2023-03-01,Kiribati,Oceania
+2023,Kosovar,March,3.0,3,2023-03-01,Kosovar,Other
+2023,Kuwait,March,101.0,3,2023-03-01,Kuwait,Asia
+2023,Kyrgyzstan,March,83.0,3,2023-03-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",March,16.0,3,2023-03-01,Laos,Asia
+2023,Latvia,March,172.0,3,2023-03-01,Latvia,Europe
+2023,Lebanon,March,206.0,3,2023-03-01,Lebanon,Asia
+2023,Lesotho,March,0.0,3,2023-03-01,Lesotho,Africa
+2023,Liberia,March,2.0,3,2023-03-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),March,1.0,3,2023-03-01,Libya,Africa
+2023,Liechtenstein,March,3.0,3,2023-03-01,Liechtenstein,Europe
+2023,Lithuania,March,360.0,3,2023-03-01,Lithuania,Europe
+2023,Luxembourg,March,39.0,3,2023-03-01,Luxembourg,Europe
+2023,Macedonia,March,17.0,3,2023-03-01,North Macedonia,Europe
+2023,Madagascar,March,15.0,3,2023-03-01,Madagascar,Africa
+2023,Malawi,March,3.0,3,2023-03-01,Malawi,Africa
+2023,Malaysia,March,676.0,3,2023-03-01,Malaysia,Asia
+2023,Maldives,March,1774.0,3,2023-03-01,Maldives,Asia
+2023,Mali,March,0.0,3,2023-03-01,Mali,Africa
+2023,Malta,March,32.0,3,2023-03-01,Malta,Europe
+2023,Marshall Islands,March,1.0,3,2023-03-01,Marshall Islands,Oceania
+2023,Mauritania,March,1.0,3,2023-03-01,Mauritania,Africa
+2023,Mauritius,March,28.0,3,2023-03-01,Mauritius,Africa
+2023,Mexico,March,80.0,3,2023-03-01,Mexico,America
+2023,Moldova,March,56.0,3,2023-03-01,Moldova,Europe
+2023,Monaco,March,5.0,3,2023-03-01,Monaco,Europe
+2023,Mongolia,March,7.0,3,2023-03-01,Mongolia,Asia
+2023,Montenegro,March,6.0,3,2023-03-01,Montenegro,Europe
+2023,Morocco,March,58.0,3,2023-03-01,Morocco,Africa
+2023,Mozambique,March,3.0,3,2023-03-01,Mozambique,Africa
+2023,Myanmar,March,73.0,3,2023-03-01,Myanmar,Asia
+2023,Namibia,March,0.0,3,2023-03-01,Namibia,Africa
+2023,Nauru,March,0.0,3,2023-03-01,Nauru,Oceania
+2023,Nepal,March,295.0,3,2023-03-01,Nepal,Asia
+2023,Netherlands,March,1573.0,3,2023-03-01,Netherlands,Europe
+2023,New Zealand,March,543.0,3,2023-03-01,New Zealand,Oceania
+2023,Nicaragua,March,0.0,3,2023-03-01,Nicaragua,America
+2023,Niger,March,0.0,3,2023-03-01,Niger,Africa
+2023,Nigeria,March,3.0,3,2023-03-01,Nigeria,Africa
+2023,Norway,March,648.0,3,2023-03-01,Norway,Europe
+2023,Oman,March,63.0,3,2023-03-01,Oman,Asia
+2023,Pakistan,March,824.0,3,2023-03-01,Pakistan,Asia
+2023,Palau,March,0.0,3,2023-03-01,Palau,Oceania
+2023,Palestinian Territories,March,25.0,3,2023-03-01,Palestine,Asia
+2023,Panama,March,3.0,3,2023-03-01,Panama,America
+2023,Papua New Guinea,March,2.0,3,2023-03-01,Papua New Guinea,Oceania
+2023,Paraguay,March,2.0,3,2023-03-01,Paraguay,America
+2023,Peru,March,10.0,3,2023-03-01,Peru,America
+2023,Philippines,March,329.0,3,2023-03-01,Philippines,Asia
+2023,Poland,March,1507.0,3,2023-03-01,Poland,Europe
+2023,Portugal,March,299.0,3,2023-03-01,Portugal,Europe
+2023,Qatar,March,67.0,3,2023-03-01,Qatar,Asia
+2023,Romania,March,340.0,3,2023-03-01,Romania,Europe
+2023,Russian Federation,March,25553.0,3,2023-03-01,Russia,Europe
+2023,Rwanda,March,1.0,3,2023-03-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,March,9.0,3,2023-03-01,St. Kitts and Nevis,America
+2023,Saint Lucia,March,0.0,3,2023-03-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,March,0.0,3,2023-03-01,St. Vincent and the Grenadines,America
+2023,Samoa,March,0.0,3,2023-03-01,Samoa,Oceania
+2023,San Marino,March,0.0,3,2023-03-01,San Marino,Europe
+2023,Saudi Arabia,March,653.0,3,2023-03-01,Saudi Arabia,Asia
+2023,Senegal,March,2.0,3,2023-03-01,Senegal,Africa
+2023,Serbia,March,136.0,3,2023-03-01,Serbia,Europe
+2023,Seychelles,March,23.0,3,2023-03-01,Seychelles,Africa
+2023,Sierra Leone,March,1.0,3,2023-03-01,Sierra Leone,Africa
+2023,Singapore,March,636.0,3,2023-03-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),March,610.0,3,2023-03-01,Slovakia,Europe
+2023,Slovenia,March,88.0,3,2023-03-01,Slovenia,Europe
+2023,Solomon Islands,March,0.0,3,2023-03-01,Solomon Islands,Oceania
+2023,Somalia,March,4.0,3,2023-03-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,March,265.0,3,2023-03-01,South Africa,Africa
+2023,South Korea,March,479.0,3,2023-03-01,South Korea,Asia
+2023,South Sudan,March,0.0,3,2023-03-01,South Sudan,Africa
+2023,Spain,March,1125.0,3,2023-03-01,Spain,Europe
+2023,Sudan,March,52.0,3,2023-03-01,Sudan,Africa
+2023,Suriname,March,1.0,3,2023-03-01,Suriname,America
+2023,Swaziland,March,0.0,3,2023-03-01,Eswatini,Africa
+2023,Sweden,March,631.0,3,2023-03-01,Sweden,Europe
+2023,Switzerland,March,1660.0,3,2023-03-01,Switzerland,Europe
+2023,Syrian Arab Republic,March,1.0,3,2023-03-01,Syria,Asia
+2023,Taiwan Province of China,March,237.0,3,2023-03-01,Taiwan,Asia
+2023,Tajikistan,March,14.0,3,2023-03-01,Tajikistan,Asia
+2023,Tanzania,March,9.0,3,2023-03-01,Tanzania,Africa
+2023,Thailand,March,308.0,3,2023-03-01,Thailand,Asia
+2023,Timor-Leste,March,0.0,3,2023-03-01,Timor-Leste,Asia
+2023,Togo,March,0.0,3,2023-03-01,Togo,Africa
+2023,Tonga,March,0.0,3,2023-03-01,Tonga,Oceania
+2023,Trinidad and Tobago,March,6.0,3,2023-03-01,Trinidad and Tobago,America
+2023,Tunisia,March,48.0,3,2023-03-01,Tunisia,Africa
+2023,Turkey,March,227.0,3,2023-03-01,Türkiye,Asia
+2023,Turkmenistan,March,11.0,3,2023-03-01,Turkmenistan,Asia
+2023,Tuvalu,March,0.0,3,2023-03-01,Tuvalu,Oceania
+2023,Uganda,March,9.0,3,2023-03-01,Uganda,Africa
+2023,Ukraine,March,516.0,3,2023-03-01,Ukraine,Europe
+2023,United Arab Emirates,March,115.0,3,2023-03-01,United Arab Emirates,Asia
+2023,United Kingdom,March,11053.0,3,2023-03-01,United Kingdom,Europe
+2023,United States,March,5701.0,3,2023-03-01,United States,America
+2023,Uruguay,March,5.0,3,2023-03-01,Uruguay,America
+2023,Uzbekistan,March,58.0,3,2023-03-01,Uzbekistan,Asia
+2023,Vanuatu,March,6.0,3,2023-03-01,Vanuatu,Oceania
+2023,Venezuela,March,14.0,3,2023-03-01,Venezuela,America
+2023,Viet Nam,March,284.0,3,2023-03-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),March,28.0,3,2023-03-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),March,4.0,3,2023-03-01,Zambia,Africa
+2023,Zimbabwe,March,10.0,3,2023-03-01,Zimbabwe,Africa
+2023,Afghanistan,April,1.0,4,2023-04-01,Afghanistan,Asia
+2023,Albania,April,6.0,4,2023-04-01,Albania,Europe
+2023,Algeria,April,33.0,4,2023-04-01,Algeria,Africa
+2023,Andorra,April,3.0,4,2023-04-01,Andorra,Europe
+2023,Angola,April,1.0,4,2023-04-01,Angola,Africa
+2023,Antigua and Barbuda,April,3.0,4,2023-04-01,Antigua and Barbuda,America
+2023,Argentina,April,71.0,4,2023-04-01,Argentina,America
+2023,Armenia,April,158.0,4,2023-04-01,Armenia,Asia
+2023,Aruba,April,0.0,4,2023-04-01,Aruba,America
+2023,Australia,April,4996.0,4,2023-04-01,Australia,Oceania
+2023,Austria,April,649.0,4,2023-04-01,Austria,Europe
+2023,Azerbaijan,April,120.0,4,2023-04-01,Azerbaijan,Asia
+2023,Bahamas,April,3.0,4,2023-04-01,Bahamas,America
+2023,Bahrain,April,86.0,4,2023-04-01,Bahrain,Asia
+2023,Bangladesh,April,960.0,4,2023-04-01,Bangladesh,Asia
+2023,Barbados,April,0.0,4,2023-04-01,Barbados,America
+2023,Belarus,April,627.0,4,2023-04-01,Belarus,Europe
+2023,Belgium,April,636.0,4,2023-04-01,Belgium,Europe
+2023,Belize,April,2.0,4,2023-04-01,Belize,America
+2023,Benin,April,1.0,4,2023-04-01,Benin,Africa
+2023,Bhutan,April,25.0,4,2023-04-01,Bhutan,Asia
+2023,Bolivia,April,4.0,4,2023-04-01,Bolivia,America
+2023,Bosnia and Herzegovina,April,16.0,4,2023-04-01,Bosnia and Herzegovina,Europe
+2023,Botswana,April,3.0,4,2023-04-01,Botswana,Africa
+2023,Brazil,April,208.0,4,2023-04-01,Brazil,America
+2023,Brunei Darussalam,April,2.0,4,2023-04-01,Brunei Darussalam,Asia
+2023,Bulgaria,April,150.0,4,2023-04-01,Bulgaria,Europe
+2023,Burkina Faso,April,1.0,4,2023-04-01,Burkina Faso,Africa
+2023,Burundi,April,0.0,4,2023-04-01,Burundi,Africa
+2023,Cambodia,April,12.0,4,2023-04-01,Cambodia,Asia
+2023,Cameroon,April,0.0,4,2023-04-01,Cameroon,Africa
+2023,Canada,April,3310.0,4,2023-04-01,Canada,America
+2023,Cape Verde,April,1.0,4,2023-04-01,Cabo Verde,Africa
+2023,Central African Republic,April,0.0,4,2023-04-01,Central African Republic,Africa
+2023,Chad,April,0.0,4,2023-04-01,Chad,Africa
+2023,Chile,April,45.0,4,2023-04-01,Chile,America
+2023,China,April,5118.0,4,2023-04-01,China,Asia
+2023,Colombia,April,56.0,4,2023-04-01,Colombia,America
+2023,Comoros,April,3.0,4,2023-04-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",April,2.0,4,2023-04-01,DR Congo,Africa
+2023,Costa Rica,April,0.0,4,2023-04-01,Costa Rica,America
+2023,Cote Divoire,April,0.0,4,2023-04-01,Côte d'Ivoire,Africa
+2023,Croatia,April,57.0,4,2023-04-01,Croatia,Europe
+2023,Cuba,April,2.0,4,2023-04-01,Cuba,America
+2023,Cyprus,April,81.0,4,2023-04-01,Cyprus,Asia
+2023,Czech Republic,April,820.0,4,2023-04-01,Czechia,Europe
+2023,Denmark,April,727.0,4,2023-04-01,Denmark,Europe
+2023,Djibouti,April,1.0,4,2023-04-01,Djibouti,Africa
+2023,Dominica,April,4.0,4,2023-04-01,Dominica,America
+2023,Dominican Republic,April,2.0,4,2023-04-01,Dominican Republic,America
+2023,Ecuador,April,10.0,4,2023-04-01,Ecuador,America
+2023,Egypt,April,309.0,4,2023-04-01,Egypt,Africa
+2023,El Salvador,April,8.0,4,2023-04-01,El Salvador,America
+2023,Eritrea,April,2.0,4,2023-04-01,Eritrea,Africa
+2023,Estonia,April,60.0,4,2023-04-01,Estonia,Europe
+2023,Ethiopia,April,9.0,4,2023-04-01,Ethiopia,Africa
+2023,Fiji,April,4.0,4,2023-04-01,Fiji,Oceania
+2023,Finland,April,123.0,4,2023-04-01,Finland,Europe
+2023,France,April,5535.0,4,2023-04-01,France,Europe
+2023,Gabon,April,0.0,4,2023-04-01,Gabon,Africa
+2023,"Gambia, The",April,1.0,4,2023-04-01,Gambia,Africa
+2023,Georgia,April,87.0,4,2023-04-01,Georgia,Asia
+2023,Germany,April,7404.0,4,2023-04-01,Germany,Europe
+2023,Ghana,April,1.0,4,2023-04-01,Ghana,Africa
+2023,Greece,April,148.0,4,2023-04-01,Greece,Europe
+2023,Grenada,April,0.0,4,2023-04-01,Grenada,America
+2023,Guatemala,April,1.0,4,2023-04-01,Guatemala,America
+2023,Guinea,April,0.0,4,2023-04-01,Guinea,Africa
+2023,Guyana,April,0.0,4,2023-04-01,Guyana,America
+2023,Haiti,April,0.0,4,2023-04-01,Haiti,America
+2023,Honduras,April,1.0,4,2023-04-01,Honduras,America
+2023,Hungary,April,189.0,4,2023-04-01,Hungary,Europe
+2023,Iceland,April,14.0,4,2023-04-01,Iceland,Europe
+2023,India,April,19915.0,4,2023-04-01,India,Asia
+2023,Indonesia,April,173.0,4,2023-04-01,Indonesia,Asia
+2023,Iran,April,420.0,4,2023-04-01,Iran,Asia
+2023,Iraq,April,84.0,4,2023-04-01,Iraq,Asia
+2023,Ireland,April,490.0,4,2023-04-01,Ireland,Europe
+2023,Israel,April,1432.0,4,2023-04-01,Israel,Asia
+2023,Italy,April,1384.0,4,2023-04-01,Italy,Europe
+2023,Jamaica,April,6.0,4,2023-04-01,Jamaica,America
+2023,Japan,April,2318.0,4,2023-04-01,Japan,Asia
+2023,Jordan,April,376.0,4,2023-04-01,Jordan,Asia
+2023,Kazakhstan,April,159.0,4,2023-04-01,Kazakhstan,Asia
+2023,Kenya,April,52.0,4,2023-04-01,Kenya,Africa
+2023,Kiribati,April,0.0,4,2023-04-01,Kiribati,Oceania
+2023,Kosovar,April,6.0,4,2023-04-01,Kosovar,Other
+2023,Kuwait,April,191.0,4,2023-04-01,Kuwait,Asia
+2023,Kyrgyzstan,April,38.0,4,2023-04-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",April,2.0,4,2023-04-01,Laos,Asia
+2023,Latvia,April,59.0,4,2023-04-01,Latvia,Europe
+2023,Lebanon,April,616.0,4,2023-04-01,Lebanon,Asia
+2023,Lesotho,April,0.0,4,2023-04-01,Lesotho,Africa
+2023,Liberia,April,0.0,4,2023-04-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),April,4.0,4,2023-04-01,Libya,Africa
+2023,Liechtenstein,April,9.0,4,2023-04-01,Liechtenstein,Europe
+2023,Lithuania,April,223.0,4,2023-04-01,Lithuania,Europe
+2023,Luxembourg,April,93.0,4,2023-04-01,Luxembourg,Europe
+2023,Macedonia,April,28.0,4,2023-04-01,North Macedonia,Europe
+2023,Madagascar,April,7.0,4,2023-04-01,Madagascar,Africa
+2023,Malawi,April,5.0,4,2023-04-01,Malawi,Africa
+2023,Malaysia,April,735.0,4,2023-04-01,Malaysia,Asia
+2023,Maldives,April,1596.0,4,2023-04-01,Maldives,Asia
+2023,Mali,April,0.0,4,2023-04-01,Mali,Africa
+2023,Malta,April,33.0,4,2023-04-01,Malta,Europe
+2023,Marshall Islands,April,1.0,4,2023-04-01,Marshall Islands,Oceania
+2023,Mauritania,April,0.0,4,2023-04-01,Mauritania,Africa
+2023,Mauritius,April,20.0,4,2023-04-01,Mauritius,Africa
+2023,Mexico,April,82.0,4,2023-04-01,Mexico,America
+2023,Moldova,April,25.0,4,2023-04-01,Moldova,Europe
+2023,Monaco,April,6.0,4,2023-04-01,Monaco,Europe
+2023,Mongolia,April,20.0,4,2023-04-01,Mongolia,Asia
+2023,Montenegro,April,10.0,4,2023-04-01,Montenegro,Europe
+2023,Morocco,April,65.0,4,2023-04-01,Morocco,Africa
+2023,Mozambique,April,0.0,4,2023-04-01,Mozambique,Africa
+2023,Myanmar,April,44.0,4,2023-04-01,Myanmar,Asia
+2023,Namibia,April,0.0,4,2023-04-01,Namibia,Africa
+2023,Nauru,April,0.0,4,2023-04-01,Nauru,Oceania
+2023,Nepal,April,226.0,4,2023-04-01,Nepal,Asia
+2023,Netherlands,April,1593.0,4,2023-04-01,Netherlands,Europe
+2023,New Zealand,April,627.0,4,2023-04-01,New Zealand,Oceania
+2023,Nicaragua,April,1.0,4,2023-04-01,Nicaragua,America
+2023,Niger,April,0.0,4,2023-04-01,Niger,Africa
+2023,Nigeria,April,3.0,4,2023-04-01,Nigeria,Africa
+2023,Norway,April,487.0,4,2023-04-01,Norway,Europe
+2023,Oman,April,64.0,4,2023-04-01,Oman,Asia
+2023,Pakistan,April,399.0,4,2023-04-01,Pakistan,Asia
+2023,Palau,April,0.0,4,2023-04-01,Palau,Oceania
+2023,Palestinian Territories,April,41.0,4,2023-04-01,Palestine,Asia
+2023,Panama,April,0.0,4,2023-04-01,Panama,America
+2023,Papua New Guinea,April,0.0,4,2023-04-01,Papua New Guinea,Oceania
+2023,Paraguay,April,3.0,4,2023-04-01,Paraguay,America
+2023,Peru,April,14.0,4,2023-04-01,Peru,America
+2023,Philippines,April,369.0,4,2023-04-01,Philippines,Asia
+2023,Poland,April,1129.0,4,2023-04-01,Poland,Europe
+2023,Portugal,April,486.0,4,2023-04-01,Portugal,Europe
+2023,Qatar,April,62.0,4,2023-04-01,Qatar,Asia
+2023,Romania,April,315.0,4,2023-04-01,Romania,Europe
+2023,Russian Federation,April,14656.0,4,2023-04-01,Russia,Europe
+2023,Rwanda,April,2.0,4,2023-04-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,April,11.0,4,2023-04-01,St. Kitts and Nevis,America
+2023,Saint Lucia,April,1.0,4,2023-04-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,April,0.0,4,2023-04-01,St. Vincent and the Grenadines,America
+2023,Samoa,April,0.0,4,2023-04-01,Samoa,Oceania
+2023,San Marino,April,0.0,4,2023-04-01,San Marino,Europe
+2023,Saudi Arabia,April,414.0,4,2023-04-01,Saudi Arabia,Asia
+2023,Senegal,April,3.0,4,2023-04-01,Senegal,Africa
+2023,Serbia,April,172.0,4,2023-04-01,Serbia,Europe
+2023,Seychelles,April,33.0,4,2023-04-01,Seychelles,Africa
+2023,Sierra Leone,April,4.0,4,2023-04-01,Sierra Leone,Africa
+2023,Singapore,April,500.0,4,2023-04-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),April,475.0,4,2023-04-01,Slovakia,Europe
+2023,Slovenia,April,197.0,4,2023-04-01,Slovenia,Europe
+2023,Solomon Islands,April,0.0,4,2023-04-01,Solomon Islands,Oceania
+2023,Somalia,April,3.0,4,2023-04-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,April,315.0,4,2023-04-01,South Africa,Africa
+2023,South Korea,April,469.0,4,2023-04-01,South Korea,Asia
+2023,South Sudan,April,0.0,4,2023-04-01,South Sudan,Africa
+2023,Spain,April,1619.0,4,2023-04-01,Spain,Europe
+2023,Sudan,April,44.0,4,2023-04-01,Sudan,Africa
+2023,Suriname,April,1.0,4,2023-04-01,Suriname,America
+2023,Swaziland,April,0.0,4,2023-04-01,Eswatini,Africa
+2023,Sweden,April,509.0,4,2023-04-01,Sweden,Europe
+2023,Switzerland,April,2091.0,4,2023-04-01,Switzerland,Europe
+2023,Syrian Arab Republic,April,0.0,4,2023-04-01,Syria,Asia
+2023,Taiwan Province of China,April,244.0,4,2023-04-01,Taiwan,Asia
+2023,Tajikistan,April,9.0,4,2023-04-01,Tajikistan,Asia
+2023,Tanzania,April,11.0,4,2023-04-01,Tanzania,Africa
+2023,Thailand,April,406.0,4,2023-04-01,Thailand,Asia
+2023,Timor-Leste,April,6.0,4,2023-04-01,Timor-Leste,Asia
+2023,Togo,April,3.0,4,2023-04-01,Togo,Africa
+2023,Tonga,April,0.0,4,2023-04-01,Tonga,Oceania
+2023,Trinidad and Tobago,April,5.0,4,2023-04-01,Trinidad and Tobago,America
+2023,Tunisia,April,106.0,4,2023-04-01,Tunisia,Africa
+2023,Turkey,April,289.0,4,2023-04-01,Türkiye,Asia
+2023,Turkmenistan,April,13.0,4,2023-04-01,Turkmenistan,Asia
+2023,Tuvalu,April,0.0,4,2023-04-01,Tuvalu,Oceania
+2023,Uganda,April,4.0,4,2023-04-01,Uganda,Africa
+2023,Ukraine,April,326.0,4,2023-04-01,Ukraine,Europe
+2023,United Arab Emirates,April,169.0,4,2023-04-01,United Arab Emirates,Asia
+2023,United Kingdom,April,8743.0,4,2023-04-01,United Kingdom,Europe
+2023,United States,April,3940.0,4,2023-04-01,United States,America
+2023,Uruguay,April,14.0,4,2023-04-01,Uruguay,America
+2023,Uzbekistan,April,25.0,4,2023-04-01,Uzbekistan,Asia
+2023,Vanuatu,April,5.0,4,2023-04-01,Vanuatu,Oceania
+2023,Venezuela,April,18.0,4,2023-04-01,Venezuela,America
+2023,Viet Nam,April,141.0,4,2023-04-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),April,22.0,4,2023-04-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),April,6.0,4,2023-04-01,Zambia,Africa
+2023,Zimbabwe,April,16.0,4,2023-04-01,Zimbabwe,Africa
+2023,Afghanistan,May,24.0,5,2023-05-01,Afghanistan,Asia
+2023,Albania,May,7.0,5,2023-05-01,Albania,Europe
+2023,Algeria,May,22.0,5,2023-05-01,Algeria,Africa
+2023,Andorra,May,2.0,5,2023-05-01,Andorra,Europe
+2023,Angola,May,0.0,5,2023-05-01,Angola,Africa
+2023,Antigua and Barbuda,May,1.0,5,2023-05-01,Antigua and Barbuda,America
+2023,Argentina,May,66.0,5,2023-05-01,Argentina,America
+2023,Armenia,May,74.0,5,2023-05-01,Armenia,Asia
+2023,Aruba,May,1.0,5,2023-05-01,Aruba,America
+2023,Australia,May,4201.0,5,2023-05-01,Australia,Oceania
+2023,Austria,May,440.0,5,2023-05-01,Austria,Europe
+2023,Azerbaijan,May,54.0,5,2023-05-01,Azerbaijan,Asia
+2023,Bahamas,May,0.0,5,2023-05-01,Bahamas,America
+2023,Bahrain,May,78.0,5,2023-05-01,Bahrain,Asia
+2023,Bangladesh,May,1145.0,5,2023-05-01,Bangladesh,Asia
+2023,Barbados,May,1.0,5,2023-05-01,Barbados,America
+2023,Belarus,May,428.0,5,2023-05-01,Belarus,Europe
+2023,Belgium,May,420.0,5,2023-05-01,Belgium,Europe
+2023,Belize,May,0.0,5,2023-05-01,Belize,America
+2023,Benin,May,0.0,5,2023-05-01,Benin,Africa
+2023,Bhutan,May,21.0,5,2023-05-01,Bhutan,Asia
+2023,Bolivia,May,5.0,5,2023-05-01,Bolivia,America
+2023,Bosnia and Herzegovina,May,18.0,5,2023-05-01,Bosnia and Herzegovina,Europe
+2023,Botswana,May,7.0,5,2023-05-01,Botswana,Africa
+2023,Brazil,May,74.0,5,2023-05-01,Brazil,America
+2023,Brunei Darussalam,May,0.0,5,2023-05-01,Brunei Darussalam,Asia
+2023,Bulgaria,May,18.0,5,2023-05-01,Bulgaria,Europe
+2023,Burkina Faso,May,4.0,5,2023-05-01,Burkina Faso,Africa
+2023,Burundi,May,0.0,5,2023-05-01,Burundi,Africa
+2023,Cambodia,May,75.0,5,2023-05-01,Cambodia,Asia
+2023,Cameroon,May,2.0,5,2023-05-01,Cameroon,Africa
+2023,Canada,May,3753.0,5,2023-05-01,Canada,America
+2023,Cape Verde,May,0.0,5,2023-05-01,Cabo Verde,Africa
+2023,Central African Republic,May,0.0,5,2023-05-01,Central African Republic,Africa
+2023,Chad,May,0.0,5,2023-05-01,Chad,Africa
+2023,Chile,May,33.0,5,2023-05-01,Chile,America
+2023,China,May,4173.0,5,2023-05-01,China,Asia
+2023,Colombia,May,33.0,5,2023-05-01,Colombia,America
+2023,Comoros,May,5.0,5,2023-05-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",May,2.0,5,2023-05-01,DR Congo,Africa
+2023,Costa Rica,May,3.0,5,2023-05-01,Costa Rica,America
+2023,Cote Divoire,May,0.0,5,2023-05-01,Côte d'Ivoire,Africa
+2023,Croatia,May,24.0,5,2023-05-01,Croatia,Europe
+2023,Cuba,May,6.0,5,2023-05-01,Cuba,America
+2023,Cyprus,May,28.0,5,2023-05-01,Cyprus,Asia
+2023,Czech Republic,May,259.0,5,2023-05-01,Czechia,Europe
+2023,Denmark,May,348.0,5,2023-05-01,Denmark,Europe
+2023,Djibouti,May,0.0,5,2023-05-01,Djibouti,Africa
+2023,Dominica,May,4.0,5,2023-05-01,Dominica,America
+2023,Dominican Republic,May,1.0,5,2023-05-01,Dominican Republic,America
+2023,Ecuador,May,6.0,5,2023-05-01,Ecuador,America
+2023,Egypt,May,164.0,5,2023-05-01,Egypt,Africa
+2023,El Salvador,May,4.0,5,2023-05-01,El Salvador,America
+2023,Eritrea,May,4.0,5,2023-05-01,Eritrea,Africa
+2023,Estonia,May,35.0,5,2023-05-01,Estonia,Europe
+2023,Ethiopia,May,5.0,5,2023-05-01,Ethiopia,Africa
+2023,Fiji,May,8.0,5,2023-05-01,Fiji,Oceania
+2023,Finland,May,93.0,5,2023-05-01,Finland,Europe
+2023,France,May,2414.0,5,2023-05-01,France,Europe
+2023,Gabon,May,0.0,5,2023-05-01,Gabon,Africa
+2023,"Gambia, The",May,0.0,5,2023-05-01,Gambia,Africa
+2023,Georgia,May,51.0,5,2023-05-01,Georgia,Asia
+2023,Germany,May,6854.0,5,2023-05-01,Germany,Europe
+2023,Ghana,May,5.0,5,2023-05-01,Ghana,Africa
+2023,Greece,May,48.0,5,2023-05-01,Greece,Europe
+2023,Grenada,May,1.0,5,2023-05-01,Grenada,America
+2023,Guatemala,May,1.0,5,2023-05-01,Guatemala,America
+2023,Guinea,May,0.0,5,2023-05-01,Guinea,Africa
+2023,Guyana,May,1.0,5,2023-05-01,Guyana,America
+2023,Haiti,May,0.0,5,2023-05-01,Haiti,America
+2023,Honduras,May,2.0,5,2023-05-01,Honduras,America
+2023,Hungary,May,72.0,5,2023-05-01,Hungary,Europe
+2023,Iceland,May,16.0,5,2023-05-01,Iceland,Europe
+2023,India,May,23016.0,5,2023-05-01,India,Asia
+2023,Indonesia,May,142.0,5,2023-05-01,Indonesia,Asia
+2023,Iran,May,259.0,5,2023-05-01,Iran,Asia
+2023,Iraq,May,58.0,5,2023-05-01,Iraq,Asia
+2023,Ireland,May,186.0,5,2023-05-01,Ireland,Europe
+2023,Israel,May,863.0,5,2023-05-01,Israel,Asia
+2023,Italy,May,680.0,5,2023-05-01,Italy,Europe
+2023,Jamaica,May,3.0,5,2023-05-01,Jamaica,America
+2023,Japan,May,876.0,5,2023-05-01,Japan,Asia
+2023,Jordan,May,249.0,5,2023-05-01,Jordan,Asia
+2023,Kazakhstan,May,75.0,5,2023-05-01,Kazakhstan,Asia
+2023,Kenya,May,24.0,5,2023-05-01,Kenya,Africa
+2023,Kiribati,May,0.0,5,2023-05-01,Kiribati,Oceania
+2023,Kosovar,May,9.0,5,2023-05-01,Kosovar,Other
+2023,Kuwait,May,99.0,5,2023-05-01,Kuwait,Asia
+2023,Kyrgyzstan,May,36.0,5,2023-05-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",May,8.0,5,2023-05-01,Laos,Asia
+2023,Latvia,May,39.0,5,2023-05-01,Latvia,Europe
+2023,Lebanon,May,161.0,5,2023-05-01,Lebanon,Asia
+2023,Lesotho,May,0.0,5,2023-05-01,Lesotho,Africa
+2023,Liberia,May,0.0,5,2023-05-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),May,5.0,5,2023-05-01,Libya,Africa
+2023,Liechtenstein,May,10.0,5,2023-05-01,Liechtenstein,Europe
+2023,Lithuania,May,59.0,5,2023-05-01,Lithuania,Europe
+2023,Luxembourg,May,33.0,5,2023-05-01,Luxembourg,Europe
+2023,Macedonia,May,4.0,5,2023-05-01,North Macedonia,Europe
+2023,Madagascar,May,9.0,5,2023-05-01,Madagascar,Africa
+2023,Malawi,May,4.0,5,2023-05-01,Malawi,Africa
+2023,Malaysia,May,895.0,5,2023-05-01,Malaysia,Asia
+2023,Maldives,May,2438.0,5,2023-05-01,Maldives,Asia
+2023,Mali,May,1.0,5,2023-05-01,Mali,Africa
+2023,Malta,May,17.0,5,2023-05-01,Malta,Europe
+2023,Marshall Islands,May,0.0,5,2023-05-01,Marshall Islands,Oceania
+2023,Mauritania,May,0.0,5,2023-05-01,Mauritania,Africa
+2023,Mauritius,May,25.0,5,2023-05-01,Mauritius,Africa
+2023,Mexico,May,46.0,5,2023-05-01,Mexico,America
+2023,Moldova,May,14.0,5,2023-05-01,Moldova,Europe
+2023,Monaco,May,0.0,5,2023-05-01,Monaco,Europe
+2023,Mongolia,May,2.0,5,2023-05-01,Mongolia,Asia
+2023,Montenegro,May,2.0,5,2023-05-01,Montenegro,Europe
+2023,Morocco,May,40.0,5,2023-05-01,Morocco,Africa
+2023,Mozambique,May,0.0,5,2023-05-01,Mozambique,Africa
+2023,Myanmar,May,90.0,5,2023-05-01,Myanmar,Asia
+2023,Namibia,May,4.0,5,2023-05-01,Namibia,Africa
+2023,Nauru,May,0.0,5,2023-05-01,Nauru,Oceania
+2023,Nepal,May,361.0,5,2023-05-01,Nepal,Asia
+2023,Netherlands,May,1072.0,5,2023-05-01,Netherlands,Europe
+2023,New Zealand,May,540.0,5,2023-05-01,New Zealand,Oceania
+2023,Nicaragua,May,1.0,5,2023-05-01,Nicaragua,America
+2023,Niger,May,1.0,5,2023-05-01,Niger,Africa
+2023,Nigeria,May,4.0,5,2023-05-01,Nigeria,Africa
+2023,Norway,May,344.0,5,2023-05-01,Norway,Europe
+2023,Oman,May,93.0,5,2023-05-01,Oman,Asia
+2023,Pakistan,May,580.0,5,2023-05-01,Pakistan,Asia
+2023,Palau,May,0.0,5,2023-05-01,Palau,Oceania
+2023,Palestinian Territories,May,41.0,5,2023-05-01,Palestine,Asia
+2023,Panama,May,1.0,5,2023-05-01,Panama,America
+2023,Papua New Guinea,May,0.0,5,2023-05-01,Papua New Guinea,Oceania
+2023,Paraguay,May,2.0,5,2023-05-01,Paraguay,America
+2023,Peru,May,6.0,5,2023-05-01,Peru,America
+2023,Philippines,May,300.0,5,2023-05-01,Philippines,Asia
+2023,Poland,May,616.0,5,2023-05-01,Poland,Europe
+2023,Portugal,May,155.0,5,2023-05-01,Portugal,Europe
+2023,Qatar,May,25.0,5,2023-05-01,Qatar,Asia
+2023,Romania,May,163.0,5,2023-05-01,Romania,Europe
+2023,Russian Federation,May,7760.0,5,2023-05-01,Russia,Europe
+2023,Rwanda,May,3.0,5,2023-05-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,May,7.0,5,2023-05-01,St. Kitts and Nevis,America
+2023,Saint Lucia,May,0.0,5,2023-05-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,May,0.0,5,2023-05-01,St. Vincent and the Grenadines,America
+2023,Samoa,May,0.0,5,2023-05-01,Samoa,Oceania
+2023,San Marino,May,1.0,5,2023-05-01,San Marino,Europe
+2023,Saudi Arabia,May,372.0,5,2023-05-01,Saudi Arabia,Asia
+2023,Senegal,May,0.0,5,2023-05-01,Senegal,Africa
+2023,Serbia,May,41.0,5,2023-05-01,Serbia,Europe
+2023,Seychelles,May,30.0,5,2023-05-01,Seychelles,Africa
+2023,Sierra Leone,May,0.0,5,2023-05-01,Sierra Leone,Africa
+2023,Singapore,May,691.0,5,2023-05-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),May,172.0,5,2023-05-01,Slovakia,Europe
+2023,Slovenia,May,25.0,5,2023-05-01,Slovenia,Europe
+2023,Solomon Islands,May,0.0,5,2023-05-01,Solomon Islands,Oceania
+2023,Somalia,May,4.0,5,2023-05-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,May,145.0,5,2023-05-01,South Africa,Africa
+2023,South Korea,May,498.0,5,2023-05-01,South Korea,Asia
+2023,South Sudan,May,8.0,5,2023-05-01,South Sudan,Africa
+2023,Spain,May,857.0,5,2023-05-01,Spain,Europe
+2023,Sudan,May,31.0,5,2023-05-01,Sudan,Africa
+2023,Suriname,May,0.0,5,2023-05-01,Suriname,America
+2023,Swaziland,May,2.0,5,2023-05-01,Eswatini,Africa
+2023,Sweden,May,287.0,5,2023-05-01,Sweden,Europe
+2023,Switzerland,May,1208.0,5,2023-05-01,Switzerland,Europe
+2023,Syrian Arab Republic,May,2.0,5,2023-05-01,Syria,Asia
+2023,Taiwan Province of China,May,211.0,5,2023-05-01,Taiwan,Asia
+2023,Tajikistan,May,11.0,5,2023-05-01,Tajikistan,Asia
+2023,Tanzania,May,9.0,5,2023-05-01,Tanzania,Africa
+2023,Thailand,May,455.0,5,2023-05-01,Thailand,Asia
+2023,Timor-Leste,May,0.0,5,2023-05-01,Timor-Leste,Asia
+2023,Togo,May,1.0,5,2023-05-01,Togo,Africa
+2023,Tonga,May,4.0,5,2023-05-01,Tonga,Oceania
+2023,Trinidad and Tobago,May,5.0,5,2023-05-01,Trinidad and Tobago,America
+2023,Tunisia,May,27.0,5,2023-05-01,Tunisia,Africa
+2023,Turkey,May,141.0,5,2023-05-01,Türkiye,Asia
+2023,Turkmenistan,May,7.0,5,2023-05-01,Turkmenistan,Asia
+2023,Tuvalu,May,0.0,5,2023-05-01,Tuvalu,Oceania
+2023,Uganda,May,7.0,5,2023-05-01,Uganda,Africa
+2023,Ukraine,May,167.0,5,2023-05-01,Ukraine,Europe
+2023,United Arab Emirates,May,155.0,5,2023-05-01,United Arab Emirates,Asia
+2023,United Kingdom,May,5987.0,5,2023-05-01,United Kingdom,Europe
+2023,United States,May,3240.0,5,2023-05-01,United States,America
+2023,Uruguay,May,5.0,5,2023-05-01,Uruguay,America
+2023,Uzbekistan,May,26.0,5,2023-05-01,Uzbekistan,Asia
+2023,Vanuatu,May,3.0,5,2023-05-01,Vanuatu,Oceania
+2023,Venezuela,May,3.0,5,2023-05-01,Venezuela,America
+2023,Viet Nam,May,233.0,5,2023-05-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),May,25.0,5,2023-05-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),May,3.0,5,2023-05-01,Zambia,Africa
+2023,Zimbabwe,May,10.0,5,2023-05-01,Zimbabwe,Africa
+2023,Afghanistan,June,6.0,6,2023-06-01,Afghanistan,Asia
+2023,Albania,June,9.0,6,2023-06-01,Albania,Europe
+2023,Algeria,June,25.0,6,2023-06-01,Algeria,Africa
+2023,Andorra,June,2.0,6,2023-06-01,Andorra,Europe
+2023,Angola,June,0.0,6,2023-06-01,Angola,Africa
+2023,Antigua and Barbuda,June,0.0,6,2023-06-01,Antigua and Barbuda,America
+2023,Argentina,June,37.0,6,2023-06-01,Argentina,America
+2023,Armenia,June,85.0,6,2023-06-01,Armenia,Asia
+2023,Aruba,June,0.0,6,2023-06-01,Aruba,America
+2023,Australia,June,6195.0,6,2023-06-01,Australia,Oceania
+2023,Austria,June,299.0,6,2023-06-01,Austria,Europe
+2023,Azerbaijan,June,71.0,6,2023-06-01,Azerbaijan,Asia
+2023,Bahamas,June,2.0,6,2023-06-01,Bahamas,America
+2023,Bahrain,June,171.0,6,2023-06-01,Bahrain,Asia
+2023,Bangladesh,June,1072.0,6,2023-06-01,Bangladesh,Asia
+2023,Barbados,June,1.0,6,2023-06-01,Barbados,America
+2023,Belarus,June,441.0,6,2023-06-01,Belarus,Europe
+2023,Belgium,June,438.0,6,2023-06-01,Belgium,Europe
+2023,Belize,June,1.0,6,2023-06-01,Belize,America
+2023,Benin,June,0.0,6,2023-06-01,Benin,Africa
+2023,Bhutan,June,39.0,6,2023-06-01,Bhutan,Asia
+2023,Bolivia,June,2.0,6,2023-06-01,Bolivia,America
+2023,Bosnia and Herzegovina,June,3.0,6,2023-06-01,Bosnia and Herzegovina,Europe
+2023,Botswana,June,3.0,6,2023-06-01,Botswana,Africa
+2023,Brazil,June,84.0,6,2023-06-01,Brazil,America
+2023,Brunei Darussalam,June,3.0,6,2023-06-01,Brunei Darussalam,Asia
+2023,Bulgaria,June,16.0,6,2023-06-01,Bulgaria,Europe
+2023,Burkina Faso,June,0.0,6,2023-06-01,Burkina Faso,Africa
+2023,Burundi,June,0.0,6,2023-06-01,Burundi,Africa
+2023,Cambodia,June,75.0,6,2023-06-01,Cambodia,Asia
+2023,Cameroon,June,2.0,6,2023-06-01,Cameroon,Africa
+2023,Canada,June,4509.0,6,2023-06-01,Canada,America
+2023,Cape Verde,June,0.0,6,2023-06-01,Cabo Verde,Africa
+2023,Central African Republic,June,0.0,6,2023-06-01,Central African Republic,Africa
+2023,Chad,June,0.0,6,2023-06-01,Chad,Africa
+2023,Chile,June,42.0,6,2023-06-01,Chile,America
+2023,China,June,5105.0,6,2023-06-01,China,Asia
+2023,Colombia,June,42.0,6,2023-06-01,Colombia,America
+2023,Comoros,June,12.0,6,2023-06-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",June,3.0,6,2023-06-01,DR Congo,Africa
+2023,Costa Rica,June,7.0,6,2023-06-01,Costa Rica,America
+2023,Cote Divoire,June,1.0,6,2023-06-01,Côte d'Ivoire,Africa
+2023,Croatia,June,23.0,6,2023-06-01,Croatia,Europe
+2023,Cuba,June,2.0,6,2023-06-01,Cuba,America
+2023,Cyprus,June,49.0,6,2023-06-01,Cyprus,Asia
+2023,Czech Republic,June,277.0,6,2023-06-01,Czechia,Europe
+2023,Denmark,June,680.0,6,2023-06-01,Denmark,Europe
+2023,Djibouti,June,1.0,6,2023-06-01,Djibouti,Africa
+2023,Dominica,June,7.0,6,2023-06-01,Dominica,America
+2023,Dominican Republic,June,3.0,6,2023-06-01,Dominican Republic,America
+2023,Ecuador,June,8.0,6,2023-06-01,Ecuador,America
+2023,Egypt,June,260.0,6,2023-06-01,Egypt,Africa
+2023,El Salvador,June,2.0,6,2023-06-01,El Salvador,America
+2023,Eritrea,June,3.0,6,2023-06-01,Eritrea,Africa
+2023,Estonia,June,19.0,6,2023-06-01,Estonia,Europe
+2023,Ethiopia,June,12.0,6,2023-06-01,Ethiopia,Africa
+2023,Fiji,June,9.0,6,2023-06-01,Fiji,Oceania
+2023,Finland,June,116.0,6,2023-06-01,Finland,Europe
+2023,France,June,2895.0,6,2023-06-01,France,Europe
+2023,Gabon,June,1.0,6,2023-06-01,Gabon,Africa
+2023,"Gambia, The",June,0.0,6,2023-06-01,Gambia,Africa
+2023,Georgia,June,44.0,6,2023-06-01,Georgia,Asia
+2023,Germany,June,5090.0,6,2023-06-01,Germany,Europe
+2023,Ghana,June,3.0,6,2023-06-01,Ghana,Africa
+2023,Greece,June,38.0,6,2023-06-01,Greece,Europe
+2023,Grenada,June,0.0,6,2023-06-01,Grenada,America
+2023,Guatemala,June,0.0,6,2023-06-01,Guatemala,America
+2023,Guinea,June,1.0,6,2023-06-01,Guinea,Africa
+2023,Guyana,June,1.0,6,2023-06-01,Guyana,America
+2023,Haiti,June,1.0,6,2023-06-01,Haiti,America
+2023,Honduras,June,2.0,6,2023-06-01,Honduras,America
+2023,Hungary,June,98.0,6,2023-06-01,Hungary,Europe
+2023,Iceland,June,11.0,6,2023-06-01,Iceland,Europe
+2023,India,June,26830.0,6,2023-06-01,India,Asia
+2023,Indonesia,June,200.0,6,2023-06-01,Indonesia,Asia
+2023,Iran,June,330.0,6,2023-06-01,Iran,Asia
+2023,Iraq,June,85.0,6,2023-06-01,Iraq,Asia
+2023,Ireland,June,423.0,6,2023-06-01,Ireland,Europe
+2023,Israel,June,856.0,6,2023-06-01,Israel,Asia
+2023,Italy,June,1265.0,6,2023-06-01,Italy,Europe
+2023,Jamaica,June,7.0,6,2023-06-01,Jamaica,America
+2023,Japan,June,1017.0,6,2023-06-01,Japan,Asia
+2023,Jordan,June,396.0,6,2023-06-01,Jordan,Asia
+2023,Kazakhstan,June,96.0,6,2023-06-01,Kazakhstan,Asia
+2023,Kenya,June,35.0,6,2023-06-01,Kenya,Africa
+2023,Kiribati,June,2.0,6,2023-06-01,Kiribati,Oceania
+2023,Kosovar,June,0.0,6,2023-06-01,Kosovar,Other
+2023,Kuwait,June,183.0,6,2023-06-01,Kuwait,Asia
+2023,Kyrgyzstan,June,30.0,6,2023-06-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",June,7.0,6,2023-06-01,Laos,Asia
+2023,Latvia,June,31.0,6,2023-06-01,Latvia,Europe
+2023,Lebanon,June,279.0,6,2023-06-01,Lebanon,Asia
+2023,Lesotho,June,2.0,6,2023-06-01,Lesotho,Africa
+2023,Liberia,June,1.0,6,2023-06-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),June,3.0,6,2023-06-01,Libya,Africa
+2023,Liechtenstein,June,3.0,6,2023-06-01,Liechtenstein,Europe
+2023,Lithuania,June,77.0,6,2023-06-01,Lithuania,Europe
+2023,Luxembourg,June,14.0,6,2023-06-01,Luxembourg,Europe
+2023,Macedonia,June,15.0,6,2023-06-01,North Macedonia,Europe
+2023,Madagascar,June,10.0,6,2023-06-01,Madagascar,Africa
+2023,Malawi,June,2.0,6,2023-06-01,Malawi,Africa
+2023,Malaysia,June,779.0,6,2023-06-01,Malaysia,Asia
+2023,Maldives,June,4080.0,6,2023-06-01,Maldives,Asia
+2023,Mali,June,1.0,6,2023-06-01,Mali,Africa
+2023,Malta,June,32.0,6,2023-06-01,Malta,Europe
+2023,Marshall Islands,June,0.0,6,2023-06-01,Marshall Islands,Oceania
+2023,Mauritania,June,0.0,6,2023-06-01,Mauritania,Africa
+2023,Mauritius,June,29.0,6,2023-06-01,Mauritius,Africa
+2023,Mexico,June,34.0,6,2023-06-01,Mexico,America
+2023,Moldova,June,17.0,6,2023-06-01,Moldova,Europe
+2023,Monaco,June,1.0,6,2023-06-01,Monaco,Europe
+2023,Mongolia,June,7.0,6,2023-06-01,Mongolia,Asia
+2023,Montenegro,June,1.0,6,2023-06-01,Montenegro,Europe
+2023,Morocco,June,86.0,6,2023-06-01,Morocco,Africa
+2023,Mozambique,June,1.0,6,2023-06-01,Mozambique,Africa
+2023,Myanmar,June,53.0,6,2023-06-01,Myanmar,Asia
+2023,Namibia,June,1.0,6,2023-06-01,Namibia,Africa
+2023,Nauru,June,5.0,6,2023-06-01,Nauru,Oceania
+2023,Nepal,June,374.0,6,2023-06-01,Nepal,Asia
+2023,Netherlands,June,1258.0,6,2023-06-01,Netherlands,Europe
+2023,New Zealand,June,853.0,6,2023-06-01,New Zealand,Oceania
+2023,Nicaragua,June,1.0,6,2023-06-01,Nicaragua,America
+2023,Niger,June,0.0,6,2023-06-01,Niger,Africa
+2023,Nigeria,June,15.0,6,2023-06-01,Nigeria,Africa
+2023,Norway,June,1281.0,6,2023-06-01,Norway,Europe
+2023,Oman,June,212.0,6,2023-06-01,Oman,Asia
+2023,Pakistan,June,711.0,6,2023-06-01,Pakistan,Asia
+2023,Palau,June,0.0,6,2023-06-01,Palau,Oceania
+2023,Palestinian Territories,June,65.0,6,2023-06-01,Palestine,Asia
+2023,Panama,June,2.0,6,2023-06-01,Panama,America
+2023,Papua New Guinea,June,8.0,6,2023-06-01,Papua New Guinea,Oceania
+2023,Paraguay,June,2.0,6,2023-06-01,Paraguay,America
+2023,Peru,June,8.0,6,2023-06-01,Peru,America
+2023,Philippines,June,410.0,6,2023-06-01,Philippines,Asia
+2023,Poland,June,702.0,6,2023-06-01,Poland,Europe
+2023,Portugal,June,181.0,6,2023-06-01,Portugal,Europe
+2023,Qatar,June,145.0,6,2023-06-01,Qatar,Asia
+2023,Romania,June,148.0,6,2023-06-01,Romania,Europe
+2023,Russian Federation,June,7968.0,6,2023-06-01,Russia,Europe
+2023,Rwanda,June,3.0,6,2023-06-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,June,12.0,6,2023-06-01,St. Kitts and Nevis,America
+2023,Saint Lucia,June,0.0,6,2023-06-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,June,0.0,6,2023-06-01,St. Vincent and the Grenadines,America
+2023,Samoa,June,0.0,6,2023-06-01,Samoa,Oceania
+2023,San Marino,June,0.0,6,2023-06-01,San Marino,Europe
+2023,Saudi Arabia,June,595.0,6,2023-06-01,Saudi Arabia,Asia
+2023,Senegal,June,1.0,6,2023-06-01,Senegal,Africa
+2023,Serbia,June,31.0,6,2023-06-01,Serbia,Europe
+2023,Seychelles,June,110.0,6,2023-06-01,Seychelles,Africa
+2023,Sierra Leone,June,0.0,6,2023-06-01,Sierra Leone,Africa
+2023,Singapore,June,1164.0,6,2023-06-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),June,129.0,6,2023-06-01,Slovakia,Europe
+2023,Slovenia,June,49.0,6,2023-06-01,Slovenia,Europe
+2023,Solomon Islands,June,1.0,6,2023-06-01,Solomon Islands,Oceania
+2023,Somalia,June,4.0,6,2023-06-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,June,291.0,6,2023-06-01,South Africa,Africa
+2023,South Korea,June,516.0,6,2023-06-01,South Korea,Asia
+2023,South Sudan,June,1.0,6,2023-06-01,South Sudan,Africa
+2023,Spain,June,1229.0,6,2023-06-01,Spain,Europe
+2023,Sudan,June,73.0,6,2023-06-01,Sudan,Africa
+2023,Suriname,June,2.0,6,2023-06-01,Suriname,America
+2023,Swaziland,June,0.0,6,2023-06-01,Eswatini,Africa
+2023,Sweden,June,622.0,6,2023-06-01,Sweden,Europe
+2023,Switzerland,June,1334.0,6,2023-06-01,Switzerland,Europe
+2023,Syrian Arab Republic,June,1.0,6,2023-06-01,Syria,Asia
+2023,Taiwan Province of China,June,637.0,6,2023-06-01,Taiwan,Asia
+2023,Tajikistan,June,11.0,6,2023-06-01,Tajikistan,Asia
+2023,Tanzania,June,8.0,6,2023-06-01,Tanzania,Africa
+2023,Thailand,June,414.0,6,2023-06-01,Thailand,Asia
+2023,Timor-Leste,June,6.0,6,2023-06-01,Timor-Leste,Asia
+2023,Togo,June,1.0,6,2023-06-01,Togo,Africa
+2023,Tonga,June,0.0,6,2023-06-01,Tonga,Oceania
+2023,Trinidad and Tobago,June,4.0,6,2023-06-01,Trinidad and Tobago,America
+2023,Tunisia,June,50.0,6,2023-06-01,Tunisia,Africa
+2023,Turkey,June,275.0,6,2023-06-01,Türkiye,Asia
+2023,Turkmenistan,June,5.0,6,2023-06-01,Turkmenistan,Asia
+2023,Tuvalu,June,0.0,6,2023-06-01,Tuvalu,Oceania
+2023,Uganda,June,15.0,6,2023-06-01,Uganda,Africa
+2023,Ukraine,June,200.0,6,2023-06-01,Ukraine,Europe
+2023,United Arab Emirates,June,404.0,6,2023-06-01,United Arab Emirates,Asia
+2023,United Kingdom,June,7981.0,6,2023-06-01,United Kingdom,Europe
+2023,United States,June,3806.0,6,2023-06-01,United States,America
+2023,Uruguay,June,5.0,6,2023-06-01,Uruguay,America
+2023,Uzbekistan,June,33.0,6,2023-06-01,Uzbekistan,Asia
+2023,Vanuatu,June,2.0,6,2023-06-01,Vanuatu,Oceania
+2023,Venezuela,June,8.0,6,2023-06-01,Venezuela,America
+2023,Viet Nam,June,192.0,6,2023-06-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),June,23.0,6,2023-06-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),June,2.0,6,2023-06-01,Zambia,Africa
+2023,Zimbabwe,June,9.0,6,2023-06-01,Zimbabwe,Africa
+2023,Afghanistan,July,30.0,7,2023-07-01,Afghanistan,Asia
+2023,Albania,July,12.0,7,2023-07-01,Albania,Europe
+2023,Algeria,July,29.0,7,2023-07-01,Algeria,Africa
+2023,Andorra,July,7.0,7,2023-07-01,Andorra,Europe
+2023,Angola,July,1.0,7,2023-07-01,Angola,Africa
+2023,Antigua and Barbuda,July,1.0,7,2023-07-01,Antigua and Barbuda,America
+2023,Argentina,July,34.0,7,2023-07-01,Argentina,America
+2023,Armenia,July,123.0,7,2023-07-01,Armenia,Asia
+2023,Aruba,July,0.0,7,2023-07-01,Aruba,America
+2023,Australia,July,5323.0,7,2023-07-01,Australia,Oceania
+2023,Austria,July,979.0,7,2023-07-01,Austria,Europe
+2023,Azerbaijan,July,191.0,7,2023-07-01,Azerbaijan,Asia
+2023,Bahamas,July,3.0,7,2023-07-01,Bahamas,America
+2023,Bahrain,July,204.0,7,2023-07-01,Bahrain,Asia
+2023,Bangladesh,July,1520.0,7,2023-07-01,Bangladesh,Asia
+2023,Barbados,July,1.0,7,2023-07-01,Barbados,America
+2023,Belarus,July,453.0,7,2023-07-01,Belarus,Europe
+2023,Belgium,July,2259.0,7,2023-07-01,Belgium,Europe
+2023,Belize,July,0.0,7,2023-07-01,Belize,America
+2023,Benin,July,0.0,7,2023-07-01,Benin,Africa
+2023,Bhutan,July,41.0,7,2023-07-01,Bhutan,Asia
+2023,Bolivia,July,2.0,7,2023-07-01,Bolivia,America
+2023,Bosnia and Herzegovina,July,10.0,7,2023-07-01,Bosnia and Herzegovina,Europe
+2023,Botswana,July,11.0,7,2023-07-01,Botswana,Africa
+2023,Brazil,July,69.0,7,2023-07-01,Brazil,America
+2023,Brunei Darussalam,July,5.0,7,2023-07-01,Brunei Darussalam,Asia
+2023,Bulgaria,July,45.0,7,2023-07-01,Bulgaria,Europe
+2023,Burkina Faso,July,0.0,7,2023-07-01,Burkina Faso,Africa
+2023,Burundi,July,1.0,7,2023-07-01,Burundi,Africa
+2023,Cambodia,July,47.0,7,2023-07-01,Cambodia,Asia
+2023,Cameroon,July,2.0,7,2023-07-01,Cameroon,Africa
+2023,Canada,July,5737.0,7,2023-07-01,Canada,America
+2023,Cape Verde,July,1.0,7,2023-07-01,Cabo Verde,Africa
+2023,Central African Republic,July,0.0,7,2023-07-01,Central African Republic,Africa
+2023,Chad,July,0.0,7,2023-07-01,Chad,Africa
+2023,Chile,July,27.0,7,2023-07-01,Chile,America
+2023,China,July,10062.0,7,2023-07-01,China,Asia
+2023,Colombia,July,22.0,7,2023-07-01,Colombia,America
+2023,Comoros,July,16.0,7,2023-07-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",July,2.0,7,2023-07-01,DR Congo,Africa
+2023,Costa Rica,July,3.0,7,2023-07-01,Costa Rica,America
+2023,Cote Divoire,July,0.0,7,2023-07-01,Côte d'Ivoire,Africa
+2023,Croatia,July,59.0,7,2023-07-01,Croatia,Europe
+2023,Cuba,July,2.0,7,2023-07-01,Cuba,America
+2023,Cyprus,July,112.0,7,2023-07-01,Cyprus,Asia
+2023,Czech Republic,July,789.0,7,2023-07-01,Czechia,Europe
+2023,Denmark,July,1721.0,7,2023-07-01,Denmark,Europe
+2023,Djibouti,July,2.0,7,2023-07-01,Djibouti,Africa
+2023,Dominica,July,6.0,7,2023-07-01,Dominica,America
+2023,Dominican Republic,July,1.0,7,2023-07-01,Dominican Republic,America
+2023,Ecuador,July,6.0,7,2023-07-01,Ecuador,America
+2023,Egypt,July,292.0,7,2023-07-01,Egypt,Africa
+2023,El Salvador,July,5.0,7,2023-07-01,El Salvador,America
+2023,Eritrea,July,1.0,7,2023-07-01,Eritrea,Africa
+2023,Estonia,July,15.0,7,2023-07-01,Estonia,Europe
+2023,Ethiopia,July,19.0,7,2023-07-01,Ethiopia,Africa
+2023,Fiji,July,18.0,7,2023-07-01,Fiji,Oceania
+2023,Finland,July,106.0,7,2023-07-01,Finland,Europe
+2023,France,July,7432.0,7,2023-07-01,France,Europe
+2023,Gabon,July,0.0,7,2023-07-01,Gabon,Africa
+2023,"Gambia, The",July,0.0,7,2023-07-01,Gambia,Africa
+2023,Georgia,July,24.0,7,2023-07-01,Georgia,Asia
+2023,Germany,July,8013.0,7,2023-07-01,Germany,Europe
+2023,Ghana,July,1.0,7,2023-07-01,Ghana,Africa
+2023,Greece,July,101.0,7,2023-07-01,Greece,Europe
+2023,Grenada,July,0.0,7,2023-07-01,Grenada,America
+2023,Guatemala,July,4.0,7,2023-07-01,Guatemala,America
+2023,Guinea,July,2.0,7,2023-07-01,Guinea,Africa
+2023,Guyana,July,0.0,7,2023-07-01,Guyana,America
+2023,Haiti,July,1.0,7,2023-07-01,Haiti,America
+2023,Honduras,July,1.0,7,2023-07-01,Honduras,America
+2023,Hungary,July,200.0,7,2023-07-01,Hungary,Europe
+2023,Iceland,July,27.0,7,2023-07-01,Iceland,Europe
+2023,India,July,23461.0,7,2023-07-01,India,Asia
+2023,Indonesia,July,249.0,7,2023-07-01,Indonesia,Asia
+2023,Iran,July,264.0,7,2023-07-01,Iran,Asia
+2023,Iraq,July,100.0,7,2023-07-01,Iraq,Asia
+2023,Ireland,July,517.0,7,2023-07-01,Ireland,Europe
+2023,Israel,July,1919.0,7,2023-07-01,Israel,Asia
+2023,Italy,July,2370.0,7,2023-07-01,Italy,Europe
+2023,Jamaica,July,3.0,7,2023-07-01,Jamaica,America
+2023,Japan,July,1454.0,7,2023-07-01,Japan,Asia
+2023,Jordan,July,545.0,7,2023-07-01,Jordan,Asia
+2023,Kazakhstan,July,106.0,7,2023-07-01,Kazakhstan,Asia
+2023,Kenya,July,44.0,7,2023-07-01,Kenya,Africa
+2023,Kiribati,July,0.0,7,2023-07-01,Kiribati,Oceania
+2023,Kosovar,July,5.0,7,2023-07-01,Kosovar,Other
+2023,Kuwait,July,259.0,7,2023-07-01,Kuwait,Asia
+2023,Kyrgyzstan,July,61.0,7,2023-07-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",July,6.0,7,2023-07-01,Laos,Asia
+2023,Latvia,July,31.0,7,2023-07-01,Latvia,Europe
+2023,Lebanon,July,321.0,7,2023-07-01,Lebanon,Asia
+2023,Lesotho,July,2.0,7,2023-07-01,Lesotho,Africa
+2023,Liberia,July,0.0,7,2023-07-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),July,3.0,7,2023-07-01,Libya,Africa
+2023,Liechtenstein,July,10.0,7,2023-07-01,Liechtenstein,Europe
+2023,Lithuania,July,113.0,7,2023-07-01,Lithuania,Europe
+2023,Luxembourg,July,61.0,7,2023-07-01,Luxembourg,Europe
+2023,Macedonia,July,13.0,7,2023-07-01,North Macedonia,Europe
+2023,Madagascar,July,9.0,7,2023-07-01,Madagascar,Africa
+2023,Malawi,July,1.0,7,2023-07-01,Malawi,Africa
+2023,Malaysia,July,915.0,7,2023-07-01,Malaysia,Asia
+2023,Maldives,July,6286.0,7,2023-07-01,Maldives,Asia
+2023,Mali,July,1.0,7,2023-07-01,Mali,Africa
+2023,Malta,July,39.0,7,2023-07-01,Malta,Europe
+2023,Marshall Islands,July,0.0,7,2023-07-01,Marshall Islands,Oceania
+2023,Mauritania,July,0.0,7,2023-07-01,Mauritania,Africa
+2023,Mauritius,July,21.0,7,2023-07-01,Mauritius,Africa
+2023,Mexico,July,44.0,7,2023-07-01,Mexico,America
+2023,Moldova,July,13.0,7,2023-07-01,Moldova,Europe
+2023,Monaco,July,0.0,7,2023-07-01,Monaco,Europe
+2023,Mongolia,July,11.0,7,2023-07-01,Mongolia,Asia
+2023,Montenegro,July,1.0,7,2023-07-01,Montenegro,Europe
+2023,Morocco,July,81.0,7,2023-07-01,Morocco,Africa
+2023,Mozambique,July,7.0,7,2023-07-01,Mozambique,Africa
+2023,Myanmar,July,93.0,7,2023-07-01,Myanmar,Asia
+2023,Namibia,July,1.0,7,2023-07-01,Namibia,Africa
+2023,Nauru,July,0.0,7,2023-07-01,Nauru,Oceania
+2023,Nepal,July,375.0,7,2023-07-01,Nepal,Asia
+2023,Netherlands,July,6796.0,7,2023-07-01,Netherlands,Europe
+2023,New Zealand,July,734.0,7,2023-07-01,New Zealand,Oceania
+2023,Nicaragua,July,0.0,7,2023-07-01,Nicaragua,America
+2023,Niger,July,0.0,7,2023-07-01,Niger,Africa
+2023,Nigeria,July,9.0,7,2023-07-01,Nigeria,Africa
+2023,Norway,July,1643.0,7,2023-07-01,Norway,Europe
+2023,Oman,July,427.0,7,2023-07-01,Oman,Asia
+2023,Pakistan,July,1223.0,7,2023-07-01,Pakistan,Asia
+2023,Palau,July,0.0,7,2023-07-01,Palau,Oceania
+2023,Palestinian Territories,July,76.0,7,2023-07-01,Palestine,Asia
+2023,Panama,July,1.0,7,2023-07-01,Panama,America
+2023,Papua New Guinea,July,1.0,7,2023-07-01,Papua New Guinea,Oceania
+2023,Paraguay,July,4.0,7,2023-07-01,Paraguay,America
+2023,Peru,July,21.0,7,2023-07-01,Peru,America
+2023,Philippines,July,448.0,7,2023-07-01,Philippines,Asia
+2023,Poland,July,999.0,7,2023-07-01,Poland,Europe
+2023,Portugal,July,282.0,7,2023-07-01,Portugal,Europe
+2023,Qatar,July,179.0,7,2023-07-01,Qatar,Asia
+2023,Romania,July,172.0,7,2023-07-01,Romania,Europe
+2023,Russian Federation,July,8009.0,7,2023-07-01,Russia,Europe
+2023,Rwanda,July,1.0,7,2023-07-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,July,3.0,7,2023-07-01,St. Kitts and Nevis,America
+2023,Saint Lucia,July,0.0,7,2023-07-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,July,0.0,7,2023-07-01,St. Vincent and the Grenadines,America
+2023,Samoa,July,0.0,7,2023-07-01,Samoa,Oceania
+2023,San Marino,July,0.0,7,2023-07-01,San Marino,Europe
+2023,Saudi Arabia,July,1564.0,7,2023-07-01,Saudi Arabia,Asia
+2023,Senegal,July,0.0,7,2023-07-01,Senegal,Africa
+2023,Serbia,July,63.0,7,2023-07-01,Serbia,Europe
+2023,Seychelles,July,267.0,7,2023-07-01,Seychelles,Africa
+2023,Sierra Leone,July,2.0,7,2023-07-01,Sierra Leone,Africa
+2023,Singapore,July,656.0,7,2023-07-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),July,254.0,7,2023-07-01,Slovakia,Europe
+2023,Slovenia,July,351.0,7,2023-07-01,Slovenia,Europe
+2023,Solomon Islands,July,0.0,7,2023-07-01,Solomon Islands,Oceania
+2023,Somalia,July,6.0,7,2023-07-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,July,232.0,7,2023-07-01,South Africa,Africa
+2023,South Korea,July,628.0,7,2023-07-01,South Korea,Asia
+2023,South Sudan,July,3.0,7,2023-07-01,South Sudan,Africa
+2023,Spain,July,2751.0,7,2023-07-01,Spain,Europe
+2023,Sudan,July,154.0,7,2023-07-01,Sudan,Africa
+2023,Suriname,July,4.0,7,2023-07-01,Suriname,America
+2023,Swaziland,July,1.0,7,2023-07-01,Eswatini,Africa
+2023,Sweden,July,560.0,7,2023-07-01,Sweden,Europe
+2023,Switzerland,July,4329.0,7,2023-07-01,Switzerland,Europe
+2023,Syrian Arab Republic,July,0.0,7,2023-07-01,Syria,Asia
+2023,Taiwan Province of China,July,411.0,7,2023-07-01,Taiwan,Asia
+2023,Tajikistan,July,11.0,7,2023-07-01,Tajikistan,Asia
+2023,Tanzania,July,9.0,7,2023-07-01,Tanzania,Africa
+2023,Thailand,July,633.0,7,2023-07-01,Thailand,Asia
+2023,Timor-Leste,July,7.0,7,2023-07-01,Timor-Leste,Asia
+2023,Togo,July,1.0,7,2023-07-01,Togo,Africa
+2023,Tonga,July,1.0,7,2023-07-01,Tonga,Oceania
+2023,Trinidad and Tobago,July,2.0,7,2023-07-01,Trinidad and Tobago,America
+2023,Tunisia,July,71.0,7,2023-07-01,Tunisia,Africa
+2023,Turkey,July,251.0,7,2023-07-01,Türkiye,Asia
+2023,Turkmenistan,July,11.0,7,2023-07-01,Turkmenistan,Asia
+2023,Tuvalu,July,1.0,7,2023-07-01,Tuvalu,Oceania
+2023,Uganda,July,27.0,7,2023-07-01,Uganda,Africa
+2023,Ukraine,July,185.0,7,2023-07-01,Ukraine,Europe
+2023,United Arab Emirates,July,576.0,7,2023-07-01,United Arab Emirates,Asia
+2023,United Kingdom,July,17482.0,7,2023-07-01,United Kingdom,Europe
+2023,United States,July,4120.0,7,2023-07-01,United States,America
+2023,Uruguay,July,7.0,7,2023-07-01,Uruguay,America
+2023,Uzbekistan,July,48.0,7,2023-07-01,Uzbekistan,Asia
+2023,Vanuatu,July,4.0,7,2023-07-01,Vanuatu,Oceania
+2023,Venezuela,July,9.0,7,2023-07-01,Venezuela,America
+2023,Viet Nam,July,195.0,7,2023-07-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),July,55.0,7,2023-07-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),July,5.0,7,2023-07-01,Zambia,Africa
+2023,Zimbabwe,July,16.0,7,2023-07-01,Zimbabwe,Africa
+2023,Afghanistan,August,41.0,8,2023-08-01,Afghanistan,Asia
+2023,Albania,August,9.0,8,2023-08-01,Albania,Europe
+2023,Algeria,August,36.0,8,2023-08-01,Algeria,Africa
+2023,Andorra,August,15.0,8,2023-08-01,Andorra,Europe
+2023,Angola,August,1.0,8,2023-08-01,Angola,Africa
+2023,Antigua and Barbuda,August,6.0,8,2023-08-01,Antigua and Barbuda,America
+2023,Argentina,August,52.0,8,2023-08-01,Argentina,America
+2023,Armenia,August,144.0,8,2023-08-01,Armenia,Asia
+2023,Aruba,August,0.0,8,2023-08-01,Aruba,America
+2023,Australia,August,5522.0,8,2023-08-01,Australia,Oceania
+2023,Austria,August,866.0,8,2023-08-01,Austria,Europe
+2023,Azerbaijan,August,156.0,8,2023-08-01,Azerbaijan,Asia
+2023,Bahamas,August,0.0,8,2023-08-01,Bahamas,America
+2023,Bahrain,August,176.0,8,2023-08-01,Bahrain,Asia
+2023,Bangladesh,August,1533.0,8,2023-08-01,Bangladesh,Asia
+2023,Barbados,August,5.0,8,2023-08-01,Barbados,America
+2023,Belarus,August,497.0,8,2023-08-01,Belarus,Europe
+2023,Belgium,August,1330.0,8,2023-08-01,Belgium,Europe
+2023,Belize,August,1.0,8,2023-08-01,Belize,America
+2023,Benin,August,1.0,8,2023-08-01,Benin,Africa
+2023,Bhutan,August,60.0,8,2023-08-01,Bhutan,Asia
+2023,Bolivia,August,2.0,8,2023-08-01,Bolivia,America
+2023,Bosnia and Herzegovina,August,15.0,8,2023-08-01,Bosnia and Herzegovina,Europe
+2023,Botswana,August,2.0,8,2023-08-01,Botswana,Africa
+2023,Brazil,August,77.0,8,2023-08-01,Brazil,America
+2023,Brunei Darussalam,August,2.0,8,2023-08-01,Brunei Darussalam,Asia
+2023,Bulgaria,August,46.0,8,2023-08-01,Bulgaria,Europe
+2023,Burkina Faso,August,1.0,8,2023-08-01,Burkina Faso,Africa
+2023,Burundi,August,2.0,8,2023-08-01,Burundi,Africa
+2023,Cambodia,August,9.0,8,2023-08-01,Cambodia,Asia
+2023,Cameroon,August,2.0,8,2023-08-01,Cameroon,Africa
+2023,Canada,August,4735.0,8,2023-08-01,Canada,America
+2023,Cape Verde,August,0.0,8,2023-08-01,Cabo Verde,Africa
+2023,Central African Republic,August,0.0,8,2023-08-01,Central African Republic,Africa
+2023,Chad,August,0.0,8,2023-08-01,Chad,Africa
+2023,Chile,August,28.0,8,2023-08-01,Chile,America
+2023,China,August,9262.0,8,2023-08-01,China,Asia
+2023,Colombia,August,52.0,8,2023-08-01,Colombia,America
+2023,Comoros,August,6.0,8,2023-08-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",August,2.0,8,2023-08-01,DR Congo,Africa
+2023,Costa Rica,August,2.0,8,2023-08-01,Costa Rica,America
+2023,Cote Divoire,August,1.0,8,2023-08-01,Côte d'Ivoire,Africa
+2023,Croatia,August,73.0,8,2023-08-01,Croatia,Europe
+2023,Cuba,August,2.0,8,2023-08-01,Cuba,America
+2023,Cyprus,August,282.0,8,2023-08-01,Cyprus,Asia
+2023,Czech Republic,August,525.0,8,2023-08-01,Czechia,Europe
+2023,Denmark,August,552.0,8,2023-08-01,Denmark,Europe
+2023,Djibouti,August,0.0,8,2023-08-01,Djibouti,Africa
+2023,Dominica,August,4.0,8,2023-08-01,Dominica,America
+2023,Dominican Republic,August,1.0,8,2023-08-01,Dominican Republic,America
+2023,Ecuador,August,4.0,8,2023-08-01,Ecuador,America
+2023,Egypt,August,239.0,8,2023-08-01,Egypt,Africa
+2023,El Salvador,August,4.0,8,2023-08-01,El Salvador,America
+2023,Eritrea,August,4.0,8,2023-08-01,Eritrea,Africa
+2023,Estonia,August,26.0,8,2023-08-01,Estonia,Europe
+2023,Ethiopia,August,6.0,8,2023-08-01,Ethiopia,Africa
+2023,Fiji,August,18.0,8,2023-08-01,Fiji,Oceania
+2023,Finland,August,61.0,8,2023-08-01,Finland,Europe
+2023,France,August,6223.0,8,2023-08-01,France,Europe
+2023,Gabon,August,0.0,8,2023-08-01,Gabon,Africa
+2023,"Gambia, The",August,2.0,8,2023-08-01,Gambia,Africa
+2023,Georgia,August,45.0,8,2023-08-01,Georgia,Asia
+2023,Germany,August,8472.0,8,2023-08-01,Germany,Europe
+2023,Ghana,August,0.0,8,2023-08-01,Ghana,Africa
+2023,Greece,August,307.0,8,2023-08-01,Greece,Europe
+2023,Grenada,August,2.0,8,2023-08-01,Grenada,America
+2023,Guatemala,August,2.0,8,2023-08-01,Guatemala,America
+2023,Guinea,August,0.0,8,2023-08-01,Guinea,Africa
+2023,Guyana,August,3.0,8,2023-08-01,Guyana,America
+2023,Haiti,August,0.0,8,2023-08-01,Haiti,America
+2023,Honduras,August,1.0,8,2023-08-01,Honduras,America
+2023,Hungary,August,166.0,8,2023-08-01,Hungary,Europe
+2023,Iceland,August,5.0,8,2023-08-01,Iceland,Europe
+2023,India,August,30593.0,8,2023-08-01,India,Asia
+2023,Indonesia,August,208.0,8,2023-08-01,Indonesia,Asia
+2023,Iran,August,279.0,8,2023-08-01,Iran,Asia
+2023,Iraq,August,103.0,8,2023-08-01,Iraq,Asia
+2023,Ireland,August,380.0,8,2023-08-01,Ireland,Europe
+2023,Israel,August,3396.0,8,2023-08-01,Israel,Asia
+2023,Italy,August,5110.0,8,2023-08-01,Italy,Europe
+2023,Jamaica,August,7.0,8,2023-08-01,Jamaica,America
+2023,Japan,August,2604.0,8,2023-08-01,Japan,Asia
+2023,Jordan,August,389.0,8,2023-08-01,Jordan,Asia
+2023,Kazakhstan,August,75.0,8,2023-08-01,Kazakhstan,Asia
+2023,Kenya,August,106.0,8,2023-08-01,Kenya,Africa
+2023,Kiribati,August,0.0,8,2023-08-01,Kiribati,Oceania
+2023,Kosovar,August,2.0,8,2023-08-01,Kosovar,Other
+2023,Kuwait,August,293.0,8,2023-08-01,Kuwait,Asia
+2023,Kyrgyzstan,August,44.0,8,2023-08-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",August,9.0,8,2023-08-01,Laos,Asia
+2023,Latvia,August,31.0,8,2023-08-01,Latvia,Europe
+2023,Lebanon,August,250.0,8,2023-08-01,Lebanon,Asia
+2023,Lesotho,August,0.0,8,2023-08-01,Lesotho,Africa
+2023,Liberia,August,0.0,8,2023-08-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),August,11.0,8,2023-08-01,Libya,Africa
+2023,Liechtenstein,August,2.0,8,2023-08-01,Liechtenstein,Europe
+2023,Lithuania,August,91.0,8,2023-08-01,Lithuania,Europe
+2023,Luxembourg,August,78.0,8,2023-08-01,Luxembourg,Europe
+2023,Macedonia,August,9.0,8,2023-08-01,North Macedonia,Europe
+2023,Madagascar,August,8.0,8,2023-08-01,Madagascar,Africa
+2023,Malawi,August,1.0,8,2023-08-01,Malawi,Africa
+2023,Malaysia,August,1207.0,8,2023-08-01,Malaysia,Asia
+2023,Maldives,August,2596.0,8,2023-08-01,Maldives,Asia
+2023,Mali,August,2.0,8,2023-08-01,Mali,Africa
+2023,Malta,August,77.0,8,2023-08-01,Malta,Europe
+2023,Marshall Islands,August,5.0,8,2023-08-01,Marshall Islands,Oceania
+2023,Mauritania,August,0.0,8,2023-08-01,Mauritania,Africa
+2023,Mauritius,August,23.0,8,2023-08-01,Mauritius,Africa
+2023,Mexico,August,45.0,8,2023-08-01,Mexico,America
+2023,Moldova,August,8.0,8,2023-08-01,Moldova,Europe
+2023,Monaco,August,1.0,8,2023-08-01,Monaco,Europe
+2023,Mongolia,August,8.0,8,2023-08-01,Mongolia,Asia
+2023,Montenegro,August,9.0,8,2023-08-01,Montenegro,Europe
+2023,Morocco,August,82.0,8,2023-08-01,Morocco,Africa
+2023,Mozambique,August,2.0,8,2023-08-01,Mozambique,Africa
+2023,Myanmar,August,355.0,8,2023-08-01,Myanmar,Asia
+2023,Namibia,August,1.0,8,2023-08-01,Namibia,Africa
+2023,Nauru,August,3.0,8,2023-08-01,Nauru,Oceania
+2023,Nepal,August,476.0,8,2023-08-01,Nepal,Asia
+2023,Netherlands,August,3429.0,8,2023-08-01,Netherlands,Europe
+2023,New Zealand,August,575.0,8,2023-08-01,New Zealand,Oceania
+2023,Nicaragua,August,0.0,8,2023-08-01,Nicaragua,America
+2023,Niger,August,1.0,8,2023-08-01,Niger,Africa
+2023,Nigeria,August,7.0,8,2023-08-01,Nigeria,Africa
+2023,Norway,August,481.0,8,2023-08-01,Norway,Europe
+2023,Oman,August,386.0,8,2023-08-01,Oman,Asia
+2023,Pakistan,August,1264.0,8,2023-08-01,Pakistan,Asia
+2023,Palau,August,2.0,8,2023-08-01,Palau,Oceania
+2023,Palestinian Territories,August,133.0,8,2023-08-01,Palestine,Asia
+2023,Panama,August,0.0,8,2023-08-01,Panama,America
+2023,Papua New Guinea,August,2.0,8,2023-08-01,Papua New Guinea,Oceania
+2023,Paraguay,August,4.0,8,2023-08-01,Paraguay,America
+2023,Peru,August,10.0,8,2023-08-01,Peru,America
+2023,Philippines,August,468.0,8,2023-08-01,Philippines,Asia
+2023,Poland,August,1029.0,8,2023-08-01,Poland,Europe
+2023,Portugal,August,368.0,8,2023-08-01,Portugal,Europe
+2023,Qatar,August,134.0,8,2023-08-01,Qatar,Asia
+2023,Romania,August,304.0,8,2023-08-01,Romania,Europe
+2023,Russian Federation,August,6853.0,8,2023-08-01,Russia,Europe
+2023,Rwanda,August,1.0,8,2023-08-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,August,12.0,8,2023-08-01,St. Kitts and Nevis,America
+2023,Saint Lucia,August,1.0,8,2023-08-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,August,7.0,8,2023-08-01,St. Vincent and the Grenadines,America
+2023,Samoa,August,1.0,8,2023-08-01,Samoa,Oceania
+2023,San Marino,August,3.0,8,2023-08-01,San Marino,Europe
+2023,Saudi Arabia,August,708.0,8,2023-08-01,Saudi Arabia,Asia
+2023,Senegal,August,3.0,8,2023-08-01,Senegal,Africa
+2023,Serbia,August,88.0,8,2023-08-01,Serbia,Europe
+2023,Seychelles,August,243.0,8,2023-08-01,Seychelles,Africa
+2023,Sierra Leone,August,1.0,8,2023-08-01,Sierra Leone,Africa
+2023,Singapore,August,904.0,8,2023-08-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),August,227.0,8,2023-08-01,Slovakia,Europe
+2023,Slovenia,August,154.0,8,2023-08-01,Slovenia,Europe
+2023,Solomon Islands,August,0.0,8,2023-08-01,Solomon Islands,Oceania
+2023,Somalia,August,2.0,8,2023-08-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,August,338.0,8,2023-08-01,South Africa,Africa
+2023,South Korea,August,666.0,8,2023-08-01,South Korea,Asia
+2023,South Sudan,August,0.0,8,2023-08-01,South Sudan,Africa
+2023,Spain,August,4455.0,8,2023-08-01,Spain,Europe
+2023,Sudan,August,88.0,8,2023-08-01,Sudan,Africa
+2023,Suriname,August,5.0,8,2023-08-01,Suriname,America
+2023,Swaziland,August,0.0,8,2023-08-01,Eswatini,Africa
+2023,Sweden,August,317.0,8,2023-08-01,Sweden,Europe
+2023,Switzerland,August,1483.0,8,2023-08-01,Switzerland,Europe
+2023,Syrian Arab Republic,August,0.0,8,2023-08-01,Syria,Asia
+2023,Taiwan Province of China,August,611.0,8,2023-08-01,Taiwan,Asia
+2023,Tajikistan,August,8.0,8,2023-08-01,Tajikistan,Asia
+2023,Tanzania,August,10.0,8,2023-08-01,Tanzania,Africa
+2023,Thailand,August,480.0,8,2023-08-01,Thailand,Asia
+2023,Timor-Leste,August,0.0,8,2023-08-01,Timor-Leste,Asia
+2023,Togo,August,0.0,8,2023-08-01,Togo,Africa
+2023,Tonga,August,0.0,8,2023-08-01,Tonga,Oceania
+2023,Trinidad and Tobago,August,3.0,8,2023-08-01,Trinidad and Tobago,America
+2023,Tunisia,August,46.0,8,2023-08-01,Tunisia,Africa
+2023,Turkey,August,262.0,8,2023-08-01,Türkiye,Asia
+2023,Turkmenistan,August,2.0,8,2023-08-01,Turkmenistan,Asia
+2023,Tuvalu,August,2.0,8,2023-08-01,Tuvalu,Oceania
+2023,Uganda,August,12.0,8,2023-08-01,Uganda,Africa
+2023,Ukraine,August,183.0,8,2023-08-01,Ukraine,Europe
+2023,United Arab Emirates,August,379.0,8,2023-08-01,United Arab Emirates,Asia
+2023,United Kingdom,August,15035.0,8,2023-08-01,United Kingdom,Europe
+2023,United States,August,3107.0,8,2023-08-01,United States,America
+2023,Uruguay,August,7.0,8,2023-08-01,Uruguay,America
+2023,Uzbekistan,August,39.0,8,2023-08-01,Uzbekistan,Asia
+2023,Vanuatu,August,3.0,8,2023-08-01,Vanuatu,Oceania
+2023,Venezuela,August,15.0,8,2023-08-01,Venezuela,America
+2023,Viet Nam,August,238.0,8,2023-08-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),August,83.0,8,2023-08-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),August,4.0,8,2023-08-01,Zambia,Africa
+2023,Zimbabwe,August,14.0,8,2023-08-01,Zimbabwe,Africa
+2023,Afghanistan,September,21.0,9,2023-09-01,Afghanistan,Asia
+2023,Albania,September,3.0,9,2023-09-01,Albania,Europe
+2023,Algeria,September,39.0,9,2023-09-01,Algeria,Africa
+2023,Andorra,September,4.0,9,2023-09-01,Andorra,Europe
+2023,Angola,September,0.0,9,2023-09-01,Angola,Africa
+2023,Antigua and Barbuda,September,3.0,9,2023-09-01,Antigua and Barbuda,America
+2023,Argentina,September,42.0,9,2023-09-01,Argentina,America
+2023,Armenia,September,101.0,9,2023-09-01,Armenia,Asia
+2023,Aruba,September,0.0,9,2023-09-01,Aruba,America
+2023,Australia,September,5969.0,9,2023-09-01,Australia,Oceania
+2023,Austria,September,726.0,9,2023-09-01,Austria,Europe
+2023,Azerbaijan,September,82.0,9,2023-09-01,Azerbaijan,Asia
+2023,Bahamas,September,2.0,9,2023-09-01,Bahamas,America
+2023,Bahrain,September,52.0,9,2023-09-01,Bahrain,Asia
+2023,Bangladesh,September,1441.0,9,2023-09-01,Bangladesh,Asia
+2023,Barbados,September,1.0,9,2023-09-01,Barbados,America
+2023,Belarus,September,778.0,9,2023-09-01,Belarus,Europe
+2023,Belgium,September,1061.0,9,2023-09-01,Belgium,Europe
+2023,Belize,September,1.0,9,2023-09-01,Belize,America
+2023,Benin,September,3.0,9,2023-09-01,Benin,Africa
+2023,Bhutan,September,32.0,9,2023-09-01,Bhutan,Asia
+2023,Bolivia,September,0.0,9,2023-09-01,Bolivia,America
+2023,Bosnia and Herzegovina,September,8.0,9,2023-09-01,Bosnia and Herzegovina,Europe
+2023,Botswana,September,2.0,9,2023-09-01,Botswana,Africa
+2023,Brazil,September,82.0,9,2023-09-01,Brazil,America
+2023,Brunei Darussalam,September,4.0,9,2023-09-01,Brunei Darussalam,Asia
+2023,Bulgaria,September,60.0,9,2023-09-01,Bulgaria,Europe
+2023,Burkina Faso,September,0.0,9,2023-09-01,Burkina Faso,Africa
+2023,Burundi,September,2.0,9,2023-09-01,Burundi,Africa
+2023,Cambodia,September,26.0,9,2023-09-01,Cambodia,Asia
+2023,Cameroon,September,1.0,9,2023-09-01,Cameroon,Africa
+2023,Canada,September,2426.0,9,2023-09-01,Canada,America
+2023,Cape Verde,September,0.0,9,2023-09-01,Cabo Verde,Africa
+2023,Central African Republic,September,0.0,9,2023-09-01,Central African Republic,Africa
+2023,Chad,September,1.0,9,2023-09-01,Chad,Africa
+2023,Chile,September,19.0,9,2023-09-01,Chile,America
+2023,China,September,8445.0,9,2023-09-01,China,Asia
+2023,Colombia,September,49.0,9,2023-09-01,Colombia,America
+2023,Comoros,September,7.0,9,2023-09-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",September,2.0,9,2023-09-01,DR Congo,Africa
+2023,Costa Rica,September,5.0,9,2023-09-01,Costa Rica,America
+2023,Cote Divoire,September,0.0,9,2023-09-01,Côte d'Ivoire,Africa
+2023,Croatia,September,48.0,9,2023-09-01,Croatia,Europe
+2023,Cuba,September,1.0,9,2023-09-01,Cuba,America
+2023,Cyprus,September,15.0,9,2023-09-01,Cyprus,Asia
+2023,Czech Republic,September,413.0,9,2023-09-01,Czechia,Europe
+2023,Denmark,September,472.0,9,2023-09-01,Denmark,Europe
+2023,Djibouti,September,1.0,9,2023-09-01,Djibouti,Africa
+2023,Dominica,September,8.0,9,2023-09-01,Dominica,America
+2023,Dominican Republic,September,5.0,9,2023-09-01,Dominican Republic,America
+2023,Ecuador,September,6.0,9,2023-09-01,Ecuador,America
+2023,Egypt,September,189.0,9,2023-09-01,Egypt,Africa
+2023,El Salvador,September,2.0,9,2023-09-01,El Salvador,America
+2023,Eritrea,September,1.0,9,2023-09-01,Eritrea,Africa
+2023,Estonia,September,47.0,9,2023-09-01,Estonia,Europe
+2023,Ethiopia,September,13.0,9,2023-09-01,Ethiopia,Africa
+2023,Fiji,September,6.0,9,2023-09-01,Fiji,Oceania
+2023,Finland,September,132.0,9,2023-09-01,Finland,Europe
+2023,France,September,2661.0,9,2023-09-01,France,Europe
+2023,Gabon,September,0.0,9,2023-09-01,Gabon,Africa
+2023,"Gambia, The",September,2.0,9,2023-09-01,Gambia,Africa
+2023,Georgia,September,19.0,9,2023-09-01,Georgia,Asia
+2023,Germany,September,7231.0,9,2023-09-01,Germany,Europe
+2023,Ghana,September,5.0,9,2023-09-01,Ghana,Africa
+2023,Greece,September,51.0,9,2023-09-01,Greece,Europe
+2023,Grenada,September,2.0,9,2023-09-01,Grenada,America
+2023,Guatemala,September,6.0,9,2023-09-01,Guatemala,America
+2023,Guinea,September,0.0,9,2023-09-01,Guinea,Africa
+2023,Guyana,September,1.0,9,2023-09-01,Guyana,America
+2023,Haiti,September,0.0,9,2023-09-01,Haiti,America
+2023,Honduras,September,3.0,9,2023-09-01,Honduras,America
+2023,Hungary,September,97.0,9,2023-09-01,Hungary,Europe
+2023,Iceland,September,16.0,9,2023-09-01,Iceland,Europe
+2023,India,September,30063.0,9,2023-09-01,India,Asia
+2023,Indonesia,September,184.0,9,2023-09-01,Indonesia,Asia
+2023,Iran,September,1593.0,9,2023-09-01,Iran,Asia
+2023,Iraq,September,73.0,9,2023-09-01,Iraq,Asia
+2023,Ireland,September,293.0,9,2023-09-01,Ireland,Europe
+2023,Israel,September,4162.0,9,2023-09-01,Israel,Asia
+2023,Italy,September,1257.0,9,2023-09-01,Italy,Europe
+2023,Jamaica,September,3.0,9,2023-09-01,Jamaica,America
+2023,Japan,September,1830.0,9,2023-09-01,Japan,Asia
+2023,Jordan,September,242.0,9,2023-09-01,Jordan,Asia
+2023,Kazakhstan,September,91.0,9,2023-09-01,Kazakhstan,Asia
+2023,Kenya,September,40.0,9,2023-09-01,Kenya,Africa
+2023,Kiribati,September,0.0,9,2023-09-01,Kiribati,Oceania
+2023,Kosovar,September,3.0,9,2023-09-01,Kosovar,Other
+2023,Kuwait,September,147.0,9,2023-09-01,Kuwait,Asia
+2023,Kyrgyzstan,September,37.0,9,2023-09-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",September,13.0,9,2023-09-01,Laos,Asia
+2023,Latvia,September,28.0,9,2023-09-01,Latvia,Europe
+2023,Lebanon,September,292.0,9,2023-09-01,Lebanon,Asia
+2023,Lesotho,September,0.0,9,2023-09-01,Lesotho,Africa
+2023,Liberia,September,0.0,9,2023-09-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),September,6.0,9,2023-09-01,Libya,Africa
+2023,Liechtenstein,September,1.0,9,2023-09-01,Liechtenstein,Europe
+2023,Lithuania,September,113.0,9,2023-09-01,Lithuania,Europe
+2023,Luxembourg,September,35.0,9,2023-09-01,Luxembourg,Europe
+2023,Macedonia,September,9.0,9,2023-09-01,North Macedonia,Europe
+2023,Madagascar,September,17.0,9,2023-09-01,Madagascar,Africa
+2023,Malawi,September,2.0,9,2023-09-01,Malawi,Africa
+2023,Malaysia,September,924.0,9,2023-09-01,Malaysia,Asia
+2023,Maldives,September,2287.0,9,2023-09-01,Maldives,Asia
+2023,Mali,September,2.0,9,2023-09-01,Mali,Africa
+2023,Malta,September,105.0,9,2023-09-01,Malta,Europe
+2023,Marshall Islands,September,0.0,9,2023-09-01,Marshall Islands,Oceania
+2023,Mauritania,September,0.0,9,2023-09-01,Mauritania,Africa
+2023,Mauritius,September,29.0,9,2023-09-01,Mauritius,Africa
+2023,Mexico,September,119.0,9,2023-09-01,Mexico,America
+2023,Moldova,September,14.0,9,2023-09-01,Moldova,Europe
+2023,Monaco,September,4.0,9,2023-09-01,Monaco,Europe
+2023,Mongolia,September,15.0,9,2023-09-01,Mongolia,Asia
+2023,Montenegro,September,2.0,9,2023-09-01,Montenegro,Europe
+2023,Morocco,September,49.0,9,2023-09-01,Morocco,Africa
+2023,Mozambique,September,1.0,9,2023-09-01,Mozambique,Africa
+2023,Myanmar,September,47.0,9,2023-09-01,Myanmar,Asia
+2023,Namibia,September,2.0,9,2023-09-01,Namibia,Africa
+2023,Nauru,September,0.0,9,2023-09-01,Nauru,Oceania
+2023,Nepal,September,593.0,9,2023-09-01,Nepal,Asia
+2023,Netherlands,September,3177.0,9,2023-09-01,Netherlands,Europe
+2023,New Zealand,September,648.0,9,2023-09-01,New Zealand,Oceania
+2023,Nicaragua,September,3.0,9,2023-09-01,Nicaragua,America
+2023,Niger,September,1.0,9,2023-09-01,Niger,Africa
+2023,Nigeria,September,6.0,9,2023-09-01,Nigeria,Africa
+2023,Norway,September,547.0,9,2023-09-01,Norway,Europe
+2023,Oman,September,74.0,9,2023-09-01,Oman,Asia
+2023,Pakistan,September,1391.0,9,2023-09-01,Pakistan,Asia
+2023,Palau,September,1.0,9,2023-09-01,Palau,Oceania
+2023,Palestinian Territories,September,40.0,9,2023-09-01,Palestine,Asia
+2023,Panama,September,2.0,9,2023-09-01,Panama,America
+2023,Papua New Guinea,September,5.0,9,2023-09-01,Papua New Guinea,Oceania
+2023,Paraguay,September,0.0,9,2023-09-01,Paraguay,America
+2023,Peru,September,9.0,9,2023-09-01,Peru,America
+2023,Philippines,September,328.0,9,2023-09-01,Philippines,Asia
+2023,Poland,September,1599.0,9,2023-09-01,Poland,Europe
+2023,Portugal,September,286.0,9,2023-09-01,Portugal,Europe
+2023,Qatar,September,23.0,9,2023-09-01,Qatar,Asia
+2023,Romania,September,166.0,9,2023-09-01,Romania,Europe
+2023,Russian Federation,September,7163.0,9,2023-09-01,Russia,Europe
+2023,Rwanda,September,0.0,9,2023-09-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,September,3.0,9,2023-09-01,St. Kitts and Nevis,America
+2023,Saint Lucia,September,4.0,9,2023-09-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,September,1.0,9,2023-09-01,St. Vincent and the Grenadines,America
+2023,Samoa,September,0.0,9,2023-09-01,Samoa,Oceania
+2023,San Marino,September,0.0,9,2023-09-01,San Marino,Europe
+2023,Saudi Arabia,September,331.0,9,2023-09-01,Saudi Arabia,Asia
+2023,Senegal,September,4.0,9,2023-09-01,Senegal,Africa
+2023,Serbia,September,76.0,9,2023-09-01,Serbia,Europe
+2023,Seychelles,September,103.0,9,2023-09-01,Seychelles,Africa
+2023,Sierra Leone,September,0.0,9,2023-09-01,Sierra Leone,Africa
+2023,Singapore,September,759.0,9,2023-09-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),September,258.0,9,2023-09-01,Slovakia,Europe
+2023,Slovenia,September,108.0,9,2023-09-01,Slovenia,Europe
+2023,Solomon Islands,September,0.0,9,2023-09-01,Solomon Islands,Oceania
+2023,Somalia,September,1.0,9,2023-09-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,September,185.0,9,2023-09-01,South Africa,Africa
+2023,South Korea,September,656.0,9,2023-09-01,South Korea,Asia
+2023,South Sudan,September,0.0,9,2023-09-01,South Sudan,Africa
+2023,Spain,September,2414.0,9,2023-09-01,Spain,Europe
+2023,Sudan,September,33.0,9,2023-09-01,Sudan,Africa
+2023,Suriname,September,12.0,9,2023-09-01,Suriname,America
+2023,Swaziland,September,0.0,9,2023-09-01,Eswatini,Africa
+2023,Sweden,September,327.0,9,2023-09-01,Sweden,Europe
+2023,Switzerland,September,1638.0,9,2023-09-01,Switzerland,Europe
+2023,Syrian Arab Republic,September,0.0,9,2023-09-01,Syria,Asia
+2023,Taiwan Province of China,September,616.0,9,2023-09-01,Taiwan,Asia
+2023,Tajikistan,September,8.0,9,2023-09-01,Tajikistan,Asia
+2023,Tanzania,September,18.0,9,2023-09-01,Tanzania,Africa
+2023,Thailand,September,326.0,9,2023-09-01,Thailand,Asia
+2023,Timor-Leste,September,11.0,9,2023-09-01,Timor-Leste,Asia
+2023,Togo,September,0.0,9,2023-09-01,Togo,Africa
+2023,Tonga,September,1.0,9,2023-09-01,Tonga,Oceania
+2023,Trinidad and Tobago,September,2.0,9,2023-09-01,Trinidad and Tobago,America
+2023,Tunisia,September,40.0,9,2023-09-01,Tunisia,Africa
+2023,Turkey,September,256.0,9,2023-09-01,Türkiye,Asia
+2023,Turkmenistan,September,5.0,9,2023-09-01,Turkmenistan,Asia
+2023,Tuvalu,September,0.0,9,2023-09-01,Tuvalu,Oceania
+2023,Uganda,September,11.0,9,2023-09-01,Uganda,Africa
+2023,Ukraine,September,233.0,9,2023-09-01,Ukraine,Europe
+2023,United Arab Emirates,September,228.0,9,2023-09-01,United Arab Emirates,Asia
+2023,United Kingdom,September,7504.0,9,2023-09-01,United Kingdom,Europe
+2023,United States,September,2357.0,9,2023-09-01,United States,America
+2023,Uruguay,September,7.0,9,2023-09-01,Uruguay,America
+2023,Uzbekistan,September,52.0,9,2023-09-01,Uzbekistan,Asia
+2023,Vanuatu,September,2.0,9,2023-09-01,Vanuatu,Oceania
+2023,Venezuela,September,1.0,9,2023-09-01,Venezuela,America
+2023,Viet Nam,September,154.0,9,2023-09-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),September,31.0,9,2023-09-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),September,3.0,9,2023-09-01,Zambia,Africa
+2023,Zimbabwe,September,10.0,9,2023-09-01,Zimbabwe,Africa
+2023,Afghanistan,October,5.0,10,2023-10-01,Afghanistan,Asia
+2023,Albania,October,4.0,10,2023-10-01,Albania,Europe
+2023,Algeria,October,19.0,10,2023-10-01,Algeria,Africa
+2023,Andorra,October,7.0,10,2023-10-01,Andorra,Europe
+2023,Angola,October,0.0,10,2023-10-01,Angola,Africa
+2023,Antigua and Barbuda,October,0.0,10,2023-10-01,Antigua and Barbuda,America
+2023,Argentina,October,49.0,10,2023-10-01,Argentina,America
+2023,Armenia,October,301.0,10,2023-10-01,Armenia,Asia
+2023,Aruba,October,0.0,10,2023-10-01,Aruba,America
+2023,Australia,October,4977.0,10,2023-10-01,Australia,Oceania
+2023,Austria,October,778.0,10,2023-10-01,Austria,Europe
+2023,Azerbaijan,October,94.0,10,2023-10-01,Azerbaijan,Asia
+2023,Bahamas,October,0.0,10,2023-10-01,Bahamas,America
+2023,Bahrain,October,54.0,10,2023-10-01,Bahrain,Asia
+2023,Bangladesh,October,2456.0,10,2023-10-01,Bangladesh,Asia
+2023,Barbados,October,1.0,10,2023-10-01,Barbados,America
+2023,Belarus,October,824.0,10,2023-10-01,Belarus,Europe
+2023,Belgium,October,666.0,10,2023-10-01,Belgium,Europe
+2023,Belize,October,2.0,10,2023-10-01,Belize,America
+2023,Benin,October,1.0,10,2023-10-01,Benin,Africa
+2023,Bhutan,October,39.0,10,2023-10-01,Bhutan,Asia
+2023,Bolivia,October,5.0,10,2023-10-01,Bolivia,America
+2023,Bosnia and Herzegovina,October,9.0,10,2023-10-01,Bosnia and Herzegovina,Europe
+2023,Botswana,October,2.0,10,2023-10-01,Botswana,Africa
+2023,Brazil,October,94.0,10,2023-10-01,Brazil,America
+2023,Brunei Darussalam,October,1.0,10,2023-10-01,Brunei Darussalam,Asia
+2023,Bulgaria,October,94.0,10,2023-10-01,Bulgaria,Europe
+2023,Burkina Faso,October,2.0,10,2023-10-01,Burkina Faso,Africa
+2023,Burundi,October,2.0,10,2023-10-01,Burundi,Africa
+2023,Cambodia,October,70.0,10,2023-10-01,Cambodia,Asia
+2023,Cameroon,October,4.0,10,2023-10-01,Cameroon,Africa
+2023,Canada,October,2302.0,10,2023-10-01,Canada,America
+2023,Cape Verde,October,0.0,10,2023-10-01,Cabo Verde,Africa
+2023,Central African Republic,October,0.0,10,2023-10-01,Central African Republic,Africa
+2023,Chad,October,0.0,10,2023-10-01,Chad,Africa
+2023,Chile,October,30.0,10,2023-10-01,Chile,America
+2023,China,October,6211.0,10,2023-10-01,China,Asia
+2023,Colombia,October,30.0,10,2023-10-01,Colombia,America
+2023,Comoros,October,1.0,10,2023-10-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",October,3.0,10,2023-10-01,DR Congo,Africa
+2023,Costa Rica,October,8.0,10,2023-10-01,Costa Rica,America
+2023,Cote Divoire,October,3.0,10,2023-10-01,Côte d'Ivoire,Africa
+2023,Croatia,October,104.0,10,2023-10-01,Croatia,Europe
+2023,Cuba,October,4.0,10,2023-10-01,Cuba,America
+2023,Cyprus,October,59.0,10,2023-10-01,Cyprus,Asia
+2023,Czech Republic,October,681.0,10,2023-10-01,Czechia,Europe
+2023,Denmark,October,556.0,10,2023-10-01,Denmark,Europe
+2023,Djibouti,October,1.0,10,2023-10-01,Djibouti,Africa
+2023,Dominica,October,4.0,10,2023-10-01,Dominica,America
+2023,Dominican Republic,October,6.0,10,2023-10-01,Dominican Republic,America
+2023,Ecuador,October,11.0,10,2023-10-01,Ecuador,America
+2023,Egypt,October,269.0,10,2023-10-01,Egypt,Africa
+2023,El Salvador,October,1.0,10,2023-10-01,El Salvador,America
+2023,Eritrea,October,1.0,10,2023-10-01,Eritrea,Africa
+2023,Estonia,October,99.0,10,2023-10-01,Estonia,Europe
+2023,Ethiopia,October,11.0,10,2023-10-01,Ethiopia,Africa
+2023,Fiji,October,16.0,10,2023-10-01,Fiji,Oceania
+2023,Finland,October,197.0,10,2023-10-01,Finland,Europe
+2023,France,October,2956.0,10,2023-10-01,France,Europe
+2023,Gabon,October,0.0,10,2023-10-01,Gabon,Africa
+2023,"Gambia, The",October,4.0,10,2023-10-01,Gambia,Africa
+2023,Georgia,October,88.0,10,2023-10-01,Georgia,Asia
+2023,Germany,October,7548.0,10,2023-10-01,Germany,Europe
+2023,Ghana,October,3.0,10,2023-10-01,Ghana,Africa
+2023,Greece,October,135.0,10,2023-10-01,Greece,Europe
+2023,Grenada,October,3.0,10,2023-10-01,Grenada,America
+2023,Guatemala,October,5.0,10,2023-10-01,Guatemala,America
+2023,Guinea,October,1.0,10,2023-10-01,Guinea,Africa
+2023,Guyana,October,2.0,10,2023-10-01,Guyana,America
+2023,Haiti,October,1.0,10,2023-10-01,Haiti,America
+2023,Honduras,October,1.0,10,2023-10-01,Honduras,America
+2023,Hungary,October,211.0,10,2023-10-01,Hungary,Europe
+2023,Iceland,October,17.0,10,2023-10-01,Iceland,Europe
+2023,India,October,28222.0,10,2023-10-01,India,Asia
+2023,Indonesia,October,256.0,10,2023-10-01,Indonesia,Asia
+2023,Iran,October,530.0,10,2023-10-01,Iran,Asia
+2023,Iraq,October,49.0,10,2023-10-01,Iraq,Asia
+2023,Ireland,October,512.0,10,2023-10-01,Ireland,Europe
+2023,Israel,October,460.0,10,2023-10-01,Israel,Asia
+2023,Italy,October,967.0,10,2023-10-01,Italy,Europe
+2023,Jamaica,October,7.0,10,2023-10-01,Jamaica,America
+2023,Japan,October,1295.0,10,2023-10-01,Japan,Asia
+2023,Jordan,October,218.0,10,2023-10-01,Jordan,Asia
+2023,Kazakhstan,October,166.0,10,2023-10-01,Kazakhstan,Asia
+2023,Kenya,October,42.0,10,2023-10-01,Kenya,Africa
+2023,Kiribati,October,0.0,10,2023-10-01,Kiribati,Oceania
+2023,Kosovar,October,2.0,10,2023-10-01,Kosovar,Other
+2023,Kuwait,October,85.0,10,2023-10-01,Kuwait,Asia
+2023,Kyrgyzstan,October,35.0,10,2023-10-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",October,6.0,10,2023-10-01,Laos,Asia
+2023,Latvia,October,99.0,10,2023-10-01,Latvia,Europe
+2023,Lebanon,October,268.0,10,2023-10-01,Lebanon,Asia
+2023,Lesotho,October,0.0,10,2023-10-01,Lesotho,Africa
+2023,Liberia,October,0.0,10,2023-10-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),October,3.0,10,2023-10-01,Libya,Africa
+2023,Liechtenstein,October,7.0,10,2023-10-01,Liechtenstein,Europe
+2023,Lithuania,October,226.0,10,2023-10-01,Lithuania,Europe
+2023,Luxembourg,October,20.0,10,2023-10-01,Luxembourg,Europe
+2023,Macedonia,October,29.0,10,2023-10-01,North Macedonia,Europe
+2023,Madagascar,October,21.0,10,2023-10-01,Madagascar,Africa
+2023,Malawi,October,9.0,10,2023-10-01,Malawi,Africa
+2023,Malaysia,October,788.0,10,2023-10-01,Malaysia,Asia
+2023,Maldives,October,3862.0,10,2023-10-01,Maldives,Asia
+2023,Mali,October,3.0,10,2023-10-01,Mali,Africa
+2023,Malta,October,42.0,10,2023-10-01,Malta,Europe
+2023,Marshall Islands,October,0.0,10,2023-10-01,Marshall Islands,Oceania
+2023,Mauritania,October,1.0,10,2023-10-01,Mauritania,Africa
+2023,Mauritius,October,22.0,10,2023-10-01,Mauritius,Africa
+2023,Mexico,October,54.0,10,2023-10-01,Mexico,America
+2023,Moldova,October,14.0,10,2023-10-01,Moldova,Europe
+2023,Monaco,October,0.0,10,2023-10-01,Monaco,Europe
+2023,Mongolia,October,18.0,10,2023-10-01,Mongolia,Asia
+2023,Montenegro,October,6.0,10,2023-10-01,Montenegro,Europe
+2023,Morocco,October,45.0,10,2023-10-01,Morocco,Africa
+2023,Mozambique,October,7.0,10,2023-10-01,Mozambique,Africa
+2023,Myanmar,October,63.0,10,2023-10-01,Myanmar,Asia
+2023,Namibia,October,1.0,10,2023-10-01,Namibia,Africa
+2023,Nauru,October,0.0,10,2023-10-01,Nauru,Oceania
+2023,Nepal,October,632.0,10,2023-10-01,Nepal,Asia
+2023,Netherlands,October,2117.0,10,2023-10-01,Netherlands,Europe
+2023,New Zealand,October,561.0,10,2023-10-01,New Zealand,Oceania
+2023,Nicaragua,October,1.0,10,2023-10-01,Nicaragua,America
+2023,Niger,October,3.0,10,2023-10-01,Niger,Africa
+2023,Nigeria,October,15.0,10,2023-10-01,Nigeria,Africa
+2023,Norway,October,394.0,10,2023-10-01,Norway,Europe
+2023,Oman,October,77.0,10,2023-10-01,Oman,Asia
+2023,Pakistan,October,903.0,10,2023-10-01,Pakistan,Asia
+2023,Palau,October,1.0,10,2023-10-01,Palau,Oceania
+2023,Palestinian Territories,October,29.0,10,2023-10-01,Palestine,Asia
+2023,Panama,October,2.0,10,2023-10-01,Panama,America
+2023,Papua New Guinea,October,3.0,10,2023-10-01,Papua New Guinea,Oceania
+2023,Paraguay,October,3.0,10,2023-10-01,Paraguay,America
+2023,Peru,October,9.0,10,2023-10-01,Peru,America
+2023,Philippines,October,318.0,10,2023-10-01,Philippines,Asia
+2023,Poland,October,1418.0,10,2023-10-01,Poland,Europe
+2023,Portugal,October,304.0,10,2023-10-01,Portugal,Europe
+2023,Qatar,October,47.0,10,2023-10-01,Qatar,Asia
+2023,Romania,October,299.0,10,2023-10-01,Romania,Europe
+2023,Russian Federation,October,10629.0,10,2023-10-01,Russia,Europe
+2023,Rwanda,October,2.0,10,2023-10-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,October,6.0,10,2023-10-01,St. Kitts and Nevis,America
+2023,Saint Lucia,October,0.0,10,2023-10-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,October,0.0,10,2023-10-01,St. Vincent and the Grenadines,America
+2023,Samoa,October,2.0,10,2023-10-01,Samoa,Oceania
+2023,San Marino,October,0.0,10,2023-10-01,San Marino,Europe
+2023,Saudi Arabia,October,290.0,10,2023-10-01,Saudi Arabia,Asia
+2023,Senegal,October,8.0,10,2023-10-01,Senegal,Africa
+2023,Serbia,October,82.0,10,2023-10-01,Serbia,Europe
+2023,Seychelles,October,143.0,10,2023-10-01,Seychelles,Africa
+2023,Sierra Leone,October,0.0,10,2023-10-01,Sierra Leone,Africa
+2023,Singapore,October,600.0,10,2023-10-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),October,394.0,10,2023-10-01,Slovakia,Europe
+2023,Slovenia,October,203.0,10,2023-10-01,Slovenia,Europe
+2023,Solomon Islands,October,0.0,10,2023-10-01,Solomon Islands,Oceania
+2023,Somalia,October,12.0,10,2023-10-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,October,232.0,10,2023-10-01,South Africa,Africa
+2023,South Korea,October,604.0,10,2023-10-01,South Korea,Asia
+2023,South Sudan,October,1.0,10,2023-10-01,South Sudan,Africa
+2023,Spain,October,2488.0,10,2023-10-01,Spain,Europe
+2023,Sudan,October,36.0,10,2023-10-01,Sudan,Africa
+2023,Suriname,October,1.0,10,2023-10-01,Suriname,America
+2023,Swaziland,October,0.0,10,2023-10-01,Eswatini,Africa
+2023,Sweden,October,617.0,10,2023-10-01,Sweden,Europe
+2023,Switzerland,October,1608.0,10,2023-10-01,Switzerland,Europe
+2023,Syrian Arab Republic,October,0.0,10,2023-10-01,Syria,Asia
+2023,Taiwan Province of China,October,761.0,10,2023-10-01,Taiwan,Asia
+2023,Tajikistan,October,23.0,10,2023-10-01,Tajikistan,Asia
+2023,Tanzania,October,17.0,10,2023-10-01,Tanzania,Africa
+2023,Thailand,October,394.0,10,2023-10-01,Thailand,Asia
+2023,Timor-Leste,October,0.0,10,2023-10-01,Timor-Leste,Asia
+2023,Togo,October,4.0,10,2023-10-01,Togo,Africa
+2023,Tonga,October,0.0,10,2023-10-01,Tonga,Oceania
+2023,Trinidad and Tobago,October,4.0,10,2023-10-01,Trinidad and Tobago,America
+2023,Tunisia,October,65.0,10,2023-10-01,Tunisia,Africa
+2023,Turkey,October,349.0,10,2023-10-01,Türkiye,Asia
+2023,Turkmenistan,October,9.0,10,2023-10-01,Turkmenistan,Asia
+2023,Tuvalu,October,0.0,10,2023-10-01,Tuvalu,Oceania
+2023,Uganda,October,16.0,10,2023-10-01,Uganda,Africa
+2023,Ukraine,October,305.0,10,2023-10-01,Ukraine,Europe
+2023,United Arab Emirates,October,190.0,10,2023-10-01,United Arab Emirates,Asia
+2023,United Kingdom,October,8454.0,10,2023-10-01,United Kingdom,Europe
+2023,United States,October,2651.0,10,2023-10-01,United States,America
+2023,Uruguay,October,6.0,10,2023-10-01,Uruguay,America
+2023,Uzbekistan,October,68.0,10,2023-10-01,Uzbekistan,Asia
+2023,Vanuatu,October,2.0,10,2023-10-01,Vanuatu,Oceania
+2023,Venezuela,October,5.0,10,2023-10-01,Venezuela,America
+2023,Viet Nam,October,113.0,10,2023-10-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),October,52.0,10,2023-10-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),October,4.0,10,2023-10-01,Zambia,Africa
+2023,Zimbabwe,October,10.0,10,2023-10-01,Zimbabwe,Africa
+2023,Afghanistan,November,25.0,11,2023-11-01,Afghanistan,Asia
+2023,Albania,November,8.0,11,2023-11-01,Albania,Europe
+2023,Algeria,November,27.0,11,2023-11-01,Algeria,Africa
+2023,Andorra,November,1.0,11,2023-11-01,Andorra,Europe
+2023,Angola,November,1.0,11,2023-11-01,Angola,Africa
+2023,Antigua and Barbuda,November,2.0,11,2023-11-01,Antigua and Barbuda,America
+2023,Argentina,November,56.0,11,2023-11-01,Argentina,America
+2023,Armenia,November,324.0,11,2023-11-01,Armenia,Asia
+2023,Aruba,November,0.0,11,2023-11-01,Aruba,America
+2023,Australia,November,7900.0,11,2023-11-01,Australia,Oceania
+2023,Austria,November,1212.0,11,2023-11-01,Austria,Europe
+2023,Azerbaijan,November,195.0,11,2023-11-01,Azerbaijan,Asia
+2023,Bahamas,November,1.0,11,2023-11-01,Bahamas,America
+2023,Bahrain,November,82.0,11,2023-11-01,Bahrain,Asia
+2023,Bangladesh,November,2674.0,11,2023-11-01,Bangladesh,Asia
+2023,Barbados,November,2.0,11,2023-11-01,Barbados,America
+2023,Belarus,November,1508.0,11,2023-11-01,Belarus,Europe
+2023,Belgium,November,769.0,11,2023-11-01,Belgium,Europe
+2023,Belize,November,0.0,11,2023-11-01,Belize,America
+2023,Benin,November,0.0,11,2023-11-01,Benin,Africa
+2023,Bhutan,November,33.0,11,2023-11-01,Bhutan,Asia
+2023,Bolivia,November,3.0,11,2023-11-01,Bolivia,America
+2023,Bosnia and Herzegovina,November,14.0,11,2023-11-01,Bosnia and Herzegovina,Europe
+2023,Botswana,November,3.0,11,2023-11-01,Botswana,Africa
+2023,Brazil,November,117.0,11,2023-11-01,Brazil,America
+2023,Brunei Darussalam,November,6.0,11,2023-11-01,Brunei Darussalam,Asia
+2023,Bulgaria,November,234.0,11,2023-11-01,Bulgaria,Europe
+2023,Burkina Faso,November,0.0,11,2023-11-01,Burkina Faso,Africa
+2023,Burundi,November,2.0,11,2023-11-01,Burundi,Africa
+2023,Cambodia,November,42.0,11,2023-11-01,Cambodia,Asia
+2023,Cameroon,November,3.0,11,2023-11-01,Cameroon,Africa
+2023,Canada,November,2678.0,11,2023-11-01,Canada,America
+2023,Cape Verde,November,0.0,11,2023-11-01,Cabo Verde,Africa
+2023,Central African Republic,November,1.0,11,2023-11-01,Central African Republic,Africa
+2023,Chad,November,0.0,11,2023-11-01,Chad,Africa
+2023,Chile,November,31.0,11,2023-11-01,Chile,America
+2023,China,November,6673.0,11,2023-11-01,China,Asia
+2023,Colombia,November,56.0,11,2023-11-01,Colombia,America
+2023,Comoros,November,5.0,11,2023-11-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",November,0.0,11,2023-11-01,DR Congo,Africa
+2023,Costa Rica,November,6.0,11,2023-11-01,Costa Rica,America
+2023,Cote Divoire,November,1.0,11,2023-11-01,Côte d'Ivoire,Africa
+2023,Croatia,November,111.0,11,2023-11-01,Croatia,Europe
+2023,Cuba,November,7.0,11,2023-11-01,Cuba,America
+2023,Cyprus,November,71.0,11,2023-11-01,Cyprus,Asia
+2023,Czech Republic,November,2373.0,11,2023-11-01,Czechia,Europe
+2023,Denmark,November,764.0,11,2023-11-01,Denmark,Europe
+2023,Djibouti,November,1.0,11,2023-11-01,Djibouti,Africa
+2023,Dominica,November,3.0,11,2023-11-01,Dominica,America
+2023,Dominican Republic,November,4.0,11,2023-11-01,Dominican Republic,America
+2023,Ecuador,November,12.0,11,2023-11-01,Ecuador,America
+2023,Egypt,November,344.0,11,2023-11-01,Egypt,Africa
+2023,El Salvador,November,3.0,11,2023-11-01,El Salvador,America
+2023,Eritrea,November,1.0,11,2023-11-01,Eritrea,Africa
+2023,Estonia,November,229.0,11,2023-11-01,Estonia,Europe
+2023,Ethiopia,November,12.0,11,2023-11-01,Ethiopia,Africa
+2023,Fiji,November,19.0,11,2023-11-01,Fiji,Oceania
+2023,Finland,November,352.0,11,2023-11-01,Finland,Europe
+2023,France,November,3882.0,11,2023-11-01,France,Europe
+2023,Gabon,November,0.0,11,2023-11-01,Gabon,Africa
+2023,"Gambia, The",November,1.0,11,2023-11-01,Gambia,Africa
+2023,Georgia,November,79.0,11,2023-11-01,Georgia,Asia
+2023,Germany,November,12331.0,11,2023-11-01,Germany,Europe
+2023,Ghana,November,14.0,11,2023-11-01,Ghana,Africa
+2023,Greece,November,187.0,11,2023-11-01,Greece,Europe
+2023,Grenada,November,3.0,11,2023-11-01,Grenada,America
+2023,Guatemala,November,10.0,11,2023-11-01,Guatemala,America
+2023,Guinea,November,1.0,11,2023-11-01,Guinea,Africa
+2023,Guyana,November,3.0,11,2023-11-01,Guyana,America
+2023,Haiti,November,2.0,11,2023-11-01,Haiti,America
+2023,Honduras,November,6.0,11,2023-11-01,Honduras,America
+2023,Hungary,November,505.0,11,2023-11-01,Hungary,Europe
+2023,Iceland,November,19.0,11,2023-11-01,Iceland,Europe
+2023,India,November,30339.0,11,2023-11-01,India,Asia
+2023,Indonesia,November,217.0,11,2023-11-01,Indonesia,Asia
+2023,Iran,November,783.0,11,2023-11-01,Iran,Asia
+2023,Iraq,November,37.0,11,2023-11-01,Iraq,Asia
+2023,Ireland,November,489.0,11,2023-11-01,Ireland,Europe
+2023,Israel,November,187.0,11,2023-11-01,Israel,Asia
+2023,Italy,November,1662.0,11,2023-11-01,Italy,Europe
+2023,Jamaica,November,5.0,11,2023-11-01,Jamaica,America
+2023,Japan,November,2875.0,11,2023-11-01,Japan,Asia
+2023,Jordan,November,152.0,11,2023-11-01,Jordan,Asia
+2023,Kazakhstan,November,193.0,11,2023-11-01,Kazakhstan,Asia
+2023,Kenya,November,30.0,11,2023-11-01,Kenya,Africa
+2023,Kiribati,November,0.0,11,2023-11-01,Kiribati,Oceania
+2023,Kosovar,November,3.0,11,2023-11-01,Kosovar,Other
+2023,Kuwait,November,66.0,11,2023-11-01,Kuwait,Asia
+2023,Kyrgyzstan,November,79.0,11,2023-11-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",November,10.0,11,2023-11-01,Laos,Asia
+2023,Latvia,November,293.0,11,2023-11-01,Latvia,Europe
+2023,Lebanon,November,171.0,11,2023-11-01,Lebanon,Asia
+2023,Lesotho,November,0.0,11,2023-11-01,Lesotho,Africa
+2023,Liberia,November,1.0,11,2023-11-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),November,7.0,11,2023-11-01,Libya,Africa
+2023,Liechtenstein,November,8.0,11,2023-11-01,Liechtenstein,Europe
+2023,Lithuania,November,396.0,11,2023-11-01,Lithuania,Europe
+2023,Luxembourg,November,29.0,11,2023-11-01,Luxembourg,Europe
+2023,Macedonia,November,16.0,11,2023-11-01,North Macedonia,Europe
+2023,Madagascar,November,13.0,11,2023-11-01,Madagascar,Africa
+2023,Malawi,November,7.0,11,2023-11-01,Malawi,Africa
+2023,Malaysia,November,1084.0,11,2023-11-01,Malaysia,Asia
+2023,Maldives,November,2420.0,11,2023-11-01,Maldives,Asia
+2023,Mali,November,2.0,11,2023-11-01,Mali,Africa
+2023,Malta,November,37.0,11,2023-11-01,Malta,Europe
+2023,Marshall Islands,November,0.0,11,2023-11-01,Marshall Islands,Oceania
+2023,Mauritania,November,1.0,11,2023-11-01,Mauritania,Africa
+2023,Mauritius,November,40.0,11,2023-11-01,Mauritius,Africa
+2023,Mexico,November,82.0,11,2023-11-01,Mexico,America
+2023,Moldova,November,49.0,11,2023-11-01,Moldova,Europe
+2023,Monaco,November,0.0,11,2023-11-01,Monaco,Europe
+2023,Mongolia,November,14.0,11,2023-11-01,Mongolia,Asia
+2023,Montenegro,November,6.0,11,2023-11-01,Montenegro,Europe
+2023,Morocco,November,64.0,11,2023-11-01,Morocco,Africa
+2023,Mozambique,November,3.0,11,2023-11-01,Mozambique,Africa
+2023,Myanmar,November,138.0,11,2023-11-01,Myanmar,Asia
+2023,Namibia,November,3.0,11,2023-11-01,Namibia,Africa
+2023,Nauru,November,0.0,11,2023-11-01,Nauru,Oceania
+2023,Nepal,November,411.0,11,2023-11-01,Nepal,Asia
+2023,Netherlands,November,2370.0,11,2023-11-01,Netherlands,Europe
+2023,New Zealand,November,749.0,11,2023-11-01,New Zealand,Oceania
+2023,Nicaragua,November,1.0,11,2023-11-01,Nicaragua,America
+2023,Niger,November,0.0,11,2023-11-01,Niger,Africa
+2023,Nigeria,November,13.0,11,2023-11-01,Nigeria,Africa
+2023,Norway,November,622.0,11,2023-11-01,Norway,Europe
+2023,Oman,November,122.0,11,2023-11-01,Oman,Asia
+2023,Pakistan,November,962.0,11,2023-11-01,Pakistan,Asia
+2023,Palau,November,0.0,11,2023-11-01,Palau,Oceania
+2023,Palestinian Territories,November,26.0,11,2023-11-01,Palestine,Asia
+2023,Panama,November,3.0,11,2023-11-01,Panama,America
+2023,Papua New Guinea,November,0.0,11,2023-11-01,Papua New Guinea,Oceania
+2023,Paraguay,November,0.0,11,2023-11-01,Paraguay,America
+2023,Peru,November,20.0,11,2023-11-01,Peru,America
+2023,Philippines,November,296.0,11,2023-11-01,Philippines,Asia
+2023,Poland,November,3343.0,11,2023-11-01,Poland,Europe
+2023,Portugal,November,557.0,11,2023-11-01,Portugal,Europe
+2023,Qatar,November,27.0,11,2023-11-01,Qatar,Asia
+2023,Romania,November,516.0,11,2023-11-01,Romania,Europe
+2023,Russian Federation,November,24912.0,11,2023-11-01,Russia,Europe
+2023,Rwanda,November,2.0,11,2023-11-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,November,8.0,11,2023-11-01,St. Kitts and Nevis,America
+2023,Saint Lucia,November,2.0,11,2023-11-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,November,0.0,11,2023-11-01,St. Vincent and the Grenadines,America
+2023,Samoa,November,0.0,11,2023-11-01,Samoa,Oceania
+2023,San Marino,November,2.0,11,2023-11-01,San Marino,Europe
+2023,Saudi Arabia,November,872.0,11,2023-11-01,Saudi Arabia,Asia
+2023,Senegal,November,2.0,11,2023-11-01,Senegal,Africa
+2023,Serbia,November,164.0,11,2023-11-01,Serbia,Europe
+2023,Seychelles,November,103.0,11,2023-11-01,Seychelles,Africa
+2023,Sierra Leone,November,1.0,11,2023-11-01,Sierra Leone,Africa
+2023,Singapore,November,1140.0,11,2023-11-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),November,617.0,11,2023-11-01,Slovakia,Europe
+2023,Slovenia,November,195.0,11,2023-11-01,Slovenia,Europe
+2023,Solomon Islands,November,1.0,11,2023-11-01,Solomon Islands,Oceania
+2023,Somalia,November,2.0,11,2023-11-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,November,274.0,11,2023-11-01,South Africa,Africa
+2023,South Korea,November,867.0,11,2023-11-01,South Korea,Asia
+2023,South Sudan,November,2.0,11,2023-11-01,South Sudan,Africa
+2023,Spain,November,2673.0,11,2023-11-01,Spain,Europe
+2023,Sudan,November,145.0,11,2023-11-01,Sudan,Africa
+2023,Suriname,November,1.0,11,2023-11-01,Suriname,America
+2023,Swaziland,November,2.0,11,2023-11-01,Eswatini,Africa
+2023,Sweden,November,948.0,11,2023-11-01,Sweden,Europe
+2023,Switzerland,November,1970.0,11,2023-11-01,Switzerland,Europe
+2023,Syrian Arab Republic,November,0.0,11,2023-11-01,Syria,Asia
+2023,Taiwan Province of China,November,553.0,11,2023-11-01,Taiwan,Asia
+2023,Tajikistan,November,7.0,11,2023-11-01,Tajikistan,Asia
+2023,Tanzania,November,8.0,11,2023-11-01,Tanzania,Africa
+2023,Thailand,November,380.0,11,2023-11-01,Thailand,Asia
+2023,Timor-Leste,November,4.0,11,2023-11-01,Timor-Leste,Asia
+2023,Togo,November,0.0,11,2023-11-01,Togo,Africa
+2023,Tonga,November,0.0,11,2023-11-01,Tonga,Oceania
+2023,Trinidad and Tobago,November,5.0,11,2023-11-01,Trinidad and Tobago,America
+2023,Tunisia,November,45.0,11,2023-11-01,Tunisia,Africa
+2023,Turkey,November,566.0,11,2023-11-01,Türkiye,Asia
+2023,Turkmenistan,November,13.0,11,2023-11-01,Turkmenistan,Asia
+2023,Tuvalu,November,0.0,11,2023-11-01,Tuvalu,Oceania
+2023,Uganda,November,9.0,11,2023-11-01,Uganda,Africa
+2023,Ukraine,November,479.0,11,2023-11-01,Ukraine,Europe
+2023,United Arab Emirates,November,148.0,11,2023-11-01,United Arab Emirates,Asia
+2023,United Kingdom,November,11526.0,11,2023-11-01,United Kingdom,Europe
+2023,United States,November,4299.0,11,2023-11-01,United States,America
+2023,Uruguay,November,6.0,11,2023-11-01,Uruguay,America
+2023,Uzbekistan,November,51.0,11,2023-11-01,Uzbekistan,Asia
+2023,Vanuatu,November,4.0,11,2023-11-01,Vanuatu,Oceania
+2023,Venezuela,November,11.0,11,2023-11-01,Venezuela,America
+2023,Viet Nam,November,335.0,11,2023-11-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),November,34.0,11,2023-11-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),November,1.0,11,2023-11-01,Zambia,Africa
+2023,Zimbabwe,November,14.0,11,2023-11-01,Zimbabwe,Africa
+2023,Afghanistan,December,16.0,12,2023-12-01,Afghanistan,Asia
+2023,Albania,December,12.0,12,2023-12-01,Albania,Europe
+2023,Algeria,December,29.0,12,2023-12-01,Algeria,Africa
+2023,Andorra,December,6.0,12,2023-12-01,Andorra,Europe
+2023,Angola,December,5.0,12,2023-12-01,Angola,Africa
+2023,Antigua and Barbuda,December,3.0,12,2023-12-01,Antigua and Barbuda,America
+2023,Argentina,December,67.0,12,2023-12-01,Argentina,America
+2023,Armenia,December,653.0,12,2023-12-01,Armenia,Asia
+2023,Aruba,December,1.0,12,2023-12-01,Aruba,America
+2023,Australia,December,10847.0,12,2023-12-01,Australia,Oceania
+2023,Austria,December,1883.0,12,2023-12-01,Austria,Europe
+2023,Azerbaijan,December,194.0,12,2023-12-01,Azerbaijan,Asia
+2023,Bahamas,December,5.0,12,2023-12-01,Bahamas,America
+2023,Bahrain,December,104.0,12,2023-12-01,Bahrain,Asia
+2023,Bangladesh,December,3185.0,12,2023-12-01,Bangladesh,Asia
+2023,Barbados,December,0.0,12,2023-12-01,Barbados,America
+2023,Belarus,December,1566.0,12,2023-12-01,Belarus,Europe
+2023,Belgium,December,995.0,12,2023-12-01,Belgium,Europe
+2023,Belize,December,0.0,12,2023-12-01,Belize,America
+2023,Benin,December,3.0,12,2023-12-01,Benin,Africa
+2023,Bhutan,December,68.0,12,2023-12-01,Bhutan,Asia
+2023,Bolivia,December,4.0,12,2023-12-01,Bolivia,America
+2023,Bosnia and Herzegovina,December,50.0,12,2023-12-01,Bosnia and Herzegovina,Europe
+2023,Botswana,December,21.0,12,2023-12-01,Botswana,Africa
+2023,Brazil,December,236.0,12,2023-12-01,Brazil,America
+2023,Brunei Darussalam,December,3.0,12,2023-12-01,Brunei Darussalam,Asia
+2023,Bulgaria,December,555.0,12,2023-12-01,Bulgaria,Europe
+2023,Burkina Faso,December,0.0,12,2023-12-01,Burkina Faso,Africa
+2023,Burundi,December,1.0,12,2023-12-01,Burundi,Africa
+2023,Cambodia,December,28.0,12,2023-12-01,Cambodia,Asia
+2023,Cameroon,December,1.0,12,2023-12-01,Cameroon,Africa
+2023,Canada,December,3640.0,12,2023-12-01,Canada,America
+2023,Cape Verde,December,0.0,12,2023-12-01,Cabo Verde,Africa
+2023,Central African Republic,December,1.0,12,2023-12-01,Central African Republic,Africa
+2023,Chad,December,0.0,12,2023-12-01,Chad,Africa
+2023,Chile,December,41.0,12,2023-12-01,Chile,America
+2023,China,December,8274.0,12,2023-12-01,China,Asia
+2023,Colombia,December,79.0,12,2023-12-01,Colombia,America
+2023,Comoros,December,2.0,12,2023-12-01,Comoros,Africa
+2023,"Congo, The Democratic Republic",December,1.0,12,2023-12-01,DR Congo,Africa
+2023,Costa Rica,December,10.0,12,2023-12-01,Costa Rica,America
+2023,Cote Divoire,December,0.0,12,2023-12-01,Côte d'Ivoire,Africa
+2023,Croatia,December,172.0,12,2023-12-01,Croatia,Europe
+2023,Cuba,December,6.0,12,2023-12-01,Cuba,America
+2023,Cyprus,December,95.0,12,2023-12-01,Cyprus,Asia
+2023,Czech Republic,December,2466.0,12,2023-12-01,Czechia,Europe
+2023,Denmark,December,1440.0,12,2023-12-01,Denmark,Europe
+2023,Djibouti,December,1.0,12,2023-12-01,Djibouti,Africa
+2023,Dominica,December,20.0,12,2023-12-01,Dominica,America
+2023,Dominican Republic,December,2.0,12,2023-12-01,Dominican Republic,America
+2023,Ecuador,December,12.0,12,2023-12-01,Ecuador,America
+2023,Egypt,December,472.0,12,2023-12-01,Egypt,Africa
+2023,El Salvador,December,4.0,12,2023-12-01,El Salvador,America
+2023,Eritrea,December,0.0,12,2023-12-01,Eritrea,Africa
+2023,Estonia,December,706.0,12,2023-12-01,Estonia,Europe
+2023,Ethiopia,December,19.0,12,2023-12-01,Ethiopia,Africa
+2023,Fiji,December,40.0,12,2023-12-01,Fiji,Oceania
+2023,Finland,December,473.0,12,2023-12-01,Finland,Europe
+2023,France,December,5509.0,12,2023-12-01,France,Europe
+2023,Gabon,December,0.0,12,2023-12-01,Gabon,Africa
+2023,"Gambia, The",December,7.0,12,2023-12-01,Gambia,Africa
+2023,Georgia,December,83.0,12,2023-12-01,Georgia,Asia
+2023,Germany,December,13747.0,12,2023-12-01,Germany,Europe
+2023,Ghana,December,2.0,12,2023-12-01,Ghana,Africa
+2023,Greece,December,344.0,12,2023-12-01,Greece,Europe
+2023,Grenada,December,2.0,12,2023-12-01,Grenada,America
+2023,Guatemala,December,6.0,12,2023-12-01,Guatemala,America
+2023,Guinea,December,1.0,12,2023-12-01,Guinea,Africa
+2023,Guyana,December,1.0,12,2023-12-01,Guyana,America
+2023,Haiti,December,2.0,12,2023-12-01,Haiti,America
+2023,Honduras,December,2.0,12,2023-12-01,Honduras,America
+2023,Hungary,December,1040.0,12,2023-12-01,Hungary,Europe
+2023,Iceland,December,39.0,12,2023-12-01,Iceland,Europe
+2023,India,December,43973.0,12,2023-12-01,India,Asia
+2023,Indonesia,December,277.0,12,2023-12-01,Indonesia,Asia
+2023,Iran,December,900.0,12,2023-12-01,Iran,Asia
+2023,Iraq,December,94.0,12,2023-12-01,Iraq,Asia
+2023,Ireland,December,852.0,12,2023-12-01,Ireland,Europe
+2023,Israel,December,421.0,12,2023-12-01,Israel,Asia
+2023,Italy,December,3389.0,12,2023-12-01,Italy,Europe
+2023,Jamaica,December,10.0,12,2023-12-01,Jamaica,America
+2023,Japan,December,2554.0,12,2023-12-01,Japan,Asia
+2023,Jordan,December,304.0,12,2023-12-01,Jordan,Asia
+2023,Kazakhstan,December,2399.0,12,2023-12-01,Kazakhstan,Asia
+2023,Kenya,December,126.0,12,2023-12-01,Kenya,Africa
+2023,Kiribati,December,0.0,12,2023-12-01,Kiribati,Oceania
+2023,Kosovar,December,4.0,12,2023-12-01,Kosovar,Other
+2023,Kuwait,December,150.0,12,2023-12-01,Kuwait,Asia
+2023,Kyrgyzstan,December,238.0,12,2023-12-01,Kyrgyzstan,Asia
+2023,"Lao, People's Democratic Republic",December,10.0,12,2023-12-01,Laos,Asia
+2023,Latvia,December,476.0,12,2023-12-01,Latvia,Europe
+2023,Lebanon,December,484.0,12,2023-12-01,Lebanon,Asia
+2023,Lesotho,December,0.0,12,2023-12-01,Lesotho,Africa
+2023,Liberia,December,0.0,12,2023-12-01,Liberia,Africa
+2023,Libya(Libyan Arab Jamahir),December,4.0,12,2023-12-01,Libya,Africa
+2023,Liechtenstein,December,8.0,12,2023-12-01,Liechtenstein,Europe
+2023,Lithuania,December,490.0,12,2023-12-01,Lithuania,Europe
+2023,Luxembourg,December,62.0,12,2023-12-01,Luxembourg,Europe
+2023,Macedonia,December,37.0,12,2023-12-01,North Macedonia,Europe
+2023,Madagascar,December,20.0,12,2023-12-01,Madagascar,Africa
+2023,Malawi,December,4.0,12,2023-12-01,Malawi,Africa
+2023,Malaysia,December,1784.0,12,2023-12-01,Malaysia,Asia
+2023,Maldives,December,5968.0,12,2023-12-01,Maldives,Asia
+2023,Mali,December,1.0,12,2023-12-01,Mali,Africa
+2023,Malta,December,163.0,12,2023-12-01,Malta,Europe
+2023,Marshall Islands,December,0.0,12,2023-12-01,Marshall Islands,Oceania
+2023,Mauritania,December,3.0,12,2023-12-01,Mauritania,Africa
+2023,Mauritius,December,194.0,12,2023-12-01,Mauritius,Africa
+2023,Mexico,December,147.0,12,2023-12-01,Mexico,America
+2023,Moldova,December,89.0,12,2023-12-01,Moldova,Europe
+2023,Monaco,December,4.0,12,2023-12-01,Monaco,Europe
+2023,Mongolia,December,5.0,12,2023-12-01,Mongolia,Asia
+2023,Montenegro,December,4.0,12,2023-12-01,Montenegro,Europe
+2023,Morocco,December,134.0,12,2023-12-01,Morocco,Africa
+2023,Mozambique,December,2.0,12,2023-12-01,Mozambique,Africa
+2023,Myanmar,December,103.0,12,2023-12-01,Myanmar,Asia
+2023,Namibia,December,3.0,12,2023-12-01,Namibia,Africa
+2023,Nauru,December,0.0,12,2023-12-01,Nauru,Oceania
+2023,Nepal,December,468.0,12,2023-12-01,Nepal,Asia
+2023,Netherlands,December,2672.0,12,2023-12-01,Netherlands,Europe
+2023,New Zealand,December,1343.0,12,2023-12-01,New Zealand,Oceania
+2023,Nicaragua,December,1.0,12,2023-12-01,Nicaragua,America
+2023,Niger,December,0.0,12,2023-12-01,Niger,Africa
+2023,Nigeria,December,6.0,12,2023-12-01,Nigeria,Africa
+2023,Norway,December,1035.0,12,2023-12-01,Norway,Europe
+2023,Oman,December,108.0,12,2023-12-01,Oman,Asia
+2023,Pakistan,December,1168.0,12,2023-12-01,Pakistan,Asia
+2023,Palau,December,0.0,12,2023-12-01,Palau,Oceania
+2023,Palestinian Territories,December,43.0,12,2023-12-01,Palestine,Asia
+2023,Panama,December,1.0,12,2023-12-01,Panama,America
+2023,Papua New Guinea,December,16.0,12,2023-12-01,Papua New Guinea,Oceania
+2023,Paraguay,December,0.0,12,2023-12-01,Paraguay,America
+2023,Peru,December,22.0,12,2023-12-01,Peru,America
+2023,Philippines,December,448.0,12,2023-12-01,Philippines,Asia
+2023,Poland,December,3217.0,12,2023-12-01,Poland,Europe
+2023,Portugal,December,527.0,12,2023-12-01,Portugal,Europe
+2023,Qatar,December,33.0,12,2023-12-01,Qatar,Asia
+2023,Romania,December,955.0,12,2023-12-01,Romania,Europe
+2023,Russian Federation,December,29657.0,12,2023-12-01,Russia,Europe
+2023,Rwanda,December,7.0,12,2023-12-01,Rwanda,Africa
+2023,Saint Kitts and Nevis,December,10.0,12,2023-12-01,St. Kitts and Nevis,America
+2023,Saint Lucia,December,1.0,12,2023-12-01,St. Lucia,America
+2023,Saint Vincent The Grenadi,December,0.0,12,2023-12-01,St. Vincent and the Grenadines,America
+2023,Samoa,December,0.0,12,2023-12-01,Samoa,Oceania
+2023,San Marino,December,0.0,12,2023-12-01,San Marino,Europe
+2023,Saudi Arabia,December,293.0,12,2023-12-01,Saudi Arabia,Asia
+2023,Senegal,December,2.0,12,2023-12-01,Senegal,Africa
+2023,Serbia,December,215.0,12,2023-12-01,Serbia,Europe
+2023,Seychelles,December,275.0,12,2023-12-01,Seychelles,Africa
+2023,Sierra Leone,December,0.0,12,2023-12-01,Sierra Leone,Africa
+2023,Singapore,December,1601.0,12,2023-12-01,Singapore,Asia
+2023,Slovakia(Slovak Republic),December,462.0,12,2023-12-01,Slovakia,Europe
+2023,Slovenia,December,227.0,12,2023-12-01,Slovenia,Europe
+2023,Solomon Islands,December,1.0,12,2023-12-01,Solomon Islands,Oceania
+2023,Somalia,December,9.0,12,2023-12-01,Somalia,Africa
+2023,South Africa-Zuid Afrika,December,901.0,12,2023-12-01,South Africa,Africa
+2023,South Korea,December,957.0,12,2023-12-01,South Korea,Asia
+2023,South Sudan,December,0.0,12,2023-12-01,South Sudan,Africa
+2023,Spain,December,2667.0,12,2023-12-01,Spain,Europe
+2023,Sudan,December,65.0,12,2023-12-01,Sudan,Africa
+2023,Suriname,December,0.0,12,2023-12-01,Suriname,America
+2023,Swaziland,December,5.0,12,2023-12-01,Eswatini,Africa
+2023,Sweden,December,2118.0,12,2023-12-01,Sweden,Europe
+2023,Switzerland,December,2654.0,12,2023-12-01,Switzerland,Europe
+2023,Syrian Arab Republic,December,0.0,12,2023-12-01,Syria,Asia
+2023,Taiwan Province of China,December,374.0,12,2023-12-01,Taiwan,Asia
+2023,Tajikistan,December,27.0,12,2023-12-01,Tajikistan,Asia
+2023,Tanzania,December,23.0,12,2023-12-01,Tanzania,Africa
+2023,Thailand,December,637.0,12,2023-12-01,Thailand,Asia
+2023,Timor-Leste,December,0.0,12,2023-12-01,Timor-Leste,Asia
+2023,Togo,December,0.0,12,2023-12-01,Togo,Africa
+2023,Tonga,December,0.0,12,2023-12-01,Tonga,Oceania
+2023,Trinidad and Tobago,December,10.0,12,2023-12-01,Trinidad and Tobago,America
+2023,Tunisia,December,107.0,12,2023-12-01,Tunisia,Africa
+2023,Turkey,December,515.0,12,2023-12-01,Türkiye,Asia
+2023,Turkmenistan,December,23.0,12,2023-12-01,Turkmenistan,Asia
+2023,Tuvalu,December,0.0,12,2023-12-01,Tuvalu,Oceania
+2023,Uganda,December,7.0,12,2023-12-01,Uganda,Africa
+2023,Ukraine,December,1042.0,12,2023-12-01,Ukraine,Europe
+2023,United Arab Emirates,December,342.0,12,2023-12-01,United Arab Emirates,Asia
+2023,United Kingdom,December,19265.0,12,2023-12-01,United Kingdom,Europe
+2023,United States,December,8044.0,12,2023-12-01,United States,America
+2023,Uruguay,December,3.0,12,2023-12-01,Uruguay,America
+2023,Uzbekistan,December,242.0,12,2023-12-01,Uzbekistan,Asia
+2023,Vanuatu,December,7.0,12,2023-12-01,Vanuatu,Oceania
+2023,Venezuela,December,13.0,12,2023-12-01,Venezuela,America
+2023,Viet Nam,December,202.0,12,2023-12-01,Vietnam,Asia
+2023,Yemen (Yemen Arab Republic),December,44.0,12,2023-12-01,Yemen,Asia
+2023,Zambia(Northern Rhodesia),December,6.0,12,2023-12-01,Zambia,Africa
+2023,Zimbabwe,December,37.0,12,2023-12-01,Zimbabwe,Africa

@@ -1,0 +1,2317 @@
+Year,Country,Month,Tourist_Arrivals,Month_Number,Date,Standard_Country,Continent
+2024,Afghanistan,January,26.0,1,2024-01-01,Afghanistan,Asia
+2024,Albania,January,7.0,1,2024-01-01,Albania,Europe
+2024,Algeria,January,18.0,1,2024-01-01,Algeria,Africa
+2024,Andorra,January,3.0,1,2024-01-01,Andorra,Europe
+2024,Angola,January,8.0,1,2024-01-01,Angola,Africa
+2024,Antigua and Barbuda,January,3.0,1,2024-01-01,Antigua and Barbuda,America
+2024,Argentina,January,141.0,1,2024-01-01,Argentina,America
+2024,Armenia,January,510.0,1,2024-01-01,Armenia,Asia
+2024,Aruba,January,0.0,1,2024-01-01,Aruba,America
+2024,Australia,January,6645.0,1,2024-01-01,Australia,Oceania
+2024,Austria,January,2385.0,1,2024-01-01,Austria,Europe
+2024,Azerbaijan,January,163.0,1,2024-01-01,Azerbaijan,Asia
+2024,Bahamas,January,0.0,1,2024-01-01,Bahamas,America
+2024,Bahrain,January,122.0,1,2024-01-01,Bahrain,Asia
+2024,Bangladesh,January,2329.0,1,2024-01-01,Bangladesh,Asia
+2024,Barbados,January,0.0,1,2024-01-01,Barbados,America
+2024,Belarus,January,2342.0,1,2024-01-01,Belarus,Europe
+2024,Belgium,January,1313.0,1,2024-01-01,Belgium,Europe
+2024,Belize,January,1.0,1,2024-01-01,Belize,America
+2024,Benin,January,0.0,1,2024-01-01,Benin,Africa
+2024,Bhutan,January,135.0,1,2024-01-01,Bhutan,Asia
+2024,Bolivia,January,8.0,1,2024-01-01,Bolivia,America
+2024,Bosnia and Herzegovina,January,37.0,1,2024-01-01,Bosnia and Herzegovina,Europe
+2024,Botswana,January,3.0,1,2024-01-01,Botswana,Africa
+2024,Brazil,January,236.0,1,2024-01-01,Brazil,America
+2024,Brunei Darussalam,January,1.0,1,2024-01-01,Brunei Darussalam,Asia
+2024,Bulgaria,January,656.0,1,2024-01-01,Bulgaria,Europe
+2024,Burkina Faso,January,0.0,1,2024-01-01,Burkina Faso,Africa
+2024,Burundi,January,0.0,1,2024-01-01,Burundi,Africa
+2024,Cambodia,January,42.0,1,2024-01-01,Cambodia,Asia
+2024,Cameroon,January,1.0,1,2024-01-01,Cameroon,Africa
+2024,Canada,January,4126.0,1,2024-01-01,Canada,America
+2024,Cape Verde,January,0.0,1,2024-01-01,Cabo Verde,Africa
+2024,Central African Republic,January,0.0,1,2024-01-01,Central African Republic,Africa
+2024,Chad,January,0.0,1,2024-01-01,Chad,Africa
+2024,Chile,January,56.0,1,2024-01-01,Chile,America
+2024,China,January,12528.0,1,2024-01-01,China,Asia
+2024,Colombia,January,54.0,1,2024-01-01,Colombia,America
+2024,Comoros,January,6.0,1,2024-01-01,Comoros,Africa
+2024,Congo,January,2.0,1,2024-01-01,Congo Republic,Africa
+2024,Costa Rica,January,20.0,1,2024-01-01,Costa Rica,America
+2024,Cote Divoire,January,0.0,1,2024-01-01,Côte d'Ivoire,Africa
+2024,Croatia,January,281.0,1,2024-01-01,Croatia,Europe
+2024,Cuba,January,6.0,1,2024-01-01,Cuba,America
+2024,Cyprus,January,91.0,1,2024-01-01,Cyprus,Asia
+2024,Czech Republic,January,3484.0,1,2024-01-01,Czechia,Europe
+2024,Denmark,January,2542.0,1,2024-01-01,Denmark,Europe
+2024,Djibouti,January,1.0,1,2024-01-01,Djibouti,Africa
+2024,Dominica,January,7.0,1,2024-01-01,Dominica,America
+2024,Dominican Republic,January,8.0,1,2024-01-01,Dominican Republic,America
+2024,Ecuador,January,9.0,1,2024-01-01,Ecuador,America
+2024,Egypt,January,396.0,1,2024-01-01,Egypt,Africa
+2024,El Salvador,January,2.0,1,2024-01-01,El Salvador,America
+2024,Equatorial Guinea,January,0.0,1,2024-01-01,Equatorial Guinea,Africa
+2024,Eritrea,January,1.0,1,2024-01-01,Eritrea,Africa
+2024,Estonia,January,910.0,1,2024-01-01,Estonia,Europe
+2024,Ethiopia,January,8.0,1,2024-01-01,Ethiopia,Africa
+2024,Fiji,January,16.0,1,2024-01-01,Fiji,Oceania
+2024,Finland,January,737.0,1,2024-01-01,Finland,Europe
+2024,France,January,9919.0,1,2024-01-01,France,Europe
+2024,Gabon,January,0.0,1,2024-01-01,Gabon,Africa
+2024,"Gambia, The",January,0.0,1,2024-01-01,Gambia,Africa
+2024,Georgia,January,216.0,1,2024-01-01,Georgia,Asia
+2024,Germany,January,13593.0,1,2024-01-01,Germany,Europe
+2024,Ghana,January,3.0,1,2024-01-01,Ghana,Africa
+2024,Greece,January,264.0,1,2024-01-01,Greece,Europe
+2024,Grenada,January,1.0,1,2024-01-01,Grenada,America
+2024,Guatemala,January,2.0,1,2024-01-01,Guatemala,America
+2024,Guinea,January,0.0,1,2024-01-01,Guinea,Africa
+2024,Guinea-Bissau,January,0.0,1,2024-01-01,Guinea-Bissau,Africa
+2024,Guyana,January,0.0,1,2024-01-01,Guyana,America
+2024,Haiti,January,1.0,1,2024-01-01,Haiti,America
+2024,Honduras,January,1.0,1,2024-01-01,Honduras,America
+2024,Hungary,January,1544.0,1,2024-01-01,Hungary,Europe
+2024,Iceland,January,41.0,1,2024-01-01,Iceland,Europe
+2024,India,January,34399.0,1,2024-01-01,India,Asia
+2024,Indonesia,January,224.0,1,2024-01-01,Indonesia,Asia
+2024,Iran,January,688.0,1,2024-01-01,Iran,Asia
+2024,Iraq,January,54.0,1,2024-01-01,Iraq,Asia
+2024,Ireland,January,797.0,1,2024-01-01,Ireland,Europe
+2024,Israel,January,773.0,1,2024-01-01,Israel,Asia
+2024,Italy,January,3485.0,1,2024-01-01,Italy,Europe
+2024,Jamaica,January,4.0,1,2024-01-01,Jamaica,America
+2024,Japan,January,1993.0,1,2024-01-01,Japan,Asia
+2024,Jordan,January,180.0,1,2024-01-01,Jordan,Asia
+2024,Kazakhstan,January,3350.0,1,2024-01-01,Kazakhstan,Asia
+2024,Kenya,January,42.0,1,2024-01-01,Kenya,Africa
+2024,Kiribati,January,0.0,1,2024-01-01,Kiribati,Oceania
+2024,Kosovar,January,1.0,1,2024-01-01,Kosovar,Other
+2024,Kuwait,January,231.0,1,2024-01-01,Kuwait,Asia
+2024,Kyrgyzstan,January,239.0,1,2024-01-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",January,4.0,1,2024-01-01,Laos,Asia
+2024,Latvia,January,750.0,1,2024-01-01,Latvia,Europe
+2024,Lebanon,January,155.0,1,2024-01-01,Lebanon,Asia
+2024,Lesotho,January,0.0,1,2024-01-01,Lesotho,Africa
+2024,Liberia,January,0.0,1,2024-01-01,Liberia,Africa
+2024,Libya,January,2.0,1,2024-01-01,Libya,Africa
+2024,Liechtenstein,January,7.0,1,2024-01-01,Liechtenstein,Europe
+2024,Lithuania,January,1015.0,1,2024-01-01,Lithuania,Europe
+2024,Luxembourg,January,70.0,1,2024-01-01,Luxembourg,Europe
+2024,Macedonia,January,20.0,1,2024-01-01,North Macedonia,Europe
+2024,Madagascar,January,13.0,1,2024-01-01,Madagascar,Africa
+2024,Malawi,January,3.0,1,2024-01-01,Malawi,Africa
+2024,Malaysia,January,1096.0,1,2024-01-01,Malaysia,Asia
+2024,Maldives,January,2919.0,1,2024-01-01,Maldives,Asia
+2024,Mali,January,0.0,1,2024-01-01,Mali,Africa
+2024,Malta,January,92.0,1,2024-01-01,Malta,Europe
+2024,Marshall Islands,January,1.0,1,2024-01-01,Marshall Islands,Oceania
+2024,Mauritania,January,0.0,1,2024-01-01,Mauritania,Africa
+2024,Mauritius,January,48.0,1,2024-01-01,Mauritius,Africa
+2024,Mexico,January,96.0,1,2024-01-01,Mexico,America
+2024,Micronesia,January,0.0,1,2024-01-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,January,134.0,1,2024-01-01,Moldova,Europe
+2024,Monaco,January,5.0,1,2024-01-01,Monaco,Europe
+2024,Mongolia,January,15.0,1,2024-01-01,Mongolia,Asia
+2024,Montenegro,January,34.0,1,2024-01-01,Montenegro,Europe
+2024,Morocco,January,62.0,1,2024-01-01,Morocco,Africa
+2024,Mozambique,January,2.0,1,2024-01-01,Mozambique,Africa
+2024,Myanmar,January,106.0,1,2024-01-01,Myanmar,Asia
+2024,Namibia,January,3.0,1,2024-01-01,Namibia,Africa
+2024,Nauru,January,0.0,1,2024-01-01,Nauru,Oceania
+2024,Nepal,January,625.0,1,2024-01-01,Nepal,Asia
+2024,Netherlands,January,4531.0,1,2024-01-01,Netherlands,Europe
+2024,Netherlands Antilles,January,0.0,1,2024-01-01,Netherlands Antilles,Other
+2024,New Zealand,January,732.0,1,2024-01-01,New Zealand,Oceania
+2024,Nicaragua,January,1.0,1,2024-01-01,Nicaragua,America
+2024,Niger,January,0.0,1,2024-01-01,Niger,Africa
+2024,Nigeria,January,1.0,1,2024-01-01,Nigeria,Africa
+2024,Norway,January,1226.0,1,2024-01-01,Norway,Europe
+2024,Oman,January,236.0,1,2024-01-01,Oman,Asia
+2024,Pakistan,January,956.0,1,2024-01-01,Pakistan,Asia
+2024,Palau,January,0.0,1,2024-01-01,Palau,Oceania
+2024,Palestinian Territories,January,25.0,1,2024-01-01,Palestine,Asia
+2024,Panama,January,4.0,1,2024-01-01,Panama,America
+2024,Papua New Guinea,January,3.0,1,2024-01-01,Papua New Guinea,Oceania
+2024,Paraguay,January,2.0,1,2024-01-01,Paraguay,America
+2024,Peru,January,24.0,1,2024-01-01,Peru,America
+2024,Philippines,January,262.0,1,2024-01-01,Philippines,Asia
+2024,Poland,January,7800.0,1,2024-01-01,Poland,Europe
+2024,Portugal,January,487.0,1,2024-01-01,Portugal,Europe
+2024,Qatar,January,41.0,1,2024-01-01,Qatar,Asia
+2024,Romania,January,853.0,1,2024-01-01,Romania,Europe
+2024,Russian Federation,January,31159.0,1,2024-01-01,Russia,Europe
+2024,Rwanda,January,1.0,1,2024-01-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,January,17.0,1,2024-01-01,St. Kitts and Nevis,America
+2024,Saint Lucia,January,1.0,1,2024-01-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,January,0.0,1,2024-01-01,St. Vincent and the Grenadines,America
+2024,Samoa,January,0.0,1,2024-01-01,Samoa,Oceania
+2024,San Marino,January,6.0,1,2024-01-01,San Marino,Europe
+2024,Saudi Arabia,January,511.0,1,2024-01-01,Saudi Arabia,Asia
+2024,Senegal,January,4.0,1,2024-01-01,Senegal,Africa
+2024,Serbia,January,314.0,1,2024-01-01,Serbia,Europe
+2024,Seychelles,January,211.0,1,2024-01-01,Seychelles,Africa
+2024,Sierra Leone,January,2.0,1,2024-01-01,Sierra Leone,Africa
+2024,Singapore,January,804.0,1,2024-01-01,Singapore,Asia
+2024,Slovakia,January,990.0,1,2024-01-01,Slovakia,Europe
+2024,Slovenia,January,275.0,1,2024-01-01,Slovenia,Europe
+2024,Solomon Islands,January,0.0,1,2024-01-01,Solomon Islands,Oceania
+2024,Somalia,January,6.0,1,2024-01-01,Somalia,Africa
+2024,South Africa,January,332.0,1,2024-01-01,South Africa,Africa
+2024,South Korea,January,1677.0,1,2024-01-01,South Korea,Asia
+2024,South Sudan,January,3.0,1,2024-01-01,South Sudan,Africa
+2024,Spain,January,2004.0,1,2024-01-01,Spain,Europe
+2024,Sudan,January,54.0,1,2024-01-01,Sudan,Africa
+2024,Suriname,January,2.0,1,2024-01-01,Suriname,America
+2024,Swaziland,January,2.0,1,2024-01-01,Eswatini,Africa
+2024,Sweden,January,1921.0,1,2024-01-01,Sweden,Europe
+2024,Switzerland,January,2951.0,1,2024-01-01,Switzerland,Europe
+2024,Syrian Arab Republic,January,2.0,1,2024-01-01,Syria,Asia
+2024,Tajikistan,January,18.0,1,2024-01-01,Tajikistan,Asia
+2024,Tanzania,January,12.0,1,2024-01-01,Tanzania,Africa
+2024,Thailand,January,505.0,1,2024-01-01,Thailand,Asia
+2024,Timor-Leste,January,4.0,1,2024-01-01,Timor-Leste,Asia
+2024,Togo,January,0.0,1,2024-01-01,Togo,Africa
+2024,Tonga,January,1.0,1,2024-01-01,Tonga,Oceania
+2024,Trinidad and Tobago,January,6.0,1,2024-01-01,Trinidad and Tobago,America
+2024,Tunisia,January,56.0,1,2024-01-01,Tunisia,Africa
+2024,Turkey,January,717.0,1,2024-01-01,Türkiye,Asia
+2024,Turkmenistan,January,11.0,1,2024-01-01,Turkmenistan,Asia
+2024,Tuvalu,January,0.0,1,2024-01-01,Tuvalu,Oceania
+2024,Uganda,January,11.0,1,2024-01-01,Uganda,Africa
+2024,Ukraine,January,1485.0,1,2024-01-01,Ukraine,Europe
+2024,United Arab Emirates,January,219.0,1,2024-01-01,United Arab Emirates,Asia
+2024,United Kingdom,January,16665.0,1,2024-01-01,United Kingdom,Europe
+2024,United States,January,5712.0,1,2024-01-01,United States,America
+2024,Uruguay,January,12.0,1,2024-01-01,Uruguay,America
+2024,Uzbekistan,January,402.0,1,2024-01-01,Uzbekistan,Asia
+2024,Vanuatu,January,1.0,1,2024-01-01,Vanuatu,Oceania
+2024,Venezuela,January,3.0,1,2024-01-01,Venezuela,America
+2024,Viet Nam,January,166.0,1,2024-01-01,Vietnam,Asia
+2024,Yemen,January,29.0,1,2024-01-01,Yemen,Asia
+2024,Zambia,January,1.0,1,2024-01-01,Zambia,Africa
+2024,Zimbabwe,January,36.0,1,2024-01-01,Zimbabwe,Africa
+2024,Afghanistan,February,21.0,2,2024-02-01,Afghanistan,Asia
+2024,Albania,February,6.0,2,2024-02-01,Albania,Europe
+2024,Algeria,February,38.0,2,2024-02-01,Algeria,Africa
+2024,Andorra,February,6.0,2,2024-02-01,Andorra,Europe
+2024,Angola,February,0.0,2,2024-02-01,Angola,Africa
+2024,Antigua and Barbuda,February,5.0,2,2024-02-01,Antigua and Barbuda,America
+2024,Argentina,February,79.0,2,2024-02-01,Argentina,America
+2024,Armenia,February,264.0,2,2024-02-01,Armenia,Asia
+2024,Aruba,February,0.0,2,2024-02-01,Aruba,America
+2024,Australia,February,6265.0,2,2024-02-01,Australia,Oceania
+2024,Austria,February,2372.0,2,2024-02-01,Austria,Europe
+2024,Azerbaijan,February,157.0,2,2024-02-01,Azerbaijan,Asia
+2024,Bahamas,February,0.0,2,2024-02-01,Bahamas,America
+2024,Bahrain,February,81.0,2,2024-02-01,Bahrain,Asia
+2024,Bangladesh,February,2389.0,2,2024-02-01,Bangladesh,Asia
+2024,Barbados,February,1.0,2,2024-02-01,Barbados,America
+2024,Belarus,February,1884.0,2,2024-02-01,Belarus,Europe
+2024,Belgium,February,1577.0,2,2024-02-01,Belgium,Europe
+2024,Belize,February,2.0,2,2024-02-01,Belize,America
+2024,Benin,February,0.0,2,2024-02-01,Benin,Africa
+2024,Bhutan,February,67.0,2,2024-02-01,Bhutan,Asia
+2024,Bolivia,February,7.0,2,2024-02-01,Bolivia,America
+2024,Bosnia and Herzegovina,February,66.0,2,2024-02-01,Bosnia and Herzegovina,Europe
+2024,Botswana,February,2.0,2,2024-02-01,Botswana,Africa
+2024,Brazil,February,212.0,2,2024-02-01,Brazil,America
+2024,Brunei Darussalam,February,11.0,2,2024-02-01,Brunei Darussalam,Asia
+2024,Bulgaria,February,624.0,2,2024-02-01,Bulgaria,Europe
+2024,Burkina Faso,February,0.0,2,2024-02-01,Burkina Faso,Africa
+2024,Burundi,February,0.0,2,2024-02-01,Burundi,Africa
+2024,Cambodia,February,41.0,2,2024-02-01,Cambodia,Asia
+2024,Cameroon,February,4.0,2,2024-02-01,Cameroon,Africa
+2024,Canada,February,3912.0,2,2024-02-01,Canada,America
+2024,Cape Verde,February,0.0,2,2024-02-01,Cabo Verde,Africa
+2024,Central African Republic,February,0.0,2,2024-02-01,Central African Republic,Africa
+2024,Chad,February,0.0,2,2024-02-01,Chad,Africa
+2024,Chile,February,61.0,2,2024-02-01,Chile,America
+2024,China,February,16279.0,2,2024-02-01,China,Asia
+2024,Colombia,February,70.0,2,2024-02-01,Colombia,America
+2024,Comoros,February,6.0,2,2024-02-01,Comoros,Africa
+2024,Congo,February,5.0,2,2024-02-01,Congo Republic,Africa
+2024,Costa Rica,February,14.0,2,2024-02-01,Costa Rica,America
+2024,Cote Divoire,February,1.0,2,2024-02-01,Côte d'Ivoire,Africa
+2024,Croatia,February,249.0,2,2024-02-01,Croatia,Europe
+2024,Cuba,February,1.0,2,2024-02-01,Cuba,America
+2024,Cyprus,February,62.0,2,2024-02-01,Cyprus,Asia
+2024,Czech Republic,February,3852.0,2,2024-02-01,Czechia,Europe
+2024,Denmark,February,2160.0,2,2024-02-01,Denmark,Europe
+2024,Djibouti,February,4.0,2,2024-02-01,Djibouti,Africa
+2024,Dominica,February,9.0,2,2024-02-01,Dominica,America
+2024,Dominican Republic,February,1.0,2,2024-02-01,Dominican Republic,America
+2024,Ecuador,February,13.0,2,2024-02-01,Ecuador,America
+2024,Egypt,February,476.0,2,2024-02-01,Egypt,Africa
+2024,El Salvador,February,4.0,2,2024-02-01,El Salvador,America
+2024,Equatorial Guinea,February,0.0,2,2024-02-01,Equatorial Guinea,Africa
+2024,Eritrea,February,1.0,2,2024-02-01,Eritrea,Africa
+2024,Estonia,February,898.0,2,2024-02-01,Estonia,Europe
+2024,Ethiopia,February,6.0,2,2024-02-01,Ethiopia,Africa
+2024,Fiji,February,9.0,2,2024-02-01,Fiji,Oceania
+2024,Finland,February,666.0,2,2024-02-01,Finland,Europe
+2024,France,February,12503.0,2,2024-02-01,France,Europe
+2024,Gabon,February,0.0,2,2024-02-01,Gabon,Africa
+2024,"Gambia, The",February,2.0,2,2024-02-01,Gambia,Africa
+2024,Georgia,February,187.0,2,2024-02-01,Georgia,Asia
+2024,Germany,February,16259.0,2,2024-02-01,Germany,Europe
+2024,Ghana,February,4.0,2,2024-02-01,Ghana,Africa
+2024,Greece,February,264.0,2,2024-02-01,Greece,Europe
+2024,Grenada,February,0.0,2,2024-02-01,Grenada,America
+2024,Guatemala,February,10.0,2,2024-02-01,Guatemala,America
+2024,Guinea,February,2.0,2,2024-02-01,Guinea,Africa
+2024,Guinea-Bissau,February,0.0,2,2024-02-01,Guinea-Bissau,Africa
+2024,Guyana,February,1.0,2,2024-02-01,Guyana,America
+2024,Haiti,February,0.0,2,2024-02-01,Haiti,America
+2024,Honduras,February,1.0,2,2024-02-01,Honduras,America
+2024,Hungary,February,1311.0,2,2024-02-01,Hungary,Europe
+2024,Iceland,February,28.0,2,2024-02-01,Iceland,Europe
+2024,India,February,30027.0,2,2024-02-01,India,Asia
+2024,Indonesia,February,320.0,2,2024-02-01,Indonesia,Asia
+2024,Iran,February,919.0,2,2024-02-01,Iran,Asia
+2024,Iraq,February,74.0,2,2024-02-01,Iraq,Asia
+2024,Ireland,February,874.0,2,2024-02-01,Ireland,Europe
+2024,Israel,February,1988.0,2,2024-02-01,Israel,Asia
+2024,Italy,February,3194.0,2,2024-02-01,Italy,Europe
+2024,Jamaica,February,11.0,2,2024-02-01,Jamaica,America
+2024,Japan,February,2666.0,2,2024-02-01,Japan,Asia
+2024,Jordan,February,227.0,2,2024-02-01,Jordan,Asia
+2024,Kazakhstan,February,2682.0,2,2024-02-01,Kazakhstan,Asia
+2024,Kenya,February,64.0,2,2024-02-01,Kenya,Africa
+2024,Kiribati,February,0.0,2,2024-02-01,Kiribati,Oceania
+2024,Kosovar,February,4.0,2,2024-02-01,Kosovar,Other
+2024,Kuwait,February,222.0,2,2024-02-01,Kuwait,Asia
+2024,Kyrgyzstan,February,219.0,2,2024-02-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",February,13.0,2,2024-02-01,Laos,Asia
+2024,Latvia,February,654.0,2,2024-02-01,Latvia,Europe
+2024,Lebanon,February,293.0,2,2024-02-01,Lebanon,Asia
+2024,Lesotho,February,1.0,2,2024-02-01,Lesotho,Africa
+2024,Liberia,February,1.0,2,2024-02-01,Liberia,Africa
+2024,Libya,February,7.0,2,2024-02-01,Libya,Africa
+2024,Liechtenstein,February,9.0,2,2024-02-01,Liechtenstein,Europe
+2024,Lithuania,February,1601.0,2,2024-02-01,Lithuania,Europe
+2024,Luxembourg,February,86.0,2,2024-02-01,Luxembourg,Europe
+2024,Macedonia,February,24.0,2,2024-02-01,North Macedonia,Europe
+2024,Madagascar,February,10.0,2,2024-02-01,Madagascar,Africa
+2024,Malawi,February,0.0,2,2024-02-01,Malawi,Africa
+2024,Malaysia,February,2250.0,2,2024-02-01,Malaysia,Asia
+2024,Maldives,February,3235.0,2,2024-02-01,Maldives,Asia
+2024,Mali,February,1.0,2,2024-02-01,Mali,Africa
+2024,Malta,February,125.0,2,2024-02-01,Malta,Europe
+2024,Marshall Islands,February,0.0,2,2024-02-01,Marshall Islands,Oceania
+2024,Mauritania,February,0.0,2,2024-02-01,Mauritania,Africa
+2024,Mauritius,February,53.0,2,2024-02-01,Mauritius,Africa
+2024,Mexico,February,95.0,2,2024-02-01,Mexico,America
+2024,Micronesia,February,0.0,2,2024-02-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,February,166.0,2,2024-02-01,Moldova,Europe
+2024,Monaco,February,11.0,2,2024-02-01,Monaco,Europe
+2024,Mongolia,February,6.0,2,2024-02-01,Mongolia,Asia
+2024,Montenegro,February,19.0,2,2024-02-01,Montenegro,Europe
+2024,Morocco,February,103.0,2,2024-02-01,Morocco,Africa
+2024,Mozambique,February,2.0,2,2024-02-01,Mozambique,Africa
+2024,Myanmar,February,101.0,2,2024-02-01,Myanmar,Asia
+2024,Namibia,February,5.0,2,2024-02-01,Namibia,Africa
+2024,Nauru,February,0.0,2,2024-02-01,Nauru,Oceania
+2024,Nepal,February,508.0,2,2024-02-01,Nepal,Asia
+2024,Netherlands,February,4011.0,2,2024-02-01,Netherlands,Europe
+2024,Netherlands Antilles,February,0.0,2,2024-02-01,Netherlands Antilles,Other
+2024,New Zealand,February,567.0,2,2024-02-01,New Zealand,Oceania
+2024,Nicaragua,February,1.0,2,2024-02-01,Nicaragua,America
+2024,Niger,February,1.0,2,2024-02-01,Niger,Africa
+2024,Nigeria,February,11.0,2,2024-02-01,Nigeria,Africa
+2024,Norway,February,1329.0,2,2024-02-01,Norway,Europe
+2024,Oman,February,116.0,2,2024-02-01,Oman,Asia
+2024,Pakistan,February,1299.0,2,2024-02-01,Pakistan,Asia
+2024,Palau,February,0.0,2,2024-02-01,Palau,Oceania
+2024,Palestinian Territories,February,61.0,2,2024-02-01,Palestine,Asia
+2024,Panama,February,7.0,2,2024-02-01,Panama,America
+2024,Papua New Guinea,February,1.0,2,2024-02-01,Papua New Guinea,Oceania
+2024,Paraguay,February,2.0,2,2024-02-01,Paraguay,America
+2024,Peru,February,13.0,2,2024-02-01,Peru,America
+2024,Philippines,February,440.0,2,2024-02-01,Philippines,Asia
+2024,Poland,February,6909.0,2,2024-02-01,Poland,Europe
+2024,Portugal,February,654.0,2,2024-02-01,Portugal,Europe
+2024,Qatar,February,45.0,2,2024-02-01,Qatar,Asia
+2024,Romania,February,940.0,2,2024-02-01,Romania,Europe
+2024,Russian Federation,February,32030.0,2,2024-02-01,Russia,Europe
+2024,Rwanda,February,6.0,2,2024-02-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,February,12.0,2,2024-02-01,St. Kitts and Nevis,America
+2024,Saint Lucia,February,1.0,2,2024-02-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,February,1.0,2,2024-02-01,St. Vincent and the Grenadines,America
+2024,Samoa,February,0.0,2,2024-02-01,Samoa,Oceania
+2024,San Marino,February,0.0,2,2024-02-01,San Marino,Europe
+2024,Saudi Arabia,February,549.0,2,2024-02-01,Saudi Arabia,Asia
+2024,Senegal,February,2.0,2,2024-02-01,Senegal,Africa
+2024,Serbia,February,293.0,2,2024-02-01,Serbia,Europe
+2024,Seychelles,February,149.0,2,2024-02-01,Seychelles,Africa
+2024,Sierra Leone,February,2.0,2,2024-02-01,Sierra Leone,Africa
+2024,Singapore,February,862.0,2,2024-02-01,Singapore,Asia
+2024,Slovakia,February,1179.0,2,2024-02-01,Slovakia,Europe
+2024,Slovenia,February,611.0,2,2024-02-01,Slovenia,Europe
+2024,Solomon Islands,February,1.0,2,2024-02-01,Solomon Islands,Oceania
+2024,Somalia,February,4.0,2,2024-02-01,Somalia,Africa
+2024,South Africa,February,350.0,2,2024-02-01,South Africa,Africa
+2024,South Korea,February,830.0,2,2024-02-01,South Korea,Asia
+2024,South Sudan,February,1.0,2,2024-02-01,South Sudan,Africa
+2024,Spain,February,2036.0,2,2024-02-01,Spain,Europe
+2024,Sudan,February,41.0,2,2024-02-01,Sudan,Africa
+2024,Suriname,February,0.0,2,2024-02-01,Suriname,America
+2024,Swaziland,February,0.0,2,2024-02-01,Eswatini,Africa
+2024,Sweden,February,1903.0,2,2024-02-01,Sweden,Europe
+2024,Switzerland,February,2888.0,2,2024-02-01,Switzerland,Europe
+2024,Syrian Arab Republic,February,10.0,2,2024-02-01,Syria,Asia
+2024,Tajikistan,February,8.0,2,2024-02-01,Tajikistan,Asia
+2024,Tanzania,February,25.0,2,2024-02-01,Tanzania,Africa
+2024,Thailand,February,716.0,2,2024-02-01,Thailand,Asia
+2024,Timor-Leste,February,0.0,2,2024-02-01,Timor-Leste,Asia
+2024,Togo,February,0.0,2,2024-02-01,Togo,Africa
+2024,Tonga,February,0.0,2,2024-02-01,Tonga,Oceania
+2024,Trinidad and Tobago,February,16.0,2,2024-02-01,Trinidad and Tobago,America
+2024,Tunisia,February,136.0,2,2024-02-01,Tunisia,Africa
+2024,Turkey,February,663.0,2,2024-02-01,Türkiye,Asia
+2024,Turkmenistan,February,5.0,2,2024-02-01,Turkmenistan,Asia
+2024,Tuvalu,February,0.0,2,2024-02-01,Tuvalu,Oceania
+2024,Uganda,February,33.0,2,2024-02-01,Uganda,Africa
+2024,Ukraine,February,1193.0,2,2024-02-01,Ukraine,Europe
+2024,United Arab Emirates,February,227.0,2,2024-02-01,United Arab Emirates,Asia
+2024,United Kingdom,February,20614.0,2,2024-02-01,United Kingdom,Europe
+2024,United States,February,5709.0,2,2024-02-01,United States,America
+2024,Uruguay,February,16.0,2,2024-02-01,Uruguay,America
+2024,Uzbekistan,February,70.0,2,2024-02-01,Uzbekistan,Asia
+2024,Vanuatu,February,2.0,2,2024-02-01,Vanuatu,Oceania
+2024,Venezuela,February,17.0,2,2024-02-01,Venezuela,America
+2024,Viet Nam,February,270.0,2,2024-02-01,Vietnam,Asia
+2024,Yemen,February,65.0,2,2024-02-01,Yemen,Asia
+2024,Zambia,February,3.0,2,2024-02-01,Zambia,Africa
+2024,Zimbabwe,February,12.0,2,2024-02-01,Zimbabwe,Africa
+2024,Afghanistan,March,18.0,3,2024-03-01,Afghanistan,Asia
+2024,Albania,March,13.0,3,2024-03-01,Albania,Europe
+2024,Algeria,March,10.0,3,2024-03-01,Algeria,Africa
+2024,Andorra,March,10.0,3,2024-03-01,Andorra,Europe
+2024,Angola,March,2.0,3,2024-03-01,Angola,Africa
+2024,Antigua and Barbuda,March,5.0,3,2024-03-01,Antigua and Barbuda,America
+2024,Argentina,March,120.0,3,2024-03-01,Argentina,America
+2024,Armenia,March,326.0,3,2024-03-01,Armenia,Asia
+2024,Aruba,March,0.0,3,2024-03-01,Aruba,America
+2024,Australia,March,8852.0,3,2024-03-01,Australia,Oceania
+2024,Austria,March,1674.0,3,2024-03-01,Austria,Europe
+2024,Azerbaijan,March,469.0,3,2024-03-01,Azerbaijan,Asia
+2024,Bahamas,March,4.0,3,2024-03-01,Bahamas,America
+2024,Bahrain,March,29.0,3,2024-03-01,Bahrain,Asia
+2024,Bangladesh,March,1308.0,3,2024-03-01,Bangladesh,Asia
+2024,Barbados,March,13.0,3,2024-03-01,Barbados,America
+2024,Belarus,March,1665.0,3,2024-03-01,Belarus,Europe
+2024,Belgium,March,1565.0,3,2024-03-01,Belgium,Europe
+2024,Belize,March,4.0,3,2024-03-01,Belize,America
+2024,Benin,March,0.0,3,2024-03-01,Benin,Africa
+2024,Bhutan,March,68.0,3,2024-03-01,Bhutan,Asia
+2024,Bolivia,March,2.0,3,2024-03-01,Bolivia,America
+2024,Bosnia and Herzegovina,March,17.0,3,2024-03-01,Bosnia and Herzegovina,Europe
+2024,Botswana,March,3.0,3,2024-03-01,Botswana,Africa
+2024,Brazil,March,159.0,3,2024-03-01,Brazil,America
+2024,Brunei Darussalam,March,9.0,3,2024-03-01,Brunei Darussalam,Asia
+2024,Bulgaria,March,458.0,3,2024-03-01,Bulgaria,Europe
+2024,Burkina Faso,March,0.0,3,2024-03-01,Burkina Faso,Africa
+2024,Burundi,March,1.0,3,2024-03-01,Burundi,Africa
+2024,Cambodia,March,531.0,3,2024-03-01,Cambodia,Asia
+2024,Cameroon,March,4.0,3,2024-03-01,Cameroon,Africa
+2024,Canada,March,4034.0,3,2024-03-01,Canada,America
+2024,Cape Verde,March,0.0,3,2024-03-01,Cabo Verde,Africa
+2024,Central African Republic,March,29.0,3,2024-03-01,Central African Republic,Africa
+2024,Chad,March,1.0,3,2024-03-01,Chad,Africa
+2024,Chile,March,77.0,3,2024-03-01,Chile,America
+2024,China,March,13836.0,3,2024-03-01,China,Asia
+2024,Colombia,March,69.0,3,2024-03-01,Colombia,America
+2024,Comoros,March,3.0,3,2024-03-01,Comoros,Africa
+2024,Congo,March,0.0,3,2024-03-01,Congo Republic,Africa
+2024,Costa Rica,March,11.0,3,2024-03-01,Costa Rica,America
+2024,Cote Divoire,March,2.0,3,2024-03-01,Côte d'Ivoire,Africa
+2024,Croatia,March,200.0,3,2024-03-01,Croatia,Europe
+2024,Cuba,March,10.0,3,2024-03-01,Cuba,America
+2024,Cyprus,March,67.0,3,2024-03-01,Cyprus,Asia
+2024,Czech Republic,March,2988.0,3,2024-03-01,Czechia,Europe
+2024,Denmark,March,1497.0,3,2024-03-01,Denmark,Europe
+2024,Djibouti,March,5.0,3,2024-03-01,Djibouti,Africa
+2024,Dominica,March,14.0,3,2024-03-01,Dominica,America
+2024,Dominican Republic,March,3.0,3,2024-03-01,Dominican Republic,America
+2024,Ecuador,March,7.0,3,2024-03-01,Ecuador,America
+2024,Egypt,March,99.0,3,2024-03-01,Egypt,Africa
+2024,El Salvador,March,4.0,3,2024-03-01,El Salvador,America
+2024,Equatorial Guinea,March,0.0,3,2024-03-01,Equatorial Guinea,Africa
+2024,Eritrea,March,1.0,3,2024-03-01,Eritrea,Africa
+2024,Estonia,March,690.0,3,2024-03-01,Estonia,Europe
+2024,Ethiopia,March,10.0,3,2024-03-01,Ethiopia,Africa
+2024,Fiji,March,11.0,3,2024-03-01,Fiji,Oceania
+2024,Finland,March,464.0,3,2024-03-01,Finland,Europe
+2024,France,March,10960.0,3,2024-03-01,France,Europe
+2024,Gabon,March,0.0,3,2024-03-01,Gabon,Africa
+2024,"Gambia, The",March,0.0,3,2024-03-01,Gambia,Africa
+2024,Georgia,March,148.0,3,2024-03-01,Georgia,Asia
+2024,Germany,March,18324.0,3,2024-03-01,Germany,Europe
+2024,Ghana,March,4.0,3,2024-03-01,Ghana,Africa
+2024,Greece,March,305.0,3,2024-03-01,Greece,Europe
+2024,Grenada,March,2.0,3,2024-03-01,Grenada,America
+2024,Guatemala,March,2.0,3,2024-03-01,Guatemala,America
+2024,Guinea,March,0.0,3,2024-03-01,Guinea,Africa
+2024,Guinea-Bissau,March,1.0,3,2024-03-01,Guinea-Bissau,Africa
+2024,Guyana,March,4.0,3,2024-03-01,Guyana,America
+2024,Haiti,March,0.0,3,2024-03-01,Haiti,America
+2024,Honduras,March,1.0,3,2024-03-01,Honduras,America
+2024,Hungary,March,585.0,3,2024-03-01,Hungary,Europe
+2024,Iceland,March,26.0,3,2024-03-01,Iceland,Europe
+2024,India,March,31853.0,3,2024-03-01,India,Asia
+2024,Indonesia,March,257.0,3,2024-03-01,Indonesia,Asia
+2024,Iran,March,3589.0,3,2024-03-01,Iran,Asia
+2024,Iraq,March,21.0,3,2024-03-01,Iraq,Asia
+2024,Ireland,March,1008.0,3,2024-03-01,Ireland,Europe
+2024,Israel,March,2212.0,3,2024-03-01,Israel,Asia
+2024,Italy,March,2502.0,3,2024-03-01,Italy,Europe
+2024,Jamaica,March,18.0,3,2024-03-01,Jamaica,America
+2024,Japan,March,2575.0,3,2024-03-01,Japan,Asia
+2024,Jordan,March,85.0,3,2024-03-01,Jordan,Asia
+2024,Kazakhstan,March,2266.0,3,2024-03-01,Kazakhstan,Asia
+2024,Kenya,March,80.0,3,2024-03-01,Kenya,Africa
+2024,Kiribati,March,1.0,3,2024-03-01,Kiribati,Oceania
+2024,Kosovar,March,3.0,3,2024-03-01,Kosovar,Other
+2024,Kuwait,March,59.0,3,2024-03-01,Kuwait,Asia
+2024,Kyrgyzstan,March,108.0,3,2024-03-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",March,11.0,3,2024-03-01,Laos,Asia
+2024,Latvia,March,670.0,3,2024-03-01,Latvia,Europe
+2024,Lebanon,March,242.0,3,2024-03-01,Lebanon,Asia
+2024,Lesotho,March,3.0,3,2024-03-01,Lesotho,Africa
+2024,Liberia,March,0.0,3,2024-03-01,Liberia,Africa
+2024,Libya,March,0.0,3,2024-03-01,Libya,Africa
+2024,Liechtenstein,March,5.0,3,2024-03-01,Liechtenstein,Europe
+2024,Lithuania,March,1219.0,3,2024-03-01,Lithuania,Europe
+2024,Luxembourg,March,104.0,3,2024-03-01,Luxembourg,Europe
+2024,Macedonia,March,16.0,3,2024-03-01,North Macedonia,Europe
+2024,Madagascar,March,19.0,3,2024-03-01,Madagascar,Africa
+2024,Malawi,March,5.0,3,2024-03-01,Malawi,Africa
+2024,Malaysia,March,1721.0,3,2024-03-01,Malaysia,Asia
+2024,Maldives,March,1562.0,3,2024-03-01,Maldives,Asia
+2024,Mali,March,1.0,3,2024-03-01,Mali,Africa
+2024,Malta,March,125.0,3,2024-03-01,Malta,Europe
+2024,Marshall Islands,March,0.0,3,2024-03-01,Marshall Islands,Oceania
+2024,Mauritania,March,4.0,3,2024-03-01,Mauritania,Africa
+2024,Mauritius,March,43.0,3,2024-03-01,Mauritius,Africa
+2024,Mexico,March,111.0,3,2024-03-01,Mexico,America
+2024,Micronesia,March,1.0,3,2024-03-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,March,92.0,3,2024-03-01,Moldova,Europe
+2024,Monaco,March,1.0,3,2024-03-01,Monaco,Europe
+2024,Mongolia,March,7.0,3,2024-03-01,Mongolia,Asia
+2024,Montenegro,March,17.0,3,2024-03-01,Montenegro,Europe
+2024,Morocco,March,35.0,3,2024-03-01,Morocco,Africa
+2024,Mozambique,March,5.0,3,2024-03-01,Mozambique,Africa
+2024,Myanmar,March,110.0,3,2024-03-01,Myanmar,Asia
+2024,Namibia,March,5.0,3,2024-03-01,Namibia,Africa
+2024,Nauru,March,2.0,3,2024-03-01,Nauru,Oceania
+2024,Nepal,March,309.0,3,2024-03-01,Nepal,Asia
+2024,Netherlands,March,3707.0,3,2024-03-01,Netherlands,Europe
+2024,Netherlands Antilles,March,0.0,3,2024-03-01,Netherlands Antilles,Other
+2024,New Zealand,March,1032.0,3,2024-03-01,New Zealand,Oceania
+2024,Nicaragua,March,1.0,3,2024-03-01,Nicaragua,America
+2024,Niger,March,0.0,3,2024-03-01,Niger,Africa
+2024,Nigeria,March,3.0,3,2024-03-01,Nigeria,Africa
+2024,Norway,March,1033.0,3,2024-03-01,Norway,Europe
+2024,Oman,March,28.0,3,2024-03-01,Oman,Asia
+2024,Pakistan,March,941.0,3,2024-03-01,Pakistan,Asia
+2024,Palau,March,0.0,3,2024-03-01,Palau,Oceania
+2024,Palestinian Territories,March,8.0,3,2024-03-01,Palestine,Asia
+2024,Panama,March,5.0,3,2024-03-01,Panama,America
+2024,Papua New Guinea,March,28.0,3,2024-03-01,Papua New Guinea,Oceania
+2024,Paraguay,March,4.0,3,2024-03-01,Paraguay,America
+2024,Peru,March,24.0,3,2024-03-01,Peru,America
+2024,Philippines,March,395.0,3,2024-03-01,Philippines,Asia
+2024,Poland,March,4789.0,3,2024-03-01,Poland,Europe
+2024,Portugal,March,670.0,3,2024-03-01,Portugal,Europe
+2024,Qatar,March,16.0,3,2024-03-01,Qatar,Asia
+2024,Romania,March,638.0,3,2024-03-01,Romania,Europe
+2024,Russian Federation,March,28016.0,3,2024-03-01,Russia,Europe
+2024,Rwanda,March,3.0,3,2024-03-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,March,10.0,3,2024-03-01,St. Kitts and Nevis,America
+2024,Saint Lucia,March,2.0,3,2024-03-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,March,0.0,3,2024-03-01,St. Vincent and the Grenadines,America
+2024,Samoa,March,0.0,3,2024-03-01,Samoa,Oceania
+2024,San Marino,March,0.0,3,2024-03-01,San Marino,Europe
+2024,Saudi Arabia,March,91.0,3,2024-03-01,Saudi Arabia,Asia
+2024,Senegal,March,0.0,3,2024-03-01,Senegal,Africa
+2024,Serbia,March,239.0,3,2024-03-01,Serbia,Europe
+2024,Seychelles,March,198.0,3,2024-03-01,Seychelles,Africa
+2024,Sierra Leone,March,2.0,3,2024-03-01,Sierra Leone,Africa
+2024,Singapore,March,1166.0,3,2024-03-01,Singapore,Asia
+2024,Slovakia,March,945.0,3,2024-03-01,Slovakia,Europe
+2024,Slovenia,March,194.0,3,2024-03-01,Slovenia,Europe
+2024,Solomon Islands,March,0.0,3,2024-03-01,Solomon Islands,Oceania
+2024,Somalia,March,10.0,3,2024-03-01,Somalia,Africa
+2024,South Africa,March,548.0,3,2024-03-01,South Africa,Africa
+2024,South Korea,March,861.0,3,2024-03-01,South Korea,Asia
+2024,South Sudan,March,0.0,3,2024-03-01,South Sudan,Africa
+2024,Spain,March,2706.0,3,2024-03-01,Spain,Europe
+2024,Sudan,March,14.0,3,2024-03-01,Sudan,Africa
+2024,Suriname,March,0.0,3,2024-03-01,Suriname,America
+2024,Swaziland,March,1.0,3,2024-03-01,Eswatini,Africa
+2024,Sweden,March,1331.0,3,2024-03-01,Sweden,Europe
+2024,Switzerland,March,2522.0,3,2024-03-01,Switzerland,Europe
+2024,Syrian Arab Republic,March,0.0,3,2024-03-01,Syria,Asia
+2024,Tajikistan,March,11.0,3,2024-03-01,Tajikistan,Asia
+2024,Tanzania,March,15.0,3,2024-03-01,Tanzania,Africa
+2024,Thailand,March,928.0,3,2024-03-01,Thailand,Asia
+2024,Timor-Leste,March,3.0,3,2024-03-01,Timor-Leste,Asia
+2024,Togo,March,1.0,3,2024-03-01,Togo,Africa
+2024,Tonga,March,0.0,3,2024-03-01,Tonga,Oceania
+2024,Trinidad and Tobago,March,14.0,3,2024-03-01,Trinidad and Tobago,America
+2024,Tunisia,March,27.0,3,2024-03-01,Tunisia,Africa
+2024,Turkey,March,473.0,3,2024-03-01,Türkiye,Asia
+2024,Turkmenistan,March,9.0,3,2024-03-01,Turkmenistan,Asia
+2024,Tuvalu,March,0.0,3,2024-03-01,Tuvalu,Oceania
+2024,Uganda,March,15.0,3,2024-03-01,Uganda,Africa
+2024,Ukraine,March,907.0,3,2024-03-01,Ukraine,Europe
+2024,United Arab Emirates,March,72.0,3,2024-03-01,United Arab Emirates,Asia
+2024,United Kingdom,March,21540.0,3,2024-03-01,United Kingdom,Europe
+2024,United States,March,7617.0,3,2024-03-01,United States,America
+2024,Uruguay,March,11.0,3,2024-03-01,Uruguay,America
+2024,Uzbekistan,March,71.0,3,2024-03-01,Uzbekistan,Asia
+2024,Vanuatu,March,6.0,3,2024-03-01,Vanuatu,Oceania
+2024,Venezuela,March,19.0,3,2024-03-01,Venezuela,America
+2024,Viet Nam,March,304.0,3,2024-03-01,Vietnam,Asia
+2024,Yemen,March,11.0,3,2024-03-01,Yemen,Asia
+2024,Zambia,March,6.0,3,2024-03-01,Zambia,Africa
+2024,Zimbabwe,March,25.0,3,2024-03-01,Zimbabwe,Africa
+2024,Afghanistan,April,0.0,4,2024-04-01,Afghanistan,Asia
+2024,Albania,April,10.0,4,2024-04-01,Albania,Europe
+2024,Algeria,April,38.0,4,2024-04-01,Algeria,Africa
+2024,Andorra,April,1.0,4,2024-04-01,Andorra,Europe
+2024,Angola,April,1.0,4,2024-04-01,Angola,Africa
+2024,Antigua and Barbuda,April,3.0,4,2024-04-01,Antigua and Barbuda,America
+2024,Argentina,April,102.0,4,2024-04-01,Argentina,America
+2024,Armenia,April,128.0,4,2024-04-01,Armenia,Asia
+2024,Aruba,April,0.0,4,2024-04-01,Aruba,America
+2024,Australia,April,7202.0,4,2024-04-01,Australia,Oceania
+2024,Austria,April,1092.0,4,2024-04-01,Austria,Europe
+2024,Azerbaijan,April,101.0,4,2024-04-01,Azerbaijan,Asia
+2024,Bahamas,April,0.0,4,2024-04-01,Bahamas,America
+2024,Bahrain,April,85.0,4,2024-04-01,Bahrain,Asia
+2024,Bangladesh,April,2354.0,4,2024-04-01,Bangladesh,Asia
+2024,Barbados,April,2.0,4,2024-04-01,Barbados,America
+2024,Belarus,April,752.0,4,2024-04-01,Belarus,Europe
+2024,Belgium,April,914.0,4,2024-04-01,Belgium,Europe
+2024,Belize,April,2.0,4,2024-04-01,Belize,America
+2024,Benin,April,1.0,4,2024-04-01,Benin,Africa
+2024,Bhutan,April,24.0,4,2024-04-01,Bhutan,Asia
+2024,Bolivia,April,6.0,4,2024-04-01,Bolivia,America
+2024,Bosnia and Herzegovina,April,18.0,4,2024-04-01,Bosnia and Herzegovina,Europe
+2024,Botswana,April,2.0,4,2024-04-01,Botswana,Africa
+2024,Brazil,April,239.0,4,2024-04-01,Brazil,America
+2024,Brunei Darussalam,April,4.0,4,2024-04-01,Brunei Darussalam,Asia
+2024,Bulgaria,April,313.0,4,2024-04-01,Bulgaria,Europe
+2024,Burkina Faso,April,1.0,4,2024-04-01,Burkina Faso,Africa
+2024,Burundi,April,0.0,4,2024-04-01,Burundi,Africa
+2024,Cambodia,April,162.0,4,2024-04-01,Cambodia,Asia
+2024,Cameroon,April,1.0,4,2024-04-01,Cameroon,Africa
+2024,Canada,April,3594.0,4,2024-04-01,Canada,America
+2024,Cape Verde,April,0.0,4,2024-04-01,Cabo Verde,Africa
+2024,Central African Republic,April,0.0,4,2024-04-01,Central African Republic,Africa
+2024,Chad,April,0.0,4,2024-04-01,Chad,Africa
+2024,Chile,April,53.0,4,2024-04-01,Chile,America
+2024,China,April,8969.0,4,2024-04-01,China,Asia
+2024,Colombia,April,88.0,4,2024-04-01,Colombia,America
+2024,Comoros,April,2.0,4,2024-04-01,Comoros,Africa
+2024,Congo,April,0.0,4,2024-04-01,Congo Republic,Africa
+2024,Costa Rica,April,11.0,4,2024-04-01,Costa Rica,America
+2024,Cote Divoire,April,0.0,4,2024-04-01,Côte d'Ivoire,Africa
+2024,Croatia,April,70.0,4,2024-04-01,Croatia,Europe
+2024,Cuba,April,1.0,4,2024-04-01,Cuba,America
+2024,Cyprus,April,112.0,4,2024-04-01,Cyprus,Asia
+2024,Czech Republic,April,1279.0,4,2024-04-01,Czechia,Europe
+2024,Denmark,April,822.0,4,2024-04-01,Denmark,Europe
+2024,Djibouti,April,0.0,4,2024-04-01,Djibouti,Africa
+2024,Dominica,April,8.0,4,2024-04-01,Dominica,America
+2024,Dominican Republic,April,1.0,4,2024-04-01,Dominican Republic,America
+2024,Ecuador,April,9.0,4,2024-04-01,Ecuador,America
+2024,Egypt,April,458.0,4,2024-04-01,Egypt,Africa
+2024,El Salvador,April,1.0,4,2024-04-01,El Salvador,America
+2024,Equatorial Guinea,April,6.0,4,2024-04-01,Equatorial Guinea,Africa
+2024,Eritrea,April,3.0,4,2024-04-01,Eritrea,Africa
+2024,Estonia,April,236.0,4,2024-04-01,Estonia,Europe
+2024,Ethiopia,April,17.0,4,2024-04-01,Ethiopia,Africa
+2024,Fiji,April,26.0,4,2024-04-01,Fiji,Oceania
+2024,Finland,April,238.0,4,2024-04-01,Finland,Europe
+2024,France,April,8792.0,4,2024-04-01,France,Europe
+2024,Gabon,April,0.0,4,2024-04-01,Gabon,Africa
+2024,"Gambia, The",April,2.0,4,2024-04-01,Gambia,Africa
+2024,Georgia,April,132.0,4,2024-04-01,Georgia,Asia
+2024,Germany,April,9843.0,4,2024-04-01,Germany,Europe
+2024,Ghana,April,3.0,4,2024-04-01,Ghana,Africa
+2024,Greece,April,306.0,4,2024-04-01,Greece,Europe
+2024,Grenada,April,2.0,4,2024-04-01,Grenada,America
+2024,Guatemala,April,6.0,4,2024-04-01,Guatemala,America
+2024,Guinea,April,2.0,4,2024-04-01,Guinea,Africa
+2024,Guinea-Bissau,April,0.0,4,2024-04-01,Guinea-Bissau,Africa
+2024,Guyana,April,0.0,4,2024-04-01,Guyana,America
+2024,Haiti,April,0.0,4,2024-04-01,Haiti,America
+2024,Honduras,April,2.0,4,2024-04-01,Honduras,America
+2024,Hungary,April,237.0,4,2024-04-01,Hungary,Europe
+2024,Iceland,April,16.0,4,2024-04-01,Iceland,Europe
+2024,India,April,27304.0,4,2024-04-01,India,Asia
+2024,Indonesia,April,248.0,4,2024-04-01,Indonesia,Asia
+2024,Iran,April,426.0,4,2024-04-01,Iran,Asia
+2024,Iraq,April,58.0,4,2024-04-01,Iraq,Asia
+2024,Ireland,April,846.0,4,2024-04-01,Ireland,Europe
+2024,Israel,April,3169.0,4,2024-04-01,Israel,Asia
+2024,Italy,April,2245.0,4,2024-04-01,Italy,Europe
+2024,Jamaica,April,1.0,4,2024-04-01,Jamaica,America
+2024,Japan,April,1949.0,4,2024-04-01,Japan,Asia
+2024,Jordan,April,313.0,4,2024-04-01,Jordan,Asia
+2024,Kazakhstan,April,152.0,4,2024-04-01,Kazakhstan,Asia
+2024,Kenya,April,45.0,4,2024-04-01,Kenya,Africa
+2024,Kiribati,April,0.0,4,2024-04-01,Kiribati,Oceania
+2024,Kosovar,April,3.0,4,2024-04-01,Kosovar,Other
+2024,Kuwait,April,225.0,4,2024-04-01,Kuwait,Asia
+2024,Kyrgyzstan,April,50.0,4,2024-04-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",April,12.0,4,2024-04-01,Laos,Asia
+2024,Latvia,April,146.0,4,2024-04-01,Latvia,Europe
+2024,Lebanon,April,671.0,4,2024-04-01,Lebanon,Asia
+2024,Lesotho,April,0.0,4,2024-04-01,Lesotho,Africa
+2024,Liberia,April,0.0,4,2024-04-01,Liberia,Africa
+2024,Libya,April,3.0,4,2024-04-01,Libya,Africa
+2024,Liechtenstein,April,10.0,4,2024-04-01,Liechtenstein,Europe
+2024,Lithuania,April,401.0,4,2024-04-01,Lithuania,Europe
+2024,Luxembourg,April,81.0,4,2024-04-01,Luxembourg,Europe
+2024,Macedonia,April,23.0,4,2024-04-01,North Macedonia,Europe
+2024,Madagascar,April,7.0,4,2024-04-01,Madagascar,Africa
+2024,Malawi,April,3.0,4,2024-04-01,Malawi,Africa
+2024,Malaysia,April,1277.0,4,2024-04-01,Malaysia,Asia
+2024,Maldives,April,2938.0,4,2024-04-01,Maldives,Asia
+2024,Mali,April,1.0,4,2024-04-01,Mali,Africa
+2024,Malta,April,38.0,4,2024-04-01,Malta,Europe
+2024,Marshall Islands,April,0.0,4,2024-04-01,Marshall Islands,Oceania
+2024,Mauritania,April,1.0,4,2024-04-01,Mauritania,Africa
+2024,Mauritius,April,59.0,4,2024-04-01,Mauritius,Africa
+2024,Mexico,April,155.0,4,2024-04-01,Mexico,America
+2024,Micronesia,April,0.0,4,2024-04-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,April,81.0,4,2024-04-01,Moldova,Europe
+2024,Monaco,April,3.0,4,2024-04-01,Monaco,Europe
+2024,Mongolia,April,4.0,4,2024-04-01,Mongolia,Asia
+2024,Montenegro,April,18.0,4,2024-04-01,Montenegro,Europe
+2024,Morocco,April,131.0,4,2024-04-01,Morocco,Africa
+2024,Mozambique,April,1.0,4,2024-04-01,Mozambique,Africa
+2024,Myanmar,April,125.0,4,2024-04-01,Myanmar,Asia
+2024,Namibia,April,3.0,4,2024-04-01,Namibia,Africa
+2024,Nauru,April,0.0,4,2024-04-01,Nauru,Oceania
+2024,Nepal,April,284.0,4,2024-04-01,Nepal,Asia
+2024,Netherlands,April,3437.0,4,2024-04-01,Netherlands,Europe
+2024,Netherlands Antilles,April,0.0,4,2024-04-01,Netherlands Antilles,Other
+2024,New Zealand,April,1116.0,4,2024-04-01,New Zealand,Oceania
+2024,Nicaragua,April,1.0,4,2024-04-01,Nicaragua,America
+2024,Niger,April,1.0,4,2024-04-01,Niger,Africa
+2024,Nigeria,April,9.0,4,2024-04-01,Nigeria,Africa
+2024,Norway,April,548.0,4,2024-04-01,Norway,Europe
+2024,Oman,April,125.0,4,2024-04-01,Oman,Asia
+2024,Pakistan,April,797.0,4,2024-04-01,Pakistan,Asia
+2024,Palau,April,0.0,4,2024-04-01,Palau,Oceania
+2024,Palestinian Territories,April,57.0,4,2024-04-01,Palestine,Asia
+2024,Panama,April,3.0,4,2024-04-01,Panama,America
+2024,Papua New Guinea,April,3.0,4,2024-04-01,Papua New Guinea,Oceania
+2024,Paraguay,April,2.0,4,2024-04-01,Paraguay,America
+2024,Peru,April,42.0,4,2024-04-01,Peru,America
+2024,Philippines,April,578.0,4,2024-04-01,Philippines,Asia
+2024,Poland,April,2349.0,4,2024-04-01,Poland,Europe
+2024,Portugal,April,530.0,4,2024-04-01,Portugal,Europe
+2024,Qatar,April,99.0,4,2024-04-01,Qatar,Asia
+2024,Romania,April,655.0,4,2024-04-01,Romania,Europe
+2024,Russian Federation,April,15103.0,4,2024-04-01,Russia,Europe
+2024,Rwanda,April,2.0,4,2024-04-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,April,26.0,4,2024-04-01,St. Kitts and Nevis,America
+2024,Saint Lucia,April,0.0,4,2024-04-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,April,0.0,4,2024-04-01,St. Vincent and the Grenadines,America
+2024,Samoa,April,0.0,4,2024-04-01,Samoa,Oceania
+2024,San Marino,April,0.0,4,2024-04-01,San Marino,Europe
+2024,Saudi Arabia,April,360.0,4,2024-04-01,Saudi Arabia,Asia
+2024,Senegal,April,3.0,4,2024-04-01,Senegal,Africa
+2024,Serbia,April,222.0,4,2024-04-01,Serbia,Europe
+2024,Seychelles,April,289.0,4,2024-04-01,Seychelles,Africa
+2024,Sierra Leone,April,3.0,4,2024-04-01,Sierra Leone,Africa
+2024,Singapore,April,858.0,4,2024-04-01,Singapore,Asia
+2024,Slovakia,April,535.0,4,2024-04-01,Slovakia,Europe
+2024,Slovenia,April,338.0,4,2024-04-01,Slovenia,Europe
+2024,Solomon Islands,April,0.0,4,2024-04-01,Solomon Islands,Oceania
+2024,Somalia,April,8.0,4,2024-04-01,Somalia,Africa
+2024,South Africa,April,474.0,4,2024-04-01,South Africa,Africa
+2024,South Korea,April,637.0,4,2024-04-01,South Korea,Asia
+2024,South Sudan,April,0.0,4,2024-04-01,South Sudan,Africa
+2024,Spain,April,2166.0,4,2024-04-01,Spain,Europe
+2024,Sudan,April,68.0,4,2024-04-01,Sudan,Africa
+2024,Suriname,April,3.0,4,2024-04-01,Suriname,America
+2024,Swaziland,April,0.0,4,2024-04-01,Eswatini,Africa
+2024,Sweden,April,537.0,4,2024-04-01,Sweden,Europe
+2024,Switzerland,April,2557.0,4,2024-04-01,Switzerland,Europe
+2024,Syrian Arab Republic,April,7.0,4,2024-04-01,Syria,Asia
+2024,Tajikistan,April,10.0,4,2024-04-01,Tajikistan,Asia
+2024,Tanzania,April,11.0,4,2024-04-01,Tanzania,Africa
+2024,Thailand,April,834.0,4,2024-04-01,Thailand,Asia
+2024,Timor-Leste,April,6.0,4,2024-04-01,Timor-Leste,Asia
+2024,Togo,April,0.0,4,2024-04-01,Togo,Africa
+2024,Tonga,April,2.0,4,2024-04-01,Tonga,Oceania
+2024,Trinidad and Tobago,April,8.0,4,2024-04-01,Trinidad and Tobago,America
+2024,Tunisia,April,152.0,4,2024-04-01,Tunisia,Africa
+2024,Turkey,April,910.0,4,2024-04-01,Türkiye,Asia
+2024,Turkmenistan,April,8.0,4,2024-04-01,Turkmenistan,Asia
+2024,Tuvalu,April,0.0,4,2024-04-01,Tuvalu,Oceania
+2024,Uganda,April,29.0,4,2024-04-01,Uganda,Africa
+2024,Ukraine,April,437.0,4,2024-04-01,Ukraine,Europe
+2024,United Arab Emirates,April,378.0,4,2024-04-01,United Arab Emirates,Asia
+2024,United Kingdom,April,13173.0,4,2024-04-01,United Kingdom,Europe
+2024,United States,April,5574.0,4,2024-04-01,United States,America
+2024,Uruguay,April,8.0,4,2024-04-01,Uruguay,America
+2024,Uzbekistan,April,57.0,4,2024-04-01,Uzbekistan,Asia
+2024,Vanuatu,April,4.0,4,2024-04-01,Vanuatu,Oceania
+2024,Venezuela,April,25.0,4,2024-04-01,Venezuela,America
+2024,Viet Nam,April,235.0,4,2024-04-01,Vietnam,Asia
+2024,Yemen,April,26.0,4,2024-04-01,Yemen,Asia
+2024,Zambia,April,1.0,4,2024-04-01,Zambia,Africa
+2024,Zimbabwe,April,16.0,4,2024-04-01,Zimbabwe,Africa
+2024,Afghanistan,May,20.0,5,2024-05-01,Afghanistan,Asia
+2024,Albania,May,11.0,5,2024-05-01,Albania,Europe
+2024,Algeria,May,28.0,5,2024-05-01,Algeria,Africa
+2024,Andorra,May,7.0,5,2024-05-01,Andorra,Europe
+2024,Angola,May,5.0,5,2024-05-01,Angola,Africa
+2024,Antigua and Barbuda,May,1.0,5,2024-05-01,Antigua and Barbuda,America
+2024,Argentina,May,44.0,5,2024-05-01,Argentina,America
+2024,Armenia,May,60.0,5,2024-05-01,Armenia,Asia
+2024,Aruba,May,0.0,5,2024-05-01,Aruba,America
+2024,Australia,May,5465.0,5,2024-05-01,Australia,Oceania
+2024,Austria,May,544.0,5,2024-05-01,Austria,Europe
+2024,Azerbaijan,May,39.0,5,2024-05-01,Azerbaijan,Asia
+2024,Bahamas,May,0.0,5,2024-05-01,Bahamas,America
+2024,Bahrain,May,68.0,5,2024-05-01,Bahrain,Asia
+2024,Bangladesh,May,2878.0,5,2024-05-01,Bangladesh,Asia
+2024,Barbados,May,0.0,5,2024-05-01,Barbados,America
+2024,Belarus,May,195.0,5,2024-05-01,Belarus,Europe
+2024,Belgium,May,549.0,5,2024-05-01,Belgium,Europe
+2024,Belize,May,0.0,5,2024-05-01,Belize,America
+2024,Benin,May,2.0,5,2024-05-01,Benin,Africa
+2024,Bhutan,May,52.0,5,2024-05-01,Bhutan,Asia
+2024,Bolivia,May,5.0,5,2024-05-01,Bolivia,America
+2024,Bosnia and Herzegovina,May,15.0,5,2024-05-01,Bosnia and Herzegovina,Europe
+2024,Botswana,May,1.0,5,2024-05-01,Botswana,Africa
+2024,Brazil,May,106.0,5,2024-05-01,Brazil,America
+2024,Brunei Darussalam,May,3.0,5,2024-05-01,Brunei Darussalam,Asia
+2024,Bulgaria,May,71.0,5,2024-05-01,Bulgaria,Europe
+2024,Burkina Faso,May,1.0,5,2024-05-01,Burkina Faso,Africa
+2024,Burundi,May,1.0,5,2024-05-01,Burundi,Africa
+2024,Cambodia,May,82.0,5,2024-05-01,Cambodia,Asia
+2024,Cameroon,May,0.0,5,2024-05-01,Cameroon,Africa
+2024,Canada,May,3294.0,5,2024-05-01,Canada,America
+2024,Cape Verde,May,0.0,5,2024-05-01,Cabo Verde,Africa
+2024,Central African Republic,May,0.0,5,2024-05-01,Central African Republic,Africa
+2024,Chad,May,0.0,5,2024-05-01,Chad,Africa
+2024,Chile,May,42.0,5,2024-05-01,Chile,America
+2024,China,May,7930.0,5,2024-05-01,China,Asia
+2024,Colombia,May,40.0,5,2024-05-01,Colombia,America
+2024,Comoros,May,10.0,5,2024-05-01,Comoros,Africa
+2024,Congo,May,2.0,5,2024-05-01,Congo Republic,Africa
+2024,Costa Rica,May,7.0,5,2024-05-01,Costa Rica,America
+2024,Cote Divoire,May,0.0,5,2024-05-01,Côte d'Ivoire,Africa
+2024,Croatia,May,35.0,5,2024-05-01,Croatia,Europe
+2024,Cuba,May,1.0,5,2024-05-01,Cuba,America
+2024,Cyprus,May,31.0,5,2024-05-01,Cyprus,Asia
+2024,Czech Republic,May,314.0,5,2024-05-01,Czechia,Europe
+2024,Denmark,May,410.0,5,2024-05-01,Denmark,Europe
+2024,Djibouti,May,0.0,5,2024-05-01,Djibouti,Africa
+2024,Dominica,May,11.0,5,2024-05-01,Dominica,America
+2024,Dominican Republic,May,4.0,5,2024-05-01,Dominican Republic,America
+2024,Ecuador,May,8.0,5,2024-05-01,Ecuador,America
+2024,Egypt,May,223.0,5,2024-05-01,Egypt,Africa
+2024,El Salvador,May,1.0,5,2024-05-01,El Salvador,America
+2024,Equatorial Guinea,May,0.0,5,2024-05-01,Equatorial Guinea,Africa
+2024,Eritrea,May,2.0,5,2024-05-01,Eritrea,Africa
+2024,Estonia,May,11.0,5,2024-05-01,Estonia,Europe
+2024,Ethiopia,May,6.0,5,2024-05-01,Ethiopia,Africa
+2024,Fiji,May,13.0,5,2024-05-01,Fiji,Oceania
+2024,Finland,May,159.0,5,2024-05-01,Finland,Europe
+2024,France,May,4064.0,5,2024-05-01,France,Europe
+2024,Gabon,May,0.0,5,2024-05-01,Gabon,Africa
+2024,"Gambia, The",May,4.0,5,2024-05-01,Gambia,Africa
+2024,Georgia,May,39.0,5,2024-05-01,Georgia,Asia
+2024,Germany,May,7495.0,5,2024-05-01,Germany,Europe
+2024,Ghana,May,1.0,5,2024-05-01,Ghana,Africa
+2024,Greece,May,133.0,5,2024-05-01,Greece,Europe
+2024,Grenada,May,0.0,5,2024-05-01,Grenada,America
+2024,Guatemala,May,6.0,5,2024-05-01,Guatemala,America
+2024,Guinea,May,1.0,5,2024-05-01,Guinea,Africa
+2024,Guinea-Bissau,May,0.0,5,2024-05-01,Guinea-Bissau,Africa
+2024,Guyana,May,0.0,5,2024-05-01,Guyana,America
+2024,Haiti,May,0.0,5,2024-05-01,Haiti,America
+2024,Honduras,May,2.0,5,2024-05-01,Honduras,America
+2024,Hungary,May,78.0,5,2024-05-01,Hungary,Europe
+2024,Iceland,May,22.0,5,2024-05-01,Iceland,Europe
+2024,India,May,32254.0,5,2024-05-01,India,Asia
+2024,Indonesia,May,218.0,5,2024-05-01,Indonesia,Asia
+2024,Iran,May,280.0,5,2024-05-01,Iran,Asia
+2024,Iraq,May,101.0,5,2024-05-01,Iraq,Asia
+2024,Ireland,May,315.0,5,2024-05-01,Ireland,Europe
+2024,Israel,May,1506.0,5,2024-05-01,Israel,Asia
+2024,Italy,May,1010.0,5,2024-05-01,Italy,Europe
+2024,Jamaica,May,7.0,5,2024-05-01,Jamaica,America
+2024,Japan,May,1581.0,5,2024-05-01,Japan,Asia
+2024,Jordan,May,149.0,5,2024-05-01,Jordan,Asia
+2024,Kazakhstan,May,65.0,5,2024-05-01,Kazakhstan,Asia
+2024,Kenya,May,45.0,5,2024-05-01,Kenya,Africa
+2024,Kiribati,May,0.0,5,2024-05-01,Kiribati,Oceania
+2024,Kosovar,May,5.0,5,2024-05-01,Kosovar,Other
+2024,Kuwait,May,77.0,5,2024-05-01,Kuwait,Asia
+2024,Kyrgyzstan,May,32.0,5,2024-05-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",May,18.0,5,2024-05-01,Laos,Asia
+2024,Latvia,May,22.0,5,2024-05-01,Latvia,Europe
+2024,Lebanon,May,216.0,5,2024-05-01,Lebanon,Asia
+2024,Lesotho,May,0.0,5,2024-05-01,Lesotho,Africa
+2024,Liberia,May,0.0,5,2024-05-01,Liberia,Africa
+2024,Libya,May,11.0,5,2024-05-01,Libya,Africa
+2024,Liechtenstein,May,2.0,5,2024-05-01,Liechtenstein,Europe
+2024,Lithuania,May,69.0,5,2024-05-01,Lithuania,Europe
+2024,Luxembourg,May,37.0,5,2024-05-01,Luxembourg,Europe
+2024,Macedonia,May,29.0,5,2024-05-01,North Macedonia,Europe
+2024,Madagascar,May,5.0,5,2024-05-01,Madagascar,Africa
+2024,Malawi,May,4.0,5,2024-05-01,Malawi,Africa
+2024,Malaysia,May,1204.0,5,2024-05-01,Malaysia,Asia
+2024,Maldives,May,8040.0,5,2024-05-01,Maldives,Asia
+2024,Mali,May,0.0,5,2024-05-01,Mali,Africa
+2024,Malta,May,21.0,5,2024-05-01,Malta,Europe
+2024,Marshall Islands,May,0.0,5,2024-05-01,Marshall Islands,Oceania
+2024,Mauritania,May,1.0,5,2024-05-01,Mauritania,Africa
+2024,Mauritius,May,25.0,5,2024-05-01,Mauritius,Africa
+2024,Mexico,May,57.0,5,2024-05-01,Mexico,America
+2024,Micronesia,May,0.0,5,2024-05-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,May,8.0,5,2024-05-01,Moldova,Europe
+2024,Monaco,May,0.0,5,2024-05-01,Monaco,Europe
+2024,Mongolia,May,8.0,5,2024-05-01,Mongolia,Asia
+2024,Montenegro,May,2.0,5,2024-05-01,Montenegro,Europe
+2024,Morocco,May,59.0,5,2024-05-01,Morocco,Africa
+2024,Mozambique,May,7.0,5,2024-05-01,Mozambique,Africa
+2024,Myanmar,May,83.0,5,2024-05-01,Myanmar,Asia
+2024,Namibia,May,0.0,5,2024-05-01,Namibia,Africa
+2024,Nauru,May,0.0,5,2024-05-01,Nauru,Oceania
+2024,Nepal,May,282.0,5,2024-05-01,Nepal,Asia
+2024,Netherlands,May,1845.0,5,2024-05-01,Netherlands,Europe
+2024,Netherlands Antilles,May,0.0,5,2024-05-01,Netherlands Antilles,Other
+2024,New Zealand,May,664.0,5,2024-05-01,New Zealand,Oceania
+2024,Nicaragua,May,0.0,5,2024-05-01,Nicaragua,America
+2024,Niger,May,0.0,5,2024-05-01,Niger,Africa
+2024,Nigeria,May,0.0,5,2024-05-01,Nigeria,Africa
+2024,Norway,May,379.0,5,2024-05-01,Norway,Europe
+2024,Oman,May,139.0,5,2024-05-01,Oman,Asia
+2024,Pakistan,May,938.0,5,2024-05-01,Pakistan,Asia
+2024,Palau,May,0.0,5,2024-05-01,Palau,Oceania
+2024,Palestinian Territories,May,31.0,5,2024-05-01,Palestine,Asia
+2024,Panama,May,2.0,5,2024-05-01,Panama,America
+2024,Papua New Guinea,May,0.0,5,2024-05-01,Papua New Guinea,Oceania
+2024,Paraguay,May,2.0,5,2024-05-01,Paraguay,America
+2024,Peru,May,16.0,5,2024-05-01,Peru,America
+2024,Philippines,May,395.0,5,2024-05-01,Philippines,Asia
+2024,Poland,May,1002.0,5,2024-05-01,Poland,Europe
+2024,Portugal,May,314.0,5,2024-05-01,Portugal,Europe
+2024,Qatar,May,39.0,5,2024-05-01,Qatar,Asia
+2024,Romania,May,147.0,5,2024-05-01,Romania,Europe
+2024,Russian Federation,May,4384.0,5,2024-05-01,Russia,Europe
+2024,Rwanda,May,1.0,5,2024-05-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,May,10.0,5,2024-05-01,St. Kitts and Nevis,America
+2024,Saint Lucia,May,0.0,5,2024-05-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,May,1.0,5,2024-05-01,St. Vincent and the Grenadines,America
+2024,Samoa,May,0.0,5,2024-05-01,Samoa,Oceania
+2024,San Marino,May,2.0,5,2024-05-01,San Marino,Europe
+2024,Saudi Arabia,May,213.0,5,2024-05-01,Saudi Arabia,Asia
+2024,Senegal,May,0.0,5,2024-05-01,Senegal,Africa
+2024,Serbia,May,32.0,5,2024-05-01,Serbia,Europe
+2024,Seychelles,May,117.0,5,2024-05-01,Seychelles,Africa
+2024,Sierra Leone,May,0.0,5,2024-05-01,Sierra Leone,Africa
+2024,Singapore,May,914.0,5,2024-05-01,Singapore,Asia
+2024,Slovakia,May,173.0,5,2024-05-01,Slovakia,Europe
+2024,Slovenia,May,46.0,5,2024-05-01,Slovenia,Europe
+2024,Solomon Islands,May,0.0,5,2024-05-01,Solomon Islands,Oceania
+2024,Somalia,May,5.0,5,2024-05-01,Somalia,Africa
+2024,South Africa,May,195.0,5,2024-05-01,South Africa,Africa
+2024,South Korea,May,571.0,5,2024-05-01,South Korea,Asia
+2024,South Sudan,May,0.0,5,2024-05-01,South Sudan,Africa
+2024,Spain,May,1369.0,5,2024-05-01,Spain,Europe
+2024,Sudan,May,69.0,5,2024-05-01,Sudan,Africa
+2024,Suriname,May,0.0,5,2024-05-01,Suriname,America
+2024,Swaziland,May,2.0,5,2024-05-01,Eswatini,Africa
+2024,Sweden,May,278.0,5,2024-05-01,Sweden,Europe
+2024,Switzerland,May,1345.0,5,2024-05-01,Switzerland,Europe
+2024,Syrian Arab Republic,May,3.0,5,2024-05-01,Syria,Asia
+2024,Tajikistan,May,10.0,5,2024-05-01,Tajikistan,Asia
+2024,Tanzania,May,14.0,5,2024-05-01,Tanzania,Africa
+2024,Thailand,May,583.0,5,2024-05-01,Thailand,Asia
+2024,Timor-Leste,May,2.0,5,2024-05-01,Timor-Leste,Asia
+2024,Togo,May,1.0,5,2024-05-01,Togo,Africa
+2024,Tonga,May,3.0,5,2024-05-01,Tonga,Oceania
+2024,Trinidad and Tobago,May,10.0,5,2024-05-01,Trinidad and Tobago,America
+2024,Tunisia,May,57.0,5,2024-05-01,Tunisia,Africa
+2024,Turkey,May,294.0,5,2024-05-01,Türkiye,Asia
+2024,Turkmenistan,May,3.0,5,2024-05-01,Turkmenistan,Asia
+2024,Tuvalu,May,0.0,5,2024-05-01,Tuvalu,Oceania
+2024,Uganda,May,16.0,5,2024-05-01,Uganda,Africa
+2024,Ukraine,May,203.0,5,2024-05-01,Ukraine,Europe
+2024,United Arab Emirates,May,229.0,5,2024-05-01,United Arab Emirates,Asia
+2024,United Kingdom,May,8094.0,5,2024-05-01,United Kingdom,Europe
+2024,United States,May,4082.0,5,2024-05-01,United States,America
+2024,Uruguay,May,20.0,5,2024-05-01,Uruguay,America
+2024,Uzbekistan,May,32.0,5,2024-05-01,Uzbekistan,Asia
+2024,Vanuatu,May,2.0,5,2024-05-01,Vanuatu,Oceania
+2024,Venezuela,May,6.0,5,2024-05-01,Venezuela,America
+2024,Viet Nam,May,290.0,5,2024-05-01,Vietnam,Asia
+2024,Yemen,May,14.0,5,2024-05-01,Yemen,Asia
+2024,Zambia,May,2.0,5,2024-05-01,Zambia,Africa
+2024,Zimbabwe,May,11.0,5,2024-05-01,Zimbabwe,Africa
+2024,Afghanistan,June,2.0,6,2024-06-01,Afghanistan,Asia
+2024,Albania,June,7.0,6,2024-06-01,Albania,Europe
+2024,Algeria,June,48.0,6,2024-06-01,Algeria,Africa
+2024,Andorra,June,6.0,6,2024-06-01,Andorra,Europe
+2024,Angola,June,0.0,6,2024-06-01,Angola,Africa
+2024,Antigua and Barbuda,June,0.0,6,2024-06-01,Antigua and Barbuda,America
+2024,Argentina,June,51.0,6,2024-06-01,Argentina,America
+2024,Armenia,June,71.0,6,2024-06-01,Armenia,Asia
+2024,Aruba,June,0.0,6,2024-06-01,Aruba,America
+2024,Australia,June,6317.0,6,2024-06-01,Australia,Oceania
+2024,Austria,June,384.0,6,2024-06-01,Austria,Europe
+2024,Azerbaijan,June,83.0,6,2024-06-01,Azerbaijan,Asia
+2024,Bahamas,June,3.0,6,2024-06-01,Bahamas,America
+2024,Bahrain,June,197.0,6,2024-06-01,Bahrain,Asia
+2024,Bangladesh,June,4374.0,6,2024-06-01,Bangladesh,Asia
+2024,Barbados,June,5.0,6,2024-06-01,Barbados,America
+2024,Belarus,June,175.0,6,2024-06-01,Belarus,Europe
+2024,Belgium,June,872.0,6,2024-06-01,Belgium,Europe
+2024,Belize,June,1.0,6,2024-06-01,Belize,America
+2024,Benin,June,1.0,6,2024-06-01,Benin,Africa
+2024,Bhutan,June,33.0,6,2024-06-01,Bhutan,Asia
+2024,Bolivia,June,4.0,6,2024-06-01,Bolivia,America
+2024,Bosnia and Herzegovina,June,10.0,6,2024-06-01,Bosnia and Herzegovina,Europe
+2024,Botswana,June,5.0,6,2024-06-01,Botswana,Africa
+2024,Brazil,June,111.0,6,2024-06-01,Brazil,America
+2024,Brunei Darussalam,June,15.0,6,2024-06-01,Brunei Darussalam,Asia
+2024,Bulgaria,June,26.0,6,2024-06-01,Bulgaria,Europe
+2024,Burkina Faso,June,0.0,6,2024-06-01,Burkina Faso,Africa
+2024,Burundi,June,1.0,6,2024-06-01,Burundi,Africa
+2024,Cambodia,June,50.0,6,2024-06-01,Cambodia,Asia
+2024,Cameroon,June,0.0,6,2024-06-01,Cameroon,Africa
+2024,Canada,June,3263.0,6,2024-06-01,Canada,America
+2024,Cape Verde,June,0.0,6,2024-06-01,Cabo Verde,Africa
+2024,Central African Republic,June,0.0,6,2024-06-01,Central African Republic,Africa
+2024,Chad,June,0.0,6,2024-06-01,Chad,Africa
+2024,Chile,June,32.0,6,2024-06-01,Chile,America
+2024,China,June,9222.0,6,2024-06-01,China,Asia
+2024,Colombia,June,44.0,6,2024-06-01,Colombia,America
+2024,Comoros,June,8.0,6,2024-06-01,Comoros,Africa
+2024,Congo,June,3.0,6,2024-06-01,Congo Republic,Africa
+2024,Costa Rica,June,3.0,6,2024-06-01,Costa Rica,America
+2024,Cote Divoire,June,0.0,6,2024-06-01,Côte d'Ivoire,Africa
+2024,Croatia,June,23.0,6,2024-06-01,Croatia,Europe
+2024,Cuba,June,10.0,6,2024-06-01,Cuba,America
+2024,Cyprus,June,57.0,6,2024-06-01,Cyprus,Asia
+2024,Czech Republic,June,526.0,6,2024-06-01,Czechia,Europe
+2024,Denmark,June,714.0,6,2024-06-01,Denmark,Europe
+2024,Djibouti,June,1.0,6,2024-06-01,Djibouti,Africa
+2024,Dominica,June,9.0,6,2024-06-01,Dominica,America
+2024,Dominican Republic,June,3.0,6,2024-06-01,Dominican Republic,America
+2024,Ecuador,June,9.0,6,2024-06-01,Ecuador,America
+2024,Egypt,June,365.0,6,2024-06-01,Egypt,Africa
+2024,El Salvador,June,5.0,6,2024-06-01,El Salvador,America
+2024,Equatorial Guinea,June,0.0,6,2024-06-01,Equatorial Guinea,Africa
+2024,Eritrea,June,6.0,6,2024-06-01,Eritrea,Africa
+2024,Estonia,June,30.0,6,2024-06-01,Estonia,Europe
+2024,Ethiopia,June,13.0,6,2024-06-01,Ethiopia,Africa
+2024,Fiji,June,9.0,6,2024-06-01,Fiji,Oceania
+2024,Finland,June,130.0,6,2024-06-01,Finland,Europe
+2024,France,June,3102.0,6,2024-06-01,France,Europe
+2024,Gabon,June,0.0,6,2024-06-01,Gabon,Africa
+2024,"Gambia, The",June,2.0,6,2024-06-01,Gambia,Africa
+2024,Georgia,June,26.0,6,2024-06-01,Georgia,Asia
+2024,Germany,June,4556.0,6,2024-06-01,Germany,Europe
+2024,Ghana,June,0.0,6,2024-06-01,Ghana,Africa
+2024,Greece,June,82.0,6,2024-06-01,Greece,Europe
+2024,Grenada,June,5.0,6,2024-06-01,Grenada,America
+2024,Guatemala,June,5.0,6,2024-06-01,Guatemala,America
+2024,Guinea,June,5.0,6,2024-06-01,Guinea,Africa
+2024,Guinea-Bissau,June,0.0,6,2024-06-01,Guinea-Bissau,Africa
+2024,Guyana,June,3.0,6,2024-06-01,Guyana,America
+2024,Haiti,June,1.0,6,2024-06-01,Haiti,America
+2024,Honduras,June,0.0,6,2024-06-01,Honduras,America
+2024,Hungary,June,160.0,6,2024-06-01,Hungary,Europe
+2024,Iceland,June,6.0,6,2024-06-01,Iceland,Europe
+2024,India,June,28631.0,6,2024-06-01,India,Asia
+2024,Indonesia,June,272.0,6,2024-06-01,Indonesia,Asia
+2024,Iran,June,318.0,6,2024-06-01,Iran,Asia
+2024,Iraq,June,93.0,6,2024-06-01,Iraq,Asia
+2024,Ireland,June,673.0,6,2024-06-01,Ireland,Europe
+2024,Israel,June,1515.0,6,2024-06-01,Israel,Asia
+2024,Italy,June,1792.0,6,2024-06-01,Italy,Europe
+2024,Jamaica,June,12.0,6,2024-06-01,Jamaica,America
+2024,Japan,June,1666.0,6,2024-06-01,Japan,Asia
+2024,Jordan,June,373.0,6,2024-06-01,Jordan,Asia
+2024,Kazakhstan,June,96.0,6,2024-06-01,Kazakhstan,Asia
+2024,Kenya,June,29.0,6,2024-06-01,Kenya,Africa
+2024,Kiribati,June,0.0,6,2024-06-01,Kiribati,Oceania
+2024,Kosovar,June,2.0,6,2024-06-01,Kosovar,Other
+2024,Kuwait,June,231.0,6,2024-06-01,Kuwait,Asia
+2024,Kyrgyzstan,June,25.0,6,2024-06-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",June,19.0,6,2024-06-01,Laos,Asia
+2024,Latvia,June,30.0,6,2024-06-01,Latvia,Europe
+2024,Lebanon,June,308.0,6,2024-06-01,Lebanon,Asia
+2024,Lesotho,June,0.0,6,2024-06-01,Lesotho,Africa
+2024,Liberia,June,1.0,6,2024-06-01,Liberia,Africa
+2024,Libya,June,4.0,6,2024-06-01,Libya,Africa
+2024,Liechtenstein,June,3.0,6,2024-06-01,Liechtenstein,Europe
+2024,Lithuania,June,73.0,6,2024-06-01,Lithuania,Europe
+2024,Luxembourg,June,13.0,6,2024-06-01,Luxembourg,Europe
+2024,Macedonia,June,10.0,6,2024-06-01,North Macedonia,Europe
+2024,Madagascar,June,7.0,6,2024-06-01,Madagascar,Africa
+2024,Malawi,June,1.0,6,2024-06-01,Malawi,Africa
+2024,Malaysia,June,1384.0,6,2024-06-01,Malaysia,Asia
+2024,Maldives,June,5109.0,6,2024-06-01,Maldives,Asia
+2024,Mali,June,1.0,6,2024-06-01,Mali,Africa
+2024,Malta,June,14.0,6,2024-06-01,Malta,Europe
+2024,Marshall Islands,June,0.0,6,2024-06-01,Marshall Islands,Oceania
+2024,Mauritania,June,0.0,6,2024-06-01,Mauritania,Africa
+2024,Mauritius,June,25.0,6,2024-06-01,Mauritius,Africa
+2024,Mexico,June,38.0,6,2024-06-01,Mexico,America
+2024,Micronesia,June,0.0,6,2024-06-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,June,2.0,6,2024-06-01,Moldova,Europe
+2024,Monaco,June,0.0,6,2024-06-01,Monaco,Europe
+2024,Mongolia,June,22.0,6,2024-06-01,Mongolia,Asia
+2024,Montenegro,June,3.0,6,2024-06-01,Montenegro,Europe
+2024,Morocco,June,80.0,6,2024-06-01,Morocco,Africa
+2024,Mozambique,June,4.0,6,2024-06-01,Mozambique,Africa
+2024,Myanmar,June,117.0,6,2024-06-01,Myanmar,Asia
+2024,Namibia,June,2.0,6,2024-06-01,Namibia,Africa
+2024,Nauru,June,0.0,6,2024-06-01,Nauru,Oceania
+2024,Nepal,June,200.0,6,2024-06-01,Nepal,Asia
+2024,Netherlands,June,1935.0,6,2024-06-01,Netherlands,Europe
+2024,Netherlands Antilles,June,0.0,6,2024-06-01,Netherlands Antilles,Other
+2024,New Zealand,June,853.0,6,2024-06-01,New Zealand,Oceania
+2024,Nicaragua,June,1.0,6,2024-06-01,Nicaragua,America
+2024,Niger,June,0.0,6,2024-06-01,Niger,Africa
+2024,Nigeria,June,1.0,6,2024-06-01,Nigeria,Africa
+2024,Norway,June,1452.0,6,2024-06-01,Norway,Europe
+2024,Oman,June,322.0,6,2024-06-01,Oman,Asia
+2024,Pakistan,June,1399.0,6,2024-06-01,Pakistan,Asia
+2024,Palau,June,0.0,6,2024-06-01,Palau,Oceania
+2024,Palestinian Territories,June,81.0,6,2024-06-01,Palestine,Asia
+2024,Panama,June,0.0,6,2024-06-01,Panama,America
+2024,Papua New Guinea,June,4.0,6,2024-06-01,Papua New Guinea,Oceania
+2024,Paraguay,June,1.0,6,2024-06-01,Paraguay,America
+2024,Peru,June,11.0,6,2024-06-01,Peru,America
+2024,Philippines,June,544.0,6,2024-06-01,Philippines,Asia
+2024,Poland,June,1047.0,6,2024-06-01,Poland,Europe
+2024,Portugal,June,281.0,6,2024-06-01,Portugal,Europe
+2024,Qatar,June,80.0,6,2024-06-01,Qatar,Asia
+2024,Romania,June,192.0,6,2024-06-01,Romania,Europe
+2024,Russian Federation,June,3412.0,6,2024-06-01,Russia,Europe
+2024,Rwanda,June,5.0,6,2024-06-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,June,10.0,6,2024-06-01,St. Kitts and Nevis,America
+2024,Saint Lucia,June,4.0,6,2024-06-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,June,0.0,6,2024-06-01,St. Vincent and the Grenadines,America
+2024,Samoa,June,1.0,6,2024-06-01,Samoa,Oceania
+2024,San Marino,June,4.0,6,2024-06-01,San Marino,Europe
+2024,Saudi Arabia,June,990.0,6,2024-06-01,Saudi Arabia,Asia
+2024,Senegal,June,1.0,6,2024-06-01,Senegal,Africa
+2024,Serbia,June,52.0,6,2024-06-01,Serbia,Europe
+2024,Seychelles,June,238.0,6,2024-06-01,Seychelles,Africa
+2024,Sierra Leone,June,1.0,6,2024-06-01,Sierra Leone,Africa
+2024,Singapore,June,1284.0,6,2024-06-01,Singapore,Asia
+2024,Slovakia,June,163.0,6,2024-06-01,Slovakia,Europe
+2024,Slovenia,June,115.0,6,2024-06-01,Slovenia,Europe
+2024,Solomon Islands,June,1.0,6,2024-06-01,Solomon Islands,Oceania
+2024,Somalia,June,4.0,6,2024-06-01,Somalia,Africa
+2024,South Africa,June,349.0,6,2024-06-01,South Africa,Africa
+2024,South Korea,June,579.0,6,2024-06-01,South Korea,Asia
+2024,South Sudan,June,0.0,6,2024-06-01,South Sudan,Africa
+2024,Spain,June,2081.0,6,2024-06-01,Spain,Europe
+2024,Sudan,June,116.0,6,2024-06-01,Sudan,Africa
+2024,Suriname,June,1.0,6,2024-06-01,Suriname,America
+2024,Swaziland,June,0.0,6,2024-06-01,Eswatini,Africa
+2024,Sweden,June,568.0,6,2024-06-01,Sweden,Europe
+2024,Switzerland,June,1291.0,6,2024-06-01,Switzerland,Europe
+2024,Syrian Arab Republic,June,1.0,6,2024-06-01,Syria,Asia
+2024,Tajikistan,June,12.0,6,2024-06-01,Tajikistan,Asia
+2024,Tanzania,June,18.0,6,2024-06-01,Tanzania,Africa
+2024,Thailand,June,364.0,6,2024-06-01,Thailand,Asia
+2024,Timor-Leste,June,2.0,6,2024-06-01,Timor-Leste,Asia
+2024,Togo,June,1.0,6,2024-06-01,Togo,Africa
+2024,Tonga,June,4.0,6,2024-06-01,Tonga,Oceania
+2024,Trinidad and Tobago,June,7.0,6,2024-06-01,Trinidad and Tobago,America
+2024,Tunisia,June,59.0,6,2024-06-01,Tunisia,Africa
+2024,Turkey,June,572.0,6,2024-06-01,Türkiye,Asia
+2024,Turkmenistan,June,1.0,6,2024-06-01,Turkmenistan,Asia
+2024,Tuvalu,June,2.0,6,2024-06-01,Tuvalu,Oceania
+2024,Uganda,June,13.0,6,2024-06-01,Uganda,Africa
+2024,Ukraine,June,206.0,6,2024-06-01,Ukraine,Europe
+2024,United Arab Emirates,June,591.0,6,2024-06-01,United Arab Emirates,Asia
+2024,United Kingdom,June,9266.0,6,2024-06-01,United Kingdom,Europe
+2024,United States,June,4023.0,6,2024-06-01,United States,America
+2024,Uruguay,June,5.0,6,2024-06-01,Uruguay,America
+2024,Uzbekistan,June,42.0,6,2024-06-01,Uzbekistan,Asia
+2024,Vanuatu,June,13.0,6,2024-06-01,Vanuatu,Oceania
+2024,Venezuela,June,11.0,6,2024-06-01,Venezuela,America
+2024,Viet Nam,June,237.0,6,2024-06-01,Vietnam,Asia
+2024,Yemen,June,43.0,6,2024-06-01,Yemen,Asia
+2024,Zambia,June,1.0,6,2024-06-01,Zambia,Africa
+2024,Zimbabwe,June,14.0,6,2024-06-01,Zimbabwe,Africa
+2024,Afghanistan,July,15.0,7,2024-07-01,Afghanistan,Asia
+2024,Albania,July,11.0,7,2024-07-01,Albania,Europe
+2024,Algeria,July,54.0,7,2024-07-01,Algeria,Africa
+2024,Andorra,July,20.0,7,2024-07-01,Andorra,Europe
+2024,Angola,July,0.0,7,2024-07-01,Angola,Africa
+2024,Antigua and Barbuda,July,5.0,7,2024-07-01,Antigua and Barbuda,America
+2024,Argentina,July,50.0,7,2024-07-01,Argentina,America
+2024,Armenia,July,128.0,7,2024-07-01,Armenia,Asia
+2024,Aruba,July,0.0,7,2024-07-01,Aruba,America
+2024,Australia,July,7371.0,7,2024-07-01,Australia,Oceania
+2024,Austria,July,1722.0,7,2024-07-01,Austria,Europe
+2024,Azerbaijan,July,150.0,7,2024-07-01,Azerbaijan,Asia
+2024,Bahamas,July,3.0,7,2024-07-01,Bahamas,America
+2024,Bahrain,July,162.0,7,2024-07-01,Bahrain,Asia
+2024,Bangladesh,July,4607.0,7,2024-07-01,Bangladesh,Asia
+2024,Barbados,July,4.0,7,2024-07-01,Barbados,America
+2024,Belarus,July,203.0,7,2024-07-01,Belarus,Europe
+2024,Belgium,July,3435.0,7,2024-07-01,Belgium,Europe
+2024,Belize,July,4.0,7,2024-07-01,Belize,America
+2024,Benin,July,1.0,7,2024-07-01,Benin,Africa
+2024,Bhutan,July,29.0,7,2024-07-01,Bhutan,Asia
+2024,Bolivia,July,2.0,7,2024-07-01,Bolivia,America
+2024,Bosnia and Herzegovina,July,18.0,7,2024-07-01,Bosnia and Herzegovina,Europe
+2024,Botswana,July,3.0,7,2024-07-01,Botswana,Africa
+2024,Brazil,July,134.0,7,2024-07-01,Brazil,America
+2024,Brunei Darussalam,July,7.0,7,2024-07-01,Brunei Darussalam,Asia
+2024,Bulgaria,July,34.0,7,2024-07-01,Bulgaria,Europe
+2024,Burkina Faso,July,0.0,7,2024-07-01,Burkina Faso,Africa
+2024,Burundi,July,0.0,7,2024-07-01,Burundi,Africa
+2024,Cambodia,July,24.0,7,2024-07-01,Cambodia,Asia
+2024,Cameroon,July,2.0,7,2024-07-01,Cameroon,Africa
+2024,Canada,July,4821.0,7,2024-07-01,Canada,America
+2024,Cape Verde,July,1.0,7,2024-07-01,Cabo Verde,Africa
+2024,Central African Republic,July,1.0,7,2024-07-01,Central African Republic,Africa
+2024,Chad,July,0.0,7,2024-07-01,Chad,Africa
+2024,Chile,July,36.0,7,2024-07-01,Chile,America
+2024,China,July,13685.0,7,2024-07-01,China,Asia
+2024,Colombia,July,51.0,7,2024-07-01,Colombia,America
+2024,Comoros,July,17.0,7,2024-07-01,Comoros,Africa
+2024,Congo,July,2.0,7,2024-07-01,Congo Republic,Africa
+2024,Costa Rica,July,3.0,7,2024-07-01,Costa Rica,America
+2024,Cote Divoire,July,0.0,7,2024-07-01,Côte d'Ivoire,Africa
+2024,Croatia,July,78.0,7,2024-07-01,Croatia,Europe
+2024,Cuba,July,4.0,7,2024-07-01,Cuba,America
+2024,Cyprus,July,191.0,7,2024-07-01,Cyprus,Asia
+2024,Czech Republic,July,1133.0,7,2024-07-01,Czechia,Europe
+2024,Denmark,July,2147.0,7,2024-07-01,Denmark,Europe
+2024,Djibouti,July,0.0,7,2024-07-01,Djibouti,Africa
+2024,Dominica,July,17.0,7,2024-07-01,Dominica,America
+2024,Dominican Republic,July,1.0,7,2024-07-01,Dominican Republic,America
+2024,Ecuador,July,11.0,7,2024-07-01,Ecuador,America
+2024,Egypt,July,326.0,7,2024-07-01,Egypt,Africa
+2024,El Salvador,July,4.0,7,2024-07-01,El Salvador,America
+2024,Equatorial Guinea,July,0.0,7,2024-07-01,Equatorial Guinea,Africa
+2024,Eritrea,July,0.0,7,2024-07-01,Eritrea,Africa
+2024,Estonia,July,24.0,7,2024-07-01,Estonia,Europe
+2024,Ethiopia,July,11.0,7,2024-07-01,Ethiopia,Africa
+2024,Fiji,July,9.0,7,2024-07-01,Fiji,Oceania
+2024,Finland,July,94.0,7,2024-07-01,Finland,Europe
+2024,France,July,9405.0,7,2024-07-01,France,Europe
+2024,Gabon,July,0.0,7,2024-07-01,Gabon,Africa
+2024,"Gambia, The",July,1.0,7,2024-07-01,Gambia,Africa
+2024,Georgia,July,30.0,7,2024-07-01,Georgia,Asia
+2024,Germany,July,10618.0,7,2024-07-01,Germany,Europe
+2024,Ghana,July,4.0,7,2024-07-01,Ghana,Africa
+2024,Greece,July,119.0,7,2024-07-01,Greece,Europe
+2024,Grenada,July,2.0,7,2024-07-01,Grenada,America
+2024,Guatemala,July,1.0,7,2024-07-01,Guatemala,America
+2024,Guinea,July,0.0,7,2024-07-01,Guinea,Africa
+2024,Guinea-Bissau,July,1.0,7,2024-07-01,Guinea-Bissau,Africa
+2024,Guyana,July,1.0,7,2024-07-01,Guyana,America
+2024,Haiti,July,2.0,7,2024-07-01,Haiti,America
+2024,Honduras,July,2.0,7,2024-07-01,Honduras,America
+2024,Hungary,July,210.0,7,2024-07-01,Hungary,Europe
+2024,Iceland,July,29.0,7,2024-07-01,Iceland,Europe
+2024,India,July,41173.0,7,2024-07-01,India,Asia
+2024,Indonesia,July,275.0,7,2024-07-01,Indonesia,Asia
+2024,Iran,July,339.0,7,2024-07-01,Iran,Asia
+2024,Iraq,July,119.0,7,2024-07-01,Iraq,Asia
+2024,Ireland,July,715.0,7,2024-07-01,Ireland,Europe
+2024,Israel,July,2962.0,7,2024-07-01,Israel,Asia
+2024,Italy,July,3630.0,7,2024-07-01,Italy,Europe
+2024,Jamaica,July,7.0,7,2024-07-01,Jamaica,America
+2024,Japan,July,2202.0,7,2024-07-01,Japan,Asia
+2024,Jordan,July,275.0,7,2024-07-01,Jordan,Asia
+2024,Kazakhstan,July,168.0,7,2024-07-01,Kazakhstan,Asia
+2024,Kenya,July,128.0,7,2024-07-01,Kenya,Africa
+2024,Kiribati,July,0.0,7,2024-07-01,Kiribati,Oceania
+2024,Kosovar,July,1.0,7,2024-07-01,Kosovar,Other
+2024,Kuwait,July,198.0,7,2024-07-01,Kuwait,Asia
+2024,Kyrgyzstan,July,65.0,7,2024-07-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",July,11.0,7,2024-07-01,Laos,Asia
+2024,Latvia,July,30.0,7,2024-07-01,Latvia,Europe
+2024,Lebanon,July,283.0,7,2024-07-01,Lebanon,Asia
+2024,Lesotho,July,1.0,7,2024-07-01,Lesotho,Africa
+2024,Liberia,July,4.0,7,2024-07-01,Liberia,Africa
+2024,Libya,July,2.0,7,2024-07-01,Libya,Africa
+2024,Liechtenstein,July,10.0,7,2024-07-01,Liechtenstein,Europe
+2024,Lithuania,July,174.0,7,2024-07-01,Lithuania,Europe
+2024,Luxembourg,July,77.0,7,2024-07-01,Luxembourg,Europe
+2024,Macedonia,July,25.0,7,2024-07-01,North Macedonia,Europe
+2024,Madagascar,July,28.0,7,2024-07-01,Madagascar,Africa
+2024,Malawi,July,10.0,7,2024-07-01,Malawi,Africa
+2024,Malaysia,July,1596.0,7,2024-07-01,Malaysia,Asia
+2024,Maldives,July,3097.0,7,2024-07-01,Maldives,Asia
+2024,Mali,July,1.0,7,2024-07-01,Mali,Africa
+2024,Malta,July,61.0,7,2024-07-01,Malta,Europe
+2024,Marshall Islands,July,0.0,7,2024-07-01,Marshall Islands,Oceania
+2024,Mauritania,July,0.0,7,2024-07-01,Mauritania,Africa
+2024,Mauritius,July,33.0,7,2024-07-01,Mauritius,Africa
+2024,Mexico,July,44.0,7,2024-07-01,Mexico,America
+2024,Micronesia,July,0.0,7,2024-07-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,July,13.0,7,2024-07-01,Moldova,Europe
+2024,Monaco,July,4.0,7,2024-07-01,Monaco,Europe
+2024,Mongolia,July,10.0,7,2024-07-01,Mongolia,Asia
+2024,Montenegro,July,6.0,7,2024-07-01,Montenegro,Europe
+2024,Morocco,July,87.0,7,2024-07-01,Morocco,Africa
+2024,Mozambique,July,1.0,7,2024-07-01,Mozambique,Africa
+2024,Myanmar,July,194.0,7,2024-07-01,Myanmar,Asia
+2024,Namibia,July,6.0,7,2024-07-01,Namibia,Africa
+2024,Nauru,July,0.0,7,2024-07-01,Nauru,Oceania
+2024,Nepal,July,382.0,7,2024-07-01,Nepal,Asia
+2024,Netherlands,July,11431.0,7,2024-07-01,Netherlands,Europe
+2024,Netherlands Antilles,July,0.0,7,2024-07-01,Netherlands Antilles,Other
+2024,New Zealand,July,1017.0,7,2024-07-01,New Zealand,Oceania
+2024,Nicaragua,July,0.0,7,2024-07-01,Nicaragua,America
+2024,Niger,July,0.0,7,2024-07-01,Niger,Africa
+2024,Nigeria,July,9.0,7,2024-07-01,Nigeria,Africa
+2024,Norway,July,1800.0,7,2024-07-01,Norway,Europe
+2024,Oman,July,685.0,7,2024-07-01,Oman,Asia
+2024,Pakistan,July,1848.0,7,2024-07-01,Pakistan,Asia
+2024,Palau,July,0.0,7,2024-07-01,Palau,Oceania
+2024,Palestinian Territories,July,96.0,7,2024-07-01,Palestine,Asia
+2024,Panama,July,3.0,7,2024-07-01,Panama,America
+2024,Papua New Guinea,July,2.0,7,2024-07-01,Papua New Guinea,Oceania
+2024,Paraguay,July,1.0,7,2024-07-01,Paraguay,America
+2024,Peru,July,16.0,7,2024-07-01,Peru,America
+2024,Philippines,July,500.0,7,2024-07-01,Philippines,Asia
+2024,Poland,July,2257.0,7,2024-07-01,Poland,Europe
+2024,Portugal,July,351.0,7,2024-07-01,Portugal,Europe
+2024,Qatar,July,156.0,7,2024-07-01,Qatar,Asia
+2024,Romania,July,264.0,7,2024-07-01,Romania,Europe
+2024,Russian Federation,July,4578.0,7,2024-07-01,Russia,Europe
+2024,Rwanda,July,4.0,7,2024-07-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,July,8.0,7,2024-07-01,St. Kitts and Nevis,America
+2024,Saint Lucia,July,1.0,7,2024-07-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,July,1.0,7,2024-07-01,St. Vincent and the Grenadines,America
+2024,Samoa,July,0.0,7,2024-07-01,Samoa,Oceania
+2024,San Marino,July,0.0,7,2024-07-01,San Marino,Europe
+2024,Saudi Arabia,July,1276.0,7,2024-07-01,Saudi Arabia,Asia
+2024,Senegal,July,2.0,7,2024-07-01,Senegal,Africa
+2024,Serbia,July,91.0,7,2024-07-01,Serbia,Europe
+2024,Seychelles,July,222.0,7,2024-07-01,Seychelles,Africa
+2024,Sierra Leone,July,4.0,7,2024-07-01,Sierra Leone,Africa
+2024,Singapore,July,853.0,7,2024-07-01,Singapore,Asia
+2024,Slovakia,July,292.0,7,2024-07-01,Slovakia,Europe
+2024,Slovenia,July,417.0,7,2024-07-01,Slovenia,Europe
+2024,Solomon Islands,July,1.0,7,2024-07-01,Solomon Islands,Oceania
+2024,Somalia,July,6.0,7,2024-07-01,Somalia,Africa
+2024,South Africa,July,333.0,7,2024-07-01,South Africa,Africa
+2024,South Korea,July,1009.0,7,2024-07-01,South Korea,Asia
+2024,South Sudan,July,0.0,7,2024-07-01,South Sudan,Africa
+2024,Spain,July,4224.0,7,2024-07-01,Spain,Europe
+2024,Sudan,July,122.0,7,2024-07-01,Sudan,Africa
+2024,Suriname,July,2.0,7,2024-07-01,Suriname,America
+2024,Swaziland,July,3.0,7,2024-07-01,Eswatini,Africa
+2024,Sweden,July,716.0,7,2024-07-01,Sweden,Europe
+2024,Switzerland,July,5089.0,7,2024-07-01,Switzerland,Europe
+2024,Syrian Arab Republic,July,0.0,7,2024-07-01,Syria,Asia
+2024,Tajikistan,July,11.0,7,2024-07-01,Tajikistan,Asia
+2024,Tanzania,July,74.0,7,2024-07-01,Tanzania,Africa
+2024,Thailand,July,483.0,7,2024-07-01,Thailand,Asia
+2024,Timor-Leste,July,0.0,7,2024-07-01,Timor-Leste,Asia
+2024,Togo,July,0.0,7,2024-07-01,Togo,Africa
+2024,Tonga,July,1.0,7,2024-07-01,Tonga,Oceania
+2024,Trinidad and Tobago,July,5.0,7,2024-07-01,Trinidad and Tobago,America
+2024,Tunisia,July,79.0,7,2024-07-01,Tunisia,Africa
+2024,Turkey,July,403.0,7,2024-07-01,Türkiye,Asia
+2024,Turkmenistan,July,14.0,7,2024-07-01,Turkmenistan,Asia
+2024,Tuvalu,July,0.0,7,2024-07-01,Tuvalu,Oceania
+2024,Uganda,July,18.0,7,2024-07-01,Uganda,Africa
+2024,Ukraine,July,214.0,7,2024-07-01,Ukraine,Europe
+2024,United Arab Emirates,July,836.0,7,2024-07-01,United Arab Emirates,Asia
+2024,United Kingdom,July,20837.0,7,2024-07-01,United Kingdom,Europe
+2024,United States,July,4962.0,7,2024-07-01,United States,America
+2024,Uruguay,July,3.0,7,2024-07-01,Uruguay,America
+2024,Uzbekistan,July,64.0,7,2024-07-01,Uzbekistan,Asia
+2024,Vanuatu,July,6.0,7,2024-07-01,Vanuatu,Oceania
+2024,Venezuela,July,8.0,7,2024-07-01,Venezuela,America
+2024,Viet Nam,July,279.0,7,2024-07-01,Vietnam,Asia
+2024,Yemen,July,73.0,7,2024-07-01,Yemen,Asia
+2024,Zambia,July,0.0,7,2024-07-01,Zambia,Africa
+2024,Zimbabwe,July,13.0,7,2024-07-01,Zimbabwe,Africa
+2024,Afghanistan,August,18.0,8,2024-08-01,Afghanistan,Asia
+2024,Albania,August,13.0,8,2024-08-01,Albania,Europe
+2024,Algeria,August,49.0,8,2024-08-01,Algeria,Africa
+2024,Andorra,August,25.0,8,2024-08-01,Andorra,Europe
+2024,Angola,August,2.0,8,2024-08-01,Angola,Africa
+2024,Antigua and Barbuda,August,2.0,8,2024-08-01,Antigua and Barbuda,America
+2024,Argentina,August,43.0,8,2024-08-01,Argentina,America
+2024,Armenia,August,136.0,8,2024-08-01,Armenia,Asia
+2024,Aruba,August,0.0,8,2024-08-01,Aruba,America
+2024,Australia,August,6687.0,8,2024-08-01,Australia,Oceania
+2024,Austria,August,1150.0,8,2024-08-01,Austria,Europe
+2024,Azerbaijan,August,97.0,8,2024-08-01,Azerbaijan,Asia
+2024,Bahamas,August,0.0,8,2024-08-01,Bahamas,America
+2024,Bahrain,August,140.0,8,2024-08-01,Bahrain,Asia
+2024,Bangladesh,August,3877.0,8,2024-08-01,Bangladesh,Asia
+2024,Barbados,August,3.0,8,2024-08-01,Barbados,America
+2024,Belarus,August,199.0,8,2024-08-01,Belarus,Europe
+2024,Belgium,August,1751.0,8,2024-08-01,Belgium,Europe
+2024,Belize,August,1.0,8,2024-08-01,Belize,America
+2024,Benin,August,0.0,8,2024-08-01,Benin,Africa
+2024,Bhutan,August,51.0,8,2024-08-01,Bhutan,Asia
+2024,Bolivia,August,6.0,8,2024-08-01,Bolivia,America
+2024,Bosnia and Herzegovina,August,19.0,8,2024-08-01,Bosnia and Herzegovina,Europe
+2024,Botswana,August,7.0,8,2024-08-01,Botswana,Africa
+2024,Brazil,August,129.0,8,2024-08-01,Brazil,America
+2024,Brunei Darussalam,August,6.0,8,2024-08-01,Brunei Darussalam,Asia
+2024,Bulgaria,August,43.0,8,2024-08-01,Bulgaria,Europe
+2024,Burkina Faso,August,0.0,8,2024-08-01,Burkina Faso,Africa
+2024,Burundi,August,1.0,8,2024-08-01,Burundi,Africa
+2024,Cambodia,August,25.0,8,2024-08-01,Cambodia,Asia
+2024,Cameroon,August,0.0,8,2024-08-01,Cameroon,Africa
+2024,Canada,August,3868.0,8,2024-08-01,Canada,America
+2024,Cape Verde,August,1.0,8,2024-08-01,Cabo Verde,Africa
+2024,Central African Republic,August,1.0,8,2024-08-01,Central African Republic,Africa
+2024,Chad,August,1.0,8,2024-08-01,Chad,Africa
+2024,Chile,August,42.0,8,2024-08-01,Chile,America
+2024,China,August,12088.0,8,2024-08-01,China,Asia
+2024,Colombia,August,51.0,8,2024-08-01,Colombia,America
+2024,Comoros,August,14.0,8,2024-08-01,Comoros,Africa
+2024,Congo,August,3.0,8,2024-08-01,Congo Republic,Africa
+2024,Costa Rica,August,2.0,8,2024-08-01,Costa Rica,America
+2024,Cote Divoire,August,1.0,8,2024-08-01,Côte d'Ivoire,Africa
+2024,Croatia,August,133.0,8,2024-08-01,Croatia,Europe
+2024,Cuba,August,6.0,8,2024-08-01,Cuba,America
+2024,Cyprus,August,307.0,8,2024-08-01,Cyprus,Asia
+2024,Czech Republic,August,822.0,8,2024-08-01,Czechia,Europe
+2024,Denmark,August,606.0,8,2024-08-01,Denmark,Europe
+2024,Djibouti,August,2.0,8,2024-08-01,Djibouti,Africa
+2024,Dominica,August,6.0,8,2024-08-01,Dominica,America
+2024,Dominican Republic,August,2.0,8,2024-08-01,Dominican Republic,America
+2024,Ecuador,August,1.0,8,2024-08-01,Ecuador,America
+2024,Egypt,August,265.0,8,2024-08-01,Egypt,Africa
+2024,El Salvador,August,1.0,8,2024-08-01,El Salvador,America
+2024,Equatorial Guinea,August,0.0,8,2024-08-01,Equatorial Guinea,Africa
+2024,Eritrea,August,0.0,8,2024-08-01,Eritrea,Africa
+2024,Estonia,August,15.0,8,2024-08-01,Estonia,Europe
+2024,Ethiopia,August,14.0,8,2024-08-01,Ethiopia,Africa
+2024,Fiji,August,7.0,8,2024-08-01,Fiji,Oceania
+2024,Finland,August,100.0,8,2024-08-01,Finland,Europe
+2024,France,August,8596.0,8,2024-08-01,France,Europe
+2024,Gabon,August,0.0,8,2024-08-01,Gabon,Africa
+2024,"Gambia, The",August,3.0,8,2024-08-01,Gambia,Africa
+2024,Georgia,August,26.0,8,2024-08-01,Georgia,Asia
+2024,Germany,August,10623.0,8,2024-08-01,Germany,Europe
+2024,Ghana,August,4.0,8,2024-08-01,Ghana,Africa
+2024,Greece,August,339.0,8,2024-08-01,Greece,Europe
+2024,Grenada,August,5.0,8,2024-08-01,Grenada,America
+2024,Guatemala,August,3.0,8,2024-08-01,Guatemala,America
+2024,Guinea,August,2.0,8,2024-08-01,Guinea,Africa
+2024,Guinea-Bissau,August,0.0,8,2024-08-01,Guinea-Bissau,Africa
+2024,Guyana,August,2.0,8,2024-08-01,Guyana,America
+2024,Haiti,August,0.0,8,2024-08-01,Haiti,America
+2024,Honduras,August,2.0,8,2024-08-01,Honduras,America
+2024,Hungary,August,261.0,8,2024-08-01,Hungary,Europe
+2024,Iceland,August,21.0,8,2024-08-01,Iceland,Europe
+2024,India,August,33031.0,8,2024-08-01,India,Asia
+2024,Indonesia,August,291.0,8,2024-08-01,Indonesia,Asia
+2024,Iran,August,883.0,8,2024-08-01,Iran,Asia
+2024,Iraq,August,172.0,8,2024-08-01,Iraq,Asia
+2024,Ireland,August,586.0,8,2024-08-01,Ireland,Europe
+2024,Israel,August,3248.0,8,2024-08-01,Israel,Asia
+2024,Italy,August,9586.0,8,2024-08-01,Italy,Europe
+2024,Jamaica,August,5.0,8,2024-08-01,Jamaica,America
+2024,Japan,August,4102.0,8,2024-08-01,Japan,Asia
+2024,Jordan,August,173.0,8,2024-08-01,Jordan,Asia
+2024,Kazakhstan,August,71.0,8,2024-08-01,Kazakhstan,Asia
+2024,Kenya,August,54.0,8,2024-08-01,Kenya,Africa
+2024,Kiribati,August,0.0,8,2024-08-01,Kiribati,Oceania
+2024,Kosovar,August,1.0,8,2024-08-01,Kosovar,Other
+2024,Kuwait,August,207.0,8,2024-08-01,Kuwait,Asia
+2024,Kyrgyzstan,August,21.0,8,2024-08-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",August,9.0,8,2024-08-01,Laos,Asia
+2024,Latvia,August,23.0,8,2024-08-01,Latvia,Europe
+2024,Lebanon,August,244.0,8,2024-08-01,Lebanon,Asia
+2024,Lesotho,August,1.0,8,2024-08-01,Lesotho,Africa
+2024,Liberia,August,1.0,8,2024-08-01,Liberia,Africa
+2024,Libya,August,6.0,8,2024-08-01,Libya,Africa
+2024,Liechtenstein,August,5.0,8,2024-08-01,Liechtenstein,Europe
+2024,Lithuania,August,111.0,8,2024-08-01,Lithuania,Europe
+2024,Luxembourg,August,109.0,8,2024-08-01,Luxembourg,Europe
+2024,Macedonia,August,14.0,8,2024-08-01,North Macedonia,Europe
+2024,Madagascar,August,11.0,8,2024-08-01,Madagascar,Africa
+2024,Malawi,August,2.0,8,2024-08-01,Malawi,Africa
+2024,Malaysia,August,1571.0,8,2024-08-01,Malaysia,Asia
+2024,Maldives,August,3198.0,8,2024-08-01,Maldives,Asia
+2024,Mali,August,2.0,8,2024-08-01,Mali,Africa
+2024,Malta,August,136.0,8,2024-08-01,Malta,Europe
+2024,Marshall Islands,August,0.0,8,2024-08-01,Marshall Islands,Oceania
+2024,Mauritania,August,0.0,8,2024-08-01,Mauritania,Africa
+2024,Mauritius,August,57.0,8,2024-08-01,Mauritius,Africa
+2024,Mexico,August,58.0,8,2024-08-01,Mexico,America
+2024,Micronesia,August,1.0,8,2024-08-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,August,11.0,8,2024-08-01,Moldova,Europe
+2024,Monaco,August,2.0,8,2024-08-01,Monaco,Europe
+2024,Mongolia,August,1.0,8,2024-08-01,Mongolia,Asia
+2024,Montenegro,August,9.0,8,2024-08-01,Montenegro,Europe
+2024,Morocco,August,112.0,8,2024-08-01,Morocco,Africa
+2024,Mozambique,August,1.0,8,2024-08-01,Mozambique,Africa
+2024,Myanmar,August,417.0,8,2024-08-01,Myanmar,Asia
+2024,Namibia,August,0.0,8,2024-08-01,Namibia,Africa
+2024,Nauru,August,0.0,8,2024-08-01,Nauru,Oceania
+2024,Nepal,August,252.0,8,2024-08-01,Nepal,Asia
+2024,Netherlands,August,5355.0,8,2024-08-01,Netherlands,Europe
+2024,Netherlands Antilles,August,0.0,8,2024-08-01,Netherlands Antilles,Other
+2024,New Zealand,August,1011.0,8,2024-08-01,New Zealand,Oceania
+2024,Nicaragua,August,0.0,8,2024-08-01,Nicaragua,America
+2024,Niger,August,0.0,8,2024-08-01,Niger,Africa
+2024,Nigeria,August,5.0,8,2024-08-01,Nigeria,Africa
+2024,Norway,August,486.0,8,2024-08-01,Norway,Europe
+2024,Oman,August,473.0,8,2024-08-01,Oman,Asia
+2024,Pakistan,August,1040.0,8,2024-08-01,Pakistan,Asia
+2024,Palau,August,0.0,8,2024-08-01,Palau,Oceania
+2024,Palestinian Territories,August,65.0,8,2024-08-01,Palestine,Asia
+2024,Panama,August,1.0,8,2024-08-01,Panama,America
+2024,Papua New Guinea,August,5.0,8,2024-08-01,Papua New Guinea,Oceania
+2024,Paraguay,August,0.0,8,2024-08-01,Paraguay,America
+2024,Peru,August,25.0,8,2024-08-01,Peru,America
+2024,Philippines,August,465.0,8,2024-08-01,Philippines,Asia
+2024,Poland,August,2240.0,8,2024-08-01,Poland,Europe
+2024,Portugal,August,667.0,8,2024-08-01,Portugal,Europe
+2024,Qatar,August,102.0,8,2024-08-01,Qatar,Asia
+2024,Romania,August,336.0,8,2024-08-01,Romania,Europe
+2024,Russian Federation,August,4351.0,8,2024-08-01,Russia,Europe
+2024,Rwanda,August,2.0,8,2024-08-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,August,8.0,8,2024-08-01,St. Kitts and Nevis,America
+2024,Saint Lucia,August,1.0,8,2024-08-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,August,0.0,8,2024-08-01,St. Vincent and the Grenadines,America
+2024,Samoa,August,0.0,8,2024-08-01,Samoa,Oceania
+2024,San Marino,August,1.0,8,2024-08-01,San Marino,Europe
+2024,Saudi Arabia,August,330.0,8,2024-08-01,Saudi Arabia,Asia
+2024,Senegal,August,0.0,8,2024-08-01,Senegal,Africa
+2024,Serbia,August,107.0,8,2024-08-01,Serbia,Europe
+2024,Seychelles,August,327.0,8,2024-08-01,Seychelles,Africa
+2024,Sierra Leone,August,3.0,8,2024-08-01,Sierra Leone,Africa
+2024,Singapore,August,1215.0,8,2024-08-01,Singapore,Asia
+2024,Slovakia,August,290.0,8,2024-08-01,Slovakia,Europe
+2024,Slovenia,August,186.0,8,2024-08-01,Slovenia,Europe
+2024,Solomon Islands,August,1.0,8,2024-08-01,Solomon Islands,Oceania
+2024,Somalia,August,19.0,8,2024-08-01,Somalia,Africa
+2024,South Africa,August,324.0,8,2024-08-01,South Africa,Africa
+2024,South Korea,August,698.0,8,2024-08-01,South Korea,Asia
+2024,South Sudan,August,1.0,8,2024-08-01,South Sudan,Africa
+2024,Spain,August,7262.0,8,2024-08-01,Spain,Europe
+2024,Sudan,August,77.0,8,2024-08-01,Sudan,Africa
+2024,Suriname,August,2.0,8,2024-08-01,Suriname,America
+2024,Swaziland,August,4.0,8,2024-08-01,Eswatini,Africa
+2024,Sweden,August,290.0,8,2024-08-01,Sweden,Europe
+2024,Switzerland,August,1856.0,8,2024-08-01,Switzerland,Europe
+2024,Syrian Arab Republic,August,0.0,8,2024-08-01,Syria,Asia
+2024,Tajikistan,August,20.0,8,2024-08-01,Tajikistan,Asia
+2024,Tanzania,August,15.0,8,2024-08-01,Tanzania,Africa
+2024,Thailand,August,598.0,8,2024-08-01,Thailand,Asia
+2024,Timor-Leste,August,0.0,8,2024-08-01,Timor-Leste,Asia
+2024,Togo,August,3.0,8,2024-08-01,Togo,Africa
+2024,Tonga,August,1.0,8,2024-08-01,Tonga,Oceania
+2024,Trinidad and Tobago,August,6.0,8,2024-08-01,Trinidad and Tobago,America
+2024,Tunisia,August,54.0,8,2024-08-01,Tunisia,Africa
+2024,Turkey,August,448.0,8,2024-08-01,Türkiye,Asia
+2024,Turkmenistan,August,6.0,8,2024-08-01,Turkmenistan,Asia
+2024,Tuvalu,August,0.0,8,2024-08-01,Tuvalu,Oceania
+2024,Uganda,August,13.0,8,2024-08-01,Uganda,Africa
+2024,Ukraine,August,203.0,8,2024-08-01,Ukraine,Europe
+2024,United Arab Emirates,August,562.0,8,2024-08-01,United Arab Emirates,Asia
+2024,United Kingdom,August,17587.0,8,2024-08-01,United Kingdom,Europe
+2024,United States,August,3539.0,8,2024-08-01,United States,America
+2024,Uruguay,August,4.0,8,2024-08-01,Uruguay,America
+2024,Uzbekistan,August,28.0,8,2024-08-01,Uzbekistan,Asia
+2024,Vanuatu,August,9.0,8,2024-08-01,Vanuatu,Oceania
+2024,Venezuela,August,9.0,8,2024-08-01,Venezuela,America
+2024,Viet Nam,August,293.0,8,2024-08-01,Vietnam,Asia
+2024,Yemen,August,45.0,8,2024-08-01,Yemen,Asia
+2024,Zambia,August,3.0,8,2024-08-01,Zambia,Africa
+2024,Zimbabwe,August,11.0,8,2024-08-01,Zimbabwe,Africa
+2024,Afghanistan,September,5.0,9,2024-09-01,Afghanistan,Asia
+2024,Albania,September,6.0,9,2024-09-01,Albania,Europe
+2024,Algeria,September,25.0,9,2024-09-01,Algeria,Africa
+2024,Andorra,September,23.0,9,2024-09-01,Andorra,Europe
+2024,Angola,September,1.0,9,2024-09-01,Angola,Africa
+2024,Antigua and Barbuda,September,1.0,9,2024-09-01,Antigua and Barbuda,America
+2024,Argentina,September,45.0,9,2024-09-01,Argentina,America
+2024,Armenia,September,107.0,9,2024-09-01,Armenia,Asia
+2024,Aruba,September,0.0,9,2024-09-01,Aruba,America
+2024,Australia,September,7200.0,9,2024-09-01,Australia,Oceania
+2024,Austria,September,757.0,9,2024-09-01,Austria,Europe
+2024,Azerbaijan,September,100.0,9,2024-09-01,Azerbaijan,Asia
+2024,Bahamas,September,1.0,9,2024-09-01,Bahamas,America
+2024,Bahrain,September,54.0,9,2024-09-01,Bahrain,Asia
+2024,Bangladesh,September,4178.0,9,2024-09-01,Bangladesh,Asia
+2024,Barbados,September,0.0,9,2024-09-01,Barbados,America
+2024,Belarus,September,177.0,9,2024-09-01,Belarus,Europe
+2024,Belgium,September,1669.0,9,2024-09-01,Belgium,Europe
+2024,Belize,September,1.0,9,2024-09-01,Belize,America
+2024,Benin,September,2.0,9,2024-09-01,Benin,Africa
+2024,Bhutan,September,45.0,9,2024-09-01,Bhutan,Asia
+2024,Bolivia,September,3.0,9,2024-09-01,Bolivia,America
+2024,Bosnia and Herzegovina,September,26.0,9,2024-09-01,Bosnia and Herzegovina,Europe
+2024,Botswana,September,2.0,9,2024-09-01,Botswana,Africa
+2024,Brazil,September,100.0,9,2024-09-01,Brazil,America
+2024,Brunei Darussalam,September,0.0,9,2024-09-01,Brunei Darussalam,Asia
+2024,Bulgaria,September,32.0,9,2024-09-01,Bulgaria,Europe
+2024,Burkina Faso,September,0.0,9,2024-09-01,Burkina Faso,Africa
+2024,Burundi,September,3.0,9,2024-09-01,Burundi,Africa
+2024,Cambodia,September,55.0,9,2024-09-01,Cambodia,Asia
+2024,Cameroon,September,0.0,9,2024-09-01,Cameroon,Africa
+2024,Canada,September,2095.0,9,2024-09-01,Canada,America
+2024,Cape Verde,September,0.0,9,2024-09-01,Cabo Verde,Africa
+2024,Central African Republic,September,0.0,9,2024-09-01,Central African Republic,Africa
+2024,Chad,September,0.0,9,2024-09-01,Chad,Africa
+2024,Chile,September,32.0,9,2024-09-01,Chile,America
+2024,China,September,9685.0,9,2024-09-01,China,Asia
+2024,Colombia,September,26.0,9,2024-09-01,Colombia,America
+2024,Comoros,September,5.0,9,2024-09-01,Comoros,Africa
+2024,Congo,September,0.0,9,2024-09-01,Congo Republic,Africa
+2024,Costa Rica,September,2.0,9,2024-09-01,Costa Rica,America
+2024,Cote Divoire,September,0.0,9,2024-09-01,Côte d'Ivoire,Africa
+2024,Croatia,September,95.0,9,2024-09-01,Croatia,Europe
+2024,Cuba,September,6.0,9,2024-09-01,Cuba,America
+2024,Cyprus,September,45.0,9,2024-09-01,Cyprus,Asia
+2024,Czech Republic,September,496.0,9,2024-09-01,Czechia,Europe
+2024,Denmark,September,566.0,9,2024-09-01,Denmark,Europe
+2024,Djibouti,September,2.0,9,2024-09-01,Djibouti,Africa
+2024,Dominica,September,2.0,9,2024-09-01,Dominica,America
+2024,Dominican Republic,September,1.0,9,2024-09-01,Dominican Republic,America
+2024,Ecuador,September,11.0,9,2024-09-01,Ecuador,America
+2024,Egypt,September,232.0,9,2024-09-01,Egypt,Africa
+2024,El Salvador,September,3.0,9,2024-09-01,El Salvador,America
+2024,Equatorial Guinea,September,0.0,9,2024-09-01,Equatorial Guinea,Africa
+2024,Eritrea,September,0.0,9,2024-09-01,Eritrea,Africa
+2024,Estonia,September,45.0,9,2024-09-01,Estonia,Europe
+2024,Ethiopia,September,12.0,9,2024-09-01,Ethiopia,Africa
+2024,Fiji,September,2.0,9,2024-09-01,Fiji,Oceania
+2024,Finland,September,165.0,9,2024-09-01,Finland,Europe
+2024,France,September,3749.0,9,2024-09-01,France,Europe
+2024,Gabon,September,2.0,9,2024-09-01,Gabon,Africa
+2024,"Gambia, The",September,1.0,9,2024-09-01,Gambia,Africa
+2024,Georgia,September,27.0,9,2024-09-01,Georgia,Asia
+2024,Germany,September,8260.0,9,2024-09-01,Germany,Europe
+2024,Ghana,September,6.0,9,2024-09-01,Ghana,Africa
+2024,Greece,September,106.0,9,2024-09-01,Greece,Europe
+2024,Grenada,September,3.0,9,2024-09-01,Grenada,America
+2024,Guatemala,September,4.0,9,2024-09-01,Guatemala,America
+2024,Guinea,September,0.0,9,2024-09-01,Guinea,Africa
+2024,Guinea-Bissau,September,2.0,9,2024-09-01,Guinea-Bissau,Africa
+2024,Guyana,September,3.0,9,2024-09-01,Guyana,America
+2024,Haiti,September,1.0,9,2024-09-01,Haiti,America
+2024,Honduras,September,2.0,9,2024-09-01,Honduras,America
+2024,Hungary,September,137.0,9,2024-09-01,Hungary,Europe
+2024,Iceland,September,12.0,9,2024-09-01,Iceland,Europe
+2024,India,September,27884.0,9,2024-09-01,India,Asia
+2024,Indonesia,September,431.0,9,2024-09-01,Indonesia,Asia
+2024,Iran,September,1227.0,9,2024-09-01,Iran,Asia
+2024,Iraq,September,81.0,9,2024-09-01,Iraq,Asia
+2024,Ireland,September,434.0,9,2024-09-01,Ireland,Europe
+2024,Israel,September,3142.0,9,2024-09-01,Israel,Asia
+2024,Italy,September,1902.0,9,2024-09-01,Italy,Europe
+2024,Jamaica,September,12.0,9,2024-09-01,Jamaica,America
+2024,Japan,September,3526.0,9,2024-09-01,Japan,Asia
+2024,Jordan,September,151.0,9,2024-09-01,Jordan,Asia
+2024,Kazakhstan,September,99.0,9,2024-09-01,Kazakhstan,Asia
+2024,Kenya,September,79.0,9,2024-09-01,Kenya,Africa
+2024,Kiribati,September,0.0,9,2024-09-01,Kiribati,Oceania
+2024,Kosovar,September,6.0,9,2024-09-01,Kosovar,Other
+2024,Kuwait,September,119.0,9,2024-09-01,Kuwait,Asia
+2024,Kyrgyzstan,September,35.0,9,2024-09-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",September,4.0,9,2024-09-01,Laos,Asia
+2024,Latvia,September,29.0,9,2024-09-01,Latvia,Europe
+2024,Lebanon,September,163.0,9,2024-09-01,Lebanon,Asia
+2024,Lesotho,September,3.0,9,2024-09-01,Lesotho,Africa
+2024,Liberia,September,1.0,9,2024-09-01,Liberia,Africa
+2024,Libya,September,0.0,9,2024-09-01,Libya,Africa
+2024,Liechtenstein,September,3.0,9,2024-09-01,Liechtenstein,Europe
+2024,Lithuania,September,92.0,9,2024-09-01,Lithuania,Europe
+2024,Luxembourg,September,13.0,9,2024-09-01,Luxembourg,Europe
+2024,Macedonia,September,16.0,9,2024-09-01,North Macedonia,Europe
+2024,Madagascar,September,6.0,9,2024-09-01,Madagascar,Africa
+2024,Malawi,September,2.0,9,2024-09-01,Malawi,Africa
+2024,Malaysia,September,1954.0,9,2024-09-01,Malaysia,Asia
+2024,Maldives,September,4359.0,9,2024-09-01,Maldives,Asia
+2024,Mali,September,3.0,9,2024-09-01,Mali,Africa
+2024,Malta,September,108.0,9,2024-09-01,Malta,Europe
+2024,Marshall Islands,September,0.0,9,2024-09-01,Marshall Islands,Oceania
+2024,Mauritania,September,1.0,9,2024-09-01,Mauritania,Africa
+2024,Mauritius,September,20.0,9,2024-09-01,Mauritius,Africa
+2024,Mexico,September,100.0,9,2024-09-01,Mexico,America
+2024,Micronesia,September,0.0,9,2024-09-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,September,6.0,9,2024-09-01,Moldova,Europe
+2024,Monaco,September,1.0,9,2024-09-01,Monaco,Europe
+2024,Mongolia,September,20.0,9,2024-09-01,Mongolia,Asia
+2024,Montenegro,September,1.0,9,2024-09-01,Montenegro,Europe
+2024,Morocco,September,78.0,9,2024-09-01,Morocco,Africa
+2024,Mozambique,September,2.0,9,2024-09-01,Mozambique,Africa
+2024,Myanmar,September,33.0,9,2024-09-01,Myanmar,Asia
+2024,Namibia,September,2.0,9,2024-09-01,Namibia,Africa
+2024,Nauru,September,0.0,9,2024-09-01,Nauru,Oceania
+2024,Nepal,September,234.0,9,2024-09-01,Nepal,Asia
+2024,Netherlands,September,3725.0,9,2024-09-01,Netherlands,Europe
+2024,Netherlands Antilles,September,1.0,9,2024-09-01,Netherlands Antilles,Other
+2024,New Zealand,September,1033.0,9,2024-09-01,New Zealand,Oceania
+2024,Nicaragua,September,1.0,9,2024-09-01,Nicaragua,America
+2024,Niger,September,0.0,9,2024-09-01,Niger,Africa
+2024,Nigeria,September,18.0,9,2024-09-01,Nigeria,Africa
+2024,Norway,September,443.0,9,2024-09-01,Norway,Europe
+2024,Oman,September,185.0,9,2024-09-01,Oman,Asia
+2024,Pakistan,September,556.0,9,2024-09-01,Pakistan,Asia
+2024,Palau,September,33.0,9,2024-09-01,Palau,Oceania
+2024,Palestinian Territories,September,0.0,9,2024-09-01,Palestine,Asia
+2024,Panama,September,4.0,9,2024-09-01,Panama,America
+2024,Papua New Guinea,September,9.0,9,2024-09-01,Papua New Guinea,Oceania
+2024,Paraguay,September,0.0,9,2024-09-01,Paraguay,America
+2024,Peru,September,13.0,9,2024-09-01,Peru,America
+2024,Philippines,September,398.0,9,2024-09-01,Philippines,Asia
+2024,Poland,September,2243.0,9,2024-09-01,Poland,Europe
+2024,Portugal,September,410.0,9,2024-09-01,Portugal,Europe
+2024,Qatar,September,19.0,9,2024-09-01,Qatar,Asia
+2024,Romania,September,254.0,9,2024-09-01,Romania,Europe
+2024,Russian Federation,September,4199.0,9,2024-09-01,Russia,Europe
+2024,Rwanda,September,8.0,9,2024-09-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,September,9.0,9,2024-09-01,St. Kitts and Nevis,America
+2024,Saint Lucia,September,1.0,9,2024-09-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,September,0.0,9,2024-09-01,St. Vincent and the Grenadines,America
+2024,Samoa,September,0.0,9,2024-09-01,Samoa,Oceania
+2024,San Marino,September,2.0,9,2024-09-01,San Marino,Europe
+2024,Saudi Arabia,September,319.0,9,2024-09-01,Saudi Arabia,Asia
+2024,Senegal,September,0.0,9,2024-09-01,Senegal,Africa
+2024,Serbia,September,103.0,9,2024-09-01,Serbia,Europe
+2024,Seychelles,September,196.0,9,2024-09-01,Seychelles,Africa
+2024,Sierra Leone,September,1.0,9,2024-09-01,Sierra Leone,Africa
+2024,Singapore,September,710.0,9,2024-09-01,Singapore,Asia
+2024,Slovakia,September,255.0,9,2024-09-01,Slovakia,Europe
+2024,Slovenia,September,188.0,9,2024-09-01,Slovenia,Europe
+2024,Solomon Islands,September,3.0,9,2024-09-01,Solomon Islands,Oceania
+2024,Somalia,September,7.0,9,2024-09-01,Somalia,Africa
+2024,South Africa,September,299.0,9,2024-09-01,South Africa,Africa
+2024,South Korea,September,608.0,9,2024-09-01,South Korea,Asia
+2024,South Sudan,September,0.0,9,2024-09-01,South Sudan,Africa
+2024,Spain,September,4166.0,9,2024-09-01,Spain,Europe
+2024,Sudan,September,62.0,9,2024-09-01,Sudan,Africa
+2024,Suriname,September,0.0,9,2024-09-01,Suriname,America
+2024,Swaziland,September,1.0,9,2024-09-01,Eswatini,Africa
+2024,Sweden,September,345.0,9,2024-09-01,Sweden,Europe
+2024,Switzerland,September,1778.0,9,2024-09-01,Switzerland,Europe
+2024,Syrian Arab Republic,September,0.0,9,2024-09-01,Syria,Asia
+2024,Tajikistan,September,8.0,9,2024-09-01,Tajikistan,Asia
+2024,Tanzania,September,20.0,9,2024-09-01,Tanzania,Africa
+2024,Thailand,September,384.0,9,2024-09-01,Thailand,Asia
+2024,Timor-Leste,September,0.0,9,2024-09-01,Timor-Leste,Asia
+2024,Togo,September,0.0,9,2024-09-01,Togo,Africa
+2024,Tonga,September,0.0,9,2024-09-01,Tonga,Oceania
+2024,Trinidad and Tobago,September,4.0,9,2024-09-01,Trinidad and Tobago,America
+2024,Tunisia,September,45.0,9,2024-09-01,Tunisia,Africa
+2024,Turkey,September,361.0,9,2024-09-01,Türkiye,Asia
+2024,Turkmenistan,September,2.0,9,2024-09-01,Turkmenistan,Asia
+2024,Tuvalu,September,0.0,9,2024-09-01,Tuvalu,Oceania
+2024,Uganda,September,10.0,9,2024-09-01,Uganda,Africa
+2024,Ukraine,September,191.0,9,2024-09-01,Ukraine,Europe
+2024,United Arab Emirates,September,270.0,9,2024-09-01,United Arab Emirates,Asia
+2024,United Kingdom,September,8688.0,9,2024-09-01,United Kingdom,Europe
+2024,United States,September,2460.0,9,2024-09-01,United States,America
+2024,Uruguay,September,7.0,9,2024-09-01,Uruguay,America
+2024,Uzbekistan,September,31.0,9,2024-09-01,Uzbekistan,Asia
+2024,Vanuatu,September,5.0,9,2024-09-01,Vanuatu,Oceania
+2024,Venezuela,September,8.0,9,2024-09-01,Venezuela,America
+2024,Viet Nam,September,183.0,9,2024-09-01,Vietnam,Asia
+2024,Yemen,September,11.0,9,2024-09-01,Yemen,Asia
+2024,Zambia,September,1.0,9,2024-09-01,Zambia,Africa
+2024,Zimbabwe,September,3.0,9,2024-09-01,Zimbabwe,Africa
+2024,Afghanistan,October,7.0,10,2024-10-01,Afghanistan,Asia
+2024,Albania,October,8.0,10,2024-10-01,Albania,Europe
+2024,Algeria,October,26.0,10,2024-10-01,Algeria,Africa
+2024,Andorra,October,14.0,10,2024-10-01,Andorra,Europe
+2024,Angola,October,2.0,10,2024-10-01,Angola,Africa
+2024,Antigua and Barbuda,October,9.0,10,2024-10-01,Antigua and Barbuda,America
+2024,Argentina,October,91.0,10,2024-10-01,Argentina,America
+2024,Armenia,October,371.0,10,2024-10-01,Armenia,Asia
+2024,Aruba,October,0.0,10,2024-10-01,Aruba,America
+2024,Australia,October,6523.0,10,2024-10-01,Australia,Oceania
+2024,Austria,October,917.0,10,2024-10-01,Austria,Europe
+2024,Azerbaijan,October,98.0,10,2024-10-01,Azerbaijan,Asia
+2024,Bahamas,October,4.0,10,2024-10-01,Bahamas,America
+2024,Bahrain,October,64.0,10,2024-10-01,Bahrain,Asia
+2024,Bangladesh,October,3732.0,10,2024-10-01,Bangladesh,Asia
+2024,Barbados,October,7.0,10,2024-10-01,Barbados,America
+2024,Belarus,October,504.0,10,2024-10-01,Belarus,Europe
+2024,Belgium,October,847.0,10,2024-10-01,Belgium,Europe
+2024,Belize,October,2.0,10,2024-10-01,Belize,America
+2024,Benin,October,0.0,10,2024-10-01,Benin,Africa
+2024,Bhutan,October,41.0,10,2024-10-01,Bhutan,Asia
+2024,Bolivia,October,3.0,10,2024-10-01,Bolivia,America
+2024,Bosnia and Herzegovina,October,14.0,10,2024-10-01,Bosnia and Herzegovina,Europe
+2024,Botswana,October,4.0,10,2024-10-01,Botswana,Africa
+2024,Brazil,October,125.0,10,2024-10-01,Brazil,America
+2024,Brunei Darussalam,October,2.0,10,2024-10-01,Brunei Darussalam,Asia
+2024,Bulgaria,October,233.0,10,2024-10-01,Bulgaria,Europe
+2024,Burkina Faso,October,2.0,10,2024-10-01,Burkina Faso,Africa
+2024,Burundi,October,0.0,10,2024-10-01,Burundi,Africa
+2024,Cambodia,October,59.0,10,2024-10-01,Cambodia,Asia
+2024,Cameroon,October,4.0,10,2024-10-01,Cameroon,Africa
+2024,Canada,October,2339.0,10,2024-10-01,Canada,America
+2024,Cape Verde,October,0.0,10,2024-10-01,Cabo Verde,Africa
+2024,Central African Republic,October,0.0,10,2024-10-01,Central African Republic,Africa
+2024,Chad,October,1.0,10,2024-10-01,Chad,Africa
+2024,Chile,October,40.0,10,2024-10-01,Chile,America
+2024,China,October,9164.0,10,2024-10-01,China,Asia
+2024,Colombia,October,62.0,10,2024-10-01,Colombia,America
+2024,Comoros,October,13.0,10,2024-10-01,Comoros,Africa
+2024,Congo,October,0.0,10,2024-10-01,Congo Republic,Africa
+2024,Costa Rica,October,5.0,10,2024-10-01,Costa Rica,America
+2024,Cote Divoire,October,2.0,10,2024-10-01,Côte d'Ivoire,Africa
+2024,Croatia,October,110.0,10,2024-10-01,Croatia,Europe
+2024,Cuba,October,4.0,10,2024-10-01,Cuba,America
+2024,Cyprus,October,52.0,10,2024-10-01,Cyprus,Asia
+2024,Czech Republic,October,729.0,10,2024-10-01,Czechia,Europe
+2024,Denmark,October,739.0,10,2024-10-01,Denmark,Europe
+2024,Djibouti,October,3.0,10,2024-10-01,Djibouti,Africa
+2024,Dominica,October,14.0,10,2024-10-01,Dominica,America
+2024,Dominican Republic,October,5.0,10,2024-10-01,Dominican Republic,America
+2024,Ecuador,October,13.0,10,2024-10-01,Ecuador,America
+2024,Egypt,October,282.0,10,2024-10-01,Egypt,Africa
+2024,El Salvador,October,2.0,10,2024-10-01,El Salvador,America
+2024,Equatorial Guinea,October,0.0,10,2024-10-01,Equatorial Guinea,Africa
+2024,Eritrea,October,1.0,10,2024-10-01,Eritrea,Africa
+2024,Estonia,October,131.0,10,2024-10-01,Estonia,Europe
+2024,Ethiopia,October,12.0,10,2024-10-01,Ethiopia,Africa
+2024,Fiji,October,10.0,10,2024-10-01,Fiji,Oceania
+2024,Finland,October,215.0,10,2024-10-01,Finland,Europe
+2024,France,October,4688.0,10,2024-10-01,France,Europe
+2024,Gabon,October,0.0,10,2024-10-01,Gabon,Africa
+2024,"Gambia, The",October,0.0,10,2024-10-01,Gambia,Africa
+2024,Georgia,October,24.0,10,2024-10-01,Georgia,Asia
+2024,Germany,October,9217.0,10,2024-10-01,Germany,Europe
+2024,Ghana,October,11.0,10,2024-10-01,Ghana,Africa
+2024,Greece,October,142.0,10,2024-10-01,Greece,Europe
+2024,Grenada,October,3.0,10,2024-10-01,Grenada,America
+2024,Guatemala,October,4.0,10,2024-10-01,Guatemala,America
+2024,Guinea,October,1.0,10,2024-10-01,Guinea,Africa
+2024,Guinea-Bissau,October,0.0,10,2024-10-01,Guinea-Bissau,Africa
+2024,Guyana,October,9.0,10,2024-10-01,Guyana,America
+2024,Haiti,October,3.0,10,2024-10-01,Haiti,America
+2024,Honduras,October,2.0,10,2024-10-01,Honduras,America
+2024,Hungary,October,431.0,10,2024-10-01,Hungary,Europe
+2024,Iceland,October,20.0,10,2024-10-01,Iceland,Europe
+2024,India,October,36417.0,10,2024-10-01,India,Asia
+2024,Indonesia,October,297.0,10,2024-10-01,Indonesia,Asia
+2024,Iran,October,591.0,10,2024-10-01,Iran,Asia
+2024,Iraq,October,64.0,10,2024-10-01,Iraq,Asia
+2024,Ireland,October,706.0,10,2024-10-01,Ireland,Europe
+2024,Israel,October,1398.0,10,2024-10-01,Israel,Asia
+2024,Italy,October,1431.0,10,2024-10-01,Italy,Europe
+2024,Jamaica,October,9.0,10,2024-10-01,Jamaica,America
+2024,Japan,October,2392.0,10,2024-10-01,Japan,Asia
+2024,Jordan,October,315.0,10,2024-10-01,Jordan,Asia
+2024,Kazakhstan,October,213.0,10,2024-10-01,Kazakhstan,Asia
+2024,Kenya,October,42.0,10,2024-10-01,Kenya,Africa
+2024,Kiribati,October,0.0,10,2024-10-01,Kiribati,Oceania
+2024,Kosovar,October,3.0,10,2024-10-01,Kosovar,Other
+2024,Kuwait,October,70.0,10,2024-10-01,Kuwait,Asia
+2024,Kyrgyzstan,October,34.0,10,2024-10-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",October,1.0,10,2024-10-01,Laos,Asia
+2024,Latvia,October,152.0,10,2024-10-01,Latvia,Europe
+2024,Lebanon,October,110.0,10,2024-10-01,Lebanon,Asia
+2024,Lesotho,October,0.0,10,2024-10-01,Lesotho,Africa
+2024,Liberia,October,2.0,10,2024-10-01,Liberia,Africa
+2024,Libya,October,5.0,10,2024-10-01,Libya,Africa
+2024,Liechtenstein,October,7.0,10,2024-10-01,Liechtenstein,Europe
+2024,Lithuania,October,285.0,10,2024-10-01,Lithuania,Europe
+2024,Luxembourg,October,29.0,10,2024-10-01,Luxembourg,Europe
+2024,Macedonia,October,30.0,10,2024-10-01,North Macedonia,Europe
+2024,Madagascar,October,10.0,10,2024-10-01,Madagascar,Africa
+2024,Malawi,October,5.0,10,2024-10-01,Malawi,Africa
+2024,Malaysia,October,1013.0,10,2024-10-01,Malaysia,Asia
+2024,Maldives,October,2880.0,10,2024-10-01,Maldives,Asia
+2024,Mali,October,1.0,10,2024-10-01,Mali,Africa
+2024,Malta,October,23.0,10,2024-10-01,Malta,Europe
+2024,Marshall Islands,October,1.0,10,2024-10-01,Marshall Islands,Oceania
+2024,Mauritania,October,2.0,10,2024-10-01,Mauritania,Africa
+2024,Mauritius,October,21.0,10,2024-10-01,Mauritius,Africa
+2024,Mexico,October,90.0,10,2024-10-01,Mexico,America
+2024,Micronesia,October,1.0,10,2024-10-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,October,18.0,10,2024-10-01,Moldova,Europe
+2024,Monaco,October,3.0,10,2024-10-01,Monaco,Europe
+2024,Mongolia,October,2.0,10,2024-10-01,Mongolia,Asia
+2024,Montenegro,October,5.0,10,2024-10-01,Montenegro,Europe
+2024,Morocco,October,100.0,10,2024-10-01,Morocco,Africa
+2024,Mozambique,October,3.0,10,2024-10-01,Mozambique,Africa
+2024,Myanmar,October,82.0,10,2024-10-01,Myanmar,Asia
+2024,Namibia,October,1.0,10,2024-10-01,Namibia,Africa
+2024,Nauru,October,0.0,10,2024-10-01,Nauru,Oceania
+2024,Nepal,October,552.0,10,2024-10-01,Nepal,Asia
+2024,Netherlands,October,2859.0,10,2024-10-01,Netherlands,Europe
+2024,Netherlands Antilles,October,0.0,10,2024-10-01,Netherlands Antilles,Other
+2024,New Zealand,October,780.0,10,2024-10-01,New Zealand,Oceania
+2024,Nicaragua,October,0.0,10,2024-10-01,Nicaragua,America
+2024,Niger,October,0.0,10,2024-10-01,Niger,Africa
+2024,Nigeria,October,7.0,10,2024-10-01,Nigeria,Africa
+2024,Norway,October,442.0,10,2024-10-01,Norway,Europe
+2024,Oman,October,155.0,10,2024-10-01,Oman,Asia
+2024,Pakistan,October,1140.0,10,2024-10-01,Pakistan,Asia
+2024,Palau,October,0.0,10,2024-10-01,Palau,Oceania
+2024,Palestinian Territories,October,36.0,10,2024-10-01,Palestine,Asia
+2024,Panama,October,3.0,10,2024-10-01,Panama,America
+2024,Papua New Guinea,October,6.0,10,2024-10-01,Papua New Guinea,Oceania
+2024,Paraguay,October,1.0,10,2024-10-01,Paraguay,America
+2024,Peru,October,32.0,10,2024-10-01,Peru,America
+2024,Philippines,October,407.0,10,2024-10-01,Philippines,Asia
+2024,Poland,October,2132.0,10,2024-10-01,Poland,Europe
+2024,Portugal,October,633.0,10,2024-10-01,Portugal,Europe
+2024,Qatar,October,33.0,10,2024-10-01,Qatar,Asia
+2024,Romania,October,354.0,10,2024-10-01,Romania,Europe
+2024,Russian Federation,October,10367.0,10,2024-10-01,Russia,Europe
+2024,Rwanda,October,3.0,10,2024-10-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,October,9.0,10,2024-10-01,St. Kitts and Nevis,America
+2024,Saint Lucia,October,15.0,10,2024-10-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,October,1.0,10,2024-10-01,St. Vincent and the Grenadines,America
+2024,Samoa,October,1.0,10,2024-10-01,Samoa,Oceania
+2024,San Marino,October,3.0,10,2024-10-01,San Marino,Europe
+2024,Saudi Arabia,October,251.0,10,2024-10-01,Saudi Arabia,Asia
+2024,Senegal,October,2.0,10,2024-10-01,Senegal,Africa
+2024,Serbia,October,147.0,10,2024-10-01,Serbia,Europe
+2024,Seychelles,October,143.0,10,2024-10-01,Seychelles,Africa
+2024,Sierra Leone,October,2.0,10,2024-10-01,Sierra Leone,Africa
+2024,Singapore,October,717.0,10,2024-10-01,Singapore,Asia
+2024,Slovakia,October,439.0,10,2024-10-01,Slovakia,Europe
+2024,Slovenia,October,297.0,10,2024-10-01,Slovenia,Europe
+2024,Solomon Islands,October,1.0,10,2024-10-01,Solomon Islands,Oceania
+2024,Somalia,October,12.0,10,2024-10-01,Somalia,Africa
+2024,South Africa,October,259.0,10,2024-10-01,South Africa,Africa
+2024,South Korea,October,876.0,10,2024-10-01,South Korea,Asia
+2024,South Sudan,October,3.0,10,2024-10-01,South Sudan,Africa
+2024,Spain,October,3458.0,10,2024-10-01,Spain,Europe
+2024,Sudan,October,112.0,10,2024-10-01,Sudan,Africa
+2024,Suriname,October,0.0,10,2024-10-01,Suriname,America
+2024,Swaziland,October,5.0,10,2024-10-01,Eswatini,Africa
+2024,Sweden,October,716.0,10,2024-10-01,Sweden,Europe
+2024,Switzerland,October,1816.0,10,2024-10-01,Switzerland,Europe
+2024,Syrian Arab Republic,October,1.0,10,2024-10-01,Syria,Asia
+2024,Tajikistan,October,17.0,10,2024-10-01,Tajikistan,Asia
+2024,Tanzania,October,18.0,10,2024-10-01,Tanzania,Africa
+2024,Thailand,October,581.0,10,2024-10-01,Thailand,Asia
+2024,Timor-Leste,October,1.0,10,2024-10-01,Timor-Leste,Asia
+2024,Togo,October,2.0,10,2024-10-01,Togo,Africa
+2024,Tonga,October,1.0,10,2024-10-01,Tonga,Oceania
+2024,Trinidad and Tobago,October,8.0,10,2024-10-01,Trinidad and Tobago,America
+2024,Tunisia,October,165.0,10,2024-10-01,Tunisia,Africa
+2024,Turkey,October,409.0,10,2024-10-01,Türkiye,Asia
+2024,Turkmenistan,October,21.0,10,2024-10-01,Turkmenistan,Asia
+2024,Tuvalu,October,0.0,10,2024-10-01,Tuvalu,Oceania
+2024,Uganda,October,8.0,10,2024-10-01,Uganda,Africa
+2024,Ukraine,October,350.0,10,2024-10-01,Ukraine,Europe
+2024,United Arab Emirates,October,304.0,10,2024-10-01,United Arab Emirates,Asia
+2024,United Kingdom,October,10206.0,10,2024-10-01,United Kingdom,Europe
+2024,United States,October,3170.0,10,2024-10-01,United States,America
+2024,Uruguay,October,4.0,10,2024-10-01,Uruguay,America
+2024,Uzbekistan,October,70.0,10,2024-10-01,Uzbekistan,Asia
+2024,Vanuatu,October,6.0,10,2024-10-01,Vanuatu,Oceania
+2024,Venezuela,October,10.0,10,2024-10-01,Venezuela,America
+2024,Viet Nam,October,202.0,10,2024-10-01,Vietnam,Asia
+2024,Yemen,October,21.0,10,2024-10-01,Yemen,Asia
+2024,Zambia,October,11.0,10,2024-10-01,Zambia,Africa
+2024,Zimbabwe,October,14.0,10,2024-10-01,Zimbabwe,Africa
+2024,Afghanistan,November,5.0,11,2024-11-01,Afghanistan,Asia
+2024,Albania,November,10.0,11,2024-11-01,Albania,Europe
+2024,Algeria,November,28.0,11,2024-11-01,Algeria,Africa
+2024,Andorra,November,3.0,11,2024-11-01,Andorra,Europe
+2024,Angola,November,3.0,11,2024-11-01,Angola,Africa
+2024,Antigua and Barbuda,November,3.0,11,2024-11-01,Antigua and Barbuda,America
+2024,Argentina,November,66.0,11,2024-11-01,Argentina,America
+2024,Armenia,November,229.0,11,2024-11-01,Armenia,Asia
+2024,Aruba,November,0.0,11,2024-11-01,Aruba,America
+2024,Australia,November,7937.0,11,2024-11-01,Australia,Oceania
+2024,Austria,November,1705.0,11,2024-11-01,Austria,Europe
+2024,Azerbaijan,November,438.0,11,2024-11-01,Azerbaijan,Asia
+2024,Bahamas,November,1.0,11,2024-11-01,Bahamas,America
+2024,Bahrain,November,86.0,11,2024-11-01,Bahrain,Asia
+2024,Bangladesh,November,3375.0,11,2024-11-01,Bangladesh,Asia
+2024,Barbados,November,1.0,11,2024-11-01,Barbados,America
+2024,Belarus,November,1429.0,11,2024-11-01,Belarus,Europe
+2024,Belgium,November,1390.0,11,2024-11-01,Belgium,Europe
+2024,Belize,November,2.0,11,2024-11-01,Belize,America
+2024,Benin,November,3.0,11,2024-11-01,Benin,Africa
+2024,Bhutan,November,80.0,11,2024-11-01,Bhutan,Asia
+2024,Bolivia,November,7.0,11,2024-11-01,Bolivia,America
+2024,Bosnia and Herzegovina,November,18.0,11,2024-11-01,Bosnia and Herzegovina,Europe
+2024,Botswana,November,1.0,11,2024-11-01,Botswana,Africa
+2024,Brazil,November,186.0,11,2024-11-01,Brazil,America
+2024,Brunei Darussalam,November,1.0,11,2024-11-01,Brunei Darussalam,Asia
+2024,Bulgaria,November,488.0,11,2024-11-01,Bulgaria,Europe
+2024,Burkina Faso,November,0.0,11,2024-11-01,Burkina Faso,Africa
+2024,Burundi,November,1.0,11,2024-11-01,Burundi,Africa
+2024,Cambodia,November,53.0,11,2024-11-01,Cambodia,Asia
+2024,Cameroon,November,2.0,11,2024-11-01,Cameroon,Africa
+2024,Canada,November,3085.0,11,2024-11-01,Canada,America
+2024,Cape Verde,November,0.0,11,2024-11-01,Cabo Verde,Africa
+2024,Central African Republic,November,0.0,11,2024-11-01,Central African Republic,Africa
+2024,Chad,November,0.0,11,2024-11-01,Chad,Africa
+2024,Chile,November,34.0,11,2024-11-01,Chile,America
+2024,China,November,8371.0,11,2024-11-01,China,Asia
+2024,Colombia,November,52.0,11,2024-11-01,Colombia,America
+2024,Comoros,November,4.0,11,2024-11-01,Comoros,Africa
+2024,Congo,November,4.0,11,2024-11-01,Congo Republic,Africa
+2024,Costa Rica,November,9.0,11,2024-11-01,Costa Rica,America
+2024,Cote Divoire,November,5.0,11,2024-11-01,Côte d'Ivoire,Africa
+2024,Croatia,November,217.0,11,2024-11-01,Croatia,Europe
+2024,Cuba,November,3.0,11,2024-11-01,Cuba,America
+2024,Cyprus,November,50.0,11,2024-11-01,Cyprus,Asia
+2024,Czech Republic,November,1357.0,11,2024-11-01,Czechia,Europe
+2024,Denmark,November,1036.0,11,2024-11-01,Denmark,Europe
+2024,Djibouti,November,0.0,11,2024-11-01,Djibouti,Africa
+2024,Dominica,November,18.0,11,2024-11-01,Dominica,America
+2024,Dominican Republic,November,0.0,11,2024-11-01,Dominican Republic,America
+2024,Ecuador,November,7.0,11,2024-11-01,Ecuador,America
+2024,Egypt,November,456.0,11,2024-11-01,Egypt,Africa
+2024,El Salvador,November,2.0,11,2024-11-01,El Salvador,America
+2024,Equatorial Guinea,November,0.0,11,2024-11-01,Equatorial Guinea,Africa
+2024,Eritrea,November,3.0,11,2024-11-01,Eritrea,Africa
+2024,Estonia,November,234.0,11,2024-11-01,Estonia,Europe
+2024,Ethiopia,November,9.0,11,2024-11-01,Ethiopia,Africa
+2024,Fiji,November,26.0,11,2024-11-01,Fiji,Oceania
+2024,Finland,November,534.0,11,2024-11-01,Finland,Europe
+2024,France,November,6665.0,11,2024-11-01,France,Europe
+2024,Gabon,November,0.0,11,2024-11-01,Gabon,Africa
+2024,"Gambia, The",November,1.0,11,2024-11-01,Gambia,Africa
+2024,Georgia,November,99.0,11,2024-11-01,Georgia,Asia
+2024,Germany,November,12593.0,11,2024-11-01,Germany,Europe
+2024,Ghana,November,8.0,11,2024-11-01,Ghana,Africa
+2024,Greece,November,260.0,11,2024-11-01,Greece,Europe
+2024,Grenada,November,7.0,11,2024-11-01,Grenada,America
+2024,Guatemala,November,6.0,11,2024-11-01,Guatemala,America
+2024,Guinea,November,0.0,11,2024-11-01,Guinea,Africa
+2024,Guinea-Bissau,November,0.0,11,2024-11-01,Guinea-Bissau,Africa
+2024,Guyana,November,2.0,11,2024-11-01,Guyana,America
+2024,Haiti,November,9.0,11,2024-11-01,Haiti,America
+2024,Honduras,November,2.0,11,2024-11-01,Honduras,America
+2024,Hungary,November,648.0,11,2024-11-01,Hungary,Europe
+2024,Iceland,November,58.0,11,2024-11-01,Iceland,Europe
+2024,India,November,41120.0,11,2024-11-01,India,Asia
+2024,Indonesia,November,532.0,11,2024-11-01,Indonesia,Asia
+2024,Iran,November,804.0,11,2024-11-01,Iran,Asia
+2024,Iraq,November,79.0,11,2024-11-01,Iraq,Asia
+2024,Ireland,November,703.0,11,2024-11-01,Ireland,Europe
+2024,Israel,November,878.0,11,2024-11-01,Israel,Asia
+2024,Italy,November,2237.0,11,2024-11-01,Italy,Europe
+2024,Jamaica,November,5.0,11,2024-11-01,Jamaica,America
+2024,Japan,November,2178.0,11,2024-11-01,Japan,Asia
+2024,Jordan,November,224.0,11,2024-11-01,Jordan,Asia
+2024,Kazakhstan,November,289.0,11,2024-11-01,Kazakhstan,Asia
+2024,Kenya,November,62.0,11,2024-11-01,Kenya,Africa
+2024,Kiribati,November,0.0,11,2024-11-01,Kiribati,Oceania
+2024,Kosovar,November,4.0,11,2024-11-01,Kosovar,Other
+2024,Kuwait,November,96.0,11,2024-11-01,Kuwait,Asia
+2024,Kyrgyzstan,November,95.0,11,2024-11-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",November,11.0,11,2024-11-01,Laos,Asia
+2024,Latvia,November,435.0,11,2024-11-01,Latvia,Europe
+2024,Lebanon,November,332.0,11,2024-11-01,Lebanon,Asia
+2024,Lesotho,November,0.0,11,2024-11-01,Lesotho,Africa
+2024,Liberia,November,2.0,11,2024-11-01,Liberia,Africa
+2024,Libya,November,5.0,11,2024-11-01,Libya,Africa
+2024,Liechtenstein,November,14.0,11,2024-11-01,Liechtenstein,Europe
+2024,Lithuania,November,488.0,11,2024-11-01,Lithuania,Europe
+2024,Luxembourg,November,62.0,11,2024-11-01,Luxembourg,Europe
+2024,Macedonia,November,15.0,11,2024-11-01,North Macedonia,Europe
+2024,Madagascar,November,15.0,11,2024-11-01,Madagascar,Africa
+2024,Malawi,November,11.0,11,2024-11-01,Malawi,Africa
+2024,Malaysia,November,1467.0,11,2024-11-01,Malaysia,Asia
+2024,Maldives,November,2982.0,11,2024-11-01,Maldives,Asia
+2024,Mali,November,0.0,11,2024-11-01,Mali,Africa
+2024,Malta,November,53.0,11,2024-11-01,Malta,Europe
+2024,Marshall Islands,November,0.0,11,2024-11-01,Marshall Islands,Oceania
+2024,Mauritania,November,0.0,11,2024-11-01,Mauritania,Africa
+2024,Mauritius,November,120.0,11,2024-11-01,Mauritius,Africa
+2024,Mexico,November,87.0,11,2024-11-01,Mexico,America
+2024,Micronesia,November,0.0,11,2024-11-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,November,55.0,11,2024-11-01,Moldova,Europe
+2024,Monaco,November,0.0,11,2024-11-01,Monaco,Europe
+2024,Mongolia,November,15.0,11,2024-11-01,Mongolia,Asia
+2024,Montenegro,November,12.0,11,2024-11-01,Montenegro,Europe
+2024,Morocco,November,74.0,11,2024-11-01,Morocco,Africa
+2024,Mozambique,November,1.0,11,2024-11-01,Mozambique,Africa
+2024,Myanmar,November,65.0,11,2024-11-01,Myanmar,Asia
+2024,Namibia,November,2.0,11,2024-11-01,Namibia,Africa
+2024,Nauru,November,0.0,11,2024-11-01,Nauru,Oceania
+2024,Nepal,November,386.0,11,2024-11-01,Nepal,Asia
+2024,Netherlands,November,3387.0,11,2024-11-01,Netherlands,Europe
+2024,Netherlands Antilles,November,1.0,11,2024-11-01,Netherlands Antilles,Other
+2024,New Zealand,November,915.0,11,2024-11-01,New Zealand,Oceania
+2024,Nicaragua,November,1.0,11,2024-11-01,Nicaragua,America
+2024,Niger,November,0.0,11,2024-11-01,Niger,Africa
+2024,Nigeria,November,19.0,11,2024-11-01,Nigeria,Africa
+2024,Norway,November,783.0,11,2024-11-01,Norway,Europe
+2024,Oman,November,170.0,11,2024-11-01,Oman,Asia
+2024,Pakistan,November,1148.0,11,2024-11-01,Pakistan,Asia
+2024,Palau,November,0.0,11,2024-11-01,Palau,Oceania
+2024,Palestinian Territories,November,63.0,11,2024-11-01,Palestine,Asia
+2024,Panama,November,1.0,11,2024-11-01,Panama,America
+2024,Papua New Guinea,November,7.0,11,2024-11-01,Papua New Guinea,Oceania
+2024,Paraguay,November,3.0,11,2024-11-01,Paraguay,America
+2024,Peru,November,23.0,11,2024-11-01,Peru,America
+2024,Philippines,November,398.0,11,2024-11-01,Philippines,Asia
+2024,Poland,November,5164.0,11,2024-11-01,Poland,Europe
+2024,Portugal,November,856.0,11,2024-11-01,Portugal,Europe
+2024,Qatar,November,34.0,11,2024-11-01,Qatar,Asia
+2024,Romania,November,531.0,11,2024-11-01,Romania,Europe
+2024,Russian Federation,November,29053.0,11,2024-11-01,Russia,Europe
+2024,Rwanda,November,5.0,11,2024-11-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,November,14.0,11,2024-11-01,St. Kitts and Nevis,America
+2024,Saint Lucia,November,0.0,11,2024-11-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,November,0.0,11,2024-11-01,St. Vincent and the Grenadines,America
+2024,Samoa,November,0.0,11,2024-11-01,Samoa,Oceania
+2024,San Marino,November,8.0,11,2024-11-01,San Marino,Europe
+2024,Saudi Arabia,November,644.0,11,2024-11-01,Saudi Arabia,Asia
+2024,Senegal,November,4.0,11,2024-11-01,Senegal,Africa
+2024,Serbia,November,181.0,11,2024-11-01,Serbia,Europe
+2024,Seychelles,November,167.0,11,2024-11-01,Seychelles,Africa
+2024,Sierra Leone,November,2.0,11,2024-11-01,Sierra Leone,Africa
+2024,Singapore,November,1197.0,11,2024-11-01,Singapore,Asia
+2024,Slovakia,November,736.0,11,2024-11-01,Slovakia,Europe
+2024,Slovenia,November,200.0,11,2024-11-01,Slovenia,Europe
+2024,Solomon Islands,November,2.0,11,2024-11-01,Solomon Islands,Oceania
+2024,Somalia,November,8.0,11,2024-11-01,Somalia,Africa
+2024,South Africa,November,320.0,11,2024-11-01,South Africa,Africa
+2024,South Korea,November,1188.0,11,2024-11-01,South Korea,Asia
+2024,South Sudan,November,1.0,11,2024-11-01,South Sudan,Africa
+2024,Spain,November,3655.0,11,2024-11-01,Spain,Europe
+2024,Sudan,November,110.0,11,2024-11-01,Sudan,Africa
+2024,Suriname,November,2.0,11,2024-11-01,Suriname,America
+2024,Swaziland,November,4.0,11,2024-11-01,Eswatini,Africa
+2024,Sweden,November,1132.0,11,2024-11-01,Sweden,Europe
+2024,Switzerland,November,2490.0,11,2024-11-01,Switzerland,Europe
+2024,Syrian Arab Republic,November,1.0,11,2024-11-01,Syria,Asia
+2024,Tajikistan,November,15.0,11,2024-11-01,Tajikistan,Asia
+2024,Tanzania,November,29.0,11,2024-11-01,Tanzania,Africa
+2024,Thailand,November,622.0,11,2024-11-01,Thailand,Asia
+2024,Timor-Leste,November,4.0,11,2024-11-01,Timor-Leste,Asia
+2024,Togo,November,1.0,11,2024-11-01,Togo,Africa
+2024,Tonga,November,3.0,11,2024-11-01,Tonga,Oceania
+2024,Trinidad and Tobago,November,14.0,11,2024-11-01,Trinidad and Tobago,America
+2024,Tunisia,November,42.0,11,2024-11-01,Tunisia,Africa
+2024,Turkey,November,620.0,11,2024-11-01,Türkiye,Asia
+2024,Turkmenistan,November,6.0,11,2024-11-01,Turkmenistan,Asia
+2024,Tuvalu,November,0.0,11,2024-11-01,Tuvalu,Oceania
+2024,Uganda,November,15.0,11,2024-11-01,Uganda,Africa
+2024,Ukraine,November,554.0,11,2024-11-01,Ukraine,Europe
+2024,United Arab Emirates,November,282.0,11,2024-11-01,United Arab Emirates,Asia
+2024,United Kingdom,November,12912.0,11,2024-11-01,United Kingdom,Europe
+2024,United States,November,4472.0,11,2024-11-01,United States,America
+2024,Uruguay,November,6.0,11,2024-11-01,Uruguay,America
+2024,Uzbekistan,November,56.0,11,2024-11-01,Uzbekistan,Asia
+2024,Vanuatu,November,3.0,11,2024-11-01,Vanuatu,Oceania
+2024,Venezuela,November,14.0,11,2024-11-01,Venezuela,America
+2024,Viet Nam,November,346.0,11,2024-11-01,Vietnam,Asia
+2024,Yemen,November,40.0,11,2024-11-01,Yemen,Asia
+2024,Zambia,November,8.0,11,2024-11-01,Zambia,Africa
+2024,Zimbabwe,November,26.0,11,2024-11-01,Zimbabwe,Africa
+2024,Afghanistan,December,61.0,12,2024-12-01,Afghanistan,Asia
+2024,Albania,December,15.0,12,2024-12-01,Albania,Europe
+2024,Algeria,December,37.0,12,2024-12-01,Algeria,Africa
+2024,Andorra,December,13.0,12,2024-12-01,Andorra,Europe
+2024,Angola,December,0.0,12,2024-12-01,Angola,Africa
+2024,Antigua and Barbuda,December,9.0,12,2024-12-01,Antigua and Barbuda,America
+2024,Argentina,December,99.0,12,2024-12-01,Argentina,America
+2024,Armenia,December,304.0,12,2024-12-01,Armenia,Asia
+2024,Aruba,December,0.0,12,2024-12-01,Aruba,America
+2024,Australia,December,13109.0,12,2024-12-01,Australia,Oceania
+2024,Austria,December,2401.0,12,2024-12-01,Austria,Europe
+2024,Azerbaijan,December,140.0,12,2024-12-01,Azerbaijan,Asia
+2024,Bahamas,December,5.0,12,2024-12-01,Bahamas,America
+2024,Bahrain,December,81.0,12,2024-12-01,Bahrain,Asia
+2024,Bangladesh,December,4154.0,12,2024-12-01,Bangladesh,Asia
+2024,Barbados,December,7.0,12,2024-12-01,Barbados,America
+2024,Belarus,December,1408.0,12,2024-12-01,Belarus,Europe
+2024,Belgium,December,1337.0,12,2024-12-01,Belgium,Europe
+2024,Belize,December,4.0,12,2024-12-01,Belize,America
+2024,Benin,December,3.0,12,2024-12-01,Benin,Africa
+2024,Bhutan,December,90.0,12,2024-12-01,Bhutan,Asia
+2024,Bolivia,December,2.0,12,2024-12-01,Bolivia,America
+2024,Bosnia and Herzegovina,December,48.0,12,2024-12-01,Bosnia and Herzegovina,Europe
+2024,Botswana,December,21.0,12,2024-12-01,Botswana,Africa
+2024,Brazil,December,208.0,12,2024-12-01,Brazil,America
+2024,Brunei Darussalam,December,6.0,12,2024-12-01,Brunei Darussalam,Asia
+2024,Bulgaria,December,721.0,12,2024-12-01,Bulgaria,Europe
+2024,Burkina Faso,December,1.0,12,2024-12-01,Burkina Faso,Africa
+2024,Burundi,December,1.0,12,2024-12-01,Burundi,Africa
+2024,Cambodia,December,59.0,12,2024-12-01,Cambodia,Asia
+2024,Cameroon,December,3.0,12,2024-12-01,Cameroon,Africa
+2024,Canada,December,3781.0,12,2024-12-01,Canada,America
+2024,Cape Verde,December,0.0,12,2024-12-01,Cabo Verde,Africa
+2024,Central African Republic,December,1.0,12,2024-12-01,Central African Republic,Africa
+2024,Chad,December,2.0,12,2024-12-01,Chad,Africa
+2024,Chile,December,47.0,12,2024-12-01,Chile,America
+2024,China,December,9924.0,12,2024-12-01,China,Asia
+2024,Colombia,December,59.0,12,2024-12-01,Colombia,America
+2024,Comoros,December,3.0,12,2024-12-01,Comoros,Africa
+2024,Congo,December,12.0,12,2024-12-01,Congo Republic,Africa
+2024,Costa Rica,December,11.0,12,2024-12-01,Costa Rica,America
+2024,Cote Divoire,December,0.0,12,2024-12-01,Côte d'Ivoire,Africa
+2024,Croatia,December,368.0,12,2024-12-01,Croatia,Europe
+2024,Cuba,December,5.0,12,2024-12-01,Cuba,America
+2024,Cyprus,December,129.0,12,2024-12-01,Cyprus,Asia
+2024,Czech Republic,December,2299.0,12,2024-12-01,Czechia,Europe
+2024,Denmark,December,1713.0,12,2024-12-01,Denmark,Europe
+2024,Djibouti,December,0.0,12,2024-12-01,Djibouti,Africa
+2024,Dominica,December,9.0,12,2024-12-01,Dominica,America
+2024,Dominican Republic,December,6.0,12,2024-12-01,Dominican Republic,America
+2024,Ecuador,December,18.0,12,2024-12-01,Ecuador,America
+2024,Egypt,December,491.0,12,2024-12-01,Egypt,Africa
+2024,El Salvador,December,3.0,12,2024-12-01,El Salvador,America
+2024,Equatorial Guinea,December,0.0,12,2024-12-01,Equatorial Guinea,Africa
+2024,Eritrea,December,2.0,12,2024-12-01,Eritrea,Africa
+2024,Estonia,December,576.0,12,2024-12-01,Estonia,Europe
+2024,Ethiopia,December,13.0,12,2024-12-01,Ethiopia,Africa
+2024,Fiji,December,25.0,12,2024-12-01,Fiji,Oceania
+2024,Finland,December,774.0,12,2024-12-01,Finland,Europe
+2024,France,December,6332.0,12,2024-12-01,France,Europe
+2024,Gabon,December,0.0,12,2024-12-01,Gabon,Africa
+2024,"Gambia, The",December,3.0,12,2024-12-01,Gambia,Africa
+2024,Georgia,December,70.0,12,2024-12-01,Georgia,Asia
+2024,Germany,December,14703.0,12,2024-12-01,Germany,Europe
+2024,Ghana,December,10.0,12,2024-12-01,Ghana,Africa
+2024,Greece,December,533.0,12,2024-12-01,Greece,Europe
+2024,Grenada,December,7.0,12,2024-12-01,Grenada,America
+2024,Guatemala,December,14.0,12,2024-12-01,Guatemala,America
+2024,Guinea,December,2.0,12,2024-12-01,Guinea,Africa
+2024,Guinea-Bissau,December,0.0,12,2024-12-01,Guinea-Bissau,Africa
+2024,Guyana,December,2.0,12,2024-12-01,Guyana,America
+2024,Haiti,December,1.0,12,2024-12-01,Haiti,America
+2024,Honduras,December,2.0,12,2024-12-01,Honduras,America
+2024,Hungary,December,978.0,12,2024-12-01,Hungary,Europe
+2024,Iceland,December,44.0,12,2024-12-01,Iceland,Europe
+2024,India,December,52881.0,12,2024-12-01,India,Asia
+2024,Indonesia,December,379.0,12,2024-12-01,Indonesia,Asia
+2024,Iran,December,794.0,12,2024-12-01,Iran,Asia
+2024,Iraq,December,96.0,12,2024-12-01,Iraq,Asia
+2024,Ireland,December,1090.0,12,2024-12-01,Ireland,Europe
+2024,Israel,December,2054.0,12,2024-12-01,Israel,Asia
+2024,Italy,December,5695.0,12,2024-12-01,Italy,Europe
+2024,Jamaica,December,4.0,12,2024-12-01,Jamaica,America
+2024,Japan,December,3599.0,12,2024-12-01,Japan,Asia
+2024,Jordan,December,358.0,12,2024-12-01,Jordan,Asia
+2024,Kazakhstan,December,1932.0,12,2024-12-01,Kazakhstan,Asia
+2024,Kenya,December,137.0,12,2024-12-01,Kenya,Africa
+2024,Kiribati,December,0.0,12,2024-12-01,Kiribati,Oceania
+2024,Kosovar,December,12.0,12,2024-12-01,Kosovar,Other
+2024,Kuwait,December,150.0,12,2024-12-01,Kuwait,Asia
+2024,Kyrgyzstan,December,146.0,12,2024-12-01,Kyrgyzstan,Asia
+2024,"Lao, People's Democratic",December,12.0,12,2024-12-01,Laos,Asia
+2024,Latvia,December,629.0,12,2024-12-01,Latvia,Europe
+2024,Lebanon,December,421.0,12,2024-12-01,Lebanon,Asia
+2024,Lesotho,December,6.0,12,2024-12-01,Lesotho,Africa
+2024,Liberia,December,0.0,12,2024-12-01,Liberia,Africa
+2024,Libya,December,30.0,12,2024-12-01,Libya,Africa
+2024,Liechtenstein,December,17.0,12,2024-12-01,Liechtenstein,Europe
+2024,Lithuania,December,867.0,12,2024-12-01,Lithuania,Europe
+2024,Luxembourg,December,83.0,12,2024-12-01,Luxembourg,Europe
+2024,Macedonia,December,31.0,12,2024-12-01,North Macedonia,Europe
+2024,Madagascar,December,12.0,12,2024-12-01,Madagascar,Africa
+2024,Malawi,December,7.0,12,2024-12-01,Malawi,Africa
+2024,Malaysia,December,1726.0,12,2024-12-01,Malaysia,Asia
+2024,Maldives,December,6903.0,12,2024-12-01,Maldives,Asia
+2024,Mali,December,0.0,12,2024-12-01,Mali,Africa
+2024,Malta,December,204.0,12,2024-12-01,Malta,Europe
+2024,Marshall Islands,December,0.0,12,2024-12-01,Marshall Islands,Oceania
+2024,Mauritania,December,0.0,12,2024-12-01,Mauritania,Africa
+2024,Mauritius,December,251.0,12,2024-12-01,Mauritius,Africa
+2024,Mexico,December,137.0,12,2024-12-01,Mexico,America
+2024,Micronesia,December,0.0,12,2024-12-01,"Micronesia, Fed. Sts.",Oceania
+2024,Moldova,December,137.0,12,2024-12-01,Moldova,Europe
+2024,Monaco,December,2.0,12,2024-12-01,Monaco,Europe
+2024,Mongolia,December,19.0,12,2024-12-01,Mongolia,Asia
+2024,Montenegro,December,43.0,12,2024-12-01,Montenegro,Europe
+2024,Morocco,December,121.0,12,2024-12-01,Morocco,Africa
+2024,Mozambique,December,19.0,12,2024-12-01,Mozambique,Africa
+2024,Myanmar,December,82.0,12,2024-12-01,Myanmar,Asia
+2024,Namibia,December,7.0,12,2024-12-01,Namibia,Africa
+2024,Nauru,December,0.0,12,2024-12-01,Nauru,Oceania
+2024,Nepal,December,449.0,12,2024-12-01,Nepal,Asia
+2024,Netherlands,December,3893.0,12,2024-12-01,Netherlands,Europe
+2024,Netherlands Antilles,December,0.0,12,2024-12-01,Netherlands Antilles,Other
+2024,New Zealand,December,1562.0,12,2024-12-01,New Zealand,Oceania
+2024,Nicaragua,December,1.0,12,2024-12-01,Nicaragua,America
+2024,Niger,December,0.0,12,2024-12-01,Niger,Africa
+2024,Nigeria,December,13.0,12,2024-12-01,Nigeria,Africa
+2024,Norway,December,1478.0,12,2024-12-01,Norway,Europe
+2024,Oman,December,141.0,12,2024-12-01,Oman,Asia
+2024,Pakistan,December,1389.0,12,2024-12-01,Pakistan,Asia
+2024,Palau,December,1.0,12,2024-12-01,Palau,Oceania
+2024,Palestinian Territories,December,77.0,12,2024-12-01,Palestine,Asia
+2024,Panama,December,3.0,12,2024-12-01,Panama,America
+2024,Papua New Guinea,December,14.0,12,2024-12-01,Papua New Guinea,Oceania
+2024,Paraguay,December,1.0,12,2024-12-01,Paraguay,America
+2024,Peru,December,8.0,12,2024-12-01,Peru,America
+2024,Philippines,December,485.0,12,2024-12-01,Philippines,Asia
+2024,Poland,December,6233.0,12,2024-12-01,Poland,Europe
+2024,Portugal,December,636.0,12,2024-12-01,Portugal,Europe
+2024,Qatar,December,82.0,12,2024-12-01,Qatar,Asia
+2024,Romania,December,1243.0,12,2024-12-01,Romania,Europe
+2024,Russian Federation,December,35268.0,12,2024-12-01,Russia,Europe
+2024,Rwanda,December,6.0,12,2024-12-01,Rwanda,Africa
+2024,Saint Kitts and Nevis,December,19.0,12,2024-12-01,St. Kitts and Nevis,America
+2024,Saint Lucia,December,3.0,12,2024-12-01,St. Lucia,America
+2024,Saint Vincent The Grenadi,December,1.0,12,2024-12-01,St. Vincent and the Grenadines,America
+2024,Samoa,December,0.0,12,2024-12-01,Samoa,Oceania
+2024,San Marino,December,8.0,12,2024-12-01,San Marino,Europe
+2024,Saudi Arabia,December,353.0,12,2024-12-01,Saudi Arabia,Asia
+2024,Senegal,December,5.0,12,2024-12-01,Senegal,Africa
+2024,Serbia,December,234.0,12,2024-12-01,Serbia,Europe
+2024,Seychelles,December,434.0,12,2024-12-01,Seychelles,Africa
+2024,Sierra Leone,December,4.0,12,2024-12-01,Sierra Leone,Africa
+2024,Singapore,December,2011.0,12,2024-12-01,Singapore,Asia
+2024,Slovakia,December,713.0,12,2024-12-01,Slovakia,Europe
+2024,Slovenia,December,610.0,12,2024-12-01,Slovenia,Europe
+2024,Solomon Islands,December,1.0,12,2024-12-01,Solomon Islands,Oceania
+2024,Somalia,December,9.0,12,2024-12-01,Somalia,Africa
+2024,South Africa,December,1089.0,12,2024-12-01,South Africa,Africa
+2024,South Korea,December,1266.0,12,2024-12-01,South Korea,Asia
+2024,South Sudan,December,0.0,12,2024-12-01,South Sudan,Africa
+2024,Spain,December,2801.0,12,2024-12-01,Spain,Europe
+2024,Sudan,December,96.0,12,2024-12-01,Sudan,Africa
+2024,Suriname,December,3.0,12,2024-12-01,Suriname,America
+2024,Swaziland,December,6.0,12,2024-12-01,Eswatini,Africa
+2024,Sweden,December,3676.0,12,2024-12-01,Sweden,Europe
+2024,Switzerland,December,3246.0,12,2024-12-01,Switzerland,Europe
+2024,Syrian Arab Republic,December,0.0,12,2024-12-01,Syria,Asia
+2024,Tajikistan,December,9.0,12,2024-12-01,Tajikistan,Asia
+2024,Tanzania,December,17.0,12,2024-12-01,Tanzania,Africa
+2024,Thailand,December,648.0,12,2024-12-01,Thailand,Asia
+2024,Timor-Leste,December,7.0,12,2024-12-01,Timor-Leste,Asia
+2024,Togo,December,0.0,12,2024-12-01,Togo,Africa
+2024,Tonga,December,0.0,12,2024-12-01,Tonga,Oceania
+2024,Trinidad and Tobago,December,4.0,12,2024-12-01,Trinidad and Tobago,America
+2024,Tunisia,December,108.0,12,2024-12-01,Tunisia,Africa
+2024,Turkey,December,803.0,12,2024-12-01,Türkiye,Asia
+2024,Turkmenistan,December,5.0,12,2024-12-01,Turkmenistan,Asia
+2024,Tuvalu,December,0.0,12,2024-12-01,Tuvalu,Oceania
+2024,Uganda,December,15.0,12,2024-12-01,Uganda,Africa
+2024,Ukraine,December,1156.0,12,2024-12-01,Ukraine,Europe
+2024,United Arab Emirates,December,326.0,12,2024-12-01,United Arab Emirates,Asia
+2024,United Kingdom,December,18757.0,12,2024-12-01,United Kingdom,Europe
+2024,United States,December,8212.0,12,2024-12-01,United States,America
+2024,Uruguay,December,6.0,12,2024-12-01,Uruguay,America
+2024,Uzbekistan,December,295.0,12,2024-12-01,Uzbekistan,Asia
+2024,Vanuatu,December,4.0,12,2024-12-01,Vanuatu,Oceania
+2024,Venezuela,December,17.0,12,2024-12-01,Venezuela,America
+2024,Viet Nam,December,158.0,12,2024-12-01,Vietnam,Asia
+2024,Yemen,December,27.0,12,2024-12-01,Yemen,Asia
+2024,Zambia,December,13.0,12,2024-12-01,Zambia,Africa
+2024,Zimbabwe,December,22.0,12,2024-12-01,Zimbabwe,Africa
