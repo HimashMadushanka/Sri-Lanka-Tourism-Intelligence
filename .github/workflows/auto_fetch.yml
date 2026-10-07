@@ -2,9 +2,8 @@ name: Annual Tourism Data Auto-Fetch (Year-by-Year)
 
 on:
   schedule:
-    # Checks quarterly for new SLTDA Annual Statistical Reports (Jan, Apr, Jul, Oct)
     - cron: '0 0 1 1,4,7,10 *'
-  workflow_dispatch: # Allows manual trigger from GitHub anytime
+  workflow_dispatch:
 
 permissions:
   contents: write

@@ -6,9 +6,7 @@ import plotly.graph_objects as go
 from pathlib import Path
 from datetime import datetime
 
-# ---------------------------------------------------------
 # Page Configuration & Modern Dark Theme Styling
-# ---------------------------------------------------------
 st.set_page_config(
     page_title="Sri Lanka Tourism Intelligence & Decision Platform",
     page_icon="🇱🇰",
@@ -180,9 +178,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ---------------------------------------------------------
+
 # Plotly Dark Theme Preset Helper
-# ---------------------------------------------------------
 def apply_dark_theme(fig, height=430):
     fig.update_layout(
         template="plotly_dark",
@@ -196,10 +193,7 @@ def apply_dark_theme(fig, height=430):
     )
     return fig
 
-# ---------------------------------------------------------
 # Data Loading & Caching
-# ---------------------------------------------------------
-@st.cache_data
 def load_data():
     data_path = Path("data/processed/tourism_arrivals_app_ready.csv")
     if not data_path.exists():
@@ -216,9 +210,8 @@ def load_data():
 
 df_raw = load_data()
 
-# ---------------------------------------------------------
+
 # Sidebar: Control Panel & 5 Strategic Filters
-# ---------------------------------------------------------
 with st.sidebar:
     st.markdown("""
     <div style="text-align: center; margin-bottom: 14px;">
@@ -227,10 +220,9 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
     st.markdown("### 🎛️ Control Panel")
-    #st.markdown("<span style='color: #f97316; font-weight: 700;'>Dark Mode • Orange Intelligence</span>", unsafe_allow_html=True)
     st.divider()
 
-    # 1. Timeline Preset & Year Range
+    #  Timeline Preset & Year Range
     min_year, max_year = int(df_raw["Year"].min()), int(df_raw["Year"].max())
     
     st.subheader("1. Choose Time Period")
@@ -241,7 +233,7 @@ with st.sidebar:
         "Select Time Period",
         options=[
             all_years_label,
-            "Before Crisis (2018–2019)",
+            "Before Crisis (2018–2019)", 
             "Crisis Years (2020–2022)",
             rec_years_label
         ],
@@ -259,11 +251,11 @@ with st.sidebar:
 
     selected_years = st.slider("Select Year Range", min_value=min_year, max_value=max_year, value=default_years)
 
-    # 3. Continent / Region Filter
+    #  Continent / Region Filter
     all_continents = ["All Continents"] + sorted([c for c in df_raw["Continent"].dropna().unique() if c != "Other"])
     selected_continent = st.selectbox("Select Region ", options=all_continents, index=0)
 
-    # 4. Country Filter
+    #  Country Filter
     st.subheader("2. Choose Countries")
     market_mode = st.radio("Filter Countries:", options=["All Countries", "Top 10 Countries", "Pick My Own"], index=0)
     
@@ -283,7 +275,7 @@ with st.sidebar:
     else:
         selected_countries = None
 
-    # 5. Season / Month Filter
+    #  Season / Month Filter
     st.subheader("3. Season & Months")
     season_preset = st.selectbox(
         "Select Season Range",
@@ -318,9 +310,8 @@ with st.sidebar:
     st.divider()
     st.caption("Sri Lanka Tourism Analytics • v2.0")
 
-# ---------------------------------------------------------
+
 # Apply Filters to Dataset
-# ---------------------------------------------------------
 df_filtered = df_raw.copy()
 df_filtered = df_filtered[(df_filtered["Year"] >= selected_years[0]) & (df_filtered["Year"] <= selected_years[1])]
 
@@ -334,15 +325,14 @@ if selected_months:
     df_filtered = df_filtered[df_filtered["Month_Number"].isin(selected_months)]
 
 # Macro reference data
-# Macro reference data
 yearly_full = df_raw.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
 base_2018 = yearly_full.loc[yearly_full["Year"] == 2018, "Tourist_Arrivals"].values[0] if 2018 in yearly_full["Year"].values else 2333796
 latest_year_num = int(yearly_full["Year"].max())
 curr_latest = yearly_full.loc[yearly_full["Year"] == latest_year_num, "Tourist_Arrivals"].values[0]
+curr_2025 = curr_latest
 
-# ---------------------------------------------------------
+
 # Top Header & Macro KPI Snapshot
-# ---------------------------------------------------------
 st.markdown("""
 <div class="hero-container">
     <div class="hero-title-text">Sri Lanka Tourism Intelligence & Decision Platform</div>
@@ -364,9 +354,8 @@ kpi_c5.metric("Lowest Year (2021)", "194.5K", delta="-91.7% vs 2018", delta_colo
 
 st.markdown("---")
 
-# ---------------------------------------------------------
+
 # 5-Step Operational Framework Tabs
-# ---------------------------------------------------------
 tabs = st.tabs([
     "1️⃣ Shocks & Recovery",
     "2️⃣ Top Countries",
@@ -375,13 +364,11 @@ tabs = st.tabs([
     "5️⃣ Action Plans"
 ])
 
-# =========================================================
+
 # TAB 1: SHOCKS & RECOVERY
-# =========================================================
 with tabs[0]:
     st.subheader(f"1️⃣ Major Shocks & Visitor Recovery ({min_year}–{max_year})")
    
-
     yearly_filtered = df_filtered.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
     yearly_filtered["YoY_Growth_%"] = yearly_filtered["Tourist_Arrivals"].pct_change() * 100
 
@@ -445,13 +432,11 @@ with tabs[0]:
         st.dataframe(y_summary[["Year", "Total Visitors", "YoY Growth"]], use_container_width=True, hide_index=True)
 
 
-# =========================================================
+
 # TAB 2: TOP COUNTRIES & SEASONALITY
-# =========================================================
 with tabs[1]:
     st.subheader("2️⃣ Top Countries & Seasonality")
     
-
     col_m1, col_m2 = st.columns([6, 4])
     
     country_totals = df_filtered.groupby("Standard_Country")["Tourist_Arrivals"].sum().sort_values(ascending=False).reset_index()
@@ -607,13 +592,10 @@ with tabs[1]:
 
 
 
-# =========================================================
 # TAB 3: FUTURE FORECAST (2026–2028)
-# =========================================================
 with tabs[2]:
     st.subheader("3️⃣ Future Visitor Forecast (2026–2028)")
     
-
     sc_col1, sc_col2 = st.columns([4, 6])
 
     with sc_col1:
@@ -639,7 +621,7 @@ with tabs[2]:
         elif "Regional Economic Slowdown" in sim_shock:
             shock_factor = -0.10
 
-    curr_base = curr_2025
+    curr_base = curr_latest
     proj_years = [2026, 2027, 2028]
     eff_growth = (sim_growth_base / 100.0) + shock_factor
 
@@ -685,9 +667,7 @@ with tabs[2]:
 
 
 
-# =========================================================
 # TAB 4: HOTEL ROOM PLANNING
-# =========================================================
 with tabs[3]:
     st.subheader("4️⃣ Hotel Room Planning")
    
@@ -729,9 +709,9 @@ with tabs[3]:
         apply_dark_theme(fig_cap, height=350)
         st.plotly_chart(fig_cap, use_container_width=True)
 
-# =========================================================
+
+
 # TAB 5: DECISION CENTER (Action Plans & Next Steps)
-# =========================================================
 with tabs[4]:
     st.subheader("5️⃣ Decision Center: Simple Action Plans")
     st.markdown("Clear, practical steps for hotels, airlines, and tourism planners to grow visitors and revenue.")

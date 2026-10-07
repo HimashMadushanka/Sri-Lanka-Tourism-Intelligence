@@ -1,19 +1,3 @@
-"""
-=============================================================================
-Sri Lanka Tourism Analytics - Automated Monthly Data Ingestion
-=============================================================================
-This script checks for new monthly tourist arrival data from the Sri Lanka
-Tourism Development Authority (SLTDA), processes & standardizes new country 
-records, and updates the application-ready dataset:
-    data/processed/tourism_arrivals_app_ready.csv
-
-Usage:
-    python update_data.py           # Auto-checks online SLTDA publications
-    python update_data.py --check   # Shows current latest data status
-    python update_data.py --file <path_to_excel_or_csv>  # Ingest manual file
-=============================================================================
-"""
-
 import sys
 import os
 import argparse
@@ -52,7 +36,6 @@ INV_MONTH_MAP = {v.lower(): k for k, v in MONTH_MAP.items()}
 
 
 def get_current_data_status():
-    """Reads existing dataset and returns latest Year, Month, Date, and count."""
     if not os.path.exists(CSV_PATH):
         logger.error(f"Dataset not found at {CSV_PATH}")
         return None
@@ -76,10 +59,6 @@ def get_current_data_status():
 
 
 def clean_and_standardize_data(new_df):
-    """
-    Standardizes country names, computes continent, and formats required schema:
-    [Year, Country, Month, Tourist_Arrivals, Month_Number, Date, Standard_Country, Continent]
-    """
     logger.info("Standardizing country names and mapping continents...")
     
     # Required columns check
@@ -129,7 +108,6 @@ def clean_and_standardize_data(new_df):
 
 
 def append_and_save(existing_df, new_cleaned_df):
-    """Merges and saves updated records to CSV with deduplication."""
     initial_count = len(existing_df)
     
     # Identify unique period identifiers in new data
@@ -155,7 +133,6 @@ def append_and_save(existing_df, new_cleaned_df):
 
 
 def check_sltda_online():
-    """Checks SLTDA website for latest publications."""
     logger.info(f"Checking SLTDA website: {SLTDA_URL}")
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
@@ -177,7 +154,6 @@ def check_sltda_online():
 
 
 def show_yearly_summary(df):
-    """Computes and prints clean year-by-year summary table with YoY growth."""
     yearly = df.groupby("Year")["Tourist_Arrivals"].sum().reset_index()
     yearly["Growth_YoY_%"] = yearly["Tourist_Arrivals"].pct_change() * 100
 
@@ -206,7 +182,6 @@ def show_yearly_summary(df):
 
 
 def export_by_year(df):
-    """Splits master dataset into individual yearly CSV files in data/processed/by_year/."""
     out_dir = os.path.join("data", "processed", "by_year")
     os.makedirs(out_dir, exist_ok=True)
     years = sorted(df["Year"].unique())
