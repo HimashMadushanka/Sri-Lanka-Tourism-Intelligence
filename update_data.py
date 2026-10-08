@@ -114,7 +114,6 @@ def append_and_save(existing_df, new_cleaned_df):
     new_periods = new_cleaned_df[["Year", "Month"]].drop_duplicates()
     for _, row in new_periods.iterrows():
         yr, mo = row["Year"], row["Month"]
-        # Remove any existing rows matching the same Year & Month to prevent double-counting
         existing_df = existing_df[~((existing_df["Year"] == yr) & (existing_df["Month"] == mo))]
         
     combined_df = pd.concat([existing_df, new_cleaned_df], ignore_index=True)
