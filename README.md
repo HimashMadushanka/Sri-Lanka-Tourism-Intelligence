@@ -1,227 +1,190 @@
-# Sri Lanka Tourism Analytics: Demand, Crisis Impact & Strategic Growth (2018–2025)
+# Sri Lanka Tourism Analytics: Crisis Impact & Growth (2018–2025)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://srilankatourismintelligence.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit%20Cloud-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://srilankatourismintelligence.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Data%20Viz-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-Auto--Update%20Pipeline-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Executive Presentation](https://img.shields.io/badge/Executive%20Deck-5--Slide%20Pitch-orange.svg?style=for-the-badge)](EXECUTIVE_SUMMARY.md)
+[![Plotly](https://img.shields.io/badge/Plotly-Charts-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![GitHub Actions](https://img.shields.io/badge/Auto--Update-GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-
-> **An enterprise-grade, end-to-end data analytics and business intelligence platform evaluating Sri Lanka's inbound tourism performance, crisis resilience, seasonal demand dynamics, and source market concentration across 2018–2025. Powered by automated data pipelines and an interactive Streamlit decision platform.**
-
----
-
-## 📌 Executive Summary 
-
-Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented sequence of severe macroeconomic and geopolitical shocks:
-1. **2019 Easter Sunday Attacks** (-18.0% immediate drop)
-2. **2020–2021 Global COVID-19 Pandemic** (crashing to a historic low of **194,495 arrivals in 2021; -91.7% from 2018 baseline**)
-3. **2022 Domestic Economic & Fuel Crisis**
-4. **2023–2025 V-Shaped Rebound** culminating in **2,362,521 arrivals in 2025 (101.2% recovery)**, setting a new **all-time national record**.
+> 🚀 **Live Interactive Web App:** [https://srilankatourismintelligence.streamlit.app/](https://srilankatourismintelligence.streamlit.app/)
+>
+> A data project that studies international tourists visiting Sri Lanka from 2018 to 2025. It shows how past crises affected travel, how the country recovered to an all-time record of 2.36 million visitors in 2025, and provides an easy-to-use web dashboard with future predictions and practical plans.
 
 ---
 
-## 🏗️ End-to-End System & Pipeline Architecture
+## 📌 Executive Summary
 
-The platform follows a modular, decoupled architecture connecting raw public data sources to automated cloud pipelines and executive decision interfaces:
+Between 2018 and 2025, Sri Lanka experienced major events that affected travel:
+1. **2019 Easter Attacks:** Tourist numbers dropped by **18%** right away.
+2. **2020–2021 COVID-19 Pandemic:** Travel dropped to a record low of **194,495 tourists in 2021** (down 91.7% compared to 2018).
+3. **2022 Economic Crisis:** Fuel and power shortages slowed down recovery.
+4. **2023–2025 Strong Recovery:** Tourism bounced back fast, reaching **2,362,521 visitors in 2025** — the highest number in Sri Lanka's history.
+
+---
+
+## 🏗️ Project Architecture & How It Works
+
+Here is how the project collects data, cleans it, and shows it on the web app:
 
 ```mermaid
 flowchart TD
-    subgraph S1["1. Data Sourcing & Ingestion Layer"]
-        A["Official SLTDA Portal<br/>(Annual Statistical Reports)"] --> B["update_data.py<br/>(Automated Ingestion Script)"]
-        A2["Manual File Upload<br/>(--file report.xlsx)"] --> B
+    subgraph S1["1. Collect Data"]
+        A["Official SLTDA Website<br/>(Yearly Tourism Reports)"] --> B["update_data.py<br/>(Automatic Updater Script)"]
+        A2["Manual File Upload<br/>(Excel / CSV)"] --> B
     end
 
-    subgraph S2["2. Data Engineering & Harmonization"]
-        B --> C["Data Harmonization Engine"]
-        C --> C1["Country Name Normalizer<br/>(country_converter ISO-3166)"]
-        C --> C2["Continent & Regional Mapping"]
-        C --> C3["Temporal Standardization<br/>(YYYY-MM-01 Dates)"]
-        C1 & C2 & C3 --> D[("Master Dataset<br/>tourism_arrivals_app_ready.csv<br/>(18,396 records)")]
-        D --> D1[("Yearly Partitions<br/>data/processed/by_year/<br/>(2018–2025)")]
-        D --> D2[("Annual Summary Table<br/>yearly_tourism_summary.csv")]
+    subgraph S2["2. Clean & Fix Data"]
+        B --> C["Data Cleaning Script"]
+        C --> C1["Fix Country Names<br/>(Standard Country Names)"]
+        C --> C2["Add Continents & Regions"]
+        C --> C3["Format Dates<br/>(Year, Month, Date)"]
+        C1 & C2 & C3 --> D[("Master Clean Dataset<br/>tourism_arrivals_app_ready.csv<br/>(18,396 records)")]
+        D --> D1[("Yearly Files<br/>data/processed/by_year/")]
+        D --> D2[("Yearly Summary Table<br/>yearly_tourism_summary.csv")]
     end
 
-    subgraph S3["3. Analytics & Machine Learning Engine"]
-        D --> E["Jupyter Analytical Core<br/>(Notebooks 01–04)"]
-        E --> E1["Pareto 80/20 Market Concentration"]
-        E --> E2["Time-Series Decomposition<br/>(Trend / Seasonal / Residual)"]
-        E --> E3["SARIMAX Predictive Model<br/>(Forecast Horizons 2026–2028)"]
-        E --> E4["What-If Scenario Simulation<br/>(Bull / Base / Bear / Policy Shocks)"]
+    subgraph S3["3. Analysis & Forecasting"]
+        D --> E["Jupyter Notebooks (01–04)"]
+        E --> E1["Top Countries (80% of Tourists)"]
+        E --> E2["Seasonal Patterns (Busy vs Slow Months)"]
+        E --> E3["Predict Future Visitors (2026–2028)"]
+        E --> E4["Test Situations (Price Changes, Visas)"]
     end
 
-    subgraph S4["4. Cloud CI/CD & Automation Orchestration"]
-        B --> F["GitHub Actions Runner<br/>(.github/workflows/auto_fetch.yml)"]
-        F --> F1["Scheduled Cloud Cron<br/>(Quarterly / Annual Checks)"]
-        F1 --> F2["Auto-Commit & Repository Sync<br/>[skip ci]"]
+    subgraph S4["4. Cloud Automation"]
+        B --> F["GitHub Actions in Cloud"]
+        F --> F1["Checks for New Data Regularly"]
+        F1 --> F2["Saves New Data to GitHub"]
     end
 
-    subgraph S5["5. Executive Decision Platform (UI/UX)"]
-        D & E3 & E4 --> G["Streamlit Interactive App<br/>(app.py)"]
-        G --> H1["Tab 1: Shocks & Recovery<br/>(Timeline & YoY Tables)"]
-        G --> H2["Tab 2: Top Markets & Heatmap<br/>(Seasonality Matrix)"]
-        G --> H3["Tab 3: Forecast Simulator<br/>(Interactive Shock Scenarios)"]
-        G --> H4["Tab 4: Hotel Room Planning<br/>(Dynamic Capacity Calculator)"]
-        G --> H5["Tab 5: Action Playbooks & Export<br/>(1-Click Year-by-Year Downloads)"]
+    subgraph S5["5. Interactive Web App"]
+        D & E3 & E4 --> G["Streamlit Web App<br/>(app.py)"]
+        G --> H1["Tab 1: Crisis & Recovery Timeline"]
+        G --> H2["Tab 2: Top Countries & Month Heatmap"]
+        G --> H3["Tab 3: Future Predictions (2026–2028)"]
+        G --> H4["Tab 4: Hotel Room Calculator"]
+        G --> H5["Tab 5: Action Plans & Downloads"]
     end
 
-    F2 -.->|Auto-Reload Live App| G
+    F2 -.->|Auto-Reloads| G
 ```
 
-### Architecture Specifications
+### Simple Overview of Parts
 
-| Layer | Technology | Primary Function | Output Artifact |
+| Part | Tool Used | What It Does | Result |
 | :--- | :--- | :--- | :--- |
-| **Ingestion** | `Requests`, `BeautifulSoup4`, `update_data.py` | Web scraping & schema validation of SLTDA releases | Structured tabular stream |
-| **Engineering** | `Pandas`, `NumPy`, `country_converter` | Normalization across 200+ territories & continent assignment | `tourism_arrivals_app_ready.csv` |
-| **Data Partitioning** | Custom Partitioning Engine | Auto-splits into individual yearly files | `data/processed/by_year/*.csv` |
-| **Modeling** | `Statsmodels`, `SciPy` | SARIMAX time-series forecasting & What-If scenario simulations | Predictive horizon (2026–2028) |
-| **CI/CD Orchestration**| `GitHub Actions` | Automated cloud runner with self-committing pipelines | Continuous data synchronization |
-| **User Interface** | `Streamlit`, `Plotly Graph Objects` | Modern dark-mode intelligence command center | Browser dashboard on port `8501` |
+| **Download Data** | `Requests`, `BeautifulSoup4`, `update_data.py` | Downloads official government reports | Raw data |
+| **Clean Data** | `Pandas`, `NumPy`, `country_converter` | Fixes spelling for 200+ country names and adds continents | `tourism_arrivals_app_ready.csv` |
+| **Split Data** | Custom Script | Saves data into separate yearly files | `data/processed/by_year/*.csv` |
+| **Predictions** | `Statsmodels`, `SciPy` | Estimates visitor arrivals for 2026–2028 | Future predictions |
+| **Cloud Updates** | `GitHub Actions` | Checks for new reports in the cloud automatically | Keeps project up to date |
+| **Web Dashboard** | `Streamlit`, `Plotly` | Easy interactive web app with charts and filters | Live website on port `8501` |
 
 ---
 
+## 🔄 Automatic Data Updates
 
-## 🔄 Automated Ingestion & Cloud CI/CD Pipeline
-
-To ensure the platform runs permanently on autopilot without manual data entry:
+To keep data up to date without manual work:
 
 ```bash
-# 1. Check current latest data status in database
+# 1. Check the latest month/year currently in the database
 python update_data.py --check
 
-# 2. View & export complete Year-by-Year summary table (with YoY growth)
+# 2. View and export the year-by-year totals table
 python update_data.py --yearly
 
-# 3. Split master dataset into individual yearly CSV files in data/processed/by_year/
+# 3. Split the master dataset into individual yearly CSV files
 python update_data.py --split-years
 
-# 4. Ingest any newly downloaded SLTDA Excel or CSV file
+# 4. Add a newly downloaded report file
 python update_data.py --file path_to_report.xlsx
 ```
 
-### GitHub Actions Cloud Automation
-* **Workflow:** [`.github/workflows/auto_fetch.yml`](.github/workflows/auto_fetch.yml)
-* **Trigger:** Scheduled cloud runner (quarterly / annual cron) + manual dispatch button.
-* **Mechanism:** Checks online SLTDA reports, runs `update_data.py`, detects modifications, and auto-commits updated datasets back to the repository.
+### Automatic Cloud Updates (GitHub Actions)
+* **How it works:** When the government publishes a new annual report, GitHub Actions runs in the cloud, cleans the new data, and updates the repository automatically with zero manual effort.
 
 ---
 
-## 📊 Hero Visualizations Gallery
+## 📊 Overview of the Findings
 
-![alt text](<outputs/figures/final tourism analysis.png>)
-
----
-## 📌 Actionable Business Recommendations
-
-The analysis translates tourism data into practical recommendations for tourism planning, marketing, market development, and operational decision-making.
-
-### 1.Off-Peak Demand Smoothing — May–June
-
-**Business Issue:**  
-May and June generally represent lower-demand periods compared with the strongest tourism months.
-
-**Recommended Actions:**
-
-- **Tactical Campaigns:** Launch targeted seasonal campaigns focused on wellness, Ayurveda, MICE (Meetings, Incentives, Conferences and Exhibitions), and other suitable tourism experiences during lower-demand periods.
-- **Target Markets:** Prioritize regional and short-haul source markets where travel accessibility can support short-term demand generation.
-- **Partnership Incentives:** Explore partnerships between airlines, hotels, and tourism operators to develop attractive off-peak travel packages.
-- **Capacity Optimization:** Use lower-demand periods for targeted promotions and capacity utilization strategies.
+![Sri Lanka Tourism Analysis](outputs/figures/final%20tourism%20analysis.png)
 
 ---
 
-### 2.High-Yield Winter Campaign Planning — December–February
+## 💡 Practical Recommendations for Hotels & Planners
 
-**Business Issue:**  
-December–February represents a strong tourism demand period, creating an opportunity for advance marketing and capacity planning.
+The data points to four practical actions:
 
-**Recommended Actions:**
+### 1. Bring More Visitors in the Low Season (May–June)
+* **The Problem:** Tourist arrivals drop sharply in May and June (down by over 60% compared to December) due to monsoon rains, leaving hotel rooms empty.
+* **What to Do:**
+  * Promote **wellness, Ayurveda, and business conference deals** to nearby countries like **India, UAE, and Singapore** where flights are short.
+  * Partner with airlines (SriLankan Airlines, IndiGo) to offer cheaper off-peak flights and package deals.
 
-- **Early Marketing:** Begin digital marketing and international trade promotion several months before the peak season.
-- **Priority Markets:** Focus promotional activities on major European source markets such as the UK, Germany, and France where appropriate.
-- **Value Proposition:** Promote cultural tourism, wildlife experiences, beach holidays, wellness tourism, and long-stay packages.
-- **Capacity Planning:** Prepare accommodation, transport, airport, and tourism-service capacity ahead of expected peak demand.
+### 2. Plan Early for the Busy Winter Season (December–February)
+* **The Problem:** December is the busiest month (historically 1.39M total visitors), followed by January and February, as European tourists escape the cold winter.
+* **What to Do:**
+  * Start digital advertising in the **UK, Germany, and France** early (**September–October, 2 to 3 months ahead**).
+  * Prepare hotel staff, transport, and airport immigration counters ahead of the winter rush.
 
----
+### 3. Attract Visitors from More Countries (Reduce Risk)
+* **The Problem:** Over **50% of all tourists come from just 5 countries** (mostly India and the UK). If one country has economic problems, Sri Lanka loses a large share of visitors.
+* **What to Do:**
+  * Market tours to secondary and growing countries like **Australia, China, and Scandinavian countries**.
+  * Allow tourists to pay using popular digital payments (**Indian UPI, Chinese WeChat Pay / Alipay**) at hotels and shops.
 
-### 3.Source Market Diversification & Risk Mitigation
-
-**Business Issue:**  
-A significant proportion of tourist arrivals is concentrated in a limited number of source markets. High market concentration can increase exposure to economic, geopolitical, or travel-related disruptions.
-
-**Recommended Actions:**
-
-- **Reduce Market Concentration:** Continue strengthening established markets while developing high-potential secondary and emerging markets.
-- **Market Prioritization:** Use market size, growth rate, recovery performance, and consistency to identify priority markets.
-- **Localized Marketing:** Develop market-specific tourism campaigns based on visitor behavior and seasonal demand.
-- **Digital Payment Readiness:** Evaluate suitable local and international digital payment options to improve visitor convenience and support tourism spending.
-
----
-
-### 4.Dynamic Crisis Resilience & Capacity Planning
-
-**Business Issue:**  
-The 2019–2022 period demonstrated how external shocks can significantly affect tourism demand and operational capacity.
-
-**Recommended Actions:**
-
-- **Scenario Playbooks:** Develop predefined operational responses for major tourism disruptions such as health crises, economic disruptions, transportation problems, or sudden demand changes.
-- **Early Warning System:** Monitor tourist arrivals against historical and expected levels to identify unusual declines at an early stage.
-- **Infrastructure Alignment:** Use historical and forecast demand patterns to support airport, transportation, accommodation, and tourism-service capacity planning.
-- **Flexible Operations:** Encourage flexible booking, cancellation, and capacity-management strategies during periods of uncertainty.
-- **Recovery Monitoring:** Track source-market recovery and overall tourism performance continuously after major disruptions.
+### 4. Build Crisis Plans & Manage Capacity
+* **The Problem:** Sudden events (pandemics or fuel shortages) can quickly hurt tourism businesses.
+* **What to Do:**
+  * Create backup operational plans and flexible cancellation rules for hotels.
+  * Use arrival predictions to plan airport staffing and avoid long lines during busy weeks.
 
 ---
 
-## Strategic Business Priorities
+## 🎯 Main Business Goals
 
-Based on the analytical framework, the tourism sector should focus on four key priorities:
-
-| Priority | Objective |
+| Priority | Main Goal |
 |---|---|
-| **Demand Management** | Reduce excessive seasonal fluctuations |
-| **Market Development** | Strengthen existing markets and develop emerging markets |
-| **Risk Management** | Detect and respond to tourism demand disruptions |
-| **Capacity Planning** | Align tourism infrastructure and services with expected demand |
-
+| **Balance Travel Seasons** | Smooth out seasonal drops between summer and winter |
+| **Grow New Markets** | Attract tourists from new countries to reduce reliance on only a few |
+| **Handle Unexpected Drops** | Spot travel drops early and have crisis plans ready |
+| **Plan Capacity** | Make sure hotels, transport, and airports have enough capacity for peak months |
 
 ---
 
-## 📓 Research & Analytics Notebooks
+## 📓 Jupyter Notebooks Breakdown
 
-The analytical foundation of this project is organized across 4 modular Jupyter Notebooks in the `notebooks/` directory:
+The analysis is organized across 4 notebooks in the `notebooks/` folder:
 
-| Notebook | Focus | Key Methods & Deliverables |
+| Notebook | Topic | What It Does |
 | :--- | :--- | :--- |
-| **`01_Data_Loading_and_Integration.ipynb`** | Multi-Year Data Wrangling | Automated ingestion of 8 years of SLTDA Excel reports, column harmonization, and schema unification. |
-| **`02_Data_Quality_and_Cleaning.ipynb`** | Data Cleaning & Standardization | Anomaly detection, null imputation, zero-handling, and standardizing 200+ regions via `country_converter`. |
-| **`03_Descriptive_Statistics.ipynb`** | Statistical Analysis | Summary statistics, skewness/kurtosis, distribution profiles, and seasonal variance metrics. |
-| **`04_Overall_Tourism_Performance.ipynb`** | Strategic Analytics & ML Forecasting | Pareto 80/20 analysis, Time-Series Decomposition, SARIMAX forecasting with MAE validation, and What-If scenario simulations. |
+| **`01_Data_Loading_and_Integration.ipynb`** | Data Collection | Combines 8 years of raw SLTDA Excel reports into one unified table. |
+| **`02_Data_Quality_and_Cleaning.ipynb`** | Data Cleaning | Fixes spelling, cleans empty values, and standardizes over 200 country names. |
+| **`03_Descriptive_Statistics.ipynb`** | Basic Statistics | Calculates totals, monthly averages, and seasonal variations. |
+| **`04_Overall_Tourism_Performance.ipynb`** | Deep Analysis & Modeling | Analyzes market concentration (80/20 rule), builds forecast models, and tests future scenarios. |
 
 ---
 
-## 📂 Project Architecture & Directory Structure
+## 📂 Project Structure
 
 ```
-Sri-Lanka-Tourism-Analytics/
+Sri-Lanka-Tourism-Intelligence/
 │
 ├── .github/
 │   └── workflows/
-│       └── auto_fetch.yml            # Automated cloud CI/CD pipeline (GitHub Actions)
+│       └── auto_fetch.yml            # Automatic data updater (GitHub Actions)
 │
 ├── .streamlit/
-│   └── config.toml                   # Dark theme configuration & port settings
+│   └── config.toml                   # Dark theme and server settings
 │
 ├── data/
-│   ├── raw/                          # Official SLTDA yearly Excel reports (2018–2025)
+│   ├── raw/                          # Raw yearly SLTDA Excel files (2018–2025)
 │   ├── processed/
-│   │   ├── tourism_arrivals_app_ready.csv    # Master validated dataset (18,396 rows)
-│   │   ├── tourism_arrivals_clean.csv        # Cleaned baseline dataset
-│   │   └── by_year/                          # Individual yearly CSV datasets (2018–2025)
-│   └── reference/                    # Country mappings and continent definitions
+│   │   ├── tourism_arrivals_app_ready.csv    # Master cleaned dataset (18,396 rows)
+│   │   ├── tourism_arrivals_clean.csv        # Baseline cleaned data
+│   │   └── by_year/                          # Individual yearly CSV files (2018–2025)
+│   └── reference/                    # Country and continent mapping files
 │
 ├── notebooks/
 │   ├── 01_Data_Loading_and_Integration.ipynb
@@ -230,39 +193,35 @@ Sri-Lanka-Tourism-Analytics/
 │   └── 04_Overall_Tourism_Performance.ipynb
 │
 ├── outputs/
-│   ├── figures/                      # High-resolution publication figures (300 DPI)
-│   │   ├── yearly_tourism_performance.png
-│   │   ├── monthly_seasonality.png
-│   │   ├── top_source_markets.png
-│   │   └── final_tourism_analysis.png
-│   └── tables/                       # Automated business summaries
+│   ├── figures/                      # Generated charts and diagrams
+│   │   └── final tourism analysis.png
+│   └── tables/                       # Summary data tables
 │       ├── final_business_insights.csv
 │       └── yearly_tourism_summary.csv
 │
-├── app.py                            # Streamlit Executive Decision Platform
-├── update_data.py                    # Automated SLTDA Ingestion & Year-by-Year Pipeline
-├── EXECUTIVE_SUMMARY.md              # 5-Slide Executive Pitch Deck
-├── requirements.txt                  # Environment dependencies
-├── LICENSE                           # MIT License
-└── README.md                         # Primary project documentation
+├── app.py                            # Interactive Streamlit Web Application
+├── update_data.py                    # Script to download and update yearly data
+├── EXECUTIVE_SUMMARY.md              # 1-Page Summary Pitch Deck
+├── requirements.txt                  # List of Python packages needed
+└── README.md                         # Main project documentation
 ```
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ Tools & Technologies Used
 
-* **Programming Language:** Python 3.10+
-* **Dashboard Framework:** Streamlit (v1.40+)
-* **Data Engineering & Manipulation:** Pandas (v2.0+), NumPy, OpenPyXL
-* **Geographical Entity Normalization:** `country_converter` (ISO-3166 alpha-3 / short name mapping)
-* **Data Visualization & Theming:** Plotly Graph Objects, Plotly Express, Seaborn, Matplotlib
-* **Statistical Modeling & Forecasting:** SciPy, Statsmodels (SARIMAX, Seasonal Decomposition, CAGR)
-* **DevOps & Cloud Automation:** GitHub Actions (Cron scheduling, Git automation)
+* **Language:** Python 3.10+
+* **Web App:** Streamlit
+* **Data Handling:** Pandas, NumPy, OpenPyXL
+* **Country Name Standardization:** `country_converter`
+* **Charts & Visuals:** Plotly, Matplotlib, Seaborn
+* **Time-Series Forecasting:** Statsmodels (SARIMAX), SciPy
+* **Automation:** GitHub Actions
 * **Web Scraping:** Requests, BeautifulSoup4
 
 ---
 
-## 🚀 Installation & Quickstart
+## 🚀 How to Run the Project Locally
 
 ### 1. Clone the repository
 ```bash
@@ -272,25 +231,26 @@ cd Sri-Lanka-Tourism-Intelligence
 
 ### 2. Create and activate a virtual environment
 ```bash
-# Windows (PowerShell):
+# Windows:
 python -m venv .venv
 .venv\Scripts\activate
 
-# macOS / Linux:
+# Mac / Linux:
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3. Install dependencies
+### 3. Install required packages
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Streamlit Dashboard
+### 4. Start the Web App
 ```bash
 streamlit run app.py
 ```
-*Open your browser at `http://localhost:8501` to view locally, or explore the live cloud deployment directly at **[srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)**.*
+*Open `http://localhost:8501` in your browser to view the dashboard.*  
+*Or open the live website directly at: **[srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)**.*
 
 ---
 
@@ -298,8 +258,5 @@ streamlit run app.py
 
 * **Himash Madushanka**
 * **Focus:** Data Analytics | Business Intelligence | Data Science
-* **🌐 Live Hosted Platform:** [srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)
-* **GitHub Repository:** [HimashMadushanka/Sri-Lanka-Tourism-Intelligence](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Intelligence)
-
----
-
+* **🌐 Live Web App:** [srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)
+* **GitHub:** [HimashMadushanka/Sri-Lanka-Tourism-Intelligence](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Intelligence)
