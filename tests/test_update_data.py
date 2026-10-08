@@ -28,7 +28,6 @@ def test_clean_and_standardize_data_transformation():
     assert "Continent" in cleaned.columns
     assert "Date" in cleaned.columns
     
-    # Check standardization rules
     assert "Russia" in cleaned["Standard_Country"].values
     assert "China" in cleaned["Standard_Country"].values
     assert cleaned["Month_Number"].tolist() == [1, 2]
@@ -40,7 +39,6 @@ def test_clean_and_standardize_missing_column():
     invalid_raw = pd.DataFrame({
         "Year": [2025],
         "Country": ["India"]
-        # Missing Month and Tourist_Arrivals
     })
     
     with pytest.raises(ValueError, match="Missing required column"):
