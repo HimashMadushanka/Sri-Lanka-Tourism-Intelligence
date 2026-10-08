@@ -16,7 +16,11 @@
 
 ## 📌 Executive Summary 
 
+<<<<<<< HEAD
 Between 2018 and 2025, Sri Lanka’s tourism industry faced many serious economic and global challenges:
+=======
+Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented sequence of severe macroeconomic and geopolitical shocks:
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 1. **2019 Easter Sunday Attacks** (-18.0% immediate drop)
 2. **2020–2021 Global COVID-19 Pandemic** (crashing to a historic low of **194,495 arrivals in 2021; -91.7% from 2018 baseline**)
 3. **2022 Domestic Economic & Fuel Crisis**
@@ -115,6 +119,7 @@ python update_data.py --file path_to_report.xlsx
 ![alt text](<outputs/figures/final tourism analysis.png>)
 
 ---
+<<<<<<< HEAD
 # 📌 Actionable Business Recommendations
 
 The analysis gives **simple and practical ideas** for tourism planning, marketing, and business decisions.
@@ -173,11 +178,72 @@ The 2019–2022 period showed that major problems can strongly affect tourism.
 - **Plan Infrastructure:** Use tourism trends to plan airports, transport, hotels, and other services.
 - **Stay Flexible:** Use flexible booking, cancellation, and capacity policies during uncertain periods.
 - **Monitor Recovery:** Regularly check how quickly different tourist markets are recovering.
+=======
+## 📌 Actionable Business Recommendations
+
+The analysis translates tourism data into practical recommendations for tourism planning, marketing, market development, and operational decision-making.
+
+### 1.Off-Peak Demand Smoothing — May–June
+
+**Business Issue:**  
+May and June generally represent lower-demand periods compared with the strongest tourism months.
+
+**Recommended Actions:**
+
+- **Tactical Campaigns:** Launch targeted seasonal campaigns focused on wellness, Ayurveda, MICE (Meetings, Incentives, Conferences and Exhibitions), and other suitable tourism experiences during lower-demand periods.
+- **Target Markets:** Prioritize regional and short-haul source markets where travel accessibility can support short-term demand generation.
+- **Partnership Incentives:** Explore partnerships between airlines, hotels, and tourism operators to develop attractive off-peak travel packages.
+- **Capacity Optimization:** Use lower-demand periods for targeted promotions and capacity utilization strategies.
+
+---
+
+### 2.High-Yield Winter Campaign Planning — December–February
+
+**Business Issue:**  
+December–February represents a strong tourism demand period, creating an opportunity for advance marketing and capacity planning.
+
+**Recommended Actions:**
+
+- **Early Marketing:** Begin digital marketing and international trade promotion several months before the peak season.
+- **Priority Markets:** Focus promotional activities on major European source markets such as the UK, Germany, and France where appropriate.
+- **Value Proposition:** Promote cultural tourism, wildlife experiences, beach holidays, wellness tourism, and long-stay packages.
+- **Capacity Planning:** Prepare accommodation, transport, airport, and tourism-service capacity ahead of expected peak demand.
+
+---
+
+### 3.Source Market Diversification & Risk Mitigation
+
+**Business Issue:**  
+A significant proportion of tourist arrivals is concentrated in a limited number of source markets. High market concentration can increase exposure to economic, geopolitical, or travel-related disruptions.
+
+**Recommended Actions:**
+
+- **Reduce Market Concentration:** Continue strengthening established markets while developing high-potential secondary and emerging markets.
+- **Market Prioritization:** Use market size, growth rate, recovery performance, and consistency to identify priority markets.
+- **Localized Marketing:** Develop market-specific tourism campaigns based on visitor behavior and seasonal demand.
+- **Digital Payment Readiness:** Evaluate suitable local and international digital payment options to improve visitor convenience and support tourism spending.
+
+---
+
+### 4.Dynamic Crisis Resilience & Capacity Planning
+
+**Business Issue:**  
+The 2019–2022 period demonstrated how external shocks can significantly affect tourism demand and operational capacity.
+
+**Recommended Actions:**
+
+- **Scenario Playbooks:** Develop predefined operational responses for major tourism disruptions such as health crises, economic disruptions, transportation problems, or sudden demand changes.
+- **Early Warning System:** Monitor tourist arrivals against historical and expected levels to identify unusual declines at an early stage.
+- **Infrastructure Alignment:** Use historical and forecast demand patterns to support airport, transportation, accommodation, and tourism-service capacity planning.
+- **Flexible Operations:** Encourage flexible booking, cancellation, and capacity-management strategies during periods of uncertainty.
+- **Recovery Monitoring:** Track source-market recovery and overall tourism performance continuously after major disruptions.
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 
 ---
 
 ## Strategic Business Priorities
 
+<<<<<<< HEAD
 Based on the analysis, the tourism sector should focus on **four main areas**:
 
 | Priority | Simple Objective |
@@ -186,12 +252,23 @@ Based on the analysis, the tourism sector should focus on **four main areas**:
 | **Market Development** | Strengthen current markets and find new markets |
 | **Risk Management** | Find tourism problems early and respond quickly |
 | **Capacity Planning** | Prepare hotels, transport, and other services for expected tourists |
+=======
+Based on the analytical framework, the tourism sector should focus on four key priorities:
+
+| Priority | Objective |
+|---|---|
+| **Demand Management** | Reduce excessive seasonal fluctuations |
+| **Market Development** | Strengthen existing markets and develop emerging markets |
+| **Risk Management** | Detect and respond to tourism demand disruptions |
+| **Capacity Planning** | Align tourism infrastructure and services with expected demand |
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 
 
 ---
 
 ## 📓 Research & Analytics Notebooks
 
+<<<<<<< HEAD
 The main analysis of this project is divided into **4 Jupyter Notebooks** in the `notebooks/` folder:
 
 | Notebook | Focus | Main Work |
@@ -200,6 +277,16 @@ The main analysis of this project is divided into **4 Jupyter Notebooks** in the
 | **`02_Data_Quality_and_Cleaning.ipynb`** | Data Cleaning | Find data problems, handle missing values and zeros, and standardize country names |
 | **`03_Descriptive_Statistics.ipynb`** | Statistical Analysis | Calculate basic statistics and study tourism patterns and seasonal changes |
 | **`04_Overall_Tourism_Performance.ipynb`** | Tourism Analysis & Forecasting | Find important markets, study trends, forecast future arrivals, and test different scenarios |
+=======
+The analytical foundation of this project is organized across 4 modular Jupyter Notebooks in the `notebooks/` directory:
+
+| Notebook | Focus | Key Methods & Deliverables |
+| :--- | :--- | :--- |
+| **`01_Data_Loading_and_Integration.ipynb`** | Multi-Year Data Wrangling | Automated ingestion of 8 years of SLTDA Excel reports, column harmonization, and schema unification. |
+| **`02_Data_Quality_and_Cleaning.ipynb`** | Data Cleaning & Standardization | Anomaly detection, null imputation, zero-handling, and standardizing 200+ regions via `country_converter`. |
+| **`03_Descriptive_Statistics.ipynb`** | Statistical Analysis | Summary statistics, skewness/kurtosis, distribution profiles, and seasonal variance metrics. |
+| **`04_Overall_Tourism_Performance.ipynb`** | Strategic Analytics & ML Forecasting | Pareto 80/20 analysis, Time-Series Decomposition, SARIMAX forecasting with MAE validation, and What-If scenario simulations. |
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 
 ---
 
@@ -210,6 +297,7 @@ Sri-Lanka-Tourism-Analytics/
 │
 ├── .github/
 │   └── workflows/
+<<<<<<< HEAD
 │       └── auto_fetch.yml            
 │
 ├── .streamlit/
@@ -222,6 +310,20 @@ Sri-Lanka-Tourism-Analytics/
 │   │   ├── tourism_arrivals_clean.csv        
 │   │   └── by_year/                          
 │   └── reference/                    
+=======
+│       └── auto_fetch.yml            # Automated cloud CI/CD pipeline (GitHub Actions)
+│
+├── .streamlit/
+│   └── config.toml                   # Dark theme configuration & port settings
+│
+├── data/
+│   ├── raw/                          # Official SLTDA yearly Excel reports (2018–2025)
+│   ├── processed/
+│   │   ├── tourism_arrivals_app_ready.csv    # Master validated dataset (18,396 rows)
+│   │   ├── tourism_arrivals_clean.csv        # Cleaned baseline dataset
+│   │   └── by_year/                          # Individual yearly CSV datasets (2018–2025)
+│   └── reference/                    # Country mappings and continent definitions
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 │
 ├── notebooks/
 │   ├── 01_Data_Loading_and_Integration.ipynb
@@ -230,11 +332,16 @@ Sri-Lanka-Tourism-Analytics/
 │   └── 04_Overall_Tourism_Performance.ipynb
 │
 ├── outputs/
+<<<<<<< HEAD
 │   ├── figures/                      
+=======
+│   ├── figures/                      # High-resolution publication figures (300 DPI)
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 │   │   ├── yearly_tourism_performance.png
 │   │   ├── monthly_seasonality.png
 │   │   ├── top_source_markets.png
 │   │   └── final_tourism_analysis.png
+<<<<<<< HEAD
 │   └── tables/                       
 │       ├── final_business_insights.csv
 │       └── yearly_tourism_summary.csv
@@ -243,6 +350,18 @@ Sri-Lanka-Tourism-Analytics/
 ├── update_data.py                                 
 ├── requirements.txt                                         
 └── README.md                        
+=======
+│   └── tables/                       # Automated business summaries
+│       ├── final_business_insights.csv
+│       └── yearly_tourism_summary.csv
+│
+├── app.py                            # Streamlit Executive Decision Platform
+├── update_data.py                    # Automated SLTDA Ingestion & Year-by-Year Pipeline
+├── EXECUTIVE_SUMMARY.md              # 5-Slide Executive Pitch Deck
+├── requirements.txt                  # Environment dependencies
+├── LICENSE                           # MIT License
+└── README.md                         # Primary project documentation
+>>>>>>> 8d50456670918b7064f6c32855dd1b032bed8a9d
 ```
 
 ---
