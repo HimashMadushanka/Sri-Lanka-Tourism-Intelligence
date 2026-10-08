@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Executive Summary *(Recruiter & Decision-Maker Fast Track)*
+## 📌 Executive Summary 
 
 Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented sequence of severe macroeconomic and geopolitical shocks:
 1. **2019 Easter Sunday Attacks** (-18.0% immediate drop)
