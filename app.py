@@ -621,16 +621,26 @@ with tabs[2]:
         elif "Regional Economic Slowdown" in sim_shock:
             shock_factor = -0.10
 
-    curr_base = curr_latest
-    proj_years = [2026, 2027, 2028]
-    eff_growth = (sim_growth_base / 100.0) + shock_factor
+        curr_base = curr_latest
+        max_proj_yr = int(sim_horizon)
+        proj_years = [y for y in [2026, 2027, 2028] if y <= max_proj_yr]
+        eff_growth = (sim_growth_base / 100.0) + shock_factor
 
-    projections = []
-    val = curr_base
-    for y in proj_years:
-        val = val * (1 + eff_growth)
-        projections.append({"Year": y, "Projected_Arrivals": val})
-    proj_df = pd.DataFrame(projections)
+        projections = []
+        val = curr_base
+        for y in proj_years:
+            val = val * (1 + eff_growth)
+            projections.append({"Year": y, "Projected_Arrivals": val})
+        proj_df = pd.DataFrame(projections)
+
+        predicted_end_val = proj_df["Projected_Arrivals"].iloc[-1]
+        pct_growth_from_base = ((predicted_end_val - curr_base) / curr_base) * 100
+        st.metric(
+            label=f"Predicted Arrivals in {max_proj_yr}",
+            value=f"{predicted_end_val/1e6:.2f}M visitors",
+            delta=f"{pct_growth_from_base:+.1f}% vs 2025",
+            help="Forecasted total international tourist arrivals based on selected scenario and year horizon"
+        )
 
     bull_df = []
     bear_df = []
@@ -658,8 +668,8 @@ with tabs[2]:
         fig_fc.add_trace(go.Scatter(x=all_x, y=all_y_bear, mode="lines", name="Worst Case (-12%)", line=dict(color="#ef4444", width=1.8, dash="dash")))
 
         fig_fc.update_layout(
-            title="Future Visitor Forecast (2026–2028)",
-            xaxis=dict(title="Year", tickmode="linear", dtick=1),
+            title=f"Future Visitor Forecast (2026–{max_proj_yr})",
+            xaxis=dict(title="Year", tickmode="linear", dtick=1, range=[2021.7, max_proj_yr + 0.35]),
             yaxis=dict(title="Estimated Tourist Arrivals")
         )
         apply_dark_theme(fig_fc, height=440)

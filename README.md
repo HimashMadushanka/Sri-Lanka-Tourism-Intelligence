@@ -1,14 +1,14 @@
 # 🇱🇰 Sri Lanka Tourism Analytics: Demand, Crisis Impact & Strategic Growth (2018–2025)
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat&logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-FF4B4B.svg?style=flat&logo=streamlit)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?style=flat&logo=pandas)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75.svg?style=flat&logo=plotly)](https://plotly.com/)
-[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-Auto--Update%20Pipeline-2088FF.svg?style=flat&logo=githubactions)](https://github.com/features/actions)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Executive Deck](https://img.shields.io/badge/Presentation-5--Slide%20Deck-orange.svg)](EXECUTIVE_SUMMARY.md)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-Data%20Viz-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-Auto--Update%20Pipeline-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Executive Presentation](https://img.shields.io/badge/Executive%20Deck-5--Slide%20Pitch-orange.svg?style=for-the-badge)](EXECUTIVE_SUMMARY.md)
 
-> **An end-to-end data analytics and business intelligence platform evaluating Sri Lanka's inbound tourism performance, crisis resilience, seasonal demand dynamics, and source market concentration across 2018–2025, powered by automated data pipelines and an interactive Streamlit decision platform.**
+> **An enterprise-grade, end-to-end data analytics and business intelligence platform evaluating Sri Lanka's inbound tourism performance, crisis resilience, seasonal demand dynamics, and source market concentration across 2018–2025. Powered by automated data pipelines and an interactive Streamlit decision platform.**
 
 ---
 
@@ -20,7 +20,7 @@ Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented seque
 3. **2022 Domestic Economic & Fuel Crisis**
 4. **2023–2025 V-Shaped Rebound** culminating in **2,362,521 arrivals in 2025 (101.2% recovery)**, setting a new **all-time national record**.
 
-### 🏆 Macro Performance Snapshot
+### 🏆 Macro Performance Benchmark
 
 | Strategic Metric | Baseline (2018) | Crisis Trough (2021) | Mid-Recovery (2023) | Full Rebound (2025) |
 | :--- | :---: | :---: | :---: | :---: |
@@ -33,71 +33,133 @@ Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented seque
 
 ---
 
+## 🏗️ End-to-End System & Pipeline Architecture
+
+The platform follows a modular, decoupled architecture connecting raw public data sources to automated cloud pipelines and executive decision interfaces:
+
+```mermaid
+flowchart TD
+    subgraph S1["1. Data Sourcing & Ingestion Layer"]
+        A["Official SLTDA Portal<br/>(Annual Statistical Reports)"] --> B["update_data.py<br/>(Automated Ingestion Script)"]
+        A2["Manual File Upload<br/>(--file report.xlsx)"] --> B
+    end
+
+    subgraph S2["2. Data Engineering & Harmonization"]
+        B --> C["Data Harmonization Engine"]
+        C --> C1["Country Name Normalizer<br/>(country_converter ISO-3166)"]
+        C --> C2["Continent & Regional Mapping"]
+        C --> C3["Temporal Standardization<br/>(YYYY-MM-01 Dates)"]
+        C1 & C2 & C3 --> D[("Master Dataset<br/>tourism_arrivals_app_ready.csv<br/>(18,396 records)")]
+        D --> D1[("Yearly Partitions<br/>data/processed/by_year/<br/>(2018–2025)")]
+        D --> D2[("Annual Summary Table<br/>yearly_tourism_summary.csv")]
+    end
+
+    subgraph S3["3. Analytics & Machine Learning Engine"]
+        D --> E["Jupyter Analytical Core<br/>(Notebooks 01–04)"]
+        E --> E1["Pareto 80/20 Market Concentration"]
+        E --> E2["Time-Series Decomposition<br/>(Trend / Seasonal / Residual)"]
+        E --> E3["SARIMAX Predictive Model<br/>(Forecast Horizons 2026–2028)"]
+        E --> E4["What-If Scenario Simulation<br/>(Bull / Base / Bear / Policy Shocks)"]
+    end
+
+    subgraph S4["4. Cloud CI/CD & Automation Orchestration"]
+        B --> F["GitHub Actions Runner<br/>(.github/workflows/auto_fetch.yml)"]
+        F --> F1["Scheduled Cloud Cron<br/>(Quarterly / Annual Checks)"]
+        F1 --> F2["Auto-Commit & Repository Sync<br/>[skip ci]"]
+    end
+
+    subgraph S5["5. Executive Decision Platform (UI/UX)"]
+        D & E3 & E4 --> G["Streamlit Interactive App<br/>(app.py)"]
+        G --> H1["Tab 1: Shocks & Recovery<br/>(Timeline & YoY Tables)"]
+        G --> H2["Tab 2: Top Markets & Heatmap<br/>(Seasonality Matrix)"]
+        G --> H3["Tab 3: Forecast Simulator<br/>(Interactive Shock Scenarios)"]
+        G --> H4["Tab 4: Hotel Room Planning<br/>(Dynamic Capacity Calculator)"]
+        G --> H5["Tab 5: Action Playbooks & Export<br/>(1-Click Year-by-Year Downloads)"]
+    end
+
+    F2 -.->|Auto-Reload Live App| G
+```
+
+### Architecture Specifications
+
+| Layer | Technology | Primary Function | Output Artifact |
+| :--- | :--- | :--- | :--- |
+| **Ingestion** | `Requests`, `BeautifulSoup4`, `update_data.py` | Web scraping & schema validation of SLTDA releases | Structured tabular stream |
+| **Engineering** | `Pandas`, `NumPy`, `country_converter` | Normalization across 200+ territories & continent assignment | `tourism_arrivals_app_ready.csv` |
+| **Data Partitioning** | Custom Partitioning Engine | Auto-splits into individual yearly files | `data/processed/by_year/*.csv` |
+| **Modeling** | `Statsmodels`, `SciPy` | SARIMAX time-series forecasting & What-If scenario simulations | Predictive horizon (2026–2028) |
+| **CI/CD Orchestration**| `GitHub Actions` | Automated cloud runner with self-committing pipelines | Continuous data synchronization |
+| **User Interface** | `Streamlit`, `Plotly Graph Objects` | Modern dark-mode intelligence command center | Browser dashboard on port `8501` |
+
+---
+
 ## 🖥️ Interactive Decision Platform (`app.py`)
 
-The project features a full-stack interactive dashboard engineered with **Streamlit** and **Plotly**, styled in an **Executive Dark Mode with Flame Orange Accents (`#f97316`)**:
+The platform is designed with an **Executive Dark Mode Theme** featuring **Flame Orange accents (`#f97316`)** and responsive Plotly charts:
 
 ```
-Live Dashboard Structure
-├── 🎛️ Dynamic Sidebar: Real-time time preset, year slider, continent & country selectors, month/season filters
-├── 1️⃣ Shocks & Recovery: Annotated timeline with crisis callouts, YoY growth, and expandable yearly data table
-├── 2️⃣ Top Countries: Pareto 80/20 market share chart, cumulative curves, and month-by-country seasonality heatmap
-├── 3️⃣ Future Forecast: 2026–2028 baseline projections with interactive What-If scenario shock testing
-├── 4️⃣ Hotel Planning: Dynamic hotel room demand calculator (length of stay, room occupancy) & monthly capacity bar chart
-└── 5️⃣ Decision Center: Operational playbooks for hotels, airlines & tourism planners, plus 1-click Year-by-Year dataset downloads
+Streamlit Platform Navigation
+├── 🎛️ Dynamic Sidebar Filters
+│   ├── Dynamic Period Preset ("All Years", "Crisis Years", "Recovery")
+│   ├── Interactive Year Slider (Auto-expands as new years are ingested)
+│   ├── Continent & Region Selector
+│   ├── Market Mode Radio (All Countries, Top 10, Pick My Own)
+│   └── Season & Month Multi-Selector
+│
+├── 1️⃣ Tab 1: Shocks & Recovery
+│   ├── Full-width annotated crisis timeline (Easter Attacks, COVID, Economic Crisis, Rebound)
+│   └── Expandable Year-by-Year Summary Table with exact YoY growth rates
+│
+├── 2️⃣ Tab 2: Top Countries & Seasonality
+│   ├── Pareto 80/20 dual-axis chart (Market share % & cumulative distribution)
+│   └── Glowing Ember Seasonality Heatmap (Month-by-Country visitor density)
+│
+├── 3️⃣ Tab 3: Future Forecast & What-If Simulator
+│   ├── Multi-year horizon selector (2026, 2027, 2028)
+│   ├── Macroeconomic shock testing (Flight price surge, free visa waiver, regional slowdown)
+│   ├── Live Prediction Metric card updating in real time
+│   └── 3-line fan chart: Expected Forecast, Best Case (+12%), Worst Case (-12%)
+│
+├── 4️⃣ Tab 4: Hotel Room Planning
+│   ├── Length-of-stay slider (5–21 days) & guests per room slider (1.0–2.5 guests)
+│   ├── Dynamic metrics: Peak Daily Rooms Needed & Total Annual Room Nights
+│   └── Monthly seasonal arrival demand bar chart
+│
+└── 5️⃣ Tab 5: Decision Center & Automated Exports
+    ├── Concrete operational playbooks for hotels, airlines & tourism planners
+    ├── 1-Click Year-by-Year Dataset Downloader (Select individual year or all years)
+    ├── Annual Totals CSV download button
+    └── 1-Page Executive Pitch Deck markdown download button
 ```
-
-### Key Interactive Features:
-* **Fully Dynamic Visual Filters:** Filter sliders and preset dropdowns automatically adjust their date bounds dynamically whenever new data is added.
-* **Pixel-Perfect Metric Cards:** Unified 136px card heights with comparative delta badges.
-* **Defensive Data Guards:** Built-in safeguards preventing division-by-zero or empty-filter crashes.
-* **Year-by-Year Data Downloader:** Allows instant export of filtered CSVs, individual year datasets, or the 1-page executive markdown deck.
 
 ---
 
 ## 🔄 Automated Ingestion & Cloud CI/CD Pipeline
 
-To ensure the platform never becomes outdated, the project implements an **automated data pipeline**:
+To ensure the platform runs permanently on autopilot without manual data entry:
 
-```
-               [Official SLTDA Website]
-                          │ (Annual Statistical Reports)
-                          ▼
-            [update_data.py Script]
-             ├── Checks online publications
-             ├── Standardizes country names (country_converter)
-             ├── Maps continents & formats dates
-             └── Saves master CSV & splits by_year/ files
-                          │
-                          ▼
-       [GitHub Actions Workflow: auto_fetch.yml]
-             ├── Runs scheduled check quarterly in the cloud
-             ├── Commits new data: [Auto-update: appended latest data]
-             └── Pushes to GitHub repository
-                          │
-                          ▼
-         [Streamlit Community Cloud / Local App]
-             └── Auto-reloads updated data with zero manual effort
-```
-
-### Automation Commands:
 ```bash
-# Check current latest data status in database
+# 1. Check current latest data status in database
 python update_data.py --check
 
-# View & export complete Year-by-Year summary table (with YoY growth)
+# 2. View & export complete Year-by-Year summary table (with YoY growth)
 python update_data.py --yearly
 
-# Split master dataset into individual yearly CSV files in data/processed/by_year/
+# 3. Split master dataset into individual yearly CSV files in data/processed/by_year/
 python update_data.py --split-years
 
-# Ingest any newly downloaded SLTDA Excel or CSV file
+# 4. Ingest any newly downloaded SLTDA Excel or CSV file
 python update_data.py --file path_to_report.xlsx
 ```
 
+### GitHub Actions Cloud Automation
+* **Workflow:** [`.github/workflows/auto_fetch.yml`](.github/workflows/auto_fetch.yml)
+* **Trigger:** Scheduled cloud runner (quarterly / annual cron) + manual dispatch button.
+* **Mechanism:** Checks online SLTDA reports, runs `update_data.py`, detects modifications, and auto-commits updated datasets back to the repository.
+
 ---
 
-## 📊 Hero Visualizations
+## 📊 Hero Visualizations Gallery
 
 ### 1. Crisis Impact & Recovery Timeline (2018–2025)
 *Directly maps macroeconomic shocks, trough levels, and rebound velocity against the 2018 pre-crisis baseline.*
@@ -114,7 +176,7 @@ python update_data.py --file path_to_report.xlsx
 ---
 
 ### 3. Monthly Seasonality & Off-Peak Demand Swings
-*Highlights the 62% demand swing between December winter peaks and May–June monsoon troughs.*
+*Highlights the critical 62% demand swing between December winter peaks and May–June monsoon troughs.*
 
 ![Monthly Seasonality Distribution](outputs/figures/monthly_seasonality.png)
 
@@ -170,14 +232,14 @@ The analytical foundation of this project is organized across 4 modular Jupyter 
 
 ---
 
-## 📂 Project Architecture
+## 📂 Project Architecture & Directory Structure
 
 ```
 Sri-Lanka-Tourism-Analytics/
 │
 ├── .github/
 │   └── workflows/
-│       └── auto_fetch.yml            # Automated cloud pipeline (GitHub Actions)
+│       └── auto_fetch.yml            # Automated cloud CI/CD pipeline (GitHub Actions)
 │
 ├── .streamlit/
 │   └── config.toml                   # Dark theme configuration & port settings
@@ -216,20 +278,20 @@ Sri-Lanka-Tourism-Analytics/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Complete Tech Stack
 
-* **Language:** Python 3.10+
-* **Dashboard Framework:** Streamlit
-* **Data Engineering & Wrangling:** Pandas, NumPy, OpenPyXL
-* **Entity Standardization:** `country_converter` (ISO-3166 alpha-3 / short name mapping)
-* **Visual Storytelling & Charts:** Plotly Graph Objects, Plotly Express, Seaborn, Matplotlib
-* **Statistical Modeling & Forecasting:** SciPy, Statsmodels (SARIMAX, Seasonal Decomposition)
-* **Automation & CI/CD:** GitHub Actions (cron scheduling, git automation)
+* **Programming Language:** Python 3.10+
+* **Dashboard Framework:** Streamlit (v1.40+)
+* **Data Engineering & Manipulation:** Pandas (v2.0+), NumPy, OpenPyXL
+* **Geographical Entity Normalization:** `country_converter` (ISO-3166 alpha-3 / short name mapping)
+* **Data Visualization & Theming:** Plotly Graph Objects, Plotly Express, Seaborn, Matplotlib
+* **Statistical Modeling & Forecasting:** SciPy, Statsmodels (SARIMAX, Seasonal Decomposition, CAGR)
+* **DevOps & Cloud Automation:** GitHub Actions (Cron scheduling, Git automation)
 * **Web Scraping:** Requests, BeautifulSoup4
 
 ---
 
-## 🚀 Installation & Local Setup
+## 🚀 Installation & Quickstart
 
 ### 1. Clone the repository
 ```bash
@@ -239,7 +301,7 @@ cd Sri-Lanka-Tourism-Analytics
 
 ### 2. Create and activate a virtual environment
 ```bash
-# Windows:
+# Windows (PowerShell):
 python -m venv .venv
 .venv\Scripts\activate
 
@@ -257,7 +319,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-*Open your browser and navigate to `http://localhost:8501` to view the platform.*
+*Open your browser at `http://localhost:8501` to view the platform.*
 
 ---
 
@@ -266,7 +328,7 @@ streamlit run app.py
 * **Himash Madushanka**
 * **Focus:** Data Analytics | Business Intelligence | Decision Science
 * **Executive Pitch Deck:** [View 5-Slide Presentation Deck](EXECUTIVE_SUMMARY.md)
-* **Repository:** [GitHub Repository](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Analytics)
+* **GitHub Repository:** [HimashMadushanka/Sri-Lanka-Tourism-Analytics](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Analytics)
 
 ---
 
