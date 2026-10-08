@@ -243,7 +243,7 @@ Sri-Lanka-Tourism-Analytics/
 ├── update_data.py                                 
 ├── requirements.txt                                         
 └── README.md                        
-
+```
 ---
 
 ## 🛠️ Complete Tech Stack
@@ -256,9 +256,10 @@ Sri-Lanka-Tourism-Analytics/
 * **Statistical Modeling & Forecasting:** SciPy, Statsmodels (SARIMAX, Seasonal Decomposition, CAGR)
 * **DevOps & Cloud Automation:** GitHub Actions (Cron scheduling, Git automation)
 * **Web Scraping:** Requests, BeautifulSoup4
-
+```
 ---
 
+```
 ## 🚀 Installation & Quickstart
 
 ### 1. Clone the repository
@@ -269,11 +270,9 @@ cd Sri-Lanka-Tourism-Intelligence
 
 ### 2. Create and activate a virtual environment
 ```bash
-# Windows (PowerShell):
 python -m venv .venv
 .venv\Scripts\activate
 
-# macOS / Linux:
 python3 -m venv .venv
 source .venv/bin/activate
 ```
