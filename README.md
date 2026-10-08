@@ -187,8 +187,6 @@ Based on the analytical framework, the tourism sector should focus on four key p
 | **Risk Management** | Detect and respond to tourism demand disruptions |
 | **Capacity Planning** | Align tourism infrastructure and services with expected demand |
 
-> **Business Intelligence Principle:**  
-> Historical data should not only explain what happened. It should support decisions about **what to do next**.
 
 ---
 
@@ -299,13 +297,9 @@ streamlit run app.py
 ## 👤 Author & Contact
 
 * **Himash Madushanka**
-* **Focus:** Data Analytics | Business Intelligence | Decision Science
+* **Focus:** Data Analytics | Business Intelligence | Data Science
 * **🌐 Live Hosted Platform:** [srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)
-* **Executive Pitch Deck:** [View 5-Slide Presentation Deck](EXECUTIVE_SUMMARY.md)
 * **GitHub Repository:** [HimashMadushanka/Sri-Lanka-Tourism-Intelligence](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Intelligence)
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
