@@ -298,8 +298,8 @@ Sri-Lanka-Tourism-Analytics/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Analytics.git
-cd Sri-Lanka-Tourism-Analytics
+git clone https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Intelligence.git
+cd Sri-Lanka-Tourism-Intelligence
 ```
 
 ### 2. Create and activate a virtual environment
@@ -332,7 +332,7 @@ streamlit run app.py
 * **Focus:** Data Analytics | Business Intelligence | Decision Science
 * **🌐 Live Hosted Platform:** [srilankatourismintelligence.streamlit.app](https://srilankatourismintelligence.streamlit.app/)
 * **Executive Pitch Deck:** [View 5-Slide Presentation Deck](EXECUTIVE_SUMMARY.md)
-* **GitHub Repository:** [HimashMadushanka/Sri-Lanka-Tourism-Analytics](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Analytics)
+* **GitHub Repository:** [HimashMadushanka/Sri-Lanka-Tourism-Intelligence](https://github.com/HimashMadushanka/Sri-Lanka-Tourism-Intelligence)
 
 ---
 
