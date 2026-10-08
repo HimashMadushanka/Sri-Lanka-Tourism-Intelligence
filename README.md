@@ -112,7 +112,7 @@ python update_data.py --file path_to_report.xlsx
 
 ## 📊 Hero Visualizations Gallery
 
-![alt text](<outputs/figures/final tourism analysis.png>)
+![Sri Lanka Tourism Analytics Overview](outputs/figures/final_tourism_analysis.png)
 
 ---
 
@@ -239,9 +239,12 @@ Sri-Lanka-Tourism-Analytics/
 │       ├── final_business_insights.csv
 │       └── yearly_tourism_summary.csv
 │
+├── .venv
+├── tests
 ├── app.py                            
 ├── update_data.py                                 
-├── requirements.txt                                         
+├── requirements.txt  
+├── .gitignore                                  
 └── README.md                        
 ```
 ---

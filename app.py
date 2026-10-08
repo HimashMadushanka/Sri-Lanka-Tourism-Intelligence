@@ -409,11 +409,21 @@ with tabs[0]:
         marker=dict(size=10, color="#fb923c", line=dict(color="#0b0f19", width=2.5))
     ))
 
-    # Event Annotations in Dark Theme Callouts
-    fig_timeline.add_annotation(x=2019, y=1913702, text="<b>2019: Easter Attacks</b><br>(-18% drop)", showarrow=True, arrowhead=2, arrowcolor="#ef4444", ax=-65, ay=-40, bgcolor="#1f2937", bordercolor="#ef4444", font=dict(color="#fca5a5", size=10))
-    fig_timeline.add_annotation(x=2021, y=194495, text="<b>2020–21: COVID Lockdowns</b><br>(Lowest: 194K visitors)", showarrow=True, arrowhead=2, arrowcolor="#ef4444", ax=0, ay=-50, bgcolor="#1f2937", bordercolor="#ef4444", font=dict(color="#fca5a5", size=10))
-    fig_timeline.add_annotation(x=2022, y=719978, text="<b>2022: Economic Crisis</b><br>(Fuel & power shortages)", showarrow=True, arrowhead=2, arrowcolor="#f59e0b", ax=-65, ay=-45, bgcolor="#1f2937", bordercolor="#f59e0b", font=dict(color="#fde68a", size=10))
-    fig_timeline.add_annotation(x=2025, y=2362521, text="<b>2025: All-Time Record</b><br>(2.36M visitors)", showarrow=True, arrowhead=2, arrowcolor="#22c55e", ax=-65, ay=-45, bgcolor="#1f2937", bordercolor="#22c55e", font=dict(color="#86efac", size=10))
+    # Event Annotations in Dark Theme Callouts (dynamically matched to filtered data)
+    event_annotations = [
+        (2019, "<b>2019: Easter Attacks</b><br>(-18% drop)", "#ef4444", "#fca5a5", -65, -40),
+        (2021, "<b>2020–21: COVID Lockdowns</b><br>(Lowest: 194K visitors)", "#ef4444", "#fca5a5", 0, -50),
+        (2022, "<b>2022: Economic Crisis</b><br>(Fuel & power shortages)", "#f59e0b", "#fde68a", -65, -45),
+        (2025, "<b>2025: All-Time Record</b><br>(2.36M visitors)", "#22c55e", "#86efac", -65, -45),
+    ]
+    for yr, text, color, font_color, ax, ay in event_annotations:
+        if yr in yearly_filtered["Year"].values:
+            y_val = yearly_filtered.loc[yearly_filtered["Year"] == yr, "Tourist_Arrivals"].values[0]
+            fig_timeline.add_annotation(
+                x=yr, y=y_val, text=text, showarrow=True, arrowhead=2,
+                arrowcolor=color, ax=ax, ay=ay, bgcolor="#1f2937",
+                bordercolor=color, font=dict(color=font_color, size=10)
+            )
 
     fig_timeline.update_layout(
         title="Yearly Tourist Arrivals: Crises & Recovery (2018–2025)",
@@ -614,7 +624,7 @@ with tabs[2]:
         sim_horizon = st.radio("Forecast Up To Year:", options=["2026", "2027", "2028"], horizontal=True, index=2)
 
         shock_factor = 0.0
-        if "Travel Cost" in sim_shock:
+        if "Expensive Flights" in sim_shock or "Travel Cost" in sim_shock:
             shock_factor = -0.15
         elif "Free Visas" in sim_shock:
             shock_factor = 0.20
@@ -731,7 +741,8 @@ with tabs[4]:
         options=[
             "1. Bring More Visitors in the Low Season (May–June)",
             "2. Maximize Income in the Busy Winter Season (December–February)",
-            "3. Attract Visitors from More Countries (Reduce Risk)"
+            "3. Attract Visitors from More Countries (Reduce Risk)",
+            "4. Fix Airport Congestion & Infrastructure Readiness"
         ]
     )
 
