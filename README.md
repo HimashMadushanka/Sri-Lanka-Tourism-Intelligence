@@ -256,10 +256,10 @@ Sri-Lanka-Tourism-Analytics/
 * **Statistical Modeling & Forecasting:** SciPy, Statsmodels (SARIMAX, Seasonal Decomposition, CAGR)
 * **DevOps & Cloud Automation:** GitHub Actions (Cron scheduling, Git automation)
 * **Web Scraping:** Requests, BeautifulSoup4
-```
+
 ---
 
-```
+
 ## 🚀 Installation & Quickstart
 
 ### 1. Clone the repository
