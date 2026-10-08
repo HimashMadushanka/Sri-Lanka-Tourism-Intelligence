@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Tourism Analytics: Demand, Crisis Impact & Strategic Growth (2018–2025)
+# Sri Lanka Tourism Analytics: Demand, Crisis Impact & Strategic Growth (2018–2025)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://srilankatourismintelligence.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -9,8 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Executive Presentation](https://img.shields.io/badge/Executive%20Deck-5--Slide%20Pitch-orange.svg?style=for-the-badge)](EXECUTIVE_SUMMARY.md)
 
-> 🚀 **Live Interactive Web App:** [https://srilankatourismintelligence.streamlit.app/](https://srilankatourismintelligence.streamlit.app/)
->
+
 > **An enterprise-grade, end-to-end data analytics and business intelligence platform evaluating Sri Lanka's inbound tourism performance, crisis resilience, seasonal demand dynamics, and source market concentration across 2018–2025. Powered by automated data pipelines and an interactive Streamlit decision platform.**
 
 ---
@@ -22,17 +21,6 @@ Between 2018 and 2025, Sri Lanka's tourism industry faced an unprecedented seque
 2. **2020–2021 Global COVID-19 Pandemic** (crashing to a historic low of **194,495 arrivals in 2021; -91.7% from 2018 baseline**)
 3. **2022 Domestic Economic & Fuel Crisis**
 4. **2023–2025 V-Shaped Rebound** culminating in **2,362,521 arrivals in 2025 (101.2% recovery)**, setting a new **all-time national record**.
-
-### 🏆 Macro Performance Benchmark
-
-| Strategic Metric | Baseline (2018) | Crisis Trough (2021) | Mid-Recovery (2023) | Full Rebound (2025) |
-| :--- | :---: | :---: | :---: | :---: |
-| **Annual International Arrivals** | 2,333,796 | 194,495 | 1,487,303 | **2,362,521** |
-| **YoY Arrival Trajectory** | Baseline | -61.7% YoY | +106.6% YoY | **+15.1% YoY** |
-| **Recovery Index (vs. 2018 Baseline)** | 100.0% | 8.3% | 63.7% | **101.2% (Record High)** |
-| **Dominant Source Market** | India (424K) | India (56K) | India (302K) | **India (531K)** |
-| **Peak Arrival Month** | December (253K) | Domestic / Restricted | December (210K) | **December (245K)** |
-| **Top 5 Market Concentration** | 48.2% | 58.1% | 54.3% | **51.8%** |
 
 ---
 
@@ -96,46 +84,6 @@ flowchart TD
 
 ---
 
-## 🖥️ Interactive Decision Platform (`app.py`)
-
-The platform is designed with an **Executive Dark Mode Theme** featuring **Flame Orange accents (`#f97316`)** and responsive Plotly charts:
-
-```
-Streamlit Platform Navigation
-├── 🎛️ Dynamic Sidebar Filters
-│   ├── Dynamic Period Preset ("All Years", "Crisis Years", "Recovery")
-│   ├── Interactive Year Slider (Auto-expands as new years are ingested)
-│   ├── Continent & Region Selector
-│   ├── Market Mode Radio (All Countries, Top 10, Pick My Own)
-│   └── Season & Month Multi-Selector
-│
-├── 1️⃣ Tab 1: Shocks & Recovery
-│   ├── Full-width annotated crisis timeline (Easter Attacks, COVID, Economic Crisis, Rebound)
-│   └── Expandable Year-by-Year Summary Table with exact YoY growth rates
-│
-├── 2️⃣ Tab 2: Top Countries & Seasonality
-│   ├── Pareto 80/20 dual-axis chart (Market share % & cumulative distribution)
-│   └── Glowing Ember Seasonality Heatmap (Month-by-Country visitor density)
-│
-├── 3️⃣ Tab 3: Future Forecast & What-If Simulator
-│   ├── Multi-year horizon selector (2026, 2027, 2028)
-│   ├── Macroeconomic shock testing (Flight price surge, free visa waiver, regional slowdown)
-│   ├── Live Prediction Metric card updating in real time
-│   └── 3-line fan chart: Expected Forecast, Best Case (+12%), Worst Case (-12%)
-│
-├── 4️⃣ Tab 4: Hotel Room Planning
-│   ├── Length-of-stay slider (5–21 days) & guests per room slider (1.0–2.5 guests)
-│   ├── Dynamic metrics: Peak Daily Rooms Needed & Total Annual Room Nights
-│   └── Monthly seasonal arrival demand bar chart
-│
-└── 5️⃣ Tab 5: Decision Center & Automated Exports
-    ├── Concrete operational playbooks for hotels, airlines & tourism planners
-    ├── 1-Click Year-by-Year Dataset Downloader (Select individual year or all years)
-    ├── Annual Totals CSV download button
-    └── 1-Page Executive Pitch Deck markdown download button
-```
-
----
 
 ## 🔄 Automated Ingestion & Cloud CI/CD Pipeline
 
@@ -164,61 +112,83 @@ python update_data.py --file path_to_report.xlsx
 
 ## 📊 Hero Visualizations Gallery
 
-### 1. Crisis Impact & Recovery Timeline (2018–2025)
-*Directly maps macroeconomic shocks, trough levels, and rebound velocity against the 2018 pre-crisis baseline.*
+![alt text](<outputs/figures/final tourism analysis.png>)
 
-![Sri Lanka Tourism Crisis Timeline](outputs/figures/yearly_tourism_performance.png)
+---
+## 📌 Actionable Business Recommendations
+
+The analysis translates tourism data into practical recommendations for tourism planning, marketing, market development, and operational decision-making.
+
+### 1.Off-Peak Demand Smoothing — May–June
+
+**Business Issue:**  
+May and June generally represent lower-demand periods compared with the strongest tourism months.
+
+**Recommended Actions:**
+
+- **Tactical Campaigns:** Launch targeted seasonal campaigns focused on wellness, Ayurveda, MICE (Meetings, Incentives, Conferences and Exhibitions), and other suitable tourism experiences during lower-demand periods.
+- **Target Markets:** Prioritize regional and short-haul source markets where travel accessibility can support short-term demand generation.
+- **Partnership Incentives:** Explore partnerships between airlines, hotels, and tourism operators to develop attractive off-peak travel packages.
+- **Capacity Optimization:** Use lower-demand periods for targeted promotions and capacity utilization strategies.
 
 ---
 
-### 2. Executive Performance Dashboard (4-Panel Strategic View)
-*Cross-sectional analytical breakdown covering crisis trajectories, Pareto market concentration, seasonality curves, and recovery velocity.*
+### 2.High-Yield Winter Campaign Planning — December–February
 
-![Executive Performance Dashboard](outputs/figures/final_tourism_analysis.png)
+**Business Issue:**  
+December–February represents a strong tourism demand period, creating an opportunity for advance marketing and capacity planning.
 
----
+**Recommended Actions:**
 
-### 3. Monthly Seasonality & Off-Peak Demand Swings
-*Highlights the critical 62% demand swing between December winter peaks and May–June monsoon troughs.*
-
-![Monthly Seasonality Distribution](outputs/figures/monthly_seasonality.png)
-
----
-
-### 4. Top 10 Source Markets & Cumulative Pareto Concentration
-*Demonstrates market concentration where the top 5 countries account for over 51% of all inbound tourists.*
-
-![Top Source Markets Pareto Analysis](outputs/figures/top_source_markets.png)
+- **Early Marketing:** Begin digital marketing and international trade promotion several months before the peak season.
+- **Priority Markets:** Focus promotional activities on major European source markets such as the UK, Germany, and France where appropriate.
+- **Value Proposition:** Promote cultural tourism, wildlife experiences, beach holidays, wellness tourism, and long-stay packages.
+- **Capacity Planning:** Prepare accommodation, transport, airport, and tourism-service capacity ahead of expected peak demand.
 
 ---
 
-## 💡 Actionable Business Recommendations
+### 3.Source Market Diversification & Risk Mitigation
 
-Rather than generic tourism advice, the data reveals specific operational, pricing, and marketing interventions:
+**Business Issue:**  
+A significant proportion of tourist arrivals is concentrated in a limited number of source markets. High market concentration can increase exposure to economic, geopolitical, or travel-related disruptions.
 
-### 1. Off-Peak Demand Smoothing (May–June Monsoon Trough)
-* **The Problem:** Total arrivals drop to **~527K in May** and **~596K in June** (a **62% decrease** compared to December), driving hotel vacancy and airline yield drops.
-* **Actionable Solution:** 
-  * Launch focused **Ayurveda, Wellness, and MICE (Corporate Meetings)** campaigns tailored specifically to short-haul markets (**India, GCC, Singapore**) where flight times are short (<4 hours) and booking lead times are under 14 days.
-  * Form joint capacity bundles with regional carriers (SriLankan Airlines, IndiGo, Emirates) offering discounted off-peak seat guarantees linked with luxury hotel stays.
+**Recommended Actions:**
 
-### 2. European Winter Campaign Lead-Time (December–February Peak)
-* **The Problem:** December is the highest arrival month (**1.39M historical arrivals**), followed by January and February, driven by high-spending Western European travelers escaping cold winters.
-* **Actionable Solution:** 
-  * Allocate 55% of the annual digital marketing and trade roadshow budget to the **UK, Germany, and France** during **September–October (90–120 days lead time)**.
-  * Target long-stay packages (14+ nights) highlighting cultural round-trips and south-coast beach stays to maximize revenue yield and length-of-stay metrics.
+- **Reduce Market Concentration:** Continue strengthening established markets while developing high-potential secondary and emerging markets.
+- **Market Prioritization:** Use market size, growth rate, recovery performance, and consistency to identify priority markets.
+- **Localized Marketing:** Develop market-specific tourism campaigns based on visitor behavior and seasonal demand.
+- **Digital Payment Readiness:** Evaluate suitable local and international digital payment options to improve visitor convenience and support tourism spending.
 
-### 3. Source Market Diversification & Risk Mitigation
-* **The Problem:** India represents **~20% (2.3M arrivals)** of all visitors, and the top 5 markets represent **over 51%**. This leaves the industry exposed to regional geopolitical or economic fluctuations.
-* **Actionable Solution:** 
-  * Actively cultivate resilient secondary markets: **Australia (526K), China (800K), and Scandinavia**.
-  * Integrate seamless friction-free local payment channels (**UPI for Indian travelers**, **Alipay/WeChat Pay for Chinese travelers**) across hospitality operators to boost in-destination retail and dining expenditure.
+---
 
-### 4. Dynamic Crisis Resilience & Capacity Planning
-* **The Problem:** Historical recovery was rapid (+106% in 2023) once external barriers lifted, but strained local power, transportation, and border facilities.
-* **Actionable Solution:** 
-  * Develop institutional scenario playbooks with flexible cancellation frameworks and guaranteed utility access for hotels during future supply disruptions.
-  * Scale e-Visa processing capacity and fast-track automated airport biometric lanes to comfortably handle projected 2.5M+ peak arrival surges without tourist friction.
+### 4.Dynamic Crisis Resilience & Capacity Planning
+
+**Business Issue:**  
+The 2019–2022 period demonstrated how external shocks can significantly affect tourism demand and operational capacity.
+
+**Recommended Actions:**
+
+- **Scenario Playbooks:** Develop predefined operational responses for major tourism disruptions such as health crises, economic disruptions, transportation problems, or sudden demand changes.
+- **Early Warning System:** Monitor tourist arrivals against historical and expected levels to identify unusual declines at an early stage.
+- **Infrastructure Alignment:** Use historical and forecast demand patterns to support airport, transportation, accommodation, and tourism-service capacity planning.
+- **Flexible Operations:** Encourage flexible booking, cancellation, and capacity-management strategies during periods of uncertainty.
+- **Recovery Monitoring:** Track source-market recovery and overall tourism performance continuously after major disruptions.
+
+---
+
+## Strategic Business Priorities
+
+Based on the analytical framework, the tourism sector should focus on four key priorities:
+
+| Priority | Objective |
+|---|---|
+| **Demand Management** | Reduce excessive seasonal fluctuations |
+| **Market Development** | Strengthen existing markets and develop emerging markets |
+| **Risk Management** | Detect and respond to tourism demand disruptions |
+| **Capacity Planning** | Align tourism infrastructure and services with expected demand |
+
+> **Business Intelligence Principle:**  
+> Historical data should not only explain what happened. It should support decisions about **what to do next**.
 
 ---
 
